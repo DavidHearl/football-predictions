@@ -4,13 +4,21 @@
 
 Firstly we must create a virtual environment within Visual Studio.
 ``` 
-py -m venv ./venv 
+# Windows
+py -m venv ./venv
+
+# Mac OS
+python3 -m venv ./venv 
 ```
 
 Once the virtual environment folder has been created we must initalise the environment.
 
 ```
+# Windows
 source ./venv/scripts/activate
+
+# Mac OS
+source ./venv/bin/activate
 ```
 
 We can check that the location of pip has changed with this comand.
@@ -29,9 +37,16 @@ deactivate
 
 If there is already a requirements.txt file then you can start by upgrading pip to the latest version.
 
-Then you can install the requirements with the command below.
+Then you can install the requirements with the commands below.
 ```
+# Windows
 python.exe -m pip install --upgrade pip
+
+# Mac OS
+python -m pip install --upgrade pip
+```
+
+```
 pip install -r requirements.txt
 ```
 
