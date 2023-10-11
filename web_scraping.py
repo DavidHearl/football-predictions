@@ -36,6 +36,10 @@ def scrape_and_save_league_table():
                     squad_folder = os.path.join("json", squad_name)
                     os.makedirs(squad_folder, exist_ok=True)
 
+                    # Create an empty "Players" folder within each team folder
+                    players_folder = os.path.join(squad_folder, "Players")
+                    os.makedirs(players_folder, exist_ok=True)
+
                 # Extract data from matches[1] (e.g., home and away stats)
                 data_1 = matches[1]
 
@@ -118,5 +122,5 @@ def get_team_scores():
 # Call the function to scrape and save the data
 scrape_and_save_league_table()
 
-
+# Call the function to pull teams scores and fixtures.
 get_team_scores()
