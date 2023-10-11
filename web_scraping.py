@@ -11,7 +11,7 @@ from io import StringIO
 database_url = "https://fbref.com/en/comps/9/Premier-League-Stats"
 
 
-def scrape_and_save_league_table():
+def get_league_table():
     """ Scrape and save the league table data """
     try:
         # Download HTML data from the specified URL
@@ -118,9 +118,64 @@ def get_team_scores():
         except Exception as e:
             print(f"Error fetching data for {team_name}: {str(e)}")
 
+    
+def get_player_data():
+    """Scrape and save player data."""
+    # Downloads data from HTML
+    html_data = requests.get(database_url)
+
+    # Initialise soup
+    soup = BeautifulSoup(html_data.text, "html.parser")
+
+    # Parse the first table
+    team_players = soup.select('table.stats_table')[0]
+
+    # Find all 'a' tags
+    links = team_players.find_all('a')
+
+    # Loop through 'a' tags and fetch data for each team
+    for link in links:
+        try:
+            # Get the content of the <a> tag (e.g., "Tottenham")
+            team_name = link.get_text()
+            # Get the href attribute (e.g., "/en/squads/361ca564/Tottenham-Hotspur-Stats")
+            href = link.get("href")
+
+            # Check if the href contains '/squads/'
+            if '/players/' in href:
+                # Construct the full team URL
+                player_url = f"https://fbref.com{href}"
+
+                team_data = requests.get(player_url)
+                html_io = StringIO(team_data.text)
+
+                # Use pd.read_html with the StringIO object
+                matches = pd.read_html(html_io, match="Standard Stats")
+
+                # Extract data from the "Scores & Fixtures" table
+                team = matches[0]
+
+                # Create a folder for the team in the "json" directory
+                team_folder = os.path.join("json", team_name)
+                os.makedirs(team_folder, exist_ok=True)
+
+                # Save the "Scores & Fixtures" data for the team as a JSON file
+                json_data = team.to_json(orient='records', indent=4)
+                file_path = os.path.join(team_folder, "data.json")
+
+                with open(file_path, "w") as json_file:
+                    json_file.write(json_data)
+
+                print(f'Scores and Fixtures data for {team_name} has been saved to {file_path}')
+        except Exception as e:
+            print(f"Error fetching data for {team_name}: {str(e)}")
+
+
 
 # Call the function to scrape and save the data
-scrape_and_save_league_table()
+# get_league_table()
 
 # Call the function to pull teams scores and fixtures.
-get_team_scores()
+# get_team_scores()
+
+get_player_data()
