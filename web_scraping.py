@@ -87,5 +87,5 @@ def get_team_scores():
         print(matches)
 
 
-get_current_table()
-# get_team_scores()
+# get_current_table()
+get_team_scores()
