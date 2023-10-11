@@ -5,20 +5,20 @@
 Firstly we must create a virtual environment within Visual Studio.
 ``` 
 # Windows
-py -m venv ./venv
+py -m venv ./venvwin
 
 # Mac OS
-python3 -m venv ./venv 
+python3 -m venv ./venvmac
 ```
 
 Once the virtual environment folder has been created we must initalise the environment.
 
 ```
 # Windows
-source ./venv/scripts/activate
+source ./venvwin/scripts/activate
 
 # Mac OS
-source ./venv/bin/activate
+source ./venvmac/bin/activate
 ```
 
 We can check that the location of pip has changed with this comand.
@@ -54,3 +54,9 @@ If more dependancies have been installed then you can push an update to the requ
 ```
 pip freeze --local > requirements.txt
 ```
+
+## Terminal
+
+Change the Location
+
+```cd "C:\Local Storage\GitHub\football-predictions"```

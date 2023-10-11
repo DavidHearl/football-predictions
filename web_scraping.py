@@ -1,4 +1,5 @@
 """ Scrapes data from fbref.com """
+import json
 import requests
 import pandas as pd
 from bs4 import BeautifulSoup
@@ -8,16 +9,11 @@ from io import StringIO
 # URLs to be scraped for data
 database_url = "https://fbref.com/en/comps/9/Premier-League-Stats"
 
+
 def get_current_table():
     """ Get the current league table """
     # Downloads data from HTML
     html_data = requests.get(database_url)
-
-    # Initialise soup
-    soup = BeautifulSoup(html_data.text, "html.parser")
-
-    # Parse the first table
-    league_table = soup.select('table.stats_table')[0]
 
     # Wrap the HTML content in a StringIO object
     html_io = StringIO(html_data.text)
@@ -25,7 +21,31 @@ def get_current_table():
     # Use pd.read_html with the StringIO object
     matches = pd.read_html(html_io, match="Regular season Table")
 
-    print(matches)
+    # Extract data from matches[0]
+    data_0 = matches[0]
+
+    # Convert the data to a JSON object with indentation
+    json_data_0 = data_0.to_json(orient='records', indent=4)
+
+    # Save the JSON data from matches[0] to a file
+    file_path_0 = "./json/league_table.json"
+    with open(file_path_0, "w") as json_file_0:
+        json_file_0.write(json_data_0)
+
+    print(f'JSON data from matches[0] has been saved to {file_path_0}')
+
+    # Extract data from matches[1]
+    data_1 = matches[1]
+
+    # Convert the data to a JSON object with indentation
+    json_data_1 = data_1.to_json(orient='records', indent=4)
+
+    # Save the JSON data from matches[1] to a file
+    file_path_1 = "./json/home_away.json"
+    with open(file_path_1, "w") as json_file_1:
+        json_file_1.write(json_data_1)
+
+    print(f'JSON data from matches[1] has been saved to {file_path_1}')
 
 
 def get_team_scores():
