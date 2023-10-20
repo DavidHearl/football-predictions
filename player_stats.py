@@ -1,0 +1,13 @@
+# Tables
+#
+# Standard Stats
+# Goalkeeping
+# Advanced Goalkeeping
+# Shooting
+# Passing
+# Pass Types
+# Goal and Shot Creation
+# Defensive Actions
+# Possession
+# Playing Time
+# Miscellaneous Stats
