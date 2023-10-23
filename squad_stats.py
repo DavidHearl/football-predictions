@@ -94,6 +94,25 @@ class TeamStatScraper:
                 player_folder = os.path.join(team_folder, player)
                 os.makedirs(player_folder, exist_ok=True)
 
+                # Create a JSON file for each player
+                player_data = {}  # Add player data here if needed
+                json_file_path = os.path.join(player_folder, 'player_data.json')
+
+                with open(json_file_path, 'w') as json_file:
+                    json.dump(player_data, json_file, indent=4)
+
+        # Create a JSON file for each team
+        self.save_team_data_to_json(team_data)
+
+    def save_team_data_to_json(self, team_data):
+        for team_name in team_data:
+            team_folder = os.path.join('teams', team_name)
+            json_file_path = os.path.join(team_folder, 'team_data.json')
+
+            with open(json_file_path, 'w') as json_file:
+                json.dump(team_data[team_name], json_file, indent=4)
+                
+
 
 scraper = TeamStatScraper(DATABASE_URL)
 scraper.create_team_list()
