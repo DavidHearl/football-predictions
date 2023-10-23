@@ -6,4 +6,8 @@
     "python.linting.lintOnSave": false,
     "python.linting.pylintEnabled": false,
     "python.linting.pylintUseMinimalCheckers": false,
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.autopep8"
+    },
+    "python.formatting.provider": "none",
 }
