@@ -14,11 +14,11 @@ DATABASE_URL = "https://fbref.com/en/comps/9/Premier-League-Stats"
 class TeamStatScraper:
     def __init__(self, database_url):
         self.database_url = database_url
-        self.team_list = {}  # Initialize an empty dictionary to store team names and player lists
+        self.team_list = []
         self.team_urls = []
 
     def create_team_list(self):
-        html = requests.get(self.database_url, timeout=10)
+        html = requests.get(self.database_url, timeout=20)
         home_page = StringIO(html.text)
 
         # Initialize BeautifulSoup
@@ -35,7 +35,7 @@ class TeamStatScraper:
         print(list(self.team_list.keys()))
 
     def create_links_to_team_page(self):
-        html = requests.get(self.database_url, timeout=10)
+        html = requests.get(self.database_url, timeout=20)
         home_page = StringIO(html.text)
 
         # Initialize BeautifulSoup
@@ -61,7 +61,7 @@ class TeamStatScraper:
 
     def create_player_list(self):
         for team_name in self.team_list.keys():
-            html = requests.get(self.team_urls[list(self.team_list.keys()).index(team_name)], timeout=10)
+            html = requests.get(self.team_urls[list(self.team_list.keys()).index(team_name)], timeout=20)
             team_page = StringIO(html.text)
 
             soup = BeautifulSoup(team_page, features="lxml")
@@ -81,6 +81,18 @@ class TeamStatScraper:
         for team, players in self.team_list.items():
             print(f"{team}: {players}")
 
+        self.create_folders_for_teams_and_players(self.team_list)
+
+    def create_folders_for_teams_and_players(self, team_data):
+        for team_name in team_data:
+            # Create a directory for the team if it doesn't exist
+            team_folder = os.path.join('teams', team_name)
+            os.makedirs(team_folder, exist_ok=True)
+
+            for player in team_data[team_name]:
+                # Create a directory for the player within the team folder
+                player_folder = os.path.join(team_folder, player)
+                os.makedirs(player_folder, exist_ok=True)
 
 
 scraper = TeamStatScraper(DATABASE_URL)
