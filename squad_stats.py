@@ -8,39 +8,87 @@ from io import StringIO
 
 
 # URL to scrape
-database_url = "https://fbref.com/en/comps/9/Premier-League-Stats"
+DATABASE_URL = "https://fbref.com/en/comps/9/Premier-League-Stats"
 
 
 class TeamStatScraper:
     def __init__(self, database_url):
         self.database_url = database_url
-        self.html_string = self.download_page()
+        self.team_list = {}  # Initialize an empty dictionary to store team names and player lists
+        self.team_urls = []
 
-    def download_page(self):
-        try:
-            html = requests.get(database_url)
-            if html.status_code == 200:
-                html_string = StringIO(html.text)
-                return html_string
-            elif html.status_code == 429:
-                print(f"Error: Too many requests. Status code: {html.status_code}")
-            else:
-                print(f"Error: Failed to retrieve data from {database_url}. Status code: {html.status_code}")
-        except Exception as e:
-            print(f"Error: {str(e)}")
+    def create_team_list(self):
+        html = requests.get(self.database_url, timeout=10)
+        home_page = StringIO(html.text)
 
-    def create_team_folders(self):
-        league_table = pd.read_html(html_string, match="Regular season Table")
+        # Initialize BeautifulSoup
+        soup_team_list = BeautifulSoup(home_page, features="lxml")
 
-        regular_season_overall = league_table[0]
-        team_folders = set(regular_season_overall["Squad"])
-        for team_name in team_folders:
-            team_folder = os.path.join("json", team_name)
-            os.makedirs(team_folder, exist_ok=True)
+        # Find the Regular Season - Overall Table
+        regular_season_overall = soup_team_list.select('table.stats_table')[0]
+
+        teams = regular_season_overall.find_all('a', href=True)
+
+        self.team_list = {team.text: [] for team in teams if 'squads' in team['href']}
+
+        # Print the list of team names
+        print(list(self.team_list.keys()))
+
+    def create_links_to_team_page(self):
+        html = requests.get(self.database_url, timeout=10)
+        home_page = StringIO(html.text)
+
+        # Initialize BeautifulSoup
+        soup_team_links = BeautifulSoup(home_page, features="lxml")
+
+        # Find the Regular Season - Overall Table
+        regular_season_overall = soup_team_links.select('table.stats_table')[0]
+
+        # Find all <a> tags within the table
+        all_a_tags = regular_season_overall.find_all('a')
+
+        # Extract the "href" attributes from the <a> tags
+        all_href_attributes = [tag.get("href") for tag in all_a_tags]
+
+        # Filter the href attributes to keep only those containing '/squads/'
+        filtered_href_attributes = [href for href in all_href_attributes if '/squads/' in href]
+
+        # Create full team URLs by appending the base URL
+        self.team_urls = [f"https://fbref.com{link}" for link in filtered_href_attributes]
+
+        # Print the list of team URLs
+        print(self.team_urls)
+
+    def create_player_list(self):
+        for team_name in self.team_list.keys():
+            html = requests.get(self.team_urls[list(self.team_list.keys()).index(team_name)], timeout=10)
+            team_page = StringIO(html.text)
+
+            soup = BeautifulSoup(team_page, features="lxml")
+            standard_stats = soup.select('table.stats_table')[0]
+
+            players = standard_stats.find_all('a', href=True)
+
+            for player in players:
+                player_href = player['href']
+
+                # Check if the link contains 'players/' and does not contain 'summary'
+                if '/players/' in player_href and 'summary' not in player_href:
+                    player_name = player.text
+                    self.team_list[team_name].append(player_name)
+
+        # Print the team_list dictionary
+        for team, players in self.team_list.items():
+            print(f"{team}: {players}")
 
 
-scraper = TeamStatScraper(database_url)
-scraper.create_team_folders()
+
+scraper = TeamStatScraper(DATABASE_URL)
+scraper.create_team_list()
+scraper.create_links_to_team_page()
+scraper.create_player_list()
+
+
 
 # Tables
 

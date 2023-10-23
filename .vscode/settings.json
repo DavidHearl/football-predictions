@@ -1,0 +1,9 @@
+{
+    "flake8.args": [
+        "--max-line-length=120"
+    ],
+    "python.linting.enabled": false,
+    "python.linting.lintOnSave": false,
+    "python.linting.pylintEnabled": false,
+    "python.linting.pylintUseMinimalCheckers": false,
+}
