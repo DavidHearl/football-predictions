@@ -123,53 +123,39 @@ class TeamStatScraper:
 		# Find the Regular Season - Overall Table
 		regular_season_overall = soup_team_list.select('table.stats_table')[0]
 
-		# Find all the values from the table
-		matches_played = regular_season_overall.find("td", {"data-stat": "games"})
-		matches_won = regular_season_overall.find("td", {"data-stat": "wins"})
-		matches_drawn = regular_season_overall.find("td", {"data-stat": "ties"})
-		matches_lost = regular_season_overall.find("td", {"data-stat": "losses"})
-		goals_for = regular_season_overall.find("td", {"data-stat": "goals_for"})
-		goals_against = regular_season_overall.find("td", {"data-stat": "wins"})
-		goal_difference = regular_season_overall.find("td", {"data-stat": "wins"})
-		points = regular_season_overall.find("td", {"data-stat": "wins"})
-		points_per_match = regular_season_overall.find("td", {"data-stat": "wins"})
-		expected_goals = regular_season_overall.find("td", {"data-stat": "wins"})
-		expected_goals_against = regular_season_overall.find("td", {"data-stat": "wins"})
-		expected_goal_difference = regular_season_overall.find("td", {"data-stat": "wins"})
-		expected_goal_difference_per_90 = regular_season_overall.find("td", {"data-stat": "wins"})
-		stadium_attendance = regular_season_overall.find("td", {"data-stat": "wins"})	
+		# Variable names and their corresponding data-stat values
+		variable_names = {
+			"matches_played": "games",
+			"matches_won": "wins",
+			"matches_drawn": "ties",
+			"matches_lost": "losses",
+			"goals_for": "goals_for",
+			"goals_against": "goals_against",
+			"goal_difference" : "goal_diff",
+			"points" : "points",
+			"points_per_match" : "points_avg",
+			"expected_goals" : "xg_for",
+			"expected_goals_against" : "xg_against",
+			"expected_goal_difference" : "xg_diff",
+			"expected_goal_difference_per_90" : "xg_diff_per90",
+			"stadium_attendance" : "attendance_per_g"
+		}
+
+		# Dictionary to store the results
+		values = {}
+
+		# Iterate through the variable names and data-stat values
+		for variable_name, data_stat in variable_names.items():
+			element = regular_season_overall.find("td", {"data-stat": data_stat})
+			if element:
+				values[variable_name] = element.get_text(strip=True)
+			else:
+				values[variable_name] = None
+
+		print(values)
 
 scraper = TeamStatScraper(DATABASE_URL)
 # scraper.create_team_list()
 # scraper.create_links_to_team_page()
 # scraper.create_player_list()
 scraper.add_data_to_team_json()
-
-
-
-# Tables
-
-# Regular Season - Overall
-# Regular Season - Home/Away
-# Squad Standard Stats - Squad Stats
-# Squad Standard Stats - Opponent Stats
-# Squad Goalkeeping - Squad Stats
-# Squad Goalkeeping - Opponent Stats
-# Squad Advanced Goalkeeping - Squad Stats
-# Squad Advanced Goalkeeping - Opponent Stats
-# Squad Shooting - Squad Stats
-# Squad Shooting - Opponent Stats
-# Squad Passing - Squad Stats
-# Squad Passing - Opponent Stats
-# Squad Pass Types - Squad Stats
-# Squad Pass Types - Opponent Stats
-# Squad Goal and Shot Creation - Squad Stats
-# Squad Goal and Shot Creation - Opponent Stats
-# Squad Defencive Actions - Squad Stats
-# Squad Defencive Actions - Opponent Stats
-# Squad Possession - Squad Stats
-# Squad Possession - Opponent Stats
-# Squad Playing Time - Squad Stats
-# Squad Playing Time - Opponent Stats
-# Squad Miscellaneous Stats - Squad Stats
-# Squad Miscellaneous Stats - Opponent Stats
