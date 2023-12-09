@@ -1,5 +1,12 @@
 # Football Match Prediction
 
+## General Operation
+
+### Downloading Tables
+
+### 
+
+
 ## Create Virtual Environment
 
 Firstly we must create a virtual environment within Visual Studio.
@@ -59,4 +66,16 @@ pip freeze --local > requirements.txt
 
 Change the Location
 
-```cd "C:\Local Storage\GitHub\football-predictions"```
+```
+cd "C:\Local Storage\GitHub\football-predictions"
+```
+
+Get the data tables
+
+```
+# Windows
+python run.py
+
+# MacOS
+python3 run.py
+```
