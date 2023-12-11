@@ -58,7 +58,7 @@ class PlayerTables:
 					team_name = team_name.replace(special_case, replacement)
 
 			# Create a new folder for each team
-			folder_name = os.path.join("raw_data/teams", team_name, "player_data")
+			folder_name = os.path.join("raw_data/teams", team_name)
 			os.makedirs(folder_name, exist_ok=True)		
 
 			# -----------------------------------------------------------------
@@ -73,7 +73,11 @@ class PlayerTables:
 				table_data = pd.read_html(str(data))[0]
 
 				# Create a .JSON file using the strings from player table
-				json_filename = f"{self.player_tables[i]}.json"
+				json_filename = os.path.join("raw_data/teams", team_name, f"{self.player_tables[i]}.json")
+				print(json_filename)
+
+				# Create the directory if it doesn't exist
+				os.makedirs(os.path.dirname(json_filename), exist_ok=True)
 
 				# Open each .JSON file and convert tables to JSON data
 				try:
@@ -81,6 +85,7 @@ class PlayerTables:
 						json.dump(json.loads(table_data.to_json(orient="records")), json_file, indent=4)
 				except Exception as e:
 					print(f"Error: {e}")
+
 
 
 database_urls = [
@@ -118,7 +123,7 @@ player_tables = [
 	"Possession",
 	"Playing Time",
 	"Miscellaneous Stats"
-],
+]
 
 downloader = PlayerTables(database_urls, player_tables)
 downloader.create_player_json()

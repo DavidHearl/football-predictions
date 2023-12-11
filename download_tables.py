@@ -31,12 +31,8 @@ class DownloadTables:
             folder_name = "raw_data/squad_data"
             os.makedirs(folder_name, exist_ok=True)
 
-            # Print each table in the terminal
-            print(self.squad_tables[i])
-
             # Create a .JSON file using the strings from squad table
             json_filename = os.path.join(folder_name, f"{self.squad_tables[i]}.json")
-            print(json_filename)
 
             # Open each .JSON file and convert tables to json data
             try:
