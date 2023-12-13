@@ -1,6 +1,9 @@
 # Football Match Prediction
 
-## General Operation
+## To Do List
+1. Replace special characters in json files.
+2. Remove double values in json e.g "('Unnamed: 0_level_0', 'Squad')"
+3. Add teams and team data to print_table.py
 
 
 
