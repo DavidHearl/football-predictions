@@ -4,7 +4,7 @@ import json
 with open('raw_data/squad_data/Regular Season - Overall.json', 'r') as file:
     data = json.load(file)
 
-# Create an array of squads
+# Create an array of teams from the json file
 squads = [entry['Squad'] for entry in data]
 
 # Print the array of squads
