@@ -6,8 +6,6 @@
 3. Add teams and team data to print_table.py
 
 
-
-
 ## Create Virtual Environment
 
 Firstly we must create a virtual environment within Visual Studio.
