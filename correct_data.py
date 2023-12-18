@@ -1,6 +1,7 @@
 import os
 import json
 import pandas as pd
+import ast
 from correction_lists.key_corrections import corrections
 
 # Pandas terminal settings
@@ -8,6 +9,9 @@ pd.set_option('display.max_rows', 500)
 pd.set_option('display.max_columns', 500)
 pd.set_option('display.width', 200)
 
+def search_and_replace_unicode(json_str):
+    # Replace Unicode escape sequences in the JSON string
+    return json_str.encode().decode('unicode-escape')
 
 def remove_keys(data, keys_to_remove):
     cleaned_data = []
@@ -17,7 +21,6 @@ def remove_keys(data, keys_to_remove):
         cleaned_data.append(cleaned_entry)
 
     return cleaned_data
-
 
 def correct_data(data):
     corrected_data = []
@@ -32,11 +35,16 @@ def correct_data(data):
 
     return corrected_data
 
-
 def correct_and_save(file_path):
     # Load JSON data from the file
-    with open(file_path, 'r') as file:
-        json_data = json.load(file)
+    with open(file_path, 'r', encoding="utf-8") as file:
+        json_str = file.read()
+
+    # Search and replace Unicode escape sequences
+    json_str = search_and_replace_unicode(json_str)
+
+    # Load the modified JSON data
+    json_data = json.loads(json_str)
 
     # Remove specified keys
     keys_to_remove = ['Notes']  # Add more keys as needed
@@ -51,12 +59,11 @@ def correct_and_save(file_path):
 
     # Create a new file name
     base_name, extension = os.path.splitext(os.path.basename(file_path))
-    new_file_path = os.path.join(output_directory, f"{base_name}_corrected{extension}")
+    new_file_path = os.path.join(output_directory, f"{base_name}{extension}")
 
     # Save the corrected data to the new file
-    with open(new_file_path, 'w') as file:
-        json.dump(corrected_data, file, indent=2)
-
+    with open(new_file_path, 'w', encoding="utf-8") as file:
+        json.dump(corrected_data, file, ensure_ascii=False, indent=2)
 
 def main():
     # Set directory for squad json files

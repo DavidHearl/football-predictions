@@ -1,5 +1,10 @@
 # Football Match Prediction
 
+## How to run
+1. Run ```py get_raw_data.py``` - this will download tables from the url and separate
+them into team and squad data within the 'raw_data' folder
+2. Run ```py correct_data.py``` this will take the raw data and correct errors + remove unwanted fields. To remove the keys, see the correction_lists folder.
+
 ## To Do List
 1. Replace special characters in json files.
 2. Remove double values in json e.g "('Unnamed: 0_level_0', 'Squad')"
