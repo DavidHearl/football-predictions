@@ -2,7 +2,7 @@ import os
 import json
 import pandas as pd
 import ast
-from correction_lists.key_corrections import corrections
+from key_corrections import corrections
 
 # Pandas terminal settings
 pd.set_option('display.max_rows', 500)

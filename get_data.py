@@ -1,6 +1,8 @@
 from update_data.team_stats import TeamTables
 from update_data.player_stats import PlayerTables
 
+match_history = "https://www.football-data.co.uk/englandm.php"
+
 database_urls = [
 	"https://fbref.com/en/squads/18bb7c10/Arsenal-Stats",
 	"https://fbref.com/en/squads/8602292d/Aston-Villa-Stats",
@@ -72,3 +74,5 @@ player = PlayerTables(database_urls, player_tables)
 # Call the create_team_list method on the instance
 downloader.create_squad_json()
 player.create_player_json()
+
+

@@ -1,15 +1,20 @@
 # Football Match Prediction
 
-## How to run
-1. Run ```py get_raw_data.py``` - this will download tables from the url and separate
-them into team and squad data within the 'raw_data' folder
-2. Run ```py correct_data.py``` this will take the raw data and correct errors + remove unwanted fields. To remove the keys, see the correction_lists folder.
+## How to run & What happens
+
+1. Run ```py get_data.py``` this will create 2 folders within <span style="color:yellow">raw_data</span>.
+    - <span style="color:yellow">teams</span>
+    - <span style="color:yellow">squad_data</span>
+
+2. Run ```py correct_data.py``` this will take the raw data and correct errors and remove unwanted fields. 
+    - To modify the keys, see `upadate_data/key_corrections.py`
+    - To remove data see the <span style="color:yellow">remove_keys</span> function in ```correct_data.py```
+3. Run ```py match_results.py``` to download all the previous fixtures & results
+
+
 
 ## To Do List
-1. Replace special characters in json files.
-2. Remove double values in json e.g "('Unnamed: 0_level_0', 'Squad')"
-3. Add teams and team data to print_table.py
-
+1. Add teams and team data to print_table.py
 
 ## Create Virtual Environment
 
