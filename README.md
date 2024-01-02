@@ -3,12 +3,13 @@
 ## How to run & What happens
 
 1. Run ```py get_data.py``` this will create 2 folders within <span style="color:yellow">raw_data</span>.
-    - <span style="color:yellow">teams</span>
-    - <span style="color:yellow">squad_data</span>
+    - <span style="color:yellow">club_data</span>
+    - <span style="color:yellow">player_data</span>
 
 2. Run ```py correct_data.py``` this will take the raw data and correct errors and remove unwanted fields. 
     - To modify the keys, see `upadate_data/key_corrections.py`
     - To remove data see the <span style="color:yellow">remove_keys</span> function in ```correct_data.py```
+
 3. Run ```py match_results.py``` to download all the previous fixtures & results
 
 
