@@ -121,3 +121,35 @@ class MatchHistory:
 			# Save the filtered data back to the JSON file
 			with open(file_path, 'w') as file:
 				json.dump(premier_league_data, file, indent=2)
+
+
+	def get_match_stats(self):
+		base_url = 'https://fbref.com'
+		location = 'match_history'
+
+		# Selects eact team folder
+		for folder in os.listdir(location):
+			folder_path = os.path.join(location, folder)
+			file_path = os.path.join(folder_path, 'Scores & Fixtures.json')
+
+			with open(file_path, 'r') as file:
+				data = json.load(file)
+
+			for match in data:
+				opponent = match.get('Opponent', '')
+				if opponent:
+					# Create a subfolder for each match
+					match_folder_name = f"{folder} vs {opponent}"
+					match_folder_path = os.path.join(folder_path, match_folder_name)
+
+					os.makedirs(match_folder_path, exist_ok=True)
+
+
+	# for match in data['matches']:
+	# 			opponent = match['Opponent']
+	# 			link = match['Match Report']
+
+	# 			url = os.path.join(base_url, link)
+	# 			folder_name = os.path.join(folder, 'vs', opponent)
+
+	# 			os.makedirs(folder_name)

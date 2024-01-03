@@ -85,5 +85,6 @@ fixture_list = MatchHistory(club_urls, match_history_table)
 # Call the create_team_list method on the instance
 # club_stats.create_json()
 # player_stats.create_json()
-fixture_list.get_fixtures()
-fixture_list.remove_non_league_games()
+# fixture_list.get_fixtures()
+# fixture_list.remove_non_league_games()
+fixture_list.get_match_stats()
