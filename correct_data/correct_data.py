@@ -2,7 +2,7 @@ import os
 import json
 import pandas as pd
 import ast
-from key_corrections import corrections
+from key_corrections import club_corrections, player_corrections
 
 # Pandas terminal settings
 pd.set_option('display.max_rows', 500)

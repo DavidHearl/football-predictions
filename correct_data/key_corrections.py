@@ -1,6 +1,6 @@
 import json
 
-corrections = {
+club_corrections = {
     # Squad Standard Stats
     "('Unnamed: 0_level_0', 'Squad')": "('squad')",
     "('Unnamed: 1_level_0', '# Pl')": "('players')",
@@ -228,6 +228,34 @@ corrections = {
     "('Aerial Duels', 'Lost')": "('ariels_lost')",
     "('Aerial Duels', 'Won%')": "('ariels_win_percentage')"
 }
+
+player_corrections = {
+    "('Unnamed: 0_level_0', 'Player')": "('player')",
+    "('Unnamed: 1_level_0', 'Nation')": "('nationality')",
+    "('Unnamed: 2_level_0', 'Pos')": "('position')",
+    "('Unnamed: 3_level_0', 'Age')": "('age')",
+    "('Playing Time', 'MP')": "('matches_played')",
+    "('Playing Time', 'Starts')": "('matches_started')",
+    "('Playing Time', 'Min')": "('')",
+    "('Playing Time', '90s')": "('')",
+    "('Performance', 'GA')": "('')",
+    "('Performance', 'GA90')": "('')",
+    "('Performance', 'SoTA')": "('')",
+    "('Performance', 'Saves')": "('')",
+    "('Performance', 'Save%')": "('')",
+    "('Performance', 'W')": "('')",
+    "('Performance', 'D')": "('')",
+    "('Performance', 'L')": "('')",
+    "('Performance', 'CS')": "('')",
+    "('Performance', 'CS%')": "('')",
+    "('Penalty Kicks', 'PKatt')": "('')",
+    "('Penalty Kicks', 'PKA')": "('')",
+    "('Penalty Kicks', 'PKsv')": "('')",
+    "('Penalty Kicks', 'PKm')": "('')",
+    "('Penalty Kicks', 'Save%')": "('')",
+    "('Unnamed: 23_level_0', 'Matches')": "Matches"
+}
+
 
 # Spare value
 # "('')"

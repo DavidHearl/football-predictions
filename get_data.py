@@ -1,5 +1,6 @@
 from get_data.get_club_statistics import ClubStatistics
 from get_data.get_player_statistics import PlayerStatistics
+from get_data.get_match_history import MatchHistory
 
 # ClubStatistics
 overall_statistics_url = "https://fbref.com/en/comps/9/Premier-League-Stats"
@@ -69,7 +70,8 @@ player_statistics_tables = [
 	"Miscellaneous Stats"
 ]
 
-# match_history = "https://www.football-data.co.uk/englandm.php"
+# Match History
+match_history_table = 'Scores & Fixtures'
 
 # Get Club Statistics
 club_stats = ClubStatistics(overall_statistics_url, overall_statistics_tables)
@@ -77,8 +79,11 @@ club_stats = ClubStatistics(overall_statistics_url, overall_statistics_tables)
 # Get Player Statistics
 player_stats = PlayerStatistics(club_urls, player_statistics_tables)
 
+# Get Fixtures
+fixture_list = MatchHistory(club_urls, match_history_table)
+
 # Call the create_team_list method on the instance
-club_stats.create_json()
-player_stats.create_json()
-
-
+# club_stats.create_json()
+# player_stats.create_json()
+fixture_list.get_fixtures()
+fixture_list.remove_non_league_games()
