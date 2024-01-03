@@ -3,7 +3,8 @@ import json
 import requests
 import pandas as pd
 from bs4 import BeautifulSoup
-from io import StringIO
+from io import StringIO, BytesIO
+import io
 
 class MatchHistory:
 	def __init__(self, club_urls, match_history_table):
@@ -67,28 +68,41 @@ class MatchHistory:
 			data = soup_team_list.select('table.stats_table')[1]
 
 			# Read the table using Pandas
-			table_data = pd.read_html(str(data))[0]
+			table_data = pd.read_html(io.StringIO(str(data)))[0]
 
-			# Extract href values from 'a' tags in the first column
-			match_report_links = data.select('td:nth-of-type(17) a[href]')
-			href_values = [link['href'] for link in match_report_links]
+			# Extract content from 'td' elements in the 17th column
+			td_17_content = [td.contents[0] if td.contents else None for td in data.select('td:nth-of-type(17)')]
 
-			# Replace the "Match Report" values with href values
-			table_data["Match Report"] = href_values
+			# Generate href_values based on the content of 'td' elements
+			href_values = []
+			for content in td_17_content:
+				if content and content.name == 'a' and 'href' in content.attrs:
+					href_values.append(content['href'])
+				else:
+					href_values.append("Match Postponed")
 
-			# Create a .JSON file using the strings from player table
-			json_filename = os.path.join("match_history", team_name, "Scores & Fixtures.json")
-			print(json_filename)
+			# Ensure the lengths match
+			if len(href_values) == len(table_data):
+				# Replace the "Match Report" values with href values
+				table_data["Match Report"] = href_values
 
-			# Create the directory if it doesn't exist
-			os.makedirs(os.path.dirname(json_filename), exist_ok=True)
+				# Create a .JSON file using the strings from player table
+				json_filename = os.path.join("match_history", team_name, "Scores & Fixtures.json")
+				print(json_filename)
 
-			# Open each .JSON file and convert tables to JSON data
-			try:
-				with open(json_filename, "w") as json_file:
-					json.dump(json.loads(table_data.to_json(orient="records")), json_file, indent=4)
-			except Exception as e:
-				print(f"Error: {e}")
+				# Create the directory if it doesn't exist
+				os.makedirs(os.path.dirname(json_filename), exist_ok=True)
+
+				# Open each .JSON file and convert tables to JSON data
+				try:
+					with open(json_filename, "w") as json_file:
+						json.dump(json.loads(table_data.to_json(orient="records")), json_file, indent=4)
+				except Exception as e:
+					print(f"Error while writing JSON file: {e}")
+			else:
+				print("Error: Length mismatch between href_values and table_data")
+				print(f"Length of href_values: {len(href_values)}")
+				print(f"Number of rows in table_data: {len(table_data)}")
 
 
 	def remove_non_league_games(self):
