@@ -1,3 +1,6 @@
+import time
+from functools import wraps
+
 from get_data.get_club_statistics import ClubStatistics
 from get_data.get_player_statistics import PlayerStatistics
 from get_data.get_match_history import MatchHistory
@@ -70,6 +73,17 @@ player_statistics_tables = [
 	"Miscellaneous Stats"
 ]
 
+match_statistics_tables = [
+	"Summary",
+	"Passing",
+	"Pass Types",
+	"Defensive Actions",
+	"Posession",
+	"Miscellaneous Stats",
+	"Goalkeeping"
+	# "Shots" # This is number 16 for home and 17 for away
+]
+
 # Match History
 match_history_table = 'Scores & Fixtures'
 
@@ -80,11 +94,68 @@ club_stats = ClubStatistics(overall_statistics_url, overall_statistics_tables)
 player_stats = PlayerStatistics(club_urls, player_statistics_tables)
 
 # Get Fixtures
-fixture_list = MatchHistory(club_urls, match_history_table)
+fixture_list = MatchHistory(club_urls, match_history_table, match_statistics_tables)
+
+def timing_decorator(func):
+	@wraps(func)
+	def wrapper(*args, **kwargs):
+		start_time = time.time()
+		result = func(*args, **kwargs)
+		end_time = time.time()
+		print(f"{func.__name__} took {end_time - start_time} seconds")
+		return result
+	return wrapper
 
 # Call the create_team_list method on the instance
 # club_stats.create_json()
 # player_stats.create_json()
 # fixture_list.get_fixtures()
 # fixture_list.remove_extra_data()
-fixture_list.create_match_folders()
+# fixture_list.create_match_folders()
+
+class StatsProcessor:
+	def __init__(self, club_stats, player_stats, fixture_list):
+		self.club_stats = club_stats
+		self.player_stats = player_stats
+		self.fixture_list = fixture_list
+
+	@timing_decorator
+	def process_club_stats(self):
+		print()
+		self.club_stats.create_json()
+		print()
+
+	@timing_decorator
+	def process_player_stats(self):
+		print()
+		self.player_stats.create_json()
+		print()
+
+	@timing_decorator
+	def process_fixtures(self):
+		print()
+		self.fixture_list.get_fixtures()
+		print()
+
+	@timing_decorator
+	def process_remove_extra_data(self):
+		print()
+		self.fixture_list.remove_extra_data()
+		print()
+
+	@timing_decorator
+	def process_create_match_folders(self):
+		print()
+		self.fixture_list.create_match_folders()
+		print()
+
+
+# Create an instance of StatsProcessor
+stats_processor = StatsProcessor(club_stats, player_stats, fixture_list)
+
+# Call the methods on the instance, which are now wrapped with the timing_decorator
+# stats_processor.process_club_stats()
+# stats_processor.process_player_stats()
+# stats_processor.process_fixtures()
+# stats_processor.process_remove_extra_data()
+stats_processor.process_create_match_folders()

@@ -4,6 +4,7 @@ import requests
 import pandas as pd
 from bs4 import BeautifulSoup
 from io import StringIO
+import io
 
 class ClubStatistics:
     def __init__(self, overall_statistics_url, overall_statistics_tables):
@@ -29,10 +30,11 @@ class ClubStatistics:
             data = soup_team_list.select('table.stats_table')[i]
 
             # Read the table using Pandas
-            table = pd.read_html(str(data))[0]
+            table = pd.read_html(io.StringIO(str(data)))[0]
 
             # Create a .JSON file using the strings from squad table
             json_filename = os.path.join(folder_name, f"{self.overall_statistics_tables[i]}.json")
+            print(json_filename)
 
             # Open each .JSON file and convert tables to json data
             try:

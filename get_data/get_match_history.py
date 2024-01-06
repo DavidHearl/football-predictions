@@ -7,12 +7,14 @@ from io import StringIO
 import io
 
 class MatchHistory:
-	def __init__(self, club_urls, match_history_table):
+	def __init__(self, club_urls, match_history_table, match_statistics_tables):
 		self.club_urls = club_urls
 		self.match_history_table = match_history_table
+		self.match_statistics_tables = match_statistics_tables
 
 	# Download all the player tables from the club url
 	def get_fixtures(self):
+		i = 0
 		# Iterate through all the club urls
 		for url in self.club_urls:
 			# Download the page and convert to HTML
@@ -133,21 +135,65 @@ class MatchHistory:
 
 	def create_match_folders(self):
 		location = 'match_history'
+		base_url = 'https://fbref.com'
 
-		# Selects eact team folder
+		# Selects each team folder within 'match_history'
 		for folder in os.listdir(location):
+			# Creates a variable for the path to each team folder
 			folder_path = os.path.join(location, folder)
+
+			# Creates a variable for the 'Scores & Fixtures.json' file
 			file_path = os.path.join(folder_path, 'Scores & Fixtures.json')
 
+			# Opens the 'Scores & Fixtures.json' file
 			with open(file_path, 'r') as file:
 				data = json.load(file)
 
+			# Selects each match within the 'Scores & Fixtures.json' file
 			for match in data:
+				# Creates variables for each column in the JSON file
 				opponent = match.get('Opponent', '')
 				home_away = match.get('Venue', '')
-				if opponent:
-					# Create a subfolder for each match
-					match_folder_name = f"{folder} vs {opponent} - {home_away}"
-					match_folder_path = os.path.join(folder_path, match_folder_name)
+				url = match.get('Match Report', '')
 
-					os.makedirs(match_folder_path, exist_ok=True)
+				# Create a subfolder for each match
+				match_folder_name = f"{folder} vs {opponent} - {home_away}"
+				match_folder_path = os.path.join(folder_path, match_folder_name)
+
+				# Create the directory if it doesn't exist
+				os.makedirs(match_folder_path, exist_ok=True)
+
+				# Create the URL for each match
+				match_url = os.path.join(base_url, url)
+
+				# -----------------------------------------------------------------
+				# Download the match report
+				# -----------------------------------------------------------------
+
+				html = requests.get(match_url, timeout=20)
+				match_page = StringIO(html.text)
+
+				# Initialize BeautifulSoup
+				soup_match_report = BeautifulSoup(match_page, features="lxml")
+
+				for i in range(7):
+					data = soup_match_report.select('table.stats_table')[i]
+
+					table = pd.read_html(io.StringIO(str(data)))[0]
+
+					if home_away == 'Home':
+						json_filename = os.base.join(match_folder_path, f"{self.match_statistics_tables[i]}.json")					
+					else:
+						json_filename = os.base.join(match_folder_path, f"{self.match_statistics_tables[i + 7]}.json")
+						
+					print(json_filename)
+
+					# Open each .JSON file and convert tables to json data
+					try:
+						with open(json_filename, "w") as json_file:
+							json.dump(json.loads(table.to_json(orient="records")), json_file, indent=4)
+					except Exception as e:
+						print(f"Error: {e}")
+					
+
+
