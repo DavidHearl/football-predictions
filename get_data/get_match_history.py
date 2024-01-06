@@ -3,7 +3,7 @@ import json
 import requests
 import pandas as pd
 from bs4 import BeautifulSoup
-from io import StringIO, BytesIO
+from io import StringIO
 import io
 
 class MatchHistory:
@@ -105,26 +105,33 @@ class MatchHistory:
 				print(f"Number of rows in table_data: {len(table_data)}")
 
 
-	def remove_non_league_games(self):
+	def remove_extra_data(self):
 		# Specify the folder location to iterate through
-		location = "match_history"
+		folder_location = "match_history"
 
-		for folder in os.listdir(location):
-			file_path = os.path.join(location, folder, 'Scores & Fixtures.json')
+		# Iterate through each folder in the specified location
+		for subfolder in os.listdir(folder_location):
+			file_path = os.path.join(folder_location, subfolder, 'Scores & Fixtures.json')
 
+			# Read the JSON data from the file
 			with open(file_path, 'r') as file:
-				data = json.load(file)
+				all_match_data = json.load(file)
 
-			# Filter out data sets where 'Comp' is not 'Premier League'
-			premier_league_data = [match for match in data if match.get("Comp") == "Premier League"]
+			filtered_data = [
+				match
+				for match in all_match_data
+				if (
+					match.get("Comp") == "Premier League"  # Check if 'Comp' is 'Premier League'
+					and match.get("Referee") is not None   # Check if 'Referee' is not null
+				)
+			]
 
 			# Save the filtered data back to the JSON file
 			with open(file_path, 'w') as file:
-				json.dump(premier_league_data, file, indent=2)
+				json.dump(filtered_data, file, indent=2)
 
 
-	def get_match_stats(self):
-		base_url = 'https://fbref.com'
+	def create_match_folders(self):
 		location = 'match_history'
 
 		# Selects eact team folder
@@ -137,19 +144,10 @@ class MatchHistory:
 
 			for match in data:
 				opponent = match.get('Opponent', '')
+				home_away = match.get('Venue', '')
 				if opponent:
 					# Create a subfolder for each match
-					match_folder_name = f"{folder} vs {opponent}"
+					match_folder_name = f"{folder} vs {opponent} - {home_away}"
 					match_folder_path = os.path.join(folder_path, match_folder_name)
 
 					os.makedirs(match_folder_path, exist_ok=True)
-
-
-	# for match in data['matches']:
-	# 			opponent = match['Opponent']
-	# 			link = match['Match Report']
-
-	# 			url = os.path.join(base_url, link)
-	# 			folder_name = os.path.join(folder, 'vs', opponent)
-
-	# 			os.makedirs(folder_name)

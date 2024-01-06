@@ -4,6 +4,7 @@ import requests
 import pandas as pd
 from bs4 import BeautifulSoup
 from io import StringIO
+import io
 
 class PlayerStatistics:
 	def __init__(self, club_urls, player_statistics_tables):
@@ -69,7 +70,7 @@ class PlayerStatistics:
 				data = soup_team_list.select('table.stats_table')[i]
 
 				# Read the table using Pandas
-				table_data = pd.read_html(str(data))[0]
+				table_data = pd.read_html(io.StringIO(str(data)))[0]
 
 				# Create a .JSON file using the strings from player table
 				json_filename = os.path.join("raw_data/player_data", team_name, f"{self.player_statistics_tables[i]}.json")
