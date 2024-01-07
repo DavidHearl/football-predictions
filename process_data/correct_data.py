@@ -10,6 +10,7 @@ from unidecode import unidecode
 def copy_data():
     source = 'raw_data'
     destination = 'clean_data'
+    json_counter = 0
 
     print("Copying data...")
 
@@ -20,7 +21,14 @@ def copy_data():
     # Copy the entire directory tree
     shutil.copytree(source, destination)
 
+    # Count the number of .json files
+    for subdir, dirs, files in os.walk(destination):
+        for file in files:
+            if file.endswith('.json'):
+                json_counter += 1
+
     print("Data copied successfully!")
+    print(f"Number of .json files: {json_counter}")
 
 def correct_data():
     destination = 'clean_data'
