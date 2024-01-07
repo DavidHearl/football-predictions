@@ -62,7 +62,7 @@ class MatchHistory:
 					team_name = team_name.replace(special_case, replacement)
 
 			# Create a new folder for each team
-			folder_name = os.path.join("match_history", team_name)
+			folder_name = os.path.join("raw_data/match_data", team_name)
 			os.makedirs(folder_name, exist_ok=True)		
 
 			# -----------------------------------------------------------------
@@ -91,7 +91,7 @@ class MatchHistory:
 				table_data["Match Report"] = href_values
 
 				# Create a .JSON file using the strings from player table
-				json_filename = os.path.join("match_history", team_name, "Scores & Fixtures.json")
+				json_filename = os.path.join("raw_data/match_data", team_name, "Scores & Fixtures.json")
 				print(json_filename)
 
 				# Create the directory if it doesn't exist
@@ -111,7 +111,7 @@ class MatchHistory:
 
 	def remove_extra_data(self):
 		# Specify the folder location to iterate through
-		folder_location = "match_history"
+		folder_location = "raw_data/match_data"
 
 		# Iterate through each folder in the specified location
 		for subfolder in os.listdir(folder_location):
@@ -136,7 +136,7 @@ class MatchHistory:
 
 
 	def create_match_folders(self):
-		location = 'match_history'
+		location = "raw_data/match_data"
 		base_url = 'https://fbref.com'
 
 		# Selects each team folder within 'match_history'
@@ -185,7 +185,7 @@ class MatchHistory:
 
 					for i in range(8):
 						# Sleep to avoid getting blocked
-						time.sleep(0.8)
+						time.sleep(0.75)
 
 						# Selects different table set for home and away teams
 						if home_away == 'Home':
@@ -216,3 +216,5 @@ class MatchHistory:
 				else:
 					print(f"Match Suspended, data skipped.")
 
+				# Add some spacing between each match
+				print()

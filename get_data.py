@@ -121,33 +121,23 @@ class StatsProcessor:
 
 	@timing_decorator
 	def process_club_stats(self):
-		print()
 		self.club_stats.create_json()
-		print()
 
 	@timing_decorator
 	def process_player_stats(self):
-		print()
 		self.player_stats.create_json()
-		print()
 
 	@timing_decorator
 	def process_fixtures(self):
-		print()
 		self.fixture_list.get_fixtures()
-		print()
 
 	@timing_decorator
 	def process_remove_extra_data(self):
-		print()
 		self.fixture_list.remove_extra_data()
-		print()
 
 	@timing_decorator
 	def process_create_match_folders(self):
-		print()
 		self.fixture_list.create_match_folders()
-		print()
 
 
 # Create an instance of StatsProcessor
