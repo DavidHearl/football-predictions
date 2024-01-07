@@ -10,7 +10,7 @@ overall_statistics_url = "https://fbref.com/en/comps/9/Premier-League-Stats"
 
 overall_statistics_tables = [
 	"Regular Season - Overall",
-	"Regular Season - Home/Away",
+	"Regular Season - Home or Away",
 	"Squad Standard Stats - Squad Stats",
 	"Squad Standard Stats - Opponent Stats",
 	"Squad Goalkeeping - Squad Stats",
@@ -144,8 +144,8 @@ class StatsProcessor:
 stats_processor = StatsProcessor(club_stats, player_stats, fixture_list)
 
 # Call the methods on the instance, which are now wrapped with the timing_decorator
-# stats_processor.process_club_stats()
-# stats_processor.process_player_stats()
-# stats_processor.process_fixtures()
-# stats_processor.process_remove_extra_data()
+stats_processor.process_club_stats()
+stats_processor.process_player_stats()
+stats_processor.process_fixtures()
+stats_processor.process_remove_extra_data()
 stats_processor.process_create_match_folders()

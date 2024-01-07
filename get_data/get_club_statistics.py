@@ -4,7 +4,7 @@ import requests
 import pandas as pd
 from bs4 import BeautifulSoup
 from io import StringIO
-import io
+import time
 
 class ClubStatistics:
     def __init__(self, overall_statistics_url, overall_statistics_tables):
@@ -13,32 +13,38 @@ class ClubStatistics:
 
     # Download all the squad tables from the homepage
     def create_json(self):
-        # Download the page and convert to HTML
-        html = requests.get(self.overall_statistics_url, timeout=20)
-        home_page = StringIO(html.text)
+        # Print a blank line to separate the output
+        print()
 
-        # Initialize BeautifulSoup
-        soup_team_list = BeautifulSoup(home_page, features="lxml")
+        # Use a session for multiple requests
+        with requests.Session() as session:
+            # Download the page and convert to HTML
+            html = session.get(self.overall_statistics_url, timeout=20)
 
-         # Create a new folder
-        folder_name = "raw_data/club_data"
-        os.makedirs(folder_name, exist_ok=True)
+            # Initialize BeautifulSoup
+            soup_team_list = BeautifulSoup(html.text, features="lxml")
 
-        for i in range(len(self.overall_statistics_tables)):
-            # Iterate through the 'stats table'
-			# 'stats table' is the class of the table element
-            data = soup_team_list.select('table.stats_table')[i]
+            # Create a new folder
+            folder_name = f"raw_data/club_data"
+            os.makedirs(folder_name, exist_ok=True)
 
-            # Read the table using Pandas
-            table = pd.read_html(io.StringIO(str(data)))[0]
+            # Use list comprehension to iterate over the tables
+            tables = [pd.read_html(StringIO(str(data)))[0] for data in soup_team_list.select('table.stats_table')]
 
-            # Create a .JSON file using the strings from squad table
-            json_filename = os.path.join(folder_name, f"{self.overall_statistics_tables[i]}.json")
-            print(json_filename)
+            for i, table in enumerate(tables):
+                # Sleep for half a second to avoid overloading the server
+                time.sleep(0.5)
 
-            # Open each .JSON file and convert tables to json data
-            try:
-                with open(json_filename, "w") as json_file:
-                    json.dump(json.loads(table.to_json(orient="records")), json_file, indent=4)
-            except Exception as e:
-                print(f"Error: {e}")
+                # Create a .JSON file using the strings from squad table
+                json_filename = os.path.join(folder_name, f"{self.overall_statistics_tables[i]}.json")
+                print(json_filename)
+
+                # Open each .JSON file and convert tables to json data
+                try:
+                    with open(json_filename, "w") as json_file:
+                        json.dump(json.loads(table.to_json(orient="records")), json_file, indent=4)
+                except (FileNotFoundError, IOError) as e:
+                    print(f"Error: {e}")
+
+                # Print a blank line to separate the output 
+                print()
