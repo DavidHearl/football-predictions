@@ -4,7 +4,9 @@ import requests
 import pandas as pd
 from bs4 import BeautifulSoup
 from io import StringIO
+from urllib.parse import urljoin
 import io
+import time
 
 class MatchHistory:
 	def __init__(self, club_urls, match_history_table, match_statistics_tables):
@@ -151,10 +153,12 @@ class MatchHistory:
 
 			# Selects each match within the 'Scores & Fixtures.json' file
 			for match in data:
+				time.sleep(1)
 				# Creates variables for each column in the JSON file
 				opponent = match.get('Opponent', '')
 				home_away = match.get('Venue', '')
 				url = match.get('Match Report', '')
+				suspended = match.get('Notes', '')
 
 				# Create a subfolder for each match
 				match_folder_name = f"{folder} vs {opponent} - {home_away}"
@@ -164,36 +168,51 @@ class MatchHistory:
 				os.makedirs(match_folder_path, exist_ok=True)
 
 				# Create the URL for each match
-				match_url = os.path.join(base_url, url)
+				match_url = urljoin(base_url, url)
+				print(match_url)
 
 				# -----------------------------------------------------------------
 				# Download the match report
 				# -----------------------------------------------------------------
 
-				html = requests.get(match_url, timeout=20)
-				match_page = StringIO(html.text)
+				if suspended != 'Match Suspended':
+					# Download the page and convert to HTML
+					html = requests.get(match_url, timeout=20)
+					match_page = StringIO(html.text)
 
-				# Initialize BeautifulSoup
-				soup_match_report = BeautifulSoup(match_page, features="lxml")
+					# Initialize BeautifulSoup
+					soup_match_report = BeautifulSoup(match_page, features="lxml")
 
-				for i in range(7):
-					data = soup_match_report.select('table.stats_table')[i]
+					for i in range(8):
+						# Sleep to avoid getting blocked
+						time.sleep(0.8)
 
-					table = pd.read_html(io.StringIO(str(data)))[0]
+						# Selects different table set for home and away teams
+						if home_away == 'Home':
+							if i != 7:
+								data = soup_match_report.select('table.stats_table')[i]
+							else:
+								data = soup_match_report.select('table.stats_table')[15]
+						else:
+							if i != 7:
+								data = soup_match_report.select('table.stats_table')[i + 7]
+							else:
+								data = soup_match_report.select('table.stats_table')[16]
+								
 
-					if home_away == 'Home':
-						json_filename = os.base.join(match_folder_path, f"{self.match_statistics_tables[i]}.json")					
-					else:
-						json_filename = os.base.join(match_folder_path, f"{self.match_statistics_tables[i + 7]}.json")
-						
-					print(json_filename)
+						# Read the table using Pandas
+						table = pd.read_html(io.StringIO(str(data)))[0]
 
-					# Open each .JSON file and convert tables to json data
-					try:
-						with open(json_filename, "w") as json_file:
-							json.dump(json.loads(table.to_json(orient="records")), json_file, indent=4)
-					except Exception as e:
-						print(f"Error: {e}")
-					
+						# Create a .JSON file using the strings from player table
+						json_filename = os.path.join(match_folder_path, f"{self.match_statistics_tables[i]}.json")
+						print(json_filename)
 
+						# Open each .JSON file and convert tables to json data
+						try:
+							with open(json_filename, "w") as json_file:
+								json.dump(json.loads(table.to_json(orient="records")), json_file, indent=4)
+						except Exception as e:
+							print(f"Error: {e}")
+				else:
+					print(f"Match Suspended, data skipped.")
 

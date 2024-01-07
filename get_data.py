@@ -80,8 +80,8 @@ match_statistics_tables = [
 	"Defensive Actions",
 	"Posession",
 	"Miscellaneous Stats",
-	"Goalkeeping"
-	# "Shots" # This is number 16 for home and 17 for away
+	"Goalkeeping",
+	"Shots"
 ]
 
 # Match History
