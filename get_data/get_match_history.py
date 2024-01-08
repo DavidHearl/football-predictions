@@ -132,9 +132,10 @@ class MatchHistory:
 				for match in all_match_data
 				if (
 					match.get("Comp") == "Premier League"  # Check if 'Comp' is 'Premier League'
-					and match.get("Referee") is not None   # Check if 'Referee' is not null
 				)
 			]
+
+			# and match.get("Result") is not None   # Check if the match has been played
 
 			# Save the filtered data back to the JSON file
 			with open(file_path, 'w') as file:

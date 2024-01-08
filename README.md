@@ -13,9 +13,15 @@
 3. Run ```py match_results.py``` to download all the previous fixtures & results
 
 
-
 ## To Do List
-1. Add teams and team data to print_table.py
+
+1. In ```get_match_history.py``` modify the remove_extra_data folder to:
+    - remove non premier league games
+    - save the upcomming games next to the Scores & Fixtures.json instead of deleting them
+
+2. Look at spliting the "club_urls" by season, look to populate this within the ```get_club_data```
+
+3. Finish off retrieving legacy data
 
 ## Create Virtual Environment
 
