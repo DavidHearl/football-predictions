@@ -2,21 +2,26 @@ import os
 import json
 import requests
 import pandas as pd
+import time
 from bs4 import BeautifulSoup
 import io
 
 class PlayerStatistics:
-	def __init__(self, club_urls, player_statistics_tables):
-		self.club_urls = club_urls
-		self.player_statistics_tables = player_statistics_tables
-
 	# Download all the player tables from the club url
 	def create_json(self):
 		# Print a blank line to separate the output
 		print()
 
+		# Open the urls.json file and load the data
+		with open('get_data/keys.json', 'r') as f:
+			data = json.load(f)
+
+		# Assign the club_urls to a variable
+		club_urls = data['club_urls']
+		player_statistics_tables = data['player_statistics_tables']
+
 		# Iterate through all the club urls
-		for url in self.club_urls:
+		for url in club_urls:
 			with requests.Session() as session:
 				# Download the page and convert to HTML
 				html = session.get(url, timeout=20)
@@ -56,11 +61,14 @@ class PlayerStatistics:
 				team_name = special_cases.get(team_name, team_name)
 
 				# Create a new folder for each team
-				folder_name = os.path.join("raw_data/player_data", team_name)
+				folder_name = os.path.join("raw_data/2023-2024/player_data", team_name)
 				os.makedirs(folder_name, exist_ok=True)		
 
 				# Iterate through the player tables
-				for i in range(len(self.player_statistics_tables)):
+				for i in range(len(player_statistics_tables)):
+					# Sleep for half a second to avoid overloading the server
+					time.sleep(0.5)
+
 					# Iterate through the 'stats table'
 					# 'stats table' is the class of the table element
 					data = soup_team_list.select('table.stats_table')[i]
@@ -69,7 +77,7 @@ class PlayerStatistics:
 					table_data = pd.read_html(io.StringIO(str(data)))[0]
 
 					# Create a .JSON file using the strings from player table
-					json_filename = os.path.join("raw_data/player_data", team_name, f"{self.player_statistics_tables[i]}.json")
+					json_filename = os.path.join("raw_data/2023-2024/player_data", team_name, f"{player_statistics_tables[i]}.json")
 					print(json_filename)
 
 					# Create the directory if it doesn't exist
