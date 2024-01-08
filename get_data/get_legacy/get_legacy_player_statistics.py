@@ -17,8 +17,9 @@ class PlayerStatistics:
 			data = json.load(f)
 
 		# Assign the club_urls to a variable
-		club_urls = data['club_urls']
-		player_statistics_tables = data['player_statistics_tables']		
+		legacy_club_urls = data['legacy_club_urls']
+		player_statistics_tables = data['player_statistics_tables']
+
 
 		# Iterate through all the club urls
 		for url in legacy_club_urls:

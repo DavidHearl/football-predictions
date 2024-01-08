@@ -9,16 +9,22 @@ import io
 import time
 
 class MatchHistory:
-	def __init__(self, club_urls, match_history_table, match_statistics_tables):
-		self.club_urls = club_urls
+	def __init__(self, match_history_table):
 		self.match_history_table = match_history_table
-		self.match_statistics_tables = match_statistics_tables
 
 	# Download all the player tables from the club url
 	def get_fixtures(self):
 		i = 0
+
+		# Open the urls.json file and load the data
+		with open('get_data/keys.json', 'r') as f:
+			data = json.load(f)
+
+		# Assign the club_urls to a variable
+		club_urls = data['club_urls']
+
 		# Iterate through all the club urls
-		for url in self.club_urls:
+		for url in club_urls:
 			# Download the page and convert to HTML
 			html = requests.get(url, timeout=20)
 			home_page = StringIO(html.text)
@@ -27,7 +33,7 @@ class MatchHistory:
 			soup_team_list = BeautifulSoup(home_page, features="lxml")
 
 			# -----------------------------------------------------------------
-			# Create team folders
+			# Get the team name and create a folder for each team
 			# Split the URL by "/"
 			url_parts = url.split("/")
 			
@@ -62,7 +68,7 @@ class MatchHistory:
 					team_name = team_name.replace(special_case, replacement)
 
 			# Create a new folder for each team
-			folder_name = os.path.join("raw_data/match_data", team_name)
+			folder_name = os.path.join("raw_data/2023-2024/match_data", team_name)
 			os.makedirs(folder_name, exist_ok=True)		
 
 			# -----------------------------------------------------------------
@@ -91,7 +97,7 @@ class MatchHistory:
 				table_data["Match Report"] = href_values
 
 				# Create a .JSON file using the strings from player table
-				json_filename = os.path.join("raw_data/match_data", team_name, "Scores & Fixtures.json")
+				json_filename = os.path.join("raw_data/2023-2024/match_data", team_name, "Scores & Fixtures.json")
 				print(json_filename)
 
 				# Create the directory if it doesn't exist
@@ -111,7 +117,7 @@ class MatchHistory:
 
 	def remove_extra_data(self):
 		# Specify the folder location to iterate through
-		folder_location = "raw_data/match_data"
+		folder_location = "raw_data/2023-2024/match_data"
 
 		# Iterate through each folder in the specified location
 		for subfolder in os.listdir(folder_location):
@@ -136,8 +142,15 @@ class MatchHistory:
 
 
 	def create_match_folders(self):
-		location = "raw_data/match_data"
+		location = "raw_data/2023-2024/match_data"
 		base_url = 'https://fbref.com'
+
+		# Open the urls.json file and load the data
+		with open('get_data/keys.json', 'r') as f:
+			data = json.load(f)
+
+		# Assign the club_urls to a variable
+		match_statistics_tables = data['match_statistics_tables']
 
 		# Selects each team folder within 'match_history'
 		for folder in os.listdir(location):
@@ -184,8 +197,8 @@ class MatchHistory:
 					soup_match_report = BeautifulSoup(match_page, features="lxml")
 
 					for i in range(8):
-						# Sleep to avoid getting blocked
-						time.sleep(0.75)
+						# Add a delay to prevent the server from blocking the request
+						time.sleep(0.5)
 
 						# Selects different table set for home and away teams
 						if home_away == 'Home':
@@ -204,7 +217,7 @@ class MatchHistory:
 						table = pd.read_html(io.StringIO(str(data)))[0]
 
 						# Create a .JSON file using the strings from player table
-						json_filename = os.path.join(match_folder_path, f"{self.match_statistics_tables[i]}.json")
+						json_filename = os.path.join(match_folder_path, f"{match_statistics_tables[i]}.json")
 						print(json_filename)
 
 						# Open each .JSON file and convert tables to json data

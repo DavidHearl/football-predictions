@@ -28,14 +28,6 @@
         "Squad Miscellaneous Stats - Squad Stats",
         "Squad Miscellaneous Stats - Opponent Stats"
     ],
-    "legacy_overall_urls": [
-        "https://fbref.com/en/comps/9/2022-2023/2022-2023-Premier-League-Stats",
-        "https://fbref.com/en/comps/9/2021-2022/2021-2022-Premier-League-Stats",
-        "https://fbref.com/en/comps/9/2020-2021/2020-2021-Premier-League-Stats",
-        "https://fbref.com/en/comps/9/2019-2020/2019-2020-Premier-League-Stats",
-        "https://fbref.com/en/comps/9/2018-2019/2018-2019-Premier-League-Stats",
-        "https://fbref.com/en/comps/9/2017-2018/2017-2018-Premier-League-Stats"
-    ],
     "club_urls": [
         "https://fbref.com/en/squads/18bb7c10/Arsenal-Stats",
         "https://fbref.com/en/squads/8602292d/Aston-Villa-Stats",
@@ -71,6 +63,24 @@
         "Playing Time",
         "Miscellaneous Stats"
     ],
+    "match_statistics_tables": [
+        "Summary",
+        "Passing",
+        "Pass Types",
+        "Defensive Actions",
+        "Posession",
+        "Miscellaneous Stats",
+        "Goalkeeping",
+        "Shots"
+    ],
+    "legacy_overall_urls": [
+        "https://fbref.com/en/comps/9/2022-2023/2022-2023-Premier-League-Stats",
+        "https://fbref.com/en/comps/9/2021-2022/2021-2022-Premier-League-Stats",
+        "https://fbref.com/en/comps/9/2020-2021/2020-2021-Premier-League-Stats",
+        "https://fbref.com/en/comps/9/2019-2020/2019-2020-Premier-League-Stats",
+        "https://fbref.com/en/comps/9/2018-2019/2018-2019-Premier-League-Stats",
+        "https://fbref.com/en/comps/9/2017-2018/2017-2018-Premier-League-Stats"
+    ],
     "legacy_club_urls": [
         "https://fbref.com/en/squads/18bb7c10/Arsenal-Stats",
         "https://fbref.com/en/squads/8602292d/Aston-Villa-Stats",
@@ -92,5 +102,5 @@
         "https://fbref.com/en/squads/361ca564/Tottenham-Hotspur-Stats",
         "https://fbref.com/en/squads/7c21e445/West-Ham-United-Stats",
         "https://fbref.com/en/squads/8cec06e1/Wolverhampton-Wanderers-Stats"
-    ],
+    ]
 }
