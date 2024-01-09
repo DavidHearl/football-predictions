@@ -10,17 +10,17 @@ from get_data.get_club_statistics import ClubStatistics
 from get_data.get_player_statistics import PlayerStatistics
 from get_data.get_match_history import MatchHistory
 
-# Match History
-match_history_table = 'Scores & Fixtures'
+# Set the season
+season = '2023-2024'
 
 # Get Club Statistics
-club_stats = ClubStatistics()
+club_stats = ClubStatistics(season)
 
 # Get Player Statistics
 player_stats = PlayerStatistics()
 
 # Get Fixtures
-fixture_list = MatchHistory(match_history_table)
+fixture_list = MatchHistory()
 
 def timing_decorator(func):
 	@wraps(func)
@@ -63,8 +63,8 @@ class StatsProcessor:
 stats_processor = StatsProcessor(club_stats, player_stats, fixture_list)
 
 # Call the methods on the instance, which are now wrapped with the timing_decorator
-# stats_processor.process_club_stats()
+stats_processor.process_club_stats()
 # stats_processor.process_player_stats()
 # stats_processor.process_fixtures()
-stats_processor.process_remove_extra_data()
+# stats_processor.process_remove_extra_data()
 # stats_processor.process_create_match_folders()

@@ -9,8 +9,8 @@ import io
 import time
 
 class MatchHistory:
-	def __init__(self, match_history_table):
-		self.match_history_table = match_history_table
+	def __init__(self):
+		pass
 
 	# Download all the player tables from the club url
 	def get_fixtures(self):

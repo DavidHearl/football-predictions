@@ -10,6 +10,9 @@ from bs4 import BeautifulSoup
 
 
 class LegacyClubStatistics:
+    def __init__(self, legacy_seasons):
+        self.legacy_seasons = legacy_seasons
+
     def create_json(self):
         # Print a blank line to separate the output
         print()
@@ -18,20 +21,16 @@ class LegacyClubStatistics:
         with open('get_data/keys.json', 'r') as f:
             data = json.load(f)
 
-        # Assign the overall_statistics_url to a variable
-        legacy_overall_statistics_urls = data['legacy_overall_urls']
+        # Get the list of table names, used for json file names
         overall_statistics_tables = data['overall_tables']
 
-        for url in legacy_overall_statistics_urls:
+        # Link for reference: "https://fbref.com/en/comps/9/2022-2023/2022-2023-Premier-League-Stats"
+        for season in self.legacy_seasons:
+            # Create the url for each season
+            url = f"https://fbref.com/en/comps/9/{season}/{season}-Premier-League-Stats"
+
             # Sleep for half a second to avoid overloading the server
             time.sleep(0.5)
-
-            # Extract the year from the URL
-            parsed_url = urlparse(url)
-            year = parsed_url.path.split("/")[4]
-
-            # Print the extracted year
-            print(year)
 
             # Use a session for multiple requests
             with requests.Session() as session:
@@ -41,12 +40,56 @@ class LegacyClubStatistics:
                 # Initialize BeautifulSoup
                 soup_team_list = BeautifulSoup(html.text, features="lxml")
 
-                # Create a new folder
-                folder_name = f"raw_data/{year}/club_data"
-                os.makedirs(folder_name, exist_ok=True)
-
                 # Use list comprehension to iterate over the tables
-                tables = [pd.read_html(StringIO(str(data)))[0] for data in soup_team_list.select('table.stats_table')]
+                tables = [
+                    pd.read_html(StringIO(str(data)))[0]
+                    for data in soup_team_list.select('table.stats_table')
+                ]
+
+                # ------------------------------------------------------------
+
+                # Open the keys.json file and load the data
+                with open('get_data/keys.json', 'r') as f:
+                    data = json.load(f)
+
+                # Check if 'club_urls' key already exists in the data
+                if 'club_urls' in data:
+                    club_urls = data['club_urls']
+                else:
+                    club_urls = {}
+
+                # Add new values to club_urls only if the season is not already present
+                for season in self.legacy_seasons:
+                    if season not in club_urls:
+                        # Get the urls for each club
+                        # Find the first table with class 'stats_table'
+                        first_table = soup_team_list.select_one('table.stats_table')
+
+                        # Find all elements with data-stat property equal to 'team' within the first table
+                        team_elements = first_table.find_all('td', attrs={"data-stat": "team"})
+
+                        # Create an array to store the href values
+                        href_values = []
+
+                        # Iterate over the team elements and extract the href values
+                        for team_element in team_elements:
+                            href = team_element.find('a')['href']
+                            href_values.append(href)
+
+                        club_urls[season] = href_values
+
+                # Update the club_urls in the keys.json file
+                data['club_urls'] = club_urls
+
+                # Save the updated data to the keys.json file
+                with open('get_data/keys.json', 'w') as f:
+                    json.dump(data, f, indent=4)
+
+                # ------------------------------------------------------------
+
+                # Create a new folder
+                folder_name = f"raw_data/{season}/club_data"
+                os.makedirs(folder_name, exist_ok=True)
 
                 # Iterate over the tables and create a .JSON file for each table
                 for table_name, table in zip(overall_statistics_tables, tables):
