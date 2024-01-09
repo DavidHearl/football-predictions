@@ -192,7 +192,7 @@ class MatchHistory:
 		with open('get_data/keys.json', 'r') as f:
 			data = json.load(f)
 
-		# Assign the club_urls to a variable
+		# Assign the match statistics tables to a variable
 		match_statistics_tables = data['match_statistics_tables']
 
 		# Selects each team folder within 'match_history'
@@ -200,14 +200,14 @@ class MatchHistory:
 			# Creates a variable for the path to each team folder
 			folder_path = os.path.join(location, folder)
 
-			# Creates a variable for the 'Scores & Fixtures.json' file
-			file_path = os.path.join(folder_path, 'Scores & Fixtures.json')
+			# Creates a variable for the 'Completed Matches' file
+			file_path = os.path.join(folder_path, 'Completed Matches.json')
 
-			# Opens the 'Scores & Fixtures.json' file
+			# Opens the 'Completed Matches.json' file
 			with open(file_path, 'r') as file:
 				data = json.load(file)
 
-			# Selects each match within the 'Scores & Fixtures.json' file
+			# Selects each match within the 'completed matches.json' file
 			for match in data:
 				time.sleep(1)
 				# Creates variables for each column in the JSON file
