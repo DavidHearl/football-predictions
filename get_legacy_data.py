@@ -14,5 +14,5 @@ legacy_seasons = [
 club_legacy = LegacyClubStatistics(legacy_seasons)
 player_legacy = LegacyPlayerStatistics(legacy_seasons)
 
-# club_legacy.create_json()
+club_legacy.create_json()
 player_legacy.create_json()

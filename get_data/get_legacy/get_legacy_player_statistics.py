@@ -4,6 +4,7 @@ import requests
 import pandas as pd
 import time
 from bs4 import BeautifulSoup
+from urllib.parse import urljoin
 import io
 
 class LegacyPlayerStatistics:
@@ -27,13 +28,24 @@ class LegacyPlayerStatistics:
 
 		# Iterate through all the legacy seasons
 		for season in self.legacy_seasons:
-			# Assign the club_urls to a variable
-			legacy_club_urls = data['club_urls'][season]
+			# Access 'club_urls' from `data`
+			try:
+				legacy_club_urls = data['club_urls'][season]
+			except KeyError:
+				print("The key 'club_urls' does not exist in the data.")
+
+			# -----------------------------------------------------------------
+			# Try below to fix the KeyError, I have no idea why it is working.
+			# -----------------------------------------------------------------	
+			# To resolve this, you should check the self.legacy_seasons and data['club_urls'] 
+			# to ensure that for every season in self.legacy_seasons, there is a corresponding 
+			# key in data['club_urls']. If some seasons are missing in data['club_urls'], 
+			# you'll need to add them or handle the missing data appropriately in your code.
 
 			# Iterate through all the club urls
 			for url in legacy_club_urls:
 				# Join the base_url with the club url
-				club_url = base_url + url
+				club_url = urljoin(base_url, url)
 
 				with requests.Session() as session:
 					# Download the page and convert to HTML
@@ -97,7 +109,7 @@ class LegacyPlayerStatistics:
 						# Create the directory if it doesn't exist
 						os.makedirs(os.path.dirname(json_filename), exist_ok=True)
 
-				# 		# Open each .JSON file and convert tables to JSON data
+						# Open each .JSON file and convert tables to JSON data
 						try:
 							with open(json_filename, "w") as json_file:
 								json.dump(json.loads(table_data.to_json(orient="records")), json_file, indent=4)
