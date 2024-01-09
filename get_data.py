@@ -20,7 +20,7 @@ club_stats = ClubStatistics(season)
 player_stats = PlayerStatistics(season)
 
 # Get Fixtures
-fixture_list = MatchHistory()
+fixture_list = MatchHistory(season)
 
 def timing_decorator(func):
 	@wraps(func)
@@ -51,8 +51,8 @@ class StatsProcessor:
 		self.fixture_list.get_fixtures()
 
 	@timing_decorator
-	def process_remove_extra_data(self):
-		self.fixture_list.remove_extra_data()
+	def process_clean_fixtures(self):
+		self.fixture_list.clean_fixtures()
 
 	@timing_decorator
 	def process_create_match_folders(self):
@@ -63,8 +63,8 @@ class StatsProcessor:
 stats_processor = StatsProcessor(club_stats, player_stats, fixture_list)
 
 # Call the methods on the instance, which are now wrapped with the timing_decorator
-stats_processor.process_club_stats()
-stats_processor.process_player_stats()
+# stats_processor.process_club_stats()
+# stats_processor.process_player_stats()
 # stats_processor.process_fixtures()
-# stats_processor.process_remove_extra_data()
+stats_processor.process_clean_fixtures()
 # stats_processor.process_create_match_folders()

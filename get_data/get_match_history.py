@@ -9,24 +9,24 @@ import io
 import time
 
 class MatchHistory:
-	def __init__(self):
-		pass
+	def __init__(self, season):
+		self.season = season
 
 	# Download all the player tables from the club url
 	def get_fixtures(self):
-		i = 0
-
 		# Open the urls.json file and load the data
 		with open('get_data/keys.json', 'r') as f:
 			data = json.load(f)
 
 		# Assign the club_urls to a variable
-		club_urls = data['club_urls']
+		club_urls = data['club_urls'][self.season]
 
 		# Iterate through all the club urls
 		for url in club_urls:
+			club_url = urljoin('https://fbref.com', url)
+
 			# Download the page and convert to HTML
-			html = requests.get(url, timeout=20)
+			html = requests.get(club_url, timeout=20)
 			home_page = StringIO(html.text)
 
 			# Initialize BeautifulSoup
@@ -35,7 +35,7 @@ class MatchHistory:
 			# -----------------------------------------------------------------
 			# Get the team name and create a folder for each team
 			# Split the URL by "/"
-			url_parts = url.split("/")
+			url_parts = club_url.split("/")
 			
 			# Find the index of 'squads' in the URL
 			squads_index = url_parts.index("squads")
@@ -68,7 +68,7 @@ class MatchHistory:
 					team_name = team_name.replace(special_case, replacement)
 
 			# Create a new folder for each team
-			folder_name = os.path.join("raw_data/2023-2024/match_data", team_name)
+			folder_name = os.path.join(f"raw_data/{self.season}/match_data", team_name)
 			os.makedirs(folder_name, exist_ok=True)		
 
 			# -----------------------------------------------------------------
@@ -81,7 +81,10 @@ class MatchHistory:
 			table_data = pd.read_html(io.StringIO(str(data)))[0]
 
 			# Extract content from 'td' elements in the 17th column
-			td_17_content = [td.contents[0] if td.contents else None for td in data.select('td:nth-of-type(17)')]
+			td_17_content = [
+				td.contents[0] if td.contents else None
+				for td in data.select('td:nth-of-type(17)')
+			]
 
 			# Generate href_values based on the content of 'td' elements
 			href_values = []
@@ -97,7 +100,7 @@ class MatchHistory:
 				table_data["Match Report"] = href_values
 
 				# Create a .JSON file using the strings from player table
-				json_filename = os.path.join("raw_data/2023-2024/match_data", team_name, "Scores & Fixtures.json")
+				json_filename = os.path.join(folder_name, "Scores & Fixtures.json")
 				print(json_filename)
 
 				# Create the directory if it doesn't exist
@@ -115,19 +118,29 @@ class MatchHistory:
 				print(f"Number of rows in table_data: {len(table_data)}")
 
 
-	def remove_extra_data(self):
+	def clean_fixtures(self):
 		# Specify the folder location to iterate through
-		folder_location = "raw_data/2023-2024/match_data"
+		folder_location = f"raw_data/{self.season}/match_data"
 
 		# Iterate through each folder in the specified location
 		for subfolder in os.listdir(folder_location):
-			file_path = os.path.join(folder_location, subfolder, 'Scores & Fixtures.json')
+			# Create a variable for the 'Scores & Fixtures.json' file
+			fixture_list_path = os.path.join(folder_location, subfolder, 'Scores & Fixtures.json')
+
+			# Create a variable for the Completed Matches & Scheduled Matches
+			completed_match_path = os.path.join(folder_location, subfolder, 'Completed Matches.json')		
+			scheduled_match_path = os.path.join(folder_location, subfolder, 'Scheduled Matches.json')
+
+			# Create the directory if it doesn't exist
+			os.makedirs(os.path.dirname(completed_match_path), exist_ok=True)
+			os.makedirs(os.path.dirname(scheduled_match_path), exist_ok=True)
 
 			# Read the JSON data from the file
-			with open(file_path, 'r') as file:
+			with open(fixture_list_path, 'r') as file:
 				all_match_data = json.load(file)
 
-			filtered_data = [
+			# Filter the data to only include Premier League matches
+			league_data = [
 				match
 				for match in all_match_data
 				if (
@@ -135,15 +148,44 @@ class MatchHistory:
 				)
 			]
 
-			# and match.get("Result") is not None   # Check if the match has been played
+			# Save the filtered data back to the JSON file
+			with open(fixture_list_path, 'w') as file:
+				json.dump(league_data, file, indent=2)
+
+			# -----------------------------------------------------------------
+
+			with open(fixture_list_path, 'r') as file:
+				league_data = json.load(file)
+
+			# Filter the data to only include matches that have been played
+			completed_matches = [
+				match
+				for match in league_data
+				if (
+					match.get("Result") is not None
+				)
+			]
+
+			# Filter the data to only include matches that have NOT been played
+			scheduled_matches = [
+				match
+				for match in league_data
+				if (
+					match.get("Result") is None
+				)
+			]
 
 			# Save the filtered data back to the JSON file
-			with open(file_path, 'w') as file:
-				json.dump(filtered_data, file, indent=2)
+			with open(completed_match_path, 'w') as file:
+				json.dump(completed_matches, file, indent=2)
+			
+			# Save the filtered data back to the JSON file
+			with open(scheduled_match_path, 'w') as file:
+				json.dump(scheduled_matches, file, indent=2)
 
 
 	def create_match_folders(self):
-		location = "raw_data/2023-2024/match_data"
+		location = f"raw_data/{self.season}/match_data"
 		base_url = 'https://fbref.com'
 
 		# Open the urls.json file and load the data
