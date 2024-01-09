@@ -63,7 +63,7 @@ class StatsProcessor:
 stats_processor = StatsProcessor(club_stats, player_stats, fixture_list)
 
 # Call the methods on the instance, which are now wrapped with the timing_decorator
-# stats_processor.process_club_stats()
+stats_processor.process_club_stats()
 stats_processor.process_player_stats()
 # stats_processor.process_fixtures()
 # stats_processor.process_remove_extra_data()

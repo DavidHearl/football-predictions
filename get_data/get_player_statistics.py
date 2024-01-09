@@ -22,10 +22,12 @@ class PlayerStatistics:
 		with open('get_data/keys.json', 'r') as f:
 			data = json.load(f)
 
-		# Assign the club_urls to a variable
-		club_urls = data['club_urls'][self.season]
+		# Assign the player statistics tables to a variable
 		player_statistics_tables = data['player_statistics_tables']
 
+		# Assign the club_urls to a variable
+		club_urls = data['club_urls'][self.season]
+		
 		# Iterate through all the club urls
 		for url in club_urls:
 			with requests.Session() as session:
@@ -86,7 +88,7 @@ class PlayerStatistics:
 					table_data = pd.read_html(io.StringIO(str(data)))[0]
 
 					# Create a .JSON file using the strings from player table
-					json_filename = os.path.join(f"raw_data/{self.season}/player_data", team_name, f"{player_statistics_tables[i]}.json")
+					json_filename = os.path.join(folder_name, f"{player_statistics_tables[i]}.json")
 					print(json_filename)
 
 					# Create the directory if it doesn't exist
