@@ -48,35 +48,30 @@ class LegacyClubStatistics:
 
                 # ------------------------------------------------------------
 
-                # Open the keys.json file and load the data
-                with open('get_data/keys.json', 'r') as f:
-                    data = json.load(f)
-
                 # Check if 'club_urls' key already exists in the data
                 if 'club_urls' in data:
                     club_urls = data['club_urls']
                 else:
                     club_urls = {}
 
-                # Add new values to club_urls only if the season is not already present
-                for season in self.legacy_seasons:
-                    if season not in club_urls:
-                        # Get the urls for each club
-                        # Find the first table with class 'stats_table'
-                        first_table = soup_team_list.select_one('table.stats_table')
+                # Check if the season is already in the club_urls
+                if season not in club_urls:
+                    # Get the urls for each club
+                    # Find the first table with class 'stats_table'
+                    first_table = soup_team_list.select_one('table.stats_table')
 
-                        # Find all elements with data-stat property equal to 'team' within the first table
-                        team_elements = first_table.find_all('td', attrs={"data-stat": "team"})
+                    # Find all elements with data-stat property equal to 'team' within the first table
+                    team_elements = first_table.find_all('td', attrs={"data-stat": "team"})
 
-                        # Create an array to store the href values
-                        href_values = []
+                    # Create an array to store the href values
+                    href_values = []
 
-                        # Iterate over the team elements and extract the href values
-                        for team_element in team_elements:
-                            href = team_element.find('a')['href']
-                            href_values.append(href)
+                    # Iterate over the team elements and extract the href values
+                    for team_element in team_elements:
+                        href = team_element.find('a')['href']
+                        href_values.append(href)
 
-                        club_urls[season] = href_values
+                    club_urls[season] = href_values
 
                 # Update the club_urls in the keys.json file
                 data['club_urls'] = club_urls

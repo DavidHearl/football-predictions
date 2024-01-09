@@ -41,30 +41,34 @@ class ClubStatistics:
 
 			# ------------------------------------------------------------
 
-			# Get the urls for each club
-			# Find the first table with class 'stats_table'
-			first_table = soup_team_list.select_one('table.stats_table')
+			# Check if 'club_urls' key already exists in the data
+			if 'club_urls' in data:
+				club_urls = data['club_urls']
+			else:
+				club_urls = {}
 
-			# Find all elements with data-stat property equal to 'team' within the first table
-			team_elements = first_table.find_all('td', attrs={"data-stat": "team"})
+			# Convert overall_statistics_url to a string if it is a list
+			if isinstance(overall_statistics_url, list):
+				overall_statistics_url = overall_statistics_url[0]
 
-			# Create an array to store the href values
-			href_values = []
+			# Add new values to club_urls only if the season is not already present
+			if self.season not in club_urls:
+				# Find the first table with class 'stats_table'
+				first_table = soup_team_list.select_one('table.stats_table')
 
-			# Iterate over the team elements and extract the href values
-			for team_element in team_elements:
-				href = team_element.find('a')['href']
-				href_values.append(href)
+				# Find all elements with data-stat property equal to 'team' within the first table
+				team_elements = first_table.find_all('td', attrs={"data-stat": "team"})
 
-			# Open the keys.json file and load the data
-			with open('get_data/keys.json', 'r') as f:
-				data = json.load(f)
+				# Create an array to store the href values
+				href_values = []
 
-			club_urls = {
-				self.season: href_values
-			}
+				# Iterate over the team elements and extract the href values
+				for team_element in team_elements:
+					href = team_element.find('a')['href']
+					href_values.append(href)
 
-			# Update the club_urls in the keys.json file
+				club_urls[self.season] = href_values
+
 			data['club_urls'] = club_urls
 
 			# Save the updated data to the keys.json file
