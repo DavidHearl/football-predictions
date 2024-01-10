@@ -13,13 +13,9 @@ from get_data.get_match_history import MatchHistory
 # Set the season
 season = '2023-2024'
 
-# Get Club Statistics
+# Get methods and pass through the variables
 club_stats = ClubStatistics(season)
-
-# Get Player Statistics
 player_stats = PlayerStatistics(season)
-
-# Get Fixtures
 fixture_list = MatchHistory(season)
 
 def timing_decorator(func):
