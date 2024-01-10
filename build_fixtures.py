@@ -1,9 +1,12 @@
 import os
 import json
+import requests
+from bs4 import BeautifulSoup
+
 
 class GetOdds:
 	def __init__(self):
-		self.base_url = "https://www.oddschecker.com/football/english/premier-league"
+		self.base_url = ""
 		self.season = "2023-2024"
 
 	def get_odds(self):
@@ -11,7 +14,7 @@ class GetOdds:
 		# Create the matches
 		# -----------------------------------------------------------------
 		# Define folder location
-		location = f"clean_data/{self.season}/match_data"
+		location = f"raw_data/{self.season}/match_data"
 
 		matches = []
 
@@ -58,27 +61,26 @@ class GetOdds:
 		# -----------------------------------------------------------------
 		# Get the odds
 		# -----------------------------------------------------------------
-		# # Download the page and convert to HTML
+		# Download the page and convert to HTML
 		# html = requests.get(self.base_url, timeout=20)
 
 		# # Initialize BeautifulSoup
 		# soup_team_list = BeautifulSoup(html.text, features="lxml")
+		# print(soup_team_list)
 
-		
+		# # Find all elements with class "bestOddsButton_b3gzcta"
+		# odds_elements = soup_team_list.find_all(class_="bestOddsButton_b3gzcta")
 
-		
+		# # Add the odds elements to the odds array
+		# odds = []
+		# for element in odds_elements:
+		# 	odds.append(element.text)
+
+		# # Print the odds
+		# print(odds)
+
 
 # Instantiate the GetOdds class
 odds = GetOdds()
 odds.get_odds()
-
-
-
-
-
-
-
-
-
-
 
