@@ -21,6 +21,9 @@ class LegacyMatchHistory:
 			data = json.load(f)
 
 		for season in self.legacy_seasons:
+			# Add a delay to prevent the server from blocking the request
+			time.sleep(1)
+
 			# Access 'club_urls' from `data`
 			try:
 				club_urls = data['club_urls'][season]
@@ -41,7 +44,8 @@ class LegacyMatchHistory:
 
 				with requests.Session() as session:
 					# Add a delay to prevent the server from blocking the request
-					time.sleep(1)
+					print("Waiting 5 seconds...")
+					time.sleep(5)
 
 					# Download the page and convert to HTML
 					html = session.get(club_url, timeout=20)
@@ -85,8 +89,7 @@ class LegacyMatchHistory:
 					# Create a new folder for each team
 					folder_name = os.path.join(f"raw_data/{season}/match_data", team_name)
 					os.makedirs(folder_name, exist_ok=True)
-					print(folder_name)
-
+			
 					# Iterate through the 'stats table'
 					# 'stats table' is the class of the table element
 					data = soup_team_list.select('table.stats_table')[1]

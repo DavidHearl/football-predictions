@@ -2,15 +2,38 @@
 
 ## How to run & What happens
 
-1. Run ```py get_data.py``` this will create 2 folders within <span style="color:yellow">raw_data</span>.
-    - <span style="color:yellow">club_data</span>
-    - <span style="color:yellow">player_data</span>
+### Get Data
 
-2. Run ```py correct_data.py``` this will take the raw data and correct errors and remove unwanted fields. 
-    - To modify the keys, see `upadate_data/key_corrections.py`
-    - To remove data see the <span style="color:yellow">remove_keys</span> function in ```correct_data.py```
+#### 1: Run ```py get_data.py```
 
-3. Run ```py match_results.py``` to download all the previous fixtures & results
+This will create a folder for the current season within the <span style="color:yellow">raw_data</span> folder.
+
+3 subfolders will be created, <span style="color:yellow">club_data</span>,  <span style="color:yellow">player_data</span>, <span style="color:yellow">match_data</span> each folder will be populated with stats. 
+
+- raw_data
+    - 2023-2024
+        - club_data
+        - player_data
+        - match_data
+
+#### 2: Run ```py correct_data.py```
+
+This will create multiple folders for the previous seasons within the <span style="color:yellow">raw_data</span> folder.
+
+The folder structure will follow the same rules as above.
+
+- raw_data
+    - 2023-2024
+        - club_data
+        - player_data
+        - match_data
+    - 2022-2023
+        - club_data
+        - player_data
+        - match_data
+    - ...
+
+### 3:
 
 
 ## To Do List
