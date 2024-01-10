@@ -2,11 +2,12 @@ import os
 import json
 import requests
 from bs4 import BeautifulSoup
+from bs4 import BeautifulSoup
 
 
 class GetOdds:
 	def __init__(self):
-		self.base_url = ""
+		self.base_url = "https://www.betepxlorer.com/football/england/premier-league/fixtures"
 		self.season = "2023-2024"
 
 	def get_odds(self):
@@ -43,7 +44,7 @@ class GetOdds:
 
 				# Create a variable for the match
 				match = {
-					'teams': f"{subfolder} v {opponent}",
+					'teams': f"{subfolder} - {opponent}",
 					'date': date,
 					'time': time,
 				}
@@ -62,22 +63,36 @@ class GetOdds:
 		# Get the odds
 		# -----------------------------------------------------------------
 		# Download the page and convert to HTML
-		# html = requests.get(self.base_url, timeout=20)
+		html = requests.get(self.base_url, timeout=20)
 
-		# # Initialize BeautifulSoup
-		# soup_team_list = BeautifulSoup(html.text, features="lxml")
-		# print(soup_team_list)
+		# Initialize BeautifulSoup
+		soup_team_list = BeautifulSoup(html.text, features="lxml")
 
-		# # Find all elements with class "bestOddsButton_b3gzcta"
-		# odds_elements = soup_team_list.find_all(class_="bestOddsButton_b3gzcta")
+		# Find the <a> tag with the class "in-match"
+		in_match_tag = soup_team_list.find('a', class_='in-match')
 
-		# # Add the odds elements to the odds array
-		# odds = []
-		# for element in odds_elements:
-		# 	odds.append(element.text)
+		# Get the values from the 2 spans
+		if in_match_tag:
+			spans = in_match_tag.find_all('span')
+			if len(spans) >= 2:
+				value1 = spans[0].text
+				value2 = spans[1].text
+				print(value1, value2)
+			else:
+				print("Not enough spans found.")
+		else:
+			print("No <a> tag with class 'in-match' found.")
+					
+		# Find the td element with the class "table-main__odds"
+		td_element = soup_team_list.find('td', class_='table-main__odds')
+		
+		if td_element:
+			# Get the values from the button within the td element
+			button_values = [button.text for button in td_element.find_all('button')]
+			print(button_values)
+		else:
+			print("No td element with class 'table-main__odds' found.")
 
-		# # Print the odds
-		# print(odds)
 
 
 # Instantiate the GetOdds class
