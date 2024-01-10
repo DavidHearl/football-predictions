@@ -44,7 +44,7 @@ class LegacyMatchHistory:
 
 				with requests.Session() as session:
 					# Add a delay to prevent the server from blocking the request
-					time.sleep(3)
+					time.sleep(2)
 
 					# Download the page and convert to HTML
 					html = session.get(club_url, timeout=20)
@@ -212,6 +212,9 @@ class LegacyMatchHistory:
 
 			# Selects each team folder within 'match_history'
 			for folder in os.listdir(location):
+				# Add a delay to prevent the server from blocking the request
+				time.sleep(0.5)
+
 				# Creates a variable for the path to each team folder
 				folder_path = os.path.join(location, folder)
 
@@ -258,7 +261,7 @@ class LegacyMatchHistory:
 
 							for i in range(8):
 								# Add a delay to prevent the server from blocking the request
-								time.sleep(0.5)
+								time.sleep(0.75)
 
 								# Selects different table set for home and away teams
 								if home_away == 'Home':
