@@ -234,10 +234,9 @@ class MatchHistory:
 				if suspended != 'Match Suspended':
 					# Download the page and convert to HTML
 					html = requests.get(match_url, timeout=20)
-					match_page = StringIO(html.text)
 
 					# Initialize BeautifulSoup
-					soup_match_report = BeautifulSoup(match_page, features="lxml")
+					soup_match_report = BeautifulSoup(html.text, features="lxml")
 
 					for i in range(8):
 						# Add a delay to prevent the server from blocking the request

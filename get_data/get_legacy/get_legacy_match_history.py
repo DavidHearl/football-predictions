@@ -44,8 +44,7 @@ class LegacyMatchHistory:
 
 				with requests.Session() as session:
 					# Add a delay to prevent the server from blocking the request
-					print("Waiting 5 seconds...")
-					time.sleep(5)
+					time.sleep(3)
 
 					# Download the page and convert to HTML
 					html = session.get(club_url, timeout=20)
@@ -225,7 +224,9 @@ class LegacyMatchHistory:
 
 				# Selects each match within the 'completed matches.json' file
 				for match in data:
-					time.sleep(1)
+					# Add a delay to prevent the server from blocking the request
+					time.sleep(0.75)
+					
 					# Creates variables for each column in the JSON file
 					opponent = match.get('Opponent', '')
 					home_away = match.get('Venue', '')
