@@ -11,7 +11,7 @@ from get_data.get_player_statistics import PlayerStatistics
 from get_data.get_match_history import MatchHistory
 
 # Set the season
-season = '2023-2024'
+season = '2020-2021'
 
 # Get methods and pass through the variables
 club_stats = ClubStatistics(season)
@@ -59,8 +59,8 @@ class StatsProcessor:
 stats_processor = StatsProcessor(club_stats, player_stats, fixture_list)
 
 # Call the methods on the instance, which are now wrapped with the timing_decorator
-stats_processor.process_club_stats()
-stats_processor.process_player_stats()
+# stats_processor.process_club_stats()
+# stats_processor.process_player_stats()
 stats_processor.process_fixtures()
-stats_processor.process_clean_fixtures()
-stats_processor.process_create_match_folders()
+# stats_processor.process_clean_fixtures()
+# stats_processor.process_create_match_folders()

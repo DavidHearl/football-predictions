@@ -24,6 +24,7 @@ class MatchHistory:
 		# Iterate through all the club urls
 		for url in club_urls:
 			club_url = urljoin('https://fbref.com', url)
+			print(club_url)
 
 			# Download the page and convert to HTML
 			html = requests.get(club_url, timeout=20)
@@ -32,8 +33,6 @@ class MatchHistory:
 			# Initialize BeautifulSoup
 			soup_team_list = BeautifulSoup(home_page, features="lxml")
 
-			# -----------------------------------------------------------------
-			# Get the team name and create a folder for each team
 			# Split the URL by "/"
 			url_parts = club_url.split("/")
 			
@@ -70,8 +69,6 @@ class MatchHistory:
 			# Create a new folder for each team
 			folder_name = os.path.join(f"raw_data/{self.season}/match_data", team_name)
 			os.makedirs(folder_name, exist_ok=True)		
-
-			# -----------------------------------------------------------------
 
 			# Iterate through the 'stats table'
 			# 'stats table' is the class of the table element
@@ -199,77 +196,78 @@ class MatchHistory:
 		for folder in os.listdir(location):
 			# Creates a variable for the path to each team folder
 			folder_path = os.path.join(location, folder)
+			print(folder_path)
 
-			# Creates a variable for the 'Completed Matches' file
-			file_path = os.path.join(folder_path, 'Completed Matches.json')
+			# # Creates a variable for the 'Completed Matches' file
+			# file_path = os.path.join(folder_path, 'Completed Matches.json')
 
-			# Opens the 'Completed Matches.json' file
-			with open(file_path, 'r') as file:
-				data = json.load(file)
+			# # Opens the 'Completed Matches.json' file
+			# with open(file_path, 'r') as file:
+			# 	data = json.load(file)
 
-			# Selects each match within the 'completed matches.json' file
-			for match in data:
-				time.sleep(1)
-				# Creates variables for each column in the JSON file
-				opponent = match.get('Opponent', '')
-				home_away = match.get('Venue', '')
-				url = match.get('Match Report', '')
-				suspended = match.get('Notes', '')
+			# # Selects each match within the 'completed matches.json' file
+			# for match in data:
+			# 	time.sleep(1)
+			# 	# Creates variables for each column in the JSON file
+			# 	opponent = match.get('Opponent', '')
+			# 	home_away = match.get('Venue', '')
+			# 	url = match.get('Match Report', '')
+			# 	suspended = match.get('Notes', '')
 
-				# Create a subfolder for each match
-				match_folder_name = f"{folder} vs {opponent} - {home_away}"
-				match_folder_path = os.path.join(folder_path, match_folder_name)
+			# 	# Create a subfolder for each match
+			# 	match_folder_name = f"{folder} vs {opponent} - {home_away}"
+			# 	match_folder_path = os.path.join(folder_path, match_folder_name)
 
-				# Create the directory if it doesn't exist
-				os.makedirs(match_folder_path, exist_ok=True)
+			# 	# Create the directory if it doesn't exist
+			# 	os.makedirs(match_folder_path, exist_ok=True)
 
-				# Create the URL for each match
-				match_url = urljoin(base_url, url)
-				print(match_url)
+			# 	# Create the URL for each match
+			# 	match_url = urljoin(base_url, url)
+			# 	print(match_url)
 
-				# -----------------------------------------------------------------
-				# Download the match report
-				# -----------------------------------------------------------------
+			# 	# -----------------------------------------------------------------
+			# 	# Download the match report
+			# 	# -----------------------------------------------------------------
 
-				if suspended != 'Match Suspended':
-					# Download the page and convert to HTML
-					html = requests.get(match_url, timeout=20)
+			# 	if suspended != 'Match Suspended':
+			# 		# Download the page and convert to HTML
+			# 		html = requests.get(match_url, timeout=20)
 
-					# Initialize BeautifulSoup
-					soup_match_report = BeautifulSoup(html.text, features="lxml")
+			# 		# Initialize BeautifulSoup
+			# 		soup_match_report = BeautifulSoup(html.text, features="lxml")
 
-					for i in range(8):
-						# Add a delay to prevent the server from blocking the request
-						time.sleep(0.5)
+			# 		for i in range(8):
+			# 			# Add a delay to prevent the server from blocking the request
+			# 			time.sleep(0.5)
 
-						# Selects different table set for home and away teams
-						if home_away == 'Home':
-							if i != 7:
-								data = soup_match_report.select('table.stats_table')[i]
-							else:
-								data = soup_match_report.select('table.stats_table')[15]
-						else:
-							if i != 7:
-								data = soup_match_report.select('table.stats_table')[i + 7]
-							else:
-								data = soup_match_report.select('table.stats_table')[16]
+			# 			# Selects different table set for home and away teams
+			# 			if home_away == 'Home':
+			# 				if i != 7:
+			# 					data = soup_match_report.select('table.stats_table')[i]
+			# 				else:
+			# 					data = soup_match_report.select('table.stats_table')[15]
+			# 			else:
+			# 				if i != 7:
+			# 					data = soup_match_report.select('table.stats_table')[i + 7]
+			# 				else:
+			# 					data = soup_match_report.select('table.stats_table')[16]
 								
 
-						# Read the table using Pandas
-						table = pd.read_html(io.StringIO(str(data)))[0]
+			# 			# Read the table using Pandas
+			# 			table = pd.read_html(io.StringIO(str(data)))[0]
 
-						# Create a .JSON file using the strings from player table
-						json_filename = os.path.join(match_folder_path, f"{match_statistics_tables[i]}.json")
-						print(json_filename)
+			# 			# Create a .JSON file using the strings from player table
+			# 			json_filename = os.path.join(match_folder_path, f"{match_statistics_tables[i]}.json")
+			# 			print(json_filename)
 
-						# Open each .JSON file and convert tables to json data
-						try:
-							with open(json_filename, "w") as json_file:
-								json.dump(json.loads(table.to_json(orient="records")), json_file, indent=4)
-						except Exception as e:
-							print(f"Error: {e}")
-				else:
-					print(f"Match Suspended, data skipped.")
+			# 			# Open each .JSON file and convert tables to json data
+			# 			try:
+			# 				with open(json_filename, "w") as json_file:
+			# 					json.dump(json.loads(table.to_json(orient="records")), json_file, indent=4)
+			# 			except Exception as e:
+			# 				print(f"Error: {e}")
+			# 	else:
+			# 		print(f"Match Suspended, data skipped.")
 
-				# Add some spacing between each match
-				print()
+			# 	# Add some spacing between each match
+			# 	print()

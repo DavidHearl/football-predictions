@@ -64,7 +64,7 @@ Once the virtual environment folder has been created we must initalise the envir
 source ./venvwin/scripts/activate
 
 # Mac OS
-
+source ./venvmac/bin/activate
 ```
 
 We can check that the location of pip has changed with this comand.
