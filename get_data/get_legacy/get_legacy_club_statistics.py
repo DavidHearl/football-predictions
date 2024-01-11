@@ -22,7 +22,7 @@ class LegacyClubStatistics:
             data = json.load(f)
 
         # Get the list of table names, used for json file names
-        overall_statistics_tables = data['overall_tables']
+        overall_statistics_tables = data['overall_statistics_tables']
 
         # Link for reference: "https://fbref.com/en/comps/9/2022-2023/2022-2023-Premier-League-Stats"
         for season in self.legacy_seasons:

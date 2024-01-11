@@ -26,7 +26,7 @@ class ClubStatistics:
 		overall_statistics_tables = data['overall_statistics_tables']
 
 		# Download the page and convert to HTML
-		html = requests.get(overall_statistics_url, timeout=20)
+		html = requests.get(overall_url, timeout=20)
 
 		# Initialize BeautifulSoup
 		soup_team_list = BeautifulSoup(html.text, features="lxml")
@@ -44,8 +44,8 @@ class ClubStatistics:
 			club_urls = {}
 
 		# Convert overall_statistics_url to a string if it is a list
-		if isinstance(overall_statistics_url, list):
-			overall_statistics_url = overall_statistics_url[0]
+		if isinstance(overall_url, list):
+			overall_url = overall_url[0]
 
 		# Add new values to club_urls only if the season is not already present
 		if self.season not in club_urls:

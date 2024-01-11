@@ -7,6 +7,7 @@ from io import StringIO
 from urllib.parse import urljoin
 import io
 import time
+import re
 
 class LegacyMatchHistory:
 	def __init__(self, legacy_seasons):
@@ -20,115 +21,111 @@ class LegacyMatchHistory:
 		with open('get_data/keys.json', 'r') as f:
 			data = json.load(f)
 
-		for season in self.legacy_seasons:
+		# Create an iterator for the club urls
+		items = iter(data['club_urls'].items())
+
+		# Skip the first item in the iterator (Skip the current season)
+		next(items)
+
+		for season, urls in items:
 			# Add a delay to prevent the server from blocking the request
 			time.sleep(1)
 
-			# Access 'club_urls' from `data`
-			try:
-				club_urls = data['club_urls'][season]
-			except KeyError:
-				print("The key 'club_urls' does not exist in the data.")
-
-			# -----------------------------------------------------------------
-			# Try below to fix the KeyError, I have no idea why it is working.
-			# -----------------------------------------------------------------	
-			# To resolve this, you should check the self.legacy_seasons and data['club_urls'] 
-			# to ensure that for every season in self.legacy_seasons, there is a corresponding 
-			# key in data['club_urls']. If some seasons are missing in data['club_urls'], 
-			# you'll need to add them or handle the missing data appropriately in your code.
-
 			# Iterate through all the club urls
-			for url in club_urls:
+			for url in urls:
 				club_url = urljoin(base_url, url)
+				print(club_url)
 
-				with requests.Session() as session:
-					# Add a delay to prevent the server from blocking the request
-					time.sleep(2)
+				# Add a delay to prevent the server from blocking the request
+				time.sleep(2)
 
-					# Download the page and convert to HTML
-					html = session.get(club_url, timeout=20)
+				# Download the page and convert to HTML
+				html = requests.get(club_url, timeout=20)
 
-					# Initialize BeautifulSoup
-					soup_team_list = BeautifulSoup(html.text, features="lxml")
+				# Initialize BeautifulSoup
+				soup_team_list = BeautifulSoup(html.text, features="lxml")
 
-					# Split the URL by "/"
-					url_parts = club_url.split("/")
-					
-					# Find the index of 'squads' in the URL
-					squads_index = url_parts.index("squads")
-					
-					# Extract the part of the URL containing the team name
-					team_name_with_hyphen = url_parts[squads_index + 3]
-					
-					# Check if the team name ends with "Stats" and remove it
-					if team_name_with_hyphen.endswith("-Stats"):
-						team_name_with_hyphen = team_name_with_hyphen[:-6]  # Remove the last 6 characters ("Stats")
-					
-					# Remove hyphens from the team name and replace with a space
-					team_name = team_name_with_hyphen.replace('-', ' ')
-					
-					# Convert 'United' to 'Utd'
-					if 'United' in team_name.split():
-						team_name = team_name.replace('United', 'Utd')
-					
-					# Handle special cases
-					special_cases = {
-						'Brighton and Hove Albion': 'Brighton',
-						'West Ham Utd': 'West Ham',
-						'Wolverhampton Wanderers': 'Wolves',
-						'Nottingham Forest': "Nott'ham Forest"
-					}
-					
-					# Replace special cases with their new values
-					for special_case, replacement in special_cases.items():
-						if special_case in team_name:
-							team_name = team_name.replace(special_case, replacement)
+				# Split the URL by "/"
+				url_parts = club_url.split("/")
+				print(url_parts)
+				
+				# Find the index of 'squads' in the URL
+				squads_index = url_parts.index("squads")
+				
+				# Extract the part of the URL containing the team name
+				team_name_with_hyphen = url_parts[squads_index + 3]
+				print(team_name_with_hyphen)
+				
+				# Check if the team name ends with "Stats" and remove it
+				if team_name_with_hyphen.endswith("-Stats"):
+					team_name_with_hyphen = team_name_with_hyphen[:-6]  # Remove the last 6 characters ("Stats")
+					print(team_name_with_hyphen)
+				
+				# Remove hyphens from the team name and replace with a space
+				team_name = team_name_with_hyphen.replace('-', ' ')
+				print(team_name)
+				
+				# Convert 'United' to 'Utd'
+				if 'United' in team_name.split():
+					team_name = team_name.replace('United', 'Utd')
+				
+				# Handle special cases
+				special_cases = {
+					'Brighton and Hove Albion': 'Brighton',
+					'West Ham Utd': 'West Ham',
+					'Wolverhampton Wanderers': 'Wolves',
+					'Nottingham Forest': "Nott'ham Forest"
+				}
+				
+				# Replace special cases with their new values
+				for special_case, replacement in special_cases.items():
+					if special_case in team_name:
+						team_name = team_name.replace(special_case, replacement)
 
-					# Create a new folder for each team
-					folder_name = os.path.join(f"raw_data/{season}/match_data", team_name)
-					os.makedirs(folder_name, exist_ok=True)
-			
-					# Iterate through the 'stats table'
-					# 'stats table' is the class of the table element
-					data = soup_team_list.select('table.stats_table')[1]
+				# Create a new folder for each team
+				folder_name = os.path.join(f"raw_data/{season}/match_data", team_name)
+				os.makedirs(folder_name, exist_ok=True)
 
-					# Read the table using Pandas
-					table_data = pd.read_html(io.StringIO(str(data)))[0]
+				# Iterate through the 'stats table'
+				# 'stats table' is the class of the table element
+				data = soup_team_list.select('table.stats_table')[1]
 
-					# Extract content from 'td' elements in the 17th column
-					td_17_content = [td.contents[0] if td.contents else None for td in data.select('td:nth-of-type(17)')]
+				# Read the table using Pandas
+				table_data = pd.read_html(io.StringIO(str(data)))[0]
 
-					# Generate href_values based on the content of 'td' elements
-					href_values = []
-					for content in td_17_content:
-						if content and content.name == 'a' and 'href' in content.attrs:
-							href_values.append(content['href'])
-						else:
-							href_values.append("Match Postponed")
+				# Extract content from 'td' elements in the 17th column
+				td_17_content = [td.contents[0] if td.contents else None for td in data.select('td:nth-of-type(17)')]
 
-					# Ensure the lengths match
-					if len(href_values) == len(table_data):
-						# Replace the "Match Report" values with href values
-						table_data["Match Report"] = href_values
-
-						# Create a .JSON file using the strings from player table
-						json_filename = os.path.join(folder_name, "Scores & Fixtures.json")
-						print(json_filename)
-
-						# Create the directory if it doesn't exist
-						os.makedirs(os.path.dirname(json_filename), exist_ok=True)
-
-						# Open each .JSON file and convert tables to JSON data
-						try:
-							with open(json_filename, "w") as json_file:
-								json.dump(json.loads(table_data.to_json(orient="records")), json_file, indent=4)
-						except Exception as e:
-							print(f"Error while writing JSON file: {e}")
+				# Generate href_values based on the content of 'td' elements
+				href_values = []
+				for content in td_17_content:
+					if content and content.name == 'a' and 'href' in content.attrs:
+						href_values.append(content['href'])
 					else:
-						print("Error: Length mismatch between href_values and table_data")
-						print(f"Length of href_values: {len(href_values)}")
-						print(f"Number of rows in table_data: {len(table_data)}")
+						href_values.append("Match Postponed")
+
+				# Ensure the lengths match
+				if len(href_values) == len(table_data):
+					# Replace the "Match Report" values with href values
+					table_data["Match Report"] = href_values
+
+					# Create a .JSON file using the strings from player table
+					json_filename = os.path.join(folder_name, "Scores & Fixtures.json")
+					print(json_filename)
+
+					# Create the directory if it doesn't exist
+					os.makedirs(os.path.dirname(json_filename), exist_ok=True)
+
+					# Open each .JSON file and convert tables to JSON data
+					try:
+						with open(json_filename, "w") as json_file:
+							json.dump(json.loads(table_data.to_json(orient="records")), json_file, indent=4)
+					except Exception as e:
+						print(f"Error while writing JSON file: {e}")
+				else:
+					print("Error: Length mismatch between href_values and table_data")
+					print(f"Length of href_values: {len(href_values)}")
+					print(f"Number of rows in table_data: {len(table_data)}")
 
 
 	def clean_fixtures(self):
