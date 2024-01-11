@@ -16,34 +16,23 @@ class LegacyPlayerStatistics:
 		# Set the base url
 		base_url = "https://fbref.com"
 
-		# Print a blank line to separate the output
-		print()
-
 		# Open the urls.json file and load the data
 		with open('get_data/keys.json', 'r') as f:
 			data = json.load(f)
 
 		# Assign the player statistics tables to a variable
-		player_statistics_tables = data['player_statistics_tables']	
+		player_statistics_tables = data['player_statistics_tables']
+
+		# Create an iterator for the club urls
+		items = iter(data['club_urls'].items())
+
+		# Skip the first item in the iterator
+		next(items)  
 
 		# Iterate through all the legacy seasons
-		for season in self.legacy_seasons:
-			# Access 'club_urls' from `data`
-			try:
-				legacy_club_urls = data['club_urls'][season]
-			except KeyError:
-				print("The key 'club_urls' does not exist in the data.")
-
-			# -----------------------------------------------------------------
-			# Try below to fix the KeyError, I have no idea why it is working.
-			# -----------------------------------------------------------------	
-			# To resolve this, you should check the self.legacy_seasons and data['club_urls'] 
-			# to ensure that for every season in self.legacy_seasons, there is a corresponding 
-			# key in data['club_urls']. If some seasons are missing in data['club_urls'], 
-			# you'll need to add them or handle the missing data appropriately in your code.
-
+		for season, urls in items:
 			# Iterate through all the club urls
-			for url in legacy_club_urls:
+			for url in urls:
 				# Join the base_url with the club url
 				club_url = urljoin(base_url, url)
 

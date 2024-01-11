@@ -22,10 +22,10 @@ class LegacyMatchHistory:
 			data = json.load(f)
 
 		# Create an iterator for the club urls
-		items = iter(data['club_urls'].items())
-
+		items = iter(data['club_urls'].items()) 
+		
 		# Skip the first item in the iterator (Skip the current season)
-		next(items)
+		next(items) 
 
 		for season, urls in items:
 			# Add a delay to prevent the server from blocking the request
