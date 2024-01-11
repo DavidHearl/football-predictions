@@ -7,7 +7,7 @@ from bs4 import BeautifulSoup
 
 class GetOdds:
 	def __init__(self):
-		self.base_url = "https://www.betepxlorer.com/football/england/premier-league/fixtures"
+		self.base_url = "https://www.betexplorer.com/football/england/premier-league/fixtures"
 		self.season = "2023-2024"
 
 	def get_odds(self):
@@ -83,15 +83,15 @@ class GetOdds:
 		else:
 			print("No <a> tag with class 'in-match' found.")
 					
-		# Find the td element with the class "table-main__odds"
-		td_element = soup_team_list.find('td', class_='table-main__odds')
-		
-		if td_element:
-			# Get the values from the button within the td element
-			button_values = [button.text for button in td_element.find_all('button')]
-			print(button_values)
+		# Find the <p> tag with the title "Add to My Selection"
+		button_element = soup_team_list.find('button', title='Add to My Selection')
+
+		if button_element:
+			# Get the content of the button
+			button_content = button_element.text
+			print(button_content)
 		else:
-			print("No td element with class 'table-main__odds' found.")
+			print("No <p> tag with title 'Add to My Selection' found.")
 
 
 
