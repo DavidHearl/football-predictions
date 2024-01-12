@@ -3,6 +3,7 @@ import json
 import requests
 from bs4 import BeautifulSoup
 from bs4 import BeautifulSoup
+from bs4 import BeautifulSoup
 
 
 class GetOdds:
@@ -82,20 +83,22 @@ class GetOdds:
 				print("Not enough spans found.")
 		else:
 			print("No <a> tag with class 'in-match' found.")
-					
-		# Find the <p> tag with the title "Add to My Selection"
-		button_element = soup_team_list.find('button', title='Add to My Selection')
 
-		if button_element:
-			# Get the content of the button
-			button_content = button_element.text
-			print(button_content)
-		else:
-			print("No <p> tag with title 'Add to My Selection' found.")
+		# Save soup_team_list to an HTML file
+		with open("soup_team_list.html", "w") as file:
+			file.write(soup_team_list.prettify())
 
+		# Find all the button elements with the data-odd attribute
+		buttons = soup_team_list.find_all('button', attrs={'data-odd': True})
+
+		# Extract the values of the data-odd attribute
+		odds_values = [button['data-odd'] for button in buttons]
+
+		# Print the odds values
+		for odd_value in odds_values:
+			print(odd_value)
 
 
 # Instantiate the GetOdds class
 odds = GetOdds()
 odds.get_odds()
-

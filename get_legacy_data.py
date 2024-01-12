@@ -66,7 +66,7 @@ class LegacyStatsProcessor:
 legacy_stats_processor = LegacyStatsProcessor(club_legacy, player_legacy, match_legacy)
 
 # Call the methods on the instance, which are now wrapped with the timing_decorator
-club_legacy.create_json()
+# club_legacy.create_json()
 player_legacy.create_json()
 match_legacy.get_fixtures()
 match_legacy.clean_fixtures()
