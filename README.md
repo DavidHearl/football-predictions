@@ -1,5 +1,15 @@
 # Football Match Prediction
 
+## Failure Notes
+Failed: Leicester City vs Liverpool 2021 - 2022
+Traceback (most recent call last):                                                 lkeeping.json    
+  File "C:\Local Storage\GitHub\football-predictions\get_legacy_data.py", line 73, 
+in <module>                                                                        in <module>      
+    match_legacy.create_match_folders()
+  File "C:\Local Storage\GitHub\football-predictions\get_data\get_legacy\get_legacy_match_history.py", line 268, in cr_match_history.py", line 268, in create_match_folders
+    data = soup_match_report.select('table.stats_table')[15]
+IndexError: list index out of range
+
 ## How to run & What happens
 
 ### Get Data

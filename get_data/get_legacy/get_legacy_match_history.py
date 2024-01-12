@@ -210,7 +210,7 @@ class LegacyMatchHistory:
 			# Selects each team folder within 'match_history'
 			for folder in os.listdir(location):
 				# Add a delay to prevent the server from blocking the request
-				time.sleep(0.5)
+				time.sleep(1)
 
 				# Creates a variable for the path to each team folder
 				folder_path = os.path.join(location, folder)
