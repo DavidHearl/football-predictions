@@ -1,0 +1,102 @@
+{
+    "goals": [
+        "1",
+        "2"
+    ],
+    "expected_goals": [
+        "0.3",
+        "1.0"
+    ],
+    "home_team": [
+        "\u0141ukasz Fabia\u0144ski",
+        "Aaron Cresswell",
+        "Kurt Zouma",
+        "Gianluca Scamacca",
+        "Lucas Paquet\u00e1",
+        "Craig Dawson",
+        "Jarrod Bowen",
+        "Sa\u00efd Benrahma",
+        "Thilo Kehrer",
+        "Tom\u00e1\u0161 Sou\u010dek",
+        "Declan Rice",
+        "Alphonse Areola",
+        "Vladim\u00edr Coufal",
+        "Pablo Fornals",
+        "Michail Antonio",
+        "Manuel Lanzini",
+        "Flynn Downes",
+        "Angelo Ogbonna",
+        "Nayef Aguerd",
+        "Emerson Palmieri"
+    ],
+    "away_team": [
+        "Vicente Guaita",
+        "Tyrick Mitchell",
+        "Marc Gu\u00e9hi",
+        "Michael Olise",
+        "Jordan Ayew",
+        "Eberechi Eze",
+        "Wilfried Zaha",
+        "Jeffrey Schlupp",
+        "Joachim Andersen",
+        "Nathaniel Clyne",
+        "Cheick Doucour\u00e9",
+        "Sam Johnstone",
+        "Joseph Whitworth",
+        "Joel Ward",
+        "Luka Milivojevi\u0107",
+        "James Tomkins",
+        "Jean-Philippe Mateta",
+        "Will Hughes",
+        "Malcolm Ebiowei",
+        "Ja\u00efro Riedewald"
+    ],
+    "fouls": [
+        10,
+        7
+    ],
+    "corners": [
+        2,
+        5
+    ],
+    "crosses": [
+        12,
+        13
+    ],
+    "touches": [
+        553,
+        718
+    ],
+    "tackles": [
+        16,
+        13
+    ],
+    "interceptions": [
+        9,
+        4
+    ],
+    "aerials_won": [
+        12,
+        10
+    ],
+    "clearances": [
+        15,
+        11
+    ],
+    "offsides": [
+        4,
+        0
+    ],
+    "goal_kicks": [
+        7,
+        4
+    ],
+    "throw_ins": [
+        13,
+        17
+    ],
+    "long_balls": [
+        53,
+        67
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "goals": [
+        "1",
+        "4"
+    ],
+    "expected_goals": [
+        "0.7",
+        "2.4"
+    ],
+    "home_team": [
+        "Jordan Pickford",
+        "Michael Keane",
+        "Allan",
+        "Richarlison",
+        "Demarai Gray",
+        "Lucas Digne",
+        "Andros Townsend",
+        "Abdoulaye Doucour\u00e9",
+        "Ben Godfrey",
+        "S\u00e9amus Coleman",
+        "Salom\u00f3n Rond\u00f3n",
+        "Asmir Begovi\u0107",
+        "Jonjoe Kenny",
+        "Fabian Delph",
+        "Alex Iwobi",
+        "Cenk Tosun",
+        "Anthony Gordon",
+        "Jean-Philippe Gbamin",
+        "Jarrad Branthwaite",
+        "Lewis Dobbin"
+    ],
+    "away_team": [
+        "Alisson",
+        "Fabinho",
+        "Virgil van Dijk",
+        "Thiago Alc\u00e1ntara",
+        "Sadio Man\u00e9",
+        "Mohamed Salah",
+        "Jordan Henderson",
+        "Diogo Jota",
+        "Andrew Robertson",
+        "Jo\u00ebl Matip",
+        "Trent Alexander-Arnold",
+        "Caoimh\u00edn Kelleher",
+        "Ibrahima Konat\u00e9",
+        "James Milner",
+        "Alex Oxlade-Chamberlain",
+        "Takumi Minamino",
+        "Kostas Tsimikas",
+        "Divock Origi",
+        "Neco Williams",
+        "Tyler Morton"
+    ],
+    "fouls": [
+        8,
+        16
+    ],
+    "corners": [
+        3,
+        11
+    ],
+    "crosses": [
+        12,
+        21
+    ],
+    "touches": [
+        424,
+        747
+    ],
+    "tackles": [
+        9,
+        15
+    ],
+    "interceptions": [
+        16,
+        9
+    ],
+    "aerials_won": [
+        15,
+        22
+    ],
+    "clearances": [
+        16,
+        13
+    ],
+    "offsides": [
+        3,
+        1
+    ],
+    "goal_kicks": [
+        9,
+        6
+    ],
+    "throw_ins": [
+        23,
+        14
+    ],
+    "long_balls": [
+        75,
+        67
+    ]
+}

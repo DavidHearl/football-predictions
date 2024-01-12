@@ -1,0 +1,102 @@
+{
+    "goals": [
+        "2",
+        "0"
+    ],
+    "expected_goals": [
+        "1.5",
+        "0.9"
+    ],
+    "home_team": [
+        "Nick Pope",
+        "Charlie Taylor",
+        "Jack Cork",
+        "James Tarkowski",
+        "Josh Brownhill",
+        "Wout Weghorst",
+        "Dwight McNeil",
+        "Connor Roberts",
+        "Jay Rodriguez",
+        "Maxwel Cornet",
+        "Nathan Collins",
+        "Wayne Hennessey",
+        "Matthew Lowton",
+        "Ashley Barnes",
+        "Dale Stephens",
+        "Aaron Lennon",
+        "Phil Bardsley",
+        "Mat\u011bj Vydra",
+        "Kevin Long",
+        "Dara Costelloe"
+    ],
+    "away_team": [
+        "Fraser Forster",
+        "Kyle Walker-Peters",
+        "Lyanco",
+        "Oriol Romeu",
+        "James Ward-Prowse",
+        "Romain Perraud",
+        "Stuart Armstrong",
+        "Armando Broja",
+        "Mohamed Elyounoussi",
+        "Jan Bednarek",
+        "Yan Valery",
+        "Willy Caballero",
+        "Shane Long",
+        "Adam Armstrong",
+        "Che Adams",
+        "Nathan Redmond",
+        "Valentino Livramento",
+        "Mohammed Salisu",
+        "Nathan Tella",
+        "Ibrahima Diallo"
+    ],
+    "fouls": [
+        7,
+        7
+    ],
+    "corners": [
+        10,
+        10
+    ],
+    "crosses": [
+        21,
+        27
+    ],
+    "touches": [
+        507,
+        647
+    ],
+    "tackles": [
+        15,
+        15
+    ],
+    "interceptions": [
+        6,
+        12
+    ],
+    "aerials_won": [
+        16,
+        12
+    ],
+    "clearances": [
+        24,
+        25
+    ],
+    "offsides": [
+        3,
+        2
+    ],
+    "goal_kicks": [
+        6,
+        7
+    ],
+    "throw_ins": [
+        23,
+        20
+    ],
+    "long_balls": [
+        89,
+        73
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "goals": [
+        "1",
+        "0"
+    ],
+    "expected_goals": [
+        "1.2",
+        "0.8"
+    ],
+    "home_team": [
+        "Emiliano Mart\u00ednez",
+        "Matty Cash",
+        "Ezri Konsa",
+        "Tyrone Mings",
+        "John McGinn",
+        "Jack Grealish",
+        "Ollie Watkins",
+        "Bertrand Traor\u00e9",
+        "Matt Targett",
+        "Marvelous Nakamba",
+        "Ross Barkley",
+        "Tom Heaton",
+        "Douglas Luiz",
+        "Tr\u00e9z\u00e9guet",
+        "Anwar El Ghazi",
+        "Bj\u00f6rn Engels",
+        "Morgan Sanson",
+        "Ahmed Elmohamady",
+        "Keinan Davis",
+        "Jacob Ramsey"
+    ],
+    "away_team": [
+        "Mathew Ryan",
+        "H\u00e9ctor Beller\u00edn",
+        "Gabriel Dos Santos",
+        "Bukayo Saka",
+        "Alexandre Lacazette",
+        "Rob Holding",
+        "C\u00e9dric Soares",
+        "Thomas Partey",
+        "Nicolas P\u00e9p\u00e9",
+        "Emile Smith Rowe",
+        "Granit Xhaka",
+        "R\u00fanar Alex R\u00fanarsson",
+        "Dani Ceballos",
+        "Martin \u00d8degaard",
+        "Willian",
+        "Pierre-Emerick Aubameyang",
+        "Calum Chambers",
+        "Pablo Mar\u00ed",
+        "Mohamed Elneny",
+        "Gabriel Martinelli"
+    ],
+    "fouls": [
+        12,
+        12
+    ],
+    "corners": [
+        3,
+        7
+    ],
+    "crosses": [
+        8,
+        40
+    ],
+    "touches": [
+        477,
+        761
+    ],
+    "tackles": [
+        18,
+        12
+    ],
+    "interceptions": [
+        10,
+        6
+    ],
+    "aerials_won": [
+        24,
+        19
+    ],
+    "clearances": [
+        33,
+        9
+    ],
+    "offsides": [
+        1,
+        0
+    ],
+    "goal_kicks": [
+        12,
+        3
+    ],
+    "throw_ins": [
+        21,
+        15
+    ],
+    "long_balls": [
+        78,
+        47
+    ]
+}

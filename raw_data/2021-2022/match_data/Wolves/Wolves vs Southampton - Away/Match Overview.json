@@ -1,0 +1,102 @@
+{
+    "goals": [
+        "0",
+        "1"
+    ],
+    "expected_goals": [
+        "1.0",
+        "1.0"
+    ],
+    "home_team": [
+        "Alex McCarthy",
+        "Kyle Walker-Peters",
+        "Oriol Romeu",
+        "James Ward-Prowse",
+        "Adam Armstrong",
+        "Che Adams",
+        "Nathan Redmond",
+        "Valentino Livramento",
+        "Mohammed Salisu",
+        "Mohamed Elyounoussi",
+        "Jan Bednarek",
+        "Fraser Forster",
+        "Lyanco",
+        "Shane Long",
+        "Romain Perraud",
+        "Armando Broja",
+        "Moussa Djenepo",
+        "Nathan Tella",
+        "Ibrahima Diallo",
+        "Yan Valery"
+    ],
+    "away_team": [
+        "Jos\u00e9 S\u00e1",
+        "Fernando Mar\u00e7al",
+        "Ra\u00fal Jim\u00e9nez",
+        "Daniel Podence",
+        "Conor Coady",
+        "N\u00e9lson Semedo",
+        "Max Kilman",
+        "Hwang Hee-chan",
+        "Romain Sa\u00efss",
+        "Jo\u00e3o Moutinho",
+        "Leander Dendoncker",
+        "Louie Moulden",
+        "John Ruddy",
+        "Ki-Jana Hoever",
+        "R\u00faben Neves",
+        "Francisco Trinc\u00e3o",
+        "Willy Boly",
+        "F\u00e1bio Silva",
+        "Adama Traor\u00e9",
+        "Luke Cundle"
+    ],
+    "fouls": [
+        12,
+        8
+    ],
+    "corners": [
+        5,
+        5
+    ],
+    "crosses": [
+        26,
+        6
+    ],
+    "touches": [
+        655,
+        534
+    ],
+    "tackles": [
+        13,
+        12
+    ],
+    "interceptions": [
+        11,
+        6
+    ],
+    "aerials_won": [
+        14,
+        15
+    ],
+    "clearances": [
+        10,
+        37
+    ],
+    "offsides": [
+        3,
+        1
+    ],
+    "goal_kicks": [
+        3,
+        6
+    ],
+    "throw_ins": [
+        21,
+        19
+    ],
+    "long_balls": [
+        65,
+        74
+    ]
+}

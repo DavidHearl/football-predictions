@@ -1,0 +1,102 @@
+{
+    "goals": [
+        "1",
+        "2"
+    ],
+    "expected_goals": [
+        "0.5",
+        "2.9"
+    ],
+    "home_team": [
+        "Kepa Arrizabalaga",
+        "Beno\u00eet Badiashile",
+        "Enzo Fern\u00e1ndez",
+        "Christian Pulisic",
+        "Trevoh Chalobah",
+        "Mykhailo Mudryk",
+        "Raheem Sterling",
+        "Denis Zakaria",
+        "Ben Chilwell",
+        "Conor Gallagher",
+        "Wesley Fofana",
+        "Edouard Mendy",
+        "Mateo Kova\u010di\u0107",
+        "Pierre-Emerick Aubameyang",
+        "Jo\u00e3o F\u00e9lix",
+        "Mason Mount",
+        "Hakim Ziyech",
+        "Reece James",
+        "C\u00e9sar Azpilicueta",
+        "Marc Cucurella"
+    ],
+    "away_team": [
+        "Robert S\u00e1nchez",
+        "Adam Webster",
+        "Lewis Dunk",
+        "Solly March",
+        "Alexis Mac Allister",
+        "Pascal Gro\u00df",
+        "Kaoru Mitoma",
+        "Mois\u00e9s Caicedo",
+        "Evan Ferguson",
+        "Pervis Estupi\u00f1\u00e1n",
+        "Jo\u00ebl Veltman",
+        "Thomas Mcgill",
+        "Danny Welbeck",
+        "Julio C\u00e9sar Enciso",
+        "Deniz Undav",
+        "Billy Gilmour",
+        "Jan Paul van Hecke",
+        "Facundo Buonanotte",
+        "Odeluga Offiah",
+        "Andrew Moran"
+    ],
+    "fouls": [
+        11,
+        11
+    ],
+    "corners": [
+        2,
+        8
+    ],
+    "crosses": [
+        13,
+        14
+    ],
+    "touches": [
+        557,
+        701
+    ],
+    "tackles": [
+        18,
+        24
+    ],
+    "interceptions": [
+        13,
+        6
+    ],
+    "aerials_won": [
+        9,
+        8
+    ],
+    "clearances": [
+        18,
+        10
+    ],
+    "offsides": [
+        1,
+        1
+    ],
+    "goal_kicks": [
+        10,
+        5
+    ],
+    "throw_ins": [
+        14,
+        17
+    ],
+    "long_balls": [
+        51,
+        45
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "goals": [
+        "2",
+        "2"
+    ],
+    "expected_goals": [
+        "2.1",
+        "2.4"
+    ],
+    "home_team": [
+        "Joel Robles",
+        "Luke Ayling",
+        "Junior Firpo",
+        "Robin Koch",
+        "Patrick Bamford",
+        "Jack Harrison",
+        "Rodrigo",
+        "Rasmus Nissen",
+        "Weston McKennie",
+        "Maximilian W\u00f6ber",
+        "Sam Greenwood",
+        "Illan Meslier",
+        "Adam Forshaw",
+        "Brenden Aaronson",
+        "Marc Roca",
+        "Crysencio Summerville",
+        "Pascal Struijk",
+        "Georginio Rutter",
+        "Degnand Gnonto",
+        "Archie Gray"
+    ],
+    "away_team": [
+        "Nick Pope",
+        "Kieran Trippier",
+        "Sven Botman",
+        "Fabian Sch\u00e4r",
+        "Joelinton",
+        "Callum Wilson",
+        "Alexander Isak",
+        "Miguel Almir\u00f3n",
+        "Joe Willock",
+        "Dan Burn",
+        "Bruno Guimar\u00e3es",
+        "Martin D\u00fabravka",
+        "Paul Dummett",
+        "Anthony Gordon",
+        "Allan Saint-Maximin",
+        "Jamal Lewis",
+        "Matt Targett",
+        "Javier Manquillo",
+        "Jacob Murphy",
+        "Elliot Anderson"
+    ],
+    "fouls": [
+        16,
+        14
+    ],
+    "corners": [
+        2,
+        6
+    ],
+    "crosses": [
+        10,
+        16
+    ],
+    "touches": [
+        419,
+        625
+    ],
+    "tackles": [
+        23,
+        21
+    ],
+    "interceptions": [
+        15,
+        13
+    ],
+    "aerials_won": [
+        11,
+        18
+    ],
+    "clearances": [
+        24,
+        20
+    ],
+    "offsides": [
+        0,
+        2
+    ],
+    "goal_kicks": [
+        13,
+        6
+    ],
+    "throw_ins": [
+        14,
+        23
+    ],
+    "long_balls": [
+        74,
+        51
+    ]
+}

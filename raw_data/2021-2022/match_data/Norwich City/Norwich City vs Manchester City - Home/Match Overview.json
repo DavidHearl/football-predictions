@@ -1,0 +1,102 @@
+{
+    "goals": [
+        "0",
+        "4"
+    ],
+    "expected_goals": [
+        "0.4",
+        "4.6"
+    ],
+    "home_team": [
+        "Angus Gunn",
+        "Max Aarons",
+        "Ben Gibson",
+        "Grant Hanley",
+        "Billy Gilmour",
+        "Milot Rashica",
+        "Pierre Lees-Melou",
+        "Brandon Williams",
+        "Teemu Pukki",
+        "Kenny McLean",
+        "Josh Sargent",
+        "Michael McGovern",
+        "Sam Byram",
+        "Christoph Zimmermann",
+        "Kieran Dowell",
+        "Przemys\u0142aw P\u0142acheta",
+        "Mathias Normann",
+        "Christos Tzolis",
+        "Dimitris Giannoulis",
+        "Jon Rowe"
+    ],
+    "away_team": [
+        "Ederson",
+        "Kyle Walker",
+        "R\u00faben Dias",
+        "Nathan Ak\u00e9",
+        "Raheem Sterling",
+        "\u0130lkay G\u00fcndo\u011fan",
+        "Oleksandr Zinchenko",
+        "Bernardo Silva",
+        "Fernandinho",
+        "Riyad Mahrez",
+        "Phil Foden",
+        "Scott Carson",
+        "John Stones",
+        "Aymeric Laporte",
+        "Rodri",
+        "Kevin De Bruyne",
+        "Jo\u00e3o Cancelo",
+        "Kayky Chagas",
+        "Liam Delap",
+        "James Mcatee"
+    ],
+    "fouls": [
+        7,
+        8
+    ],
+    "corners": [
+        4,
+        12
+    ],
+    "crosses": [
+        8,
+        26
+    ],
+    "touches": [
+        417,
+        830
+    ],
+    "tackles": [
+        11,
+        5
+    ],
+    "interceptions": [
+        6,
+        11
+    ],
+    "aerials_won": [
+        13,
+        12
+    ],
+    "clearances": [
+        30,
+        9
+    ],
+    "offsides": [
+        2,
+        2
+    ],
+    "goal_kicks": [
+        9,
+        4
+    ],
+    "throw_ins": [
+        13,
+        11
+    ],
+    "long_balls": [
+        46,
+        72
+    ]
+}

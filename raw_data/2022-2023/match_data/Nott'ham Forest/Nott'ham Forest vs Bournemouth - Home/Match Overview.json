@@ -1,0 +1,102 @@
+{
+    "goals": [
+        "2",
+        "3"
+    ],
+    "expected_goals": [
+        "1.9",
+        "0.8"
+    ],
+    "home_team": [
+        "Dean Henderson",
+        "Steve Cook",
+        "Joe Worrall",
+        "Neco Williams",
+        "Morgan Gibbs-White",
+        "Jesse Lingard",
+        "Brennan Johnson",
+        "Cheikhou Kouyat\u00e9",
+        "Ryan Yates",
+        "Scott McKenna",
+        "Renan Lodi",
+        "Wayne Hennessey",
+        "Giulian Biancone",
+        "Jack Colback",
+        "Taiwo Awoniyi",
+        "Lewis O'Brien",
+        "Harry Toffolo",
+        "Remo Freuler",
+        "Emmanuel Dennis",
+        "Willy Boly"
+    ],
+    "away_team": [
+        "Neto",
+        "Lewis Cook",
+        "Lloyd Kelly",
+        "Chris Mepham",
+        "Jefferson Lerma",
+        "Dominic Solanke",
+        "Ryan Christie",
+        "Adam Smith",
+        "Marcus Tavernier",
+        "Philip Billing",
+        "Jordan Zemura",
+        "Mark Travers",
+        "Ryan Fredericks",
+        "Jack Stephens",
+        "Emiliano Marcondes",
+        "Jack Stacey",
+        "Siriki Demb\u00e9l\u00e9",
+        "Kieffer Moore",
+        "Marcos Senesi",
+        "Jaidon Anthony"
+    ],
+    "fouls": [
+        13,
+        10
+    ],
+    "corners": [
+        4,
+        6
+    ],
+    "crosses": [
+        27,
+        20
+    ],
+    "touches": [
+        641,
+        604
+    ],
+    "tackles": [
+        13,
+        12
+    ],
+    "interceptions": [
+        9,
+        3
+    ],
+    "aerials_won": [
+        12,
+        12
+    ],
+    "clearances": [
+        18,
+        29
+    ],
+    "offsides": [
+        1,
+        1
+    ],
+    "goal_kicks": [
+        6,
+        6
+    ],
+    "throw_ins": [
+        20,
+        29
+    ],
+    "long_balls": [
+        85,
+        65
+    ]
+}

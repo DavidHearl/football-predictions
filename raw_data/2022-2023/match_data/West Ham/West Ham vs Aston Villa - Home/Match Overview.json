@@ -1,0 +1,101 @@
+{
+    "goals": [
+        "1",
+        "1"
+    ],
+    "expected_goals": [
+        "2.1",
+        "1.5"
+    ],
+    "home_team": [
+        "Alphonse Areola",
+        "Kurt Zouma",
+        "Lucas Paquet\u00e1",
+        "Danny Ings",
+        "Jarrod Bowen",
+        "Sa\u00efd Benrahma",
+        "Thilo Kehrer",
+        "Nayef Aguerd",
+        "Tom\u00e1\u0161 Sou\u010dek",
+        "Emerson Palmieri",
+        "Declan Rice",
+        "Joseph Anang",
+        "Ben Johnson",
+        "Aaron Cresswell",
+        "Gianluca Scamacca",
+        "Pablo Fornals",
+        "Manuel Lanzini",
+        "Flynn Downes",
+        "Maxwel Cornet",
+        "Angelo Ogbonna"
+    ],
+    "away_team": [
+        "Emiliano Mart\u00ednez",
+        "Matty Cash",
+        "Ezri Konsa",
+        "Tyrone Mings",
+        "Douglas Luiz",
+        "John McGinn",
+        "Emi Buend\u00eda",
+        "Ollie Watkins",
+        "\u00c1lex Moreno",
+        "Leon Bailey",
+        "Jacob Ramsey",
+        "Robin Olsen",
+        "Viljami Sinisalo",
+        "Diego Carlos",
+        "Bertrand Traor\u00e9",
+        "Calum Chambers",
+        "Ashley Young",
+        "Jhon Dur\u00e1n",
+        "Lucas Digne"
+    ],
+    "fouls": [
+        9,
+        6
+    ],
+    "corners": [
+        12,
+        2
+    ],
+    "crosses": [
+        31,
+        16
+    ],
+    "touches": [
+        514,
+        699
+    ],
+    "tackles": [
+        18,
+        12
+    ],
+    "interceptions": [
+        12,
+        6
+    ],
+    "aerials_won": [
+        12,
+        8
+    ],
+    "clearances": [
+        22,
+        26
+    ],
+    "offsides": [
+        6,
+        1
+    ],
+    "goal_kicks": [
+        5,
+        8
+    ],
+    "throw_ins": [
+        13,
+        16
+    ],
+    "long_balls": [
+        55,
+        46
+    ]
+}

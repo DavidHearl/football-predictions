@@ -1,0 +1,102 @@
+{
+    "goals": [
+        "3",
+        "1"
+    ],
+    "expected_goals": [
+        "2.5",
+        "0.8"
+    ],
+    "home_team": [
+        "Jos\u00e9 S\u00e1",
+        "Rayan A\u00eft Nouri",
+        "Ra\u00fal Jim\u00e9nez",
+        "Daniel Podence",
+        "Francisco Trinc\u00e3o",
+        "Conor Coady",
+        "N\u00e9lson Semedo",
+        "Max Kilman",
+        "Toti Gomes",
+        "Jo\u00e3o Moutinho",
+        "Leander Dendoncker",
+        "Louie Moulden",
+        "John Ruddy",
+        "Bruno Jord\u00e3o",
+        "F\u00e1bio Silva",
+        "Ryan John Giles",
+        "Dion Sanderson",
+        "Adama Traor\u00e9",
+        "Luke Cundle",
+        "Chem Campbell"
+    ],
+    "away_team": [
+        "Fraser Forster",
+        "Lyanco",
+        "Oriol Romeu",
+        "James Ward-Prowse",
+        "Nathan Redmond",
+        "Romain Perraud",
+        "Armando Broja",
+        "Mohammed Salisu",
+        "Nathan Tella",
+        "Ibrahima Diallo",
+        "Jan Bednarek",
+        "Willy Caballero",
+        "Kyle Walker-Peters",
+        "Jack Stephens",
+        "Shane Long",
+        "Adam Armstrong",
+        "Che Adams",
+        "Thierry Small",
+        "Stuart Armstrong",
+        "Yan Valery"
+    ],
+    "fouls": [
+        13,
+        14
+    ],
+    "corners": [
+        2,
+        10
+    ],
+    "crosses": [
+        11,
+        28
+    ],
+    "touches": [
+        495,
+        587
+    ],
+    "tackles": [
+        23,
+        10
+    ],
+    "interceptions": [
+        15,
+        9
+    ],
+    "aerials_won": [
+        13,
+        19
+    ],
+    "clearances": [
+        30,
+        8
+    ],
+    "offsides": [
+        2,
+        1
+    ],
+    "goal_kicks": [
+        5,
+        3
+    ],
+    "throw_ins": [
+        20,
+        29
+    ],
+    "long_balls": [
+        68,
+        51
+    ]
+}

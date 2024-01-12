@@ -1,0 +1,102 @@
+{
+    "goals": [
+        "1",
+        "1"
+    ],
+    "expected_goals": [
+        "0.7",
+        "0.9"
+    ],
+    "home_team": [
+        "Edouard Mendy",
+        "Antonio R\u00fcdiger",
+        "Andreas Christensen",
+        "Jorginho",
+        "Mateo Kova\u010di\u0107",
+        "Romelu Lukaku",
+        "Christian Pulisic",
+        "Mason Mount",
+        "Callum Hudson-Odoi",
+        "Reece James",
+        "C\u00e9sar Azpilicueta",
+        "Kepa Arrizabalaga",
+        "Marcos Alonso",
+        "N'Golo Kant\u00e9",
+        "Trevoh Chalobah",
+        "Sa\u00fal \u00d1\u00edguez",
+        "Ross Barkley",
+        "Hakim Ziyech",
+        "Kai Havertz",
+        "Malang Sarr"
+    ],
+    "away_team": [
+        "Robert S\u00e1nchez",
+        "Tariq Lamptey",
+        "Marc Cucurella",
+        "Yves Bissouma",
+        "Neal Maupay",
+        "Alexis Mac Allister",
+        "Adam Lallana",
+        "Jakub Moder",
+        "Solly March",
+        "Dan Burn",
+        "Jo\u00ebl Veltman",
+        "Jason Steele",
+        "Adam Webster",
+        "Enock Mwepu",
+        "Pascal Gro\u00df",
+        "Steven Alzate",
+        "Danny Welbeck",
+        "Shane Duffy",
+        "Taylor Richards",
+        "Evan Ferguson"
+    ],
+    "fouls": [
+        14,
+        7
+    ],
+    "corners": [
+        10,
+        8
+    ],
+    "crosses": [
+        20,
+        23
+    ],
+    "touches": [
+        602,
+        662
+    ],
+    "tackles": [
+        23,
+        23
+    ],
+    "interceptions": [
+        10,
+        9
+    ],
+    "aerials_won": [
+        20,
+        14
+    ],
+    "clearances": [
+        25,
+        19
+    ],
+    "offsides": [
+        1,
+        0
+    ],
+    "goal_kicks": [
+        10,
+        4
+    ],
+    "throw_ins": [
+        17,
+        25
+    ],
+    "long_balls": [
+        66,
+        62
+    ]
+}

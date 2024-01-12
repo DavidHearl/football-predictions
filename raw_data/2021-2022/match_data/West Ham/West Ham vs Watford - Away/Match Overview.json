@@ -1,0 +1,101 @@
+{
+    "goals": [
+        "1",
+        "4"
+    ],
+    "expected_goals": [
+        "1.6",
+        "3.6"
+    ],
+    "home_team": [
+        "Daniel Bachmann",
+        "Joshua King",
+        "Adam Masina",
+        "Craig Cathcart",
+        "Ozan Tufan",
+        "Moussa Sissoko",
+        "Kiko Femen\u00eda",
+        "Emmanuel Dennis",
+        "Cucho",
+        "Francisco Sierralta",
+        "Juraj Kucka",
+        "Vincent Angelini",
+        "Imran Louza",
+        "Jo\u00e3o Pedro",
+        "Ken Sema",
+        "Dan Gosling",
+        "Ashley Fletcher",
+        "James Morris",
+        "Kamil Conteh"
+    ],
+    "away_team": [
+        "\u0141ukasz Fabia\u0144ski",
+        "Vladim\u00edr Coufal",
+        "Michail Antonio",
+        "Manuel Lanzini",
+        "Craig Dawson",
+        "Mark Noble",
+        "Jarrod Bowen",
+        "Sa\u00efd Benrahma",
+        "Issa Diop",
+        "Tom\u00e1\u0161 Sou\u010dek",
+        "Ben Johnson",
+        "Alphonse Areola",
+        "Andriy Yarmolenko",
+        "Nikola Vla\u0161i\u0107",
+        "Ryan Fredericks",
+        "Arthur Masuaku",
+        "Alex Kr\u00e1l",
+        "Armstrong Okoflex",
+        "Ajibola Alese",
+        "Harrison Ashby"
+    ],
+    "fouls": [
+        12,
+        12
+    ],
+    "corners": [
+        4,
+        5
+    ],
+    "crosses": [
+        19,
+        21
+    ],
+    "touches": [
+        501,
+        578
+    ],
+    "tackles": [
+        16,
+        15
+    ],
+    "interceptions": [
+        13,
+        16
+    ],
+    "aerials_won": [
+        25,
+        19
+    ],
+    "clearances": [
+        20,
+        17
+    ],
+    "offsides": [
+        0,
+        1
+    ],
+    "goal_kicks": [
+        5,
+        12
+    ],
+    "throw_ins": [
+        25,
+        26
+    ],
+    "long_balls": [
+        75,
+        87
+    ]
+}

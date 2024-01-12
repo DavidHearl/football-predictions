@@ -1,0 +1,101 @@
+{
+    "goals": [
+        "2",
+        "3"
+    ],
+    "expected_goals": [
+        "2.4",
+        "2.2"
+    ],
+    "home_team": [
+        "Vicente Guaita",
+        "Joel Ward",
+        "Tyrick Mitchell",
+        "Luka Milivojevi\u0107",
+        "Marc Gu\u00e9hi",
+        "Jordan Ayew",
+        "Will Hughes",
+        "Jeffrey Schlupp",
+        "Joachim Andersen",
+        "Christian Benteke",
+        "Odsonne \u00c9douard",
+        "Jack Butland",
+        "Remi Matthews",
+        "James Tomkins",
+        "Michael Olise",
+        "Eberechi Eze",
+        "Jean-Philippe Mateta",
+        "Martin Kelly",
+        "Ja\u00efro Riedewald"
+    ],
+    "away_team": [
+        "\u0141ukasz Fabia\u0144ski",
+        "Vladim\u00edr Coufal",
+        "Michail Antonio",
+        "Manuel Lanzini",
+        "Craig Dawson",
+        "Jarrod Bowen",
+        "Sa\u00efd Benrahma",
+        "Issa Diop",
+        "Tom\u00e1\u0161 Sou\u010dek",
+        "Ben Johnson",
+        "Declan Rice",
+        "Alphonse Areola",
+        "Andriy Yarmolenko",
+        "Nikola Vla\u0161i\u0107",
+        "Mark Noble",
+        "Ryan Fredericks",
+        "Arthur Masuaku",
+        "Alex Kr\u00e1l",
+        "Armstrong Okoflex",
+        "Ajibola Alese"
+    ],
+    "fouls": [
+        6,
+        16
+    ],
+    "corners": [
+        9,
+        1
+    ],
+    "crosses": [
+        38,
+        15
+    ],
+    "touches": [
+        757,
+        515
+    ],
+    "tackles": [
+        15,
+        31
+    ],
+    "interceptions": [
+        6,
+        11
+    ],
+    "aerials_won": [
+        19,
+        13
+    ],
+    "clearances": [
+        16,
+        39
+    ],
+    "offsides": [
+        0,
+        2
+    ],
+    "goal_kicks": [
+        8,
+        10
+    ],
+    "throw_ins": [
+        31,
+        23
+    ],
+    "long_balls": [
+        73,
+        72
+    ]
+}

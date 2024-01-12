@@ -1,0 +1,102 @@
+{
+    "goals": [
+        "1",
+        "1"
+    ],
+    "expected_goals": [
+        "2.0",
+        "0.2"
+    ],
+    "home_team": [
+        "Robert S\u00e1nchez",
+        "Marc Cucurella",
+        "Adam Webster",
+        "Neal Maupay",
+        "Alexis Mac Allister",
+        "Leandro Trossard",
+        "Pascal Gro\u00df",
+        "Adam Lallana",
+        "Jakub Moder",
+        "Dan Burn",
+        "Jo\u00ebl Veltman",
+        "Kjell Scherpen",
+        "Tariq Lamptey",
+        "Steven Alzate",
+        "Danny Welbeck",
+        "Solly March",
+        "Mois\u00e9s Caicedo",
+        "Haydon Roberts",
+        "Marc Leonard",
+        "Evan Ferguson"
+    ],
+    "away_team": [
+        "Jack Butland",
+        "Joel Ward",
+        "Tyrick Mitchell",
+        "Marc Gu\u00e9hi",
+        "Michael Olise",
+        "Eberechi Eze",
+        "Will Hughes",
+        "Jeffrey Schlupp",
+        "Joachim Andersen",
+        "Odsonne \u00c9douard",
+        "Conor Gallagher",
+        "Vicente Guaita",
+        "Luka Milivojevi\u0107",
+        "Jean-Philippe Mateta",
+        "Nathaniel Clyne",
+        "Christian Benteke",
+        "Martin Kelly",
+        "Nathan Ferguson",
+        "Ja\u00efro Riedewald",
+        "Jesuran Rak Sakyi"
+    ],
+    "fouls": [
+        11,
+        7
+    ],
+    "corners": [
+        9,
+        0
+    ],
+    "crosses": [
+        33,
+        7
+    ],
+    "touches": [
+        735,
+        502
+    ],
+    "tackles": [
+        21,
+        17
+    ],
+    "interceptions": [
+        9,
+        6
+    ],
+    "aerials_won": [
+        19,
+        10
+    ],
+    "clearances": [
+        10,
+        25
+    ],
+    "offsides": [
+        1,
+        2
+    ],
+    "goal_kicks": [
+        5,
+        11
+    ],
+    "throw_ins": [
+        24,
+        23
+    ],
+    "long_balls": [
+        77,
+        56
+    ]
+}

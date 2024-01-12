@@ -1,0 +1,102 @@
+{
+    "goals": [
+        "0",
+        "2"
+    ],
+    "expected_goals": [
+        "0.5",
+        "2.0"
+    ],
+    "home_team": [
+        "Tim Krul",
+        "Max Aarons",
+        "Ben Gibson",
+        "Billy Gilmour",
+        "Przemys\u0142aw P\u0142acheta",
+        "Todd Cantwell",
+        "Ozan Kabak",
+        "Jakob S\u00f8rensen",
+        "Brandon Williams",
+        "Teemu Pukki",
+        "Kenny McLean",
+        "Angus Gunn",
+        "Sam Byram",
+        "Kieran Dowell",
+        "Bali Mumba",
+        "Dimitris Giannoulis",
+        "Adam Idah",
+        "Jonathan Tomkinson",
+        "Thomas Dickson-Peters",
+        "Jon Rowe"
+    ],
+    "away_team": [
+        "Emiliano Mart\u00ednez",
+        "Matty Cash",
+        "Matt Targett",
+        "Ezri Konsa",
+        "Tyrone Mings",
+        "Douglas Luiz",
+        "John McGinn",
+        "Emi Buend\u00eda",
+        "Ollie Watkins",
+        "Ashley Young",
+        "Jacob Ramsey",
+        "Filip Marshall",
+        "Axel Tuanzebe",
+        "Tr\u00e9z\u00e9guet",
+        "Danny Ings",
+        "Kortney Hause",
+        "Jaden Philogene Bidace",
+        "Carney Chukwuemeka",
+        "Cameron Archer",
+        "Tim Iroegbunam"
+    ],
+    "fouls": [
+        12,
+        9
+    ],
+    "corners": [
+        7,
+        10
+    ],
+    "crosses": [
+        18,
+        19
+    ],
+    "touches": [
+        621,
+        605
+    ],
+    "tackles": [
+        23,
+        17
+    ],
+    "interceptions": [
+        12,
+        7
+    ],
+    "aerials_won": [
+        14,
+        12
+    ],
+    "clearances": [
+        28,
+        18
+    ],
+    "offsides": [
+        0,
+        0
+    ],
+    "goal_kicks": [
+        3,
+        6
+    ],
+    "throw_ins": [
+        24,
+        19
+    ],
+    "long_balls": [
+        75,
+        54
+    ]
+}

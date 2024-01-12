@@ -1,0 +1,102 @@
+{
+    "goals": [
+        "1",
+        "1"
+    ],
+    "expected_goals": [
+        "0.9",
+        "2.4"
+    ],
+    "home_team": [
+        "Keylor Navas",
+        "Joe Worrall",
+        "Jonjo Shelvey",
+        "Jack Colback",
+        "Morgan Gibbs-White",
+        "Brennan Johnson",
+        "Remo Freuler",
+        "Serge Aurier",
+        "Danilo",
+        "Renan Lodi",
+        "Felipe",
+        "Wayne Hennessey",
+        "Orel Mangala",
+        "Neco Williams",
+        "Harry Toffolo",
+        "Sam Surridge",
+        "Emmanuel Dennis",
+        "Gustavo Scarpa",
+        "Andr\u00e9 Ayew",
+        "Chris Wood"
+    ],
+    "away_team": [
+        "Ederson",
+        "Kyle Walker",
+        "R\u00faben Dias",
+        "\u0130lkay G\u00fcndo\u011fan",
+        "Erling Haaland",
+        "Jack Grealish",
+        "Aymeric Laporte",
+        "Rodri",
+        "Kevin De Bruyne",
+        "Bernardo Silva",
+        "Phil Foden",
+        "Stefan Ortega",
+        "Kalvin Phillips",
+        "Nathan Ak\u00e9",
+        "Juli\u00e1n \u00c1lvarez",
+        "Sergio G\u00f3mez",
+        "Manuel Akanji",
+        "Riyad Mahrez",
+        "Cole Palmer",
+        "Rico Lewis"
+    ],
+    "fouls": [
+        8,
+        6
+    ],
+    "corners": [
+        0,
+        10
+    ],
+    "crosses": [
+        4,
+        34
+    ],
+    "touches": [
+        385,
+        817
+    ],
+    "tackles": [
+        13,
+        10
+    ],
+    "interceptions": [
+        8,
+        2
+    ],
+    "aerials_won": [
+        13,
+        10
+    ],
+    "clearances": [
+        43,
+        5
+    ],
+    "offsides": [
+        2,
+        0
+    ],
+    "goal_kicks": [
+        15,
+        4
+    ],
+    "throw_ins": [
+        9,
+        27
+    ],
+    "long_balls": [
+        68,
+        81
+    ]
+}

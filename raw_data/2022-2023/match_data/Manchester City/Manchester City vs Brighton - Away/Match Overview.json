@@ -1,0 +1,102 @@
+{
+    "goals": [
+        "1",
+        "1"
+    ],
+    "expected_goals": [
+        "2.2",
+        "1.8"
+    ],
+    "home_team": [
+        "Jason Steele",
+        "Levi Colwill",
+        "Pascal Gro\u00df",
+        "Danny Welbeck",
+        "Julio C\u00e9sar Enciso",
+        "Kaoru Mitoma",
+        "Mois\u00e9s Caicedo",
+        "Billy Gilmour",
+        "Jan Paul van Hecke",
+        "Pervis Estupi\u00f1\u00e1n",
+        "Facundo Buonanotte",
+        "Thomas Mcgill",
+        "Adam Webster",
+        "Lewis Dunk",
+        "Alexis Mac Allister",
+        "Deniz Undav",
+        "Yasin Ayari",
+        "Evan Ferguson",
+        "Jo\u00ebl Veltman",
+        "Cameron Peupion"
+    ],
+    "away_team": [
+        "Stefan Ortega",
+        "Kyle Walker",
+        "John Stones",
+        "\u0130lkay G\u00fcndo\u011fan",
+        "Erling Haaland",
+        "Rodri",
+        "Kevin De Bruyne",
+        "Bernardo Silva",
+        "Riyad Mahrez",
+        "Phil Foden",
+        "Rico Lewis",
+        "Ederson",
+        "Kalvin Phillips",
+        "Juli\u00e1n \u00c1lvarez",
+        "Sergio G\u00f3mez",
+        "Shea Charles",
+        "Nico O\u2019Reilly",
+        "Cole Palmer",
+        "Alexander Robertson",
+        "Ben Knight"
+    ],
+    "fouls": [
+        16,
+        11
+    ],
+    "corners": [
+        5,
+        1
+    ],
+    "crosses": [
+        18,
+        10
+    ],
+    "touches": [
+        516,
+        714
+    ],
+    "tackles": [
+        12,
+        12
+    ],
+    "interceptions": [
+        11,
+        3
+    ],
+    "aerials_won": [
+        9,
+        12
+    ],
+    "clearances": [
+        6,
+        12
+    ],
+    "offsides": [
+        2,
+        0
+    ],
+    "goal_kicks": [
+        7,
+        5
+    ],
+    "throw_ins": [
+        6,
+        11
+    ],
+    "long_balls": [
+        47,
+        46
+    ]
+}

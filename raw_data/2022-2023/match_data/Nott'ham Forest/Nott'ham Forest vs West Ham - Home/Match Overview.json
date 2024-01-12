@@ -1,0 +1,101 @@
+{
+    "goals": [
+        "1",
+        "0"
+    ],
+    "expected_goals": [
+        "1.3",
+        "2.1"
+    ],
+    "home_team": [
+        "Dean Henderson",
+        "Joe Worrall",
+        "Orel Mangala",
+        "Neco Williams",
+        "Taiwo Awoniyi",
+        "Jesse Lingard",
+        "Lewis O'Brien",
+        "Harry Toffolo",
+        "Moussa Niakhate",
+        "Brennan Johnson",
+        "Scott McKenna",
+        "Wayne Hennessey",
+        "Giulian Biancone",
+        "Steve Cook",
+        "Lo\u00efc Mbe Soh",
+        "Sam Surridge",
+        "Alex Mighten",
+        "Caf\u00fa",
+        "Lyle Taylor",
+        "Oliver Hammond"
+    ],
+    "away_team": [
+        "\u0141ukasz Fabia\u0144ski",
+        "Ben Johnson",
+        "Aaron Cresswell",
+        "Kurt Zouma",
+        "Vladim\u00edr Coufal",
+        "Pablo Fornals",
+        "Michail Antonio",
+        "Jarrod Bowen",
+        "Sa\u00efd Benrahma",
+        "Tom\u00e1\u0161 Sou\u010dek",
+        "Declan Rice",
+        "Alphonse Areola",
+        "Darren Randolph",
+        "Gianluca Scamacca",
+        "Manuel Lanzini",
+        "Flynn Downes",
+        "Maxwel Cornet",
+        "Conor Coventry",
+        "Harrison Ashby"
+    ],
+    "fouls": [
+        10,
+        11
+    ],
+    "corners": [
+        6,
+        7
+    ],
+    "crosses": [
+        20,
+        26
+    ],
+    "touches": [
+        464,
+        545
+    ],
+    "tackles": [
+        16,
+        16
+    ],
+    "interceptions": [
+        5,
+        7
+    ],
+    "aerials_won": [
+        18,
+        20
+    ],
+    "clearances": [
+        31,
+        22
+    ],
+    "offsides": [
+        3,
+        2
+    ],
+    "goal_kicks": [
+        10,
+        5
+    ],
+    "throw_ins": [
+        17,
+        26
+    ],
+    "long_balls": [
+        70,
+        80
+    ]
+}

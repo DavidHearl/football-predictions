@@ -1,21 +1,6 @@
 [
     {
-        "('Unnamed: 0_level_0', 'Minute')": "5",
-        "('Unnamed: 1_level_0', 'Player')": "Jakub Moder",
-        "('Unnamed: 2_level_0', 'Squad')": "Brighton",
-        "('Unnamed: 3_level_0', 'xG')": 0.04,
-        "('Unnamed: 4_level_0', 'PSxG')": null,
-        "('Unnamed: 5_level_0', 'Outcome')": "Blocked",
-        "('Unnamed: 6_level_0', 'Distance')": 17.0,
-        "('Unnamed: 7_level_0', 'Body Part')": "Right Foot",
-        "('Unnamed: 8_level_0', 'Notes')": null,
-        "('SCA 1', 'Player')": "Neal Maupay",
-        "('SCA 1', 'Event')": "Pass (Live)",
-        "('SCA 2', 'Player')": "Jakub Moder",
-        "('SCA 2', 'Event')": "Tackle"
-    },
-    {
-        "('Unnamed: 0_level_0', 'Minute')": "17",
+        "('Unnamed: 0_level_0', 'Minute')": 17.0,
         "('Unnamed: 1_level_0', 'Player')": "Matty Cash",
         "('Unnamed: 2_level_0', 'Squad')": "Aston Villa",
         "('Unnamed: 3_level_0', 'xG')": 0.03,
@@ -30,22 +15,7 @@
         "('SCA 2', 'Event')": "Pass (Dead)"
     },
     {
-        "('Unnamed: 0_level_0', 'Minute')": "22",
-        "('Unnamed: 1_level_0', 'Player')": "Alexis Mac Allister",
-        "('Unnamed: 2_level_0', 'Squad')": "Brighton",
-        "('Unnamed: 3_level_0', 'xG')": 0.17,
-        "('Unnamed: 4_level_0', 'PSxG')": null,
-        "('Unnamed: 5_level_0', 'Outcome')": "Woodwork",
-        "('Unnamed: 6_level_0', 'Distance')": 15.0,
-        "('Unnamed: 7_level_0', 'Body Part')": "Right Foot",
-        "('Unnamed: 8_level_0', 'Notes')": null,
-        "('SCA 1', 'Player')": "Solly March",
-        "('SCA 1', 'Event')": "Pass (Live)",
-        "('SCA 2', 'Player')": "Marc Cucurella",
-        "('SCA 2', 'Event')": "Pass (Live)"
-    },
-    {
-        "('Unnamed: 0_level_0', 'Minute')": "26",
+        "('Unnamed: 0_level_0', 'Minute')": 26.0,
         "('Unnamed: 1_level_0', 'Player')": "Jacob Ramsey",
         "('Unnamed: 2_level_0', 'Squad')": "Aston Villa",
         "('Unnamed: 3_level_0', 'xG')": 0.15,
@@ -60,7 +30,7 @@
         "('SCA 2', 'Event')": "Pass (Live)"
     },
     {
-        "('Unnamed: 0_level_0', 'Minute')": "27",
+        "('Unnamed: 0_level_0', 'Minute')": 27.0,
         "('Unnamed: 1_level_0', 'Player')": "Philippe Coutinho",
         "('Unnamed: 2_level_0', 'Squad')": "Aston Villa",
         "('Unnamed: 3_level_0', 'xG')": 0.03,
@@ -75,52 +45,7 @@
         "('SCA 2', 'Event')": "Pass (Dead)"
     },
     {
-        "('Unnamed: 0_level_0', 'Minute')": "31",
-        "('Unnamed: 1_level_0', 'Player')": "Tariq Lamptey",
-        "('Unnamed: 2_level_0', 'Squad')": "Brighton",
-        "('Unnamed: 3_level_0', 'xG')": 0.02,
-        "('Unnamed: 4_level_0', 'PSxG')": null,
-        "('Unnamed: 5_level_0', 'Outcome')": "Blocked",
-        "('Unnamed: 6_level_0', 'Distance')": 23.0,
-        "('Unnamed: 7_level_0', 'Body Part')": "Left Foot",
-        "('Unnamed: 8_level_0', 'Notes')": null,
-        "('SCA 1', 'Player')": "Yves Bissouma",
-        "('SCA 1', 'Event')": "Pass (Live)",
-        "('SCA 2', 'Player')": "Alexis Mac Allister",
-        "('SCA 2', 'Event')": "Pass (Live)"
-    },
-    {
-        "('Unnamed: 0_level_0', 'Minute')": "31",
-        "('Unnamed: 1_level_0', 'Player')": "Alexis Mac Allister",
-        "('Unnamed: 2_level_0', 'Squad')": "Brighton",
-        "('Unnamed: 3_level_0', 'xG')": 0.02,
-        "('Unnamed: 4_level_0', 'PSxG')": null,
-        "('Unnamed: 5_level_0', 'Outcome')": "Blocked",
-        "('Unnamed: 6_level_0', 'Distance')": 30.0,
-        "('Unnamed: 7_level_0', 'Body Part')": "Right Foot",
-        "('Unnamed: 8_level_0', 'Notes')": null,
-        "('SCA 1', 'Player')": "Tariq Lamptey",
-        "('SCA 1', 'Event')": "Shot",
-        "('SCA 2', 'Player')": null,
-        "('SCA 2', 'Event')": null
-    },
-    {
-        "('Unnamed: 0_level_0', 'Minute')": "32",
-        "('Unnamed: 1_level_0', 'Player')": "Tariq Lamptey",
-        "('Unnamed: 2_level_0', 'Squad')": "Brighton",
-        "('Unnamed: 3_level_0', 'xG')": 0.01,
-        "('Unnamed: 4_level_0', 'PSxG')": null,
-        "('Unnamed: 5_level_0', 'Outcome')": "Off Target",
-        "('Unnamed: 6_level_0', 'Distance')": 26.0,
-        "('Unnamed: 7_level_0', 'Body Part')": "Right Foot",
-        "('Unnamed: 8_level_0', 'Notes')": "Volley",
-        "('SCA 1', 'Player')": "Leandro Trossard",
-        "('SCA 1', 'Event')": "Pass (Live)",
-        "('SCA 2', 'Player')": "Leandro Trossard",
-        "('SCA 2', 'Event')": "Take-On"
-    },
-    {
-        "('Unnamed: 0_level_0', 'Minute')": "34",
+        "('Unnamed: 0_level_0', 'Minute')": 34.0,
         "('Unnamed: 1_level_0', 'Player')": "John McGinn",
         "('Unnamed: 2_level_0', 'Squad')": "Aston Villa",
         "('Unnamed: 3_level_0', 'xG')": 0.23,
@@ -131,21 +56,6 @@
         "('Unnamed: 8_level_0', 'Notes')": "Deflected, Volley",
         "('SCA 1', 'Player')": "Douglas Luiz",
         "('SCA 1', 'Event')": "Pass (Live)",
-        "('SCA 2', 'Player')": null,
-        "('SCA 2', 'Event')": null
-    },
-    {
-        "('Unnamed: 0_level_0', 'Minute')": "45+2",
-        "('Unnamed: 1_level_0', 'Player')": "Yves Bissouma",
-        "('Unnamed: 2_level_0', 'Squad')": "Brighton",
-        "('Unnamed: 3_level_0', 'xG')": 0.03,
-        "('Unnamed: 4_level_0', 'PSxG')": null,
-        "('Unnamed: 5_level_0', 'Outcome')": "Off Target",
-        "('Unnamed: 6_level_0', 'Distance')": 24.0,
-        "('Unnamed: 7_level_0', 'Body Part')": "Right Foot",
-        "('Unnamed: 8_level_0', 'Notes')": null,
-        "('SCA 1', 'Player')": null,
-        "('SCA 1', 'Event')": null,
         "('SCA 2', 'Player')": null,
         "('SCA 2', 'Event')": null
     },
@@ -165,7 +75,7 @@
         "('SCA 2', 'Event')": null
     },
     {
-        "('Unnamed: 0_level_0', 'Minute')": "50",
+        "('Unnamed: 0_level_0', 'Minute')": 50.0,
         "('Unnamed: 1_level_0', 'Player')": "Philippe Coutinho",
         "('Unnamed: 2_level_0', 'Squad')": "Aston Villa",
         "('Unnamed: 3_level_0', 'xG')": 0.05,
@@ -180,7 +90,7 @@
         "('SCA 2', 'Event')": null
     },
     {
-        "('Unnamed: 0_level_0', 'Minute')": "56",
+        "('Unnamed: 0_level_0', 'Minute')": 56.0,
         "('Unnamed: 1_level_0', 'Player')": "Matty Cash",
         "('Unnamed: 2_level_0', 'Squad')": "Aston Villa",
         "('Unnamed: 3_level_0', 'xG')": 0.04,
@@ -195,7 +105,7 @@
         "('SCA 2', 'Event')": "Pass (Dead)"
     },
     {
-        "('Unnamed: 0_level_0', 'Minute')": "59",
+        "('Unnamed: 0_level_0', 'Minute')": 59.0,
         "('Unnamed: 1_level_0', 'Player')": "John McGinn",
         "('Unnamed: 2_level_0', 'Squad')": "Aston Villa",
         "('Unnamed: 3_level_0', 'xG')": 0.02,
@@ -210,7 +120,7 @@
         "('SCA 2', 'Event')": "Fouled"
     },
     {
-        "('Unnamed: 0_level_0', 'Minute')": "60",
+        "('Unnamed: 0_level_0', 'Minute')": 60.0,
         "('Unnamed: 1_level_0', 'Player')": "John McGinn",
         "('Unnamed: 2_level_0', 'Squad')": "Aston Villa",
         "('Unnamed: 3_level_0', 'xG')": 0.02,
@@ -225,37 +135,7 @@
         "('SCA 2', 'Event')": "Fouled"
     },
     {
-        "('Unnamed: 0_level_0', 'Minute')": "62",
-        "('Unnamed: 1_level_0', 'Player')": "Solly March",
-        "('Unnamed: 2_level_0', 'Squad')": "Brighton",
-        "('Unnamed: 3_level_0', 'xG')": 0.02,
-        "('Unnamed: 4_level_0', 'PSxG')": null,
-        "('Unnamed: 5_level_0', 'Outcome')": "Blocked",
-        "('Unnamed: 6_level_0', 'Distance')": 13.0,
-        "('Unnamed: 7_level_0', 'Body Part')": "Head",
-        "('Unnamed: 8_level_0', 'Notes')": null,
-        "('SCA 1', 'Player')": "Jakub Moder",
-        "('SCA 1', 'Event')": "Pass (Live)",
-        "('SCA 2', 'Player')": "Neal Maupay",
-        "('SCA 2', 'Event')": "Pass (Live)"
-    },
-    {
-        "('Unnamed: 0_level_0', 'Minute')": "64",
-        "('Unnamed: 1_level_0', 'Player')": "Lewis Dunk",
-        "('Unnamed: 2_level_0', 'Squad')": "Brighton",
-        "('Unnamed: 3_level_0', 'xG')": 0.02,
-        "('Unnamed: 4_level_0', 'PSxG')": null,
-        "('Unnamed: 5_level_0', 'Outcome')": "Blocked",
-        "('Unnamed: 6_level_0', 'Distance')": 13.0,
-        "('Unnamed: 7_level_0', 'Body Part')": "Head",
-        "('Unnamed: 8_level_0', 'Notes')": "Deflected",
-        "('SCA 1', 'Player')": "Solly March",
-        "('SCA 1', 'Event')": "Pass (Dead)",
-        "('SCA 2', 'Player')": "Danny Welbeck",
-        "('SCA 2', 'Event')": "Pass (Live)"
-    },
-    {
-        "('Unnamed: 0_level_0', 'Minute')": "68",
+        "('Unnamed: 0_level_0', 'Minute')": 68.0,
         "('Unnamed: 1_level_0', 'Player')": "Ollie Watkins",
         "('Unnamed: 2_level_0', 'Squad')": "Aston Villa",
         "('Unnamed: 3_level_0', 'xG')": 0.47,
@@ -267,66 +147,6 @@
         "('SCA 1', 'Player')": "Tyrone Mings",
         "('SCA 1', 'Event')": "Pass (Live)",
         "('SCA 2', 'Player')": "Emiliano Mart\u00ednez",
-        "('SCA 2', 'Event')": "Pass (Live)"
-    },
-    {
-        "('Unnamed: 0_level_0', 'Minute')": "71",
-        "('Unnamed: 1_level_0', 'Player')": "Danny Welbeck",
-        "('Unnamed: 2_level_0', 'Squad')": "Brighton",
-        "('Unnamed: 3_level_0', 'xG')": 0.2,
-        "('Unnamed: 4_level_0', 'PSxG')": null,
-        "('Unnamed: 5_level_0', 'Outcome')": "Off Target",
-        "('Unnamed: 6_level_0', 'Distance')": 9.0,
-        "('Unnamed: 7_level_0', 'Body Part')": "Head",
-        "('Unnamed: 8_level_0', 'Notes')": null,
-        "('SCA 1', 'Player')": "Solly March",
-        "('SCA 1', 'Event')": "Pass (Live)",
-        "('SCA 2', 'Player')": "Tariq Lamptey",
-        "('SCA 2', 'Event')": "Pass (Live)"
-    },
-    {
-        "('Unnamed: 0_level_0', 'Minute')": "76",
-        "('Unnamed: 1_level_0', 'Player')": "Yves Bissouma",
-        "('Unnamed: 2_level_0', 'Squad')": "Brighton",
-        "('Unnamed: 3_level_0', 'xG')": 0.03,
-        "('Unnamed: 4_level_0', 'PSxG')": null,
-        "('Unnamed: 5_level_0', 'Outcome')": "Off Target",
-        "('Unnamed: 6_level_0', 'Distance')": 27.0,
-        "('Unnamed: 7_level_0', 'Body Part')": "Right Foot",
-        "('Unnamed: 8_level_0', 'Notes')": "Volley",
-        "('SCA 1', 'Player')": "Leandro Trossard",
-        "('SCA 1', 'Event')": "Pass (Live)",
-        "('SCA 2', 'Player')": "Marc Cucurella",
-        "('SCA 2', 'Event')": "Pass (Live)"
-    },
-    {
-        "('Unnamed: 0_level_0', 'Minute')": "78",
-        "('Unnamed: 1_level_0', 'Player')": "Leandro Trossard",
-        "('Unnamed: 2_level_0', 'Squad')": "Brighton",
-        "('Unnamed: 3_level_0', 'xG')": 0.06,
-        "('Unnamed: 4_level_0', 'PSxG')": null,
-        "('Unnamed: 5_level_0', 'Outcome')": "Off Target",
-        "('Unnamed: 6_level_0', 'Distance')": 14.0,
-        "('Unnamed: 7_level_0', 'Body Part')": "Right Foot",
-        "('Unnamed: 8_level_0', 'Notes')": "Volley",
-        "('SCA 1', 'Player')": "Marc Cucurella",
-        "('SCA 1', 'Event')": "Pass (Live)",
-        "('SCA 2', 'Player')": "Lewis Dunk",
-        "('SCA 2', 'Event')": "Pass (Live)"
-    },
-    {
-        "('Unnamed: 0_level_0', 'Minute')": "80",
-        "('Unnamed: 1_level_0', 'Player')": "Neal Maupay",
-        "('Unnamed: 2_level_0', 'Squad')": "Brighton",
-        "('Unnamed: 3_level_0', 'xG')": 0.07,
-        "('Unnamed: 4_level_0', 'PSxG')": 0.15,
-        "('Unnamed: 5_level_0', 'Outcome')": "Saved",
-        "('Unnamed: 6_level_0', 'Distance')": 21.0,
-        "('Unnamed: 7_level_0', 'Body Part')": "Right Foot",
-        "('Unnamed: 8_level_0', 'Notes')": null,
-        "('SCA 1', 'Player')": "Lewis Dunk",
-        "('SCA 1', 'Event')": "Pass (Live)",
-        "('SCA 2', 'Player')": "Jo\u00ebl Veltman",
         "('SCA 2', 'Event')": "Pass (Live)"
     }
 ]

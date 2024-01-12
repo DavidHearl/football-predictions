@@ -1,0 +1,102 @@
+{
+    "goals": [
+        "1",
+        "1"
+    ],
+    "expected_goals": [
+        "1.5",
+        "2.1"
+    ],
+    "home_team": [
+        "Illan Meslier",
+        "Luke Ayling",
+        "Junior Firpo",
+        "Robin Koch",
+        "Liam Cooper",
+        "Marc Roca",
+        "Patrick Bamford",
+        "Jack Harrison",
+        "Rodrigo",
+        "Luis Sinisterra",
+        "Weston McKennie",
+        "Joel Robles",
+        "Adam Forshaw",
+        "Brenden Aaronson",
+        "Crysencio Summerville",
+        "Pascal Struijk",
+        "Georginio Rutter",
+        "Rasmus Nissen",
+        "Degnand Gnonto",
+        "Sam Greenwood"
+    ],
+    "away_team": [
+        "Daniel Iversen",
+        "Wout Faes",
+        "\u00c7a\u011flar S\u00f6y\u00fcnc\u00fc",
+        "Harvey Barnes",
+        "Youri Tielemans",
+        "James Maddison",
+        "Kelechi Iheanacho",
+        "Victor Bernth Kristiansen",
+        "Timothy Castagne",
+        "Tet\u00ea",
+        "Boubakary Soumar\u00e9",
+        "Danny Ward",
+        "Jamie Vardy",
+        "Harry Souttar",
+        "Daniel Amartey",
+        "Patson Daka",
+        "Kiernan Dewsbury-Hall",
+        "Nampalys Mendy",
+        "Wilfred Ndidi",
+        "Dennis Praet"
+    ],
+    "fouls": [
+        14,
+        15
+    ],
+    "corners": [
+        3,
+        6
+    ],
+    "crosses": [
+        16,
+        20
+    ],
+    "touches": [
+        497,
+        609
+    ],
+    "tackles": [
+        22,
+        21
+    ],
+    "interceptions": [
+        11,
+        5
+    ],
+    "aerials_won": [
+        16,
+        18
+    ],
+    "clearances": [
+        29,
+        15
+    ],
+    "offsides": [
+        4,
+        6
+    ],
+    "goal_kicks": [
+        5,
+        8
+    ],
+    "throw_ins": [
+        23,
+        29
+    ],
+    "long_balls": [
+        72,
+        57
+    ]
+}

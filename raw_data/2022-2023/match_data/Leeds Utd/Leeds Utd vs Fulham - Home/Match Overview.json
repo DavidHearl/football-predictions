@@ -1,0 +1,102 @@
+{
+    "goals": [
+        "2",
+        "3"
+    ],
+    "expected_goals": [
+        "1.6",
+        "1.8"
+    ],
+    "home_team": [
+        "Illan Meslier",
+        "Luke Ayling",
+        "Robin Koch",
+        "Liam Cooper",
+        "Brenden Aaronson",
+        "Marc Roca",
+        "Jack Harrison",
+        "Rodrigo",
+        "Pascal Struijk",
+        "Luis Sinisterra",
+        "Sam Greenwood",
+        "Joel Robles",
+        "Junior Firpo",
+        "Patrick Bamford",
+        "Crysencio Summerville",
+        "Diego Llorente",
+        "Darko Gyabi",
+        "Rasmus Nissen",
+        "Joe Gelhardt",
+        "Mateusz Klich"
+    ],
+    "away_team": [
+        "Bernd Leno",
+        "Tosin Adarabioyo",
+        "Harrison Reed",
+        "Harry Wilson",
+        "Aleksandar Mitrovi\u0107",
+        "Tim Ream",
+        "Bobby Reid",
+        "Andreas Pereira",
+        "Willian",
+        "Jo\u00e3o Palhinha",
+        "Antonee Robinson",
+        "Marek Rod\u00e1k",
+        "Shane Duffy",
+        "Neeskens Kebano",
+        "Tom Cairney",
+        "Josh Onomah",
+        "Kevin Mbabu",
+        "Carlos Vin\u00edcius",
+        "Issa Diop",
+        "Luke Harris"
+    ],
+    "fouls": [
+        12,
+        8
+    ],
+    "corners": [
+        3,
+        6
+    ],
+    "crosses": [
+        11,
+        17
+    ],
+    "touches": [
+        660,
+        525
+    ],
+    "tackles": [
+        22,
+        16
+    ],
+    "interceptions": [
+        12,
+        10
+    ],
+    "aerials_won": [
+        14,
+        17
+    ],
+    "clearances": [
+        8,
+        16
+    ],
+    "offsides": [
+        4,
+        4
+    ],
+    "goal_kicks": [
+        4,
+        9
+    ],
+    "throw_ins": [
+        25,
+        23
+    ],
+    "long_balls": [
+        66,
+        72
+    ]
+}

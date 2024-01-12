@@ -1,0 +1,102 @@
+{
+    "goals": [
+        "1",
+        "1"
+    ],
+    "expected_goals": [
+        "1.6",
+        "2.2"
+    ],
+    "home_team": [
+        "Illan Meslier",
+        "Junior Firpo",
+        "Robin Koch",
+        "Liam Cooper",
+        "Raphinha",
+        "Diego Llorente",
+        "Rodrigo",
+        "Jack Harrison",
+        "Kalvin Phillips",
+        "Joe Gelhardt",
+        "Mateusz Klich",
+        "Kristoffer Klaesson",
+        "Pascal Struijk",
+        "Lewis Bate",
+        "Leo Fuhr Hjelde",
+        "Charlie Cresswell",
+        "Sam Greenwood",
+        "Jamie Shackleton",
+        "Nohan Kenneh",
+        "Archie Gray"
+    ],
+    "away_team": [
+        "Robert S\u00e1nchez",
+        "Marc Cucurella",
+        "Lewis Dunk",
+        "Yves Bissouma",
+        "Alexis Mac Allister",
+        "Leandro Trossard",
+        "Pascal Gro\u00df",
+        "Danny Welbeck",
+        "Solly March",
+        "Mois\u00e9s Caicedo",
+        "Jo\u00ebl Veltman",
+        "Jason Steele",
+        "Tariq Lamptey",
+        "Adam Webster",
+        "Neal Maupay",
+        "Adam Lallana",
+        "Steven Alzate",
+        "Shane Duffy",
+        "Odeluga Offiah",
+        "Evan Ferguson"
+    ],
+    "fouls": [
+        16,
+        8
+    ],
+    "corners": [
+        8,
+        1
+    ],
+    "crosses": [
+        23,
+        9
+    ],
+    "touches": [
+        549,
+        574
+    ],
+    "tackles": [
+        13,
+        13
+    ],
+    "interceptions": [
+        11,
+        9
+    ],
+    "aerials_won": [
+        13,
+        22
+    ],
+    "clearances": [
+        7,
+        26
+    ],
+    "offsides": [
+        1,
+        1
+    ],
+    "goal_kicks": [
+        10,
+        10
+    ],
+    "throw_ins": [
+        24,
+        21
+    ],
+    "long_balls": [
+        83,
+        85
+    ]
+}

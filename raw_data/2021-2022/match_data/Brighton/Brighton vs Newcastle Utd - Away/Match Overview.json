@@ -1,0 +1,102 @@
+{
+    "goals": [
+        "2",
+        "1"
+    ],
+    "expected_goals": [
+        "1.7",
+        "1.5"
+    ],
+    "home_team": [
+        "Martin D\u00fabravka",
+        "Fabian Sch\u00e4r",
+        "Joelinton",
+        "Jonjo Shelvey",
+        "Matt Targett",
+        "Emil Krafth",
+        "Chris Wood",
+        "Ryan Fraser",
+        "Jacob Murphy",
+        "Joe Willock",
+        "Dan Burn",
+        "Karl Darlow",
+        "Paul Dummett",
+        "Jamaal Lascelles",
+        "Allan Saint-Maximin",
+        "Javier Manquillo",
+        "Miguel Almir\u00f3n",
+        "Dwight Gayle",
+        "Sean Longstaff",
+        "Bruno Guimar\u00e3es"
+    ],
+    "away_team": [
+        "Robert S\u00e1nchez",
+        "Tariq Lamptey",
+        "Marc Cucurella",
+        "Lewis Dunk",
+        "Leandro Trossard",
+        "Pascal Gro\u00df",
+        "Jakub Moder",
+        "Steven Alzate",
+        "Danny Welbeck",
+        "Shane Duffy",
+        "Jo\u00ebl Veltman",
+        "Jason Steele",
+        "Yves Bissouma",
+        "Neal Maupay",
+        "Alexis Mac Allister",
+        "Adam Lallana",
+        "Solly March",
+        "Mois\u00e9s Caicedo",
+        "Haydon Roberts",
+        "Evan Ferguson"
+    ],
+    "fouls": [
+        8,
+        10
+    ],
+    "corners": [
+        4,
+        7
+    ],
+    "crosses": [
+        15,
+        28
+    ],
+    "touches": [
+        456,
+        800
+    ],
+    "tackles": [
+        12,
+        11
+    ],
+    "interceptions": [
+        15,
+        12
+    ],
+    "aerials_won": [
+        22,
+        33
+    ],
+    "clearances": [
+        30,
+        8
+    ],
+    "offsides": [
+        0,
+        4
+    ],
+    "goal_kicks": [
+        8,
+        4
+    ],
+    "throw_ins": [
+        14,
+        23
+    ],
+    "long_balls": [
+        74,
+        90
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "goals": [
+        "0",
+        "1"
+    ],
+    "expected_goals": [
+        "0.7",
+        "1.5"
+    ],
+    "home_team": [
+        "Danny Ward",
+        "James Justin",
+        "Jonny Evans",
+        "Harvey Barnes",
+        "Youri Tielemans",
+        "Jamie Vardy",
+        "James Maddison",
+        "Kiernan Dewsbury-Hall",
+        "Wilfred Ndidi",
+        "Luke Thomas",
+        "Boubakary Soumar\u00e9",
+        "Daniel Iversen",
+        "\u00c7a\u011flar S\u00f6y\u00fcnc\u00fc",
+        "Marc Albrighton",
+        "Kelechi Iheanacho",
+        "Ayoze P\u00e9rez",
+        "Patson Daka",
+        "Dennis Praet",
+        "Timothy Castagne",
+        "Lewis Brunt"
+    ],
+    "away_team": [
+        "David de Gea",
+        "Lisandro Mart\u00ednez",
+        "Bruno Fernandes",
+        "Marcus Rashford",
+        "Tyrell Malacia",
+        "Christian Eriksen",
+        "Rapha\u00ebl Varane",
+        "Diogo Dalot",
+        "Jadon Sancho",
+        "Anthony Elanga",
+        "Scott McTominay",
+        "Tom Heaton",
+        "Matej Kovar",
+        "Victor Lindel\u00f6f",
+        "Harry Maguire",
+        "Cristiano Ronaldo",
+        "Fred",
+        "Casemiro",
+        "Donny van de Beek",
+        "Alejandro Garnacho"
+    ],
+    "fouls": [
+        7,
+        15
+    ],
+    "corners": [
+        1,
+        3
+    ],
+    "crosses": [
+        13,
+        12
+    ],
+    "touches": [
+        747,
+        648
+    ],
+    "tackles": [
+        21,
+        15
+    ],
+    "interceptions": [
+        17,
+        8
+    ],
+    "aerials_won": [
+        18,
+        16
+    ],
+    "clearances": [
+        18,
+        10
+    ],
+    "offsides": [
+        0,
+        2
+    ],
+    "goal_kicks": [
+        4,
+        8
+    ],
+    "throw_ins": [
+        18,
+        24
+    ],
+    "long_balls": [
+        64,
+        82
+    ]
+}

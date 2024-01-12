@@ -1,0 +1,102 @@
+{
+    "goals": [
+        "5",
+        "1"
+    ],
+    "expected_goals": [
+        "1.5",
+        "0.5"
+    ],
+    "home_team": [
+        "David de Gea",
+        "Victor Lindel\u00f6f",
+        "Harry Maguire",
+        "Paul Pogba",
+        "Mason Greenwood",
+        "Fred",
+        "Bruno Fernandes",
+        "Daniel James",
+        "Luke Shaw",
+        "Aaron Wan-Bissaka",
+        "Scott McTominay",
+        "Tom Heaton",
+        "Juan Mata",
+        "Anthony Martial",
+        "Andreas Pereira",
+        "Diogo Dalot",
+        "Jadon Sancho",
+        "Nemanja Mati\u0107",
+        "Brandon Williams",
+        "Donny van de Beek"
+    ],
+    "away_team": [
+        "Illan Meslier",
+        "Luke Ayling",
+        "Robin Koch",
+        "Liam Cooper",
+        "Patrick Bamford",
+        "Raphinha",
+        "Stuart Dallas",
+        "Rodrigo",
+        "Pascal Struijk",
+        "Jack Harrison",
+        "Mateusz Klich",
+        "Kristoffer Klaesson",
+        "Junior Firpo",
+        "Adam Forshaw",
+        "Tyler Roberts",
+        "H\u00e9lder Costa",
+        "Kalvin Phillips",
+        "Crysencio Summerville",
+        "Sam Greenwood",
+        "Jamie Shackleton"
+    ],
+    "fouls": [
+        11,
+        9
+    ],
+    "corners": [
+        5,
+        4
+    ],
+    "crosses": [
+        11,
+        14
+    ],
+    "touches": [
+        568,
+        584
+    ],
+    "tackles": [
+        6,
+        23
+    ],
+    "interceptions": [
+        8,
+        14
+    ],
+    "aerials_won": [
+        11,
+        9
+    ],
+    "clearances": [
+        16,
+        12
+    ],
+    "offsides": [
+        2,
+        3
+    ],
+    "goal_kicks": [
+        12,
+        10
+    ],
+    "throw_ins": [
+        27,
+        17
+    ],
+    "long_balls": [
+        57,
+        70
+    ]
+}

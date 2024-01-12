@@ -1,0 +1,102 @@
+{
+    "goals": [
+        "1",
+        "2"
+    ],
+    "expected_goals": [
+        "1.2",
+        "1.6"
+    ],
+    "home_team": [
+        "Illan Meslier",
+        "Junior Firpo",
+        "Liam Cooper",
+        "Raphinha",
+        "Stuart Dallas",
+        "Rodrigo",
+        "Daniel James",
+        "Kalvin Phillips",
+        "Charlie Cresswell",
+        "Mateusz Klich",
+        "Jamie Shackleton",
+        "Kristoffer Klaesson",
+        "Tyler Roberts",
+        "Jack Harrison",
+        "Joe Gelhardt",
+        "Leo Fuhr Hjelde",
+        "Cody Drameh",
+        "Crysencio Summerville",
+        "Sam Greenwood",
+        "Liam McCarron"
+    ],
+    "away_team": [
+        "\u0141ukasz Fabia\u0144ski",
+        "Aaron Cresswell",
+        "Kurt Zouma",
+        "Vladim\u00edr Coufal",
+        "Pablo Fornals",
+        "Michail Antonio",
+        "Jarrod Bowen",
+        "Angelo Ogbonna",
+        "Sa\u00efd Benrahma",
+        "Tom\u00e1\u0161 Sou\u010dek",
+        "Declan Rice",
+        "Alphonse Areola",
+        "Andriy Yarmolenko",
+        "Manuel Lanzini",
+        "Nikola Vla\u0161i\u0107",
+        "Craig Dawson",
+        "Mark Noble",
+        "Issa Diop",
+        "Ben Johnson",
+        "Alex Kr\u00e1l"
+    ],
+    "fouls": [
+        10,
+        6
+    ],
+    "corners": [
+        5,
+        7
+    ],
+    "crosses": [
+        13,
+        21
+    ],
+    "touches": [
+        561,
+        500
+    ],
+    "tackles": [
+        16,
+        15
+    ],
+    "interceptions": [
+        4,
+        7
+    ],
+    "aerials_won": [
+        18,
+        19
+    ],
+    "clearances": [
+        16,
+        13
+    ],
+    "offsides": [
+        2,
+        0
+    ],
+    "goal_kicks": [
+        10,
+        5
+    ],
+    "throw_ins": [
+        15,
+        22
+    ],
+    "long_balls": [
+        55,
+        71
+    ]
+}

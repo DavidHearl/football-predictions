@@ -1,0 +1,102 @@
+{
+    "goals": [
+        "0",
+        "2"
+    ],
+    "expected_goals": [
+        "0.7",
+        "3.5"
+    ],
+    "home_team": [
+        "Keylor Navas",
+        "Neco Williams",
+        "Taiwo Awoniyi",
+        "Morgan Gibbs-White",
+        "Moussa Niakhate",
+        "Brennan Johnson",
+        "Remo Freuler",
+        "Scott McKenna",
+        "Danilo",
+        "Renan Lodi",
+        "Felipe",
+        "Wayne Hennessey",
+        "Joe Worrall",
+        "Orel Mangala",
+        "Jonjo Shelvey",
+        "Jesse Lingard",
+        "Harry Toffolo",
+        "Sam Surridge",
+        "Emmanuel Dennis",
+        "Andr\u00e9 Ayew"
+    ],
+    "away_team": [
+        "David de Gea",
+        "Victor Lindel\u00f6f",
+        "Harry Maguire",
+        "Bruno Fernandes",
+        "Anthony Martial",
+        "Christian Eriksen",
+        "Casemiro",
+        "Diogo Dalot",
+        "Antony",
+        "Jadon Sancho",
+        "Aaron Wan-Bissaka",
+        "Nathan Bishop",
+        "Jack Butland",
+        "Fred",
+        "Wout Weghorst",
+        "Facundo Pellistri",
+        "Brandon Williams",
+        "Anthony Elanga",
+        "Zidane Iqbal",
+        "Marc Jurado"
+    ],
+    "fouls": [
+        9,
+        9
+    ],
+    "corners": [
+        4,
+        9
+    ],
+    "crosses": [
+        12,
+        19
+    ],
+    "touches": [
+        444,
+        767
+    ],
+    "tackles": [
+        20,
+        12
+    ],
+    "interceptions": [
+        11,
+        12
+    ],
+    "aerials_won": [
+        13,
+        15
+    ],
+    "clearances": [
+        27,
+        16
+    ],
+    "offsides": [
+        1,
+        3
+    ],
+    "goal_kicks": [
+        11,
+        8
+    ],
+    "throw_ins": [
+        19,
+        25
+    ],
+    "long_balls": [
+        76,
+        63
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "goals": [
+        "1",
+        "1"
+    ],
+    "expected_goals": [
+        "1.9",
+        "0.7"
+    ],
+    "home_team": [
+        "Nick Pope",
+        "Kieran Trippier",
+        "Fabian Sch\u00e4r",
+        "Joelinton",
+        "Matt Targett",
+        "Alexander Isak",
+        "Ryan Fraser",
+        "Miguel Almir\u00f3n",
+        "Joe Willock",
+        "Dan Burn",
+        "Bruno Guimar\u00e3es",
+        "Loris Karius",
+        "Sven Botman",
+        "Jamaal Lascelles",
+        "Matt Ritchie",
+        "Jamal Lewis",
+        "Javier Manquillo",
+        "Chris Wood",
+        "Jacob Murphy",
+        "Sean Longstaff"
+    ],
+    "away_team": [
+        "Neto",
+        "Lewis Cook",
+        "Chris Mepham",
+        "Jefferson Lerma",
+        "Dominic Solanke",
+        "Ryan Christie",
+        "Adam Smith",
+        "Marcus Tavernier",
+        "Marcos Senesi",
+        "Philip Billing",
+        "Jordan Zemura",
+        "Mark Travers",
+        "Jack Stephens",
+        "Emiliano Marcondes",
+        "Jack Stacey",
+        "Jamal Lowe",
+        "Junior Stanislas",
+        "Siriki Demb\u00e9l\u00e9",
+        "Kieffer Moore",
+        "Jaidon Anthony"
+    ],
+    "fouls": [
+        10,
+        11
+    ],
+    "corners": [
+        8,
+        1
+    ],
+    "crosses": [
+        33,
+        5
+    ],
+    "touches": [
+        809,
+        409
+    ],
+    "tackles": [
+        16,
+        18
+    ],
+    "interceptions": [
+        1,
+        8
+    ],
+    "aerials_won": [
+        13,
+        11
+    ],
+    "clearances": [
+        9,
+        35
+    ],
+    "offsides": [
+        3,
+        1
+    ],
+    "goal_kicks": [
+        6,
+        11
+    ],
+    "throw_ins": [
+        27,
+        15
+    ],
+    "long_balls": [
+        60,
+        52
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "goals": [
+        "0",
+        "3"
+    ],
+    "expected_goals": [
+        "0.2",
+        "2.2"
+    ],
+    "home_team": [
+        "Karl Darlow",
+        "Ciaran Clark",
+        "Jamaal Lascelles",
+        "Callum Wilson",
+        "Allan Saint-Maximin",
+        "Matt Ritchie",
+        "Isaac Hayden",
+        "Emil Krafth",
+        "Javier Manquillo",
+        "Ryan Fraser",
+        "Sean Longstaff",
+        "Martin D\u00fabravka",
+        "Fabian Sch\u00e4r",
+        "Joelinton",
+        "Jonjo Shelvey",
+        "Jamal Lewis",
+        "Jacob Murphy",
+        "Miguel Almir\u00f3n",
+        "Joe Willock",
+        "Dwight Gayle"
+    ],
+    "away_team": [
+        "Edouard Mendy",
+        "Antonio R\u00fcdiger",
+        "Andreas Christensen",
+        "Jorginho",
+        "Thiago Silva",
+        "N'Golo Kant\u00e9",
+        "Callum Hudson-Odoi",
+        "Ben Chilwell",
+        "Hakim Ziyech",
+        "Reece James",
+        "Kai Havertz",
+        "Kepa Arrizabalaga",
+        "Marcus Bettinelli",
+        "Marcos Alonso",
+        "Ruben Loftus-Cheek",
+        "Trevoh Chalobah",
+        "Sa\u00fal \u00d1\u00edguez",
+        "Ross Barkley",
+        "C\u00e9sar Azpilicueta",
+        "Malang Sarr"
+    ],
+    "fouls": [
+        14,
+        12
+    ],
+    "corners": [
+        0,
+        2
+    ],
+    "crosses": [
+        7,
+        19
+    ],
+    "touches": [
+        321,
+        897
+    ],
+    "tackles": [
+        10,
+        12
+    ],
+    "interceptions": [
+        6,
+        3
+    ],
+    "aerials_won": [
+        21,
+        16
+    ],
+    "clearances": [
+        24,
+        10
+    ],
+    "offsides": [
+        1,
+        4
+    ],
+    "goal_kicks": [
+        11,
+        2
+    ],
+    "throw_ins": [
+        11,
+        15
+    ],
+    "long_balls": [
+        64,
+        34
+    ]
+}

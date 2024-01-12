@@ -1,0 +1,102 @@
+{
+    "goals": [
+        "1",
+        "0"
+    ],
+    "expected_goals": [
+        "1.2",
+        "0.6"
+    ],
+    "home_team": [
+        "David de Gea",
+        "Victor Lindel\u00f6f",
+        "Bruno Fernandes",
+        "Marcus Rashford",
+        "Tyrell Malacia",
+        "Christian Eriksen",
+        "Marcel Sabitzer",
+        "Casemiro",
+        "Diogo Dalot",
+        "Luke Shaw",
+        "Jadon Sancho",
+        "Jack Butland",
+        "Harry Maguire",
+        "Anthony Martial",
+        "Fred",
+        "Antony",
+        "Wout Weghorst",
+        "Facundo Pellistri",
+        "Aaron Wan-Bissaka",
+        "Brandon Williams"
+    ],
+    "away_team": [
+        "Emiliano Mart\u00ednez",
+        "Ezri Konsa",
+        "Tyrone Mings",
+        "Douglas Luiz",
+        "John McGinn",
+        "Emi Buend\u00eda",
+        "Ollie Watkins",
+        "\u00c1lex Moreno",
+        "Ashley Young",
+        "Leander Dendoncker",
+        "Jacob Ramsey",
+        "Robin Olsen",
+        "Diego Carlos",
+        "Bertrand Traor\u00e9",
+        "Calum Chambers",
+        "Jhon Dur\u00e1n",
+        "Lucas Digne",
+        "Seb Revan",
+        "Tommi O'Reilly",
+        "Kadan Young"
+    ],
+    "fouls": [
+        16,
+        7
+    ],
+    "corners": [
+        1,
+        4
+    ],
+    "crosses": [
+        6,
+        9
+    ],
+    "touches": [
+        650,
+        516
+    ],
+    "tackles": [
+        14,
+        15
+    ],
+    "interceptions": [
+        12,
+        2
+    ],
+    "aerials_won": [
+        6,
+        6
+    ],
+    "clearances": [
+        15,
+        18
+    ],
+    "offsides": [
+        7,
+        3
+    ],
+    "goal_kicks": [
+        4,
+        7
+    ],
+    "throw_ins": [
+        28,
+        21
+    ],
+    "long_balls": [
+        81,
+        68
+    ]
+}

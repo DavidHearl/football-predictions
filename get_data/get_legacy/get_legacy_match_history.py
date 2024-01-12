@@ -227,7 +227,7 @@ class LegacyMatchHistory:
 				# Selects each match within the 'completed matches.json' file
 				for match in data:
 					# Add a delay to prevent the server from blocking the request
-					time.sleep(0.75)
+					time.sleep(1)
 					
 					# Creates variables for each column in the JSON file
 					opponent = match.get('Opponent', '')
@@ -358,7 +358,7 @@ class LegacyMatchHistory:
 
 							for i in range(8):
 								# Add a delay to prevent the server from blocking the request
-								time.sleep(0.75)
+								time.sleep(1)
 
 								# Selects different table set for home and away teams
 								if home_away == 'Home':

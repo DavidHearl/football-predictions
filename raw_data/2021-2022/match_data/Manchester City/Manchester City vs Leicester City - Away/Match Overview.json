@@ -1,0 +1,102 @@
+{
+    "goals": [
+        "0",
+        "1"
+    ],
+    "expected_goals": [
+        "0.6",
+        "2.8"
+    ],
+    "home_team": [
+        "Kasper Schmeichel",
+        "\u00c7a\u011flar S\u00f6y\u00fcnc\u00fc",
+        "Ryan Bertrand",
+        "Harvey Barnes",
+        "Youri Tielemans",
+        "Jamie Vardy",
+        "James Maddison",
+        "Marc Albrighton",
+        "Jannik Vestergaard",
+        "Wilfred Ndidi",
+        "Timothy Castagne",
+        "Danny Ward",
+        "Jonny Evans",
+        "Kelechi Iheanacho",
+        "Daniel Amartey",
+        "Ricardo Pereira",
+        "Kiernan Dewsbury-Hall",
+        "Patson Daka",
+        "Ademola Lookman",
+        "Boubakary Soumar\u00e9"
+    ],
+    "away_team": [
+        "Ederson",
+        "Kyle Walker",
+        "R\u00faben Dias",
+        "\u0130lkay G\u00fcndo\u011fan",
+        "Gabriel Jesus",
+        "Jack Grealish",
+        "Aymeric Laporte",
+        "Rodri",
+        "Bernardo Silva",
+        "Ferr\u00e1n Torres",
+        "Jo\u00e3o Cancelo",
+        "Scott Carson",
+        "John Stones",
+        "Nathan Ak\u00e9",
+        "Raheem Sterling",
+        "Oleksandr Zinchenko",
+        "Kevin De Bruyne",
+        "Fernandinho",
+        "Riyad Mahrez",
+        "Phil Foden"
+    ],
+    "fouls": [
+        4,
+        11
+    ],
+    "corners": [
+        5,
+        8
+    ],
+    "crosses": [
+        14,
+        31
+    ],
+    "touches": [
+        514,
+        712
+    ],
+    "tackles": [
+        18,
+        14
+    ],
+    "interceptions": [
+        3,
+        5
+    ],
+    "aerials_won": [
+        12,
+        8
+    ],
+    "clearances": [
+        23,
+        9
+    ],
+    "offsides": [
+        2,
+        4
+    ],
+    "goal_kicks": [
+        10,
+        6
+    ],
+    "throw_ins": [
+        12,
+        20
+    ],
+    "long_balls": [
+        67,
+        49
+    ]
+}

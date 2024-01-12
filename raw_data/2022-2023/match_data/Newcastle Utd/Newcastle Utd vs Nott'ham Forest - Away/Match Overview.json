@@ -1,0 +1,102 @@
+{
+    "goals": [
+        "1",
+        "2"
+    ],
+    "expected_goals": [
+        "0.4",
+        "2.4"
+    ],
+    "home_team": [
+        "Keylor Navas",
+        "Jonjo Shelvey",
+        "Morgan Gibbs-White",
+        "Moussa Niakhate",
+        "Brennan Johnson",
+        "Ryan Yates",
+        "Serge Aurier",
+        "Emmanuel Dennis",
+        "Renan Lodi",
+        "Andr\u00e9 Ayew",
+        "Felipe",
+        "Wayne Hennessey",
+        "Joe Worrall",
+        "Neco Williams",
+        "Jack Colback",
+        "Harry Toffolo",
+        "Sam Surridge",
+        "Remo Freuler",
+        "Danilo",
+        "Gustavo Scarpa"
+    ],
+    "away_team": [
+        "Nick Pope",
+        "Kieran Trippier",
+        "Sven Botman",
+        "Fabian Sch\u00e4r",
+        "Allan Saint-Maximin",
+        "Alexander Isak",
+        "Jacob Murphy",
+        "Joe Willock",
+        "Dan Burn",
+        "Sean Longstaff",
+        "Bruno Guimar\u00e3es",
+        "Martin D\u00fabravka",
+        "Paul Dummett",
+        "Jamaal Lascelles",
+        "Callum Wilson",
+        "Matt Ritchie",
+        "Jamal Lewis",
+        "Matt Targett",
+        "Javier Manquillo",
+        "Elliot Anderson"
+    ],
+    "fouls": [
+        17,
+        9
+    ],
+    "corners": [
+        3,
+        7
+    ],
+    "crosses": [
+        10,
+        26
+    ],
+    "touches": [
+        434,
+        590
+    ],
+    "tackles": [
+        12,
+        15
+    ],
+    "interceptions": [
+        10,
+        8
+    ],
+    "aerials_won": [
+        13,
+        24
+    ],
+    "clearances": [
+        25,
+        10
+    ],
+    "offsides": [
+        1,
+        1
+    ],
+    "goal_kicks": [
+        10,
+        7
+    ],
+    "throw_ins": [
+        23,
+        15
+    ],
+    "long_balls": [
+        91,
+        46
+    ]
+}

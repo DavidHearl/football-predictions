@@ -1,0 +1,102 @@
+{
+    "goals": [
+        "0",
+        "1"
+    ],
+    "expected_goals": [
+        "1.0",
+        "0.9"
+    ],
+    "home_team": [
+        "Bernd Leno",
+        "Kenny Tete",
+        "Harrison Reed",
+        "Aleksandar Mitrovi\u0107",
+        "Tim Ream",
+        "Bobby Reid",
+        "Andreas Pereira",
+        "Willian",
+        "Jo\u00e3o Palhinha",
+        "Issa Diop",
+        "Antonee Robinson",
+        "Marek Rod\u00e1k",
+        "Layvin Kurzawa",
+        "Tosin Adarabioyo",
+        "Harry Wilson",
+        "Tom Cairney",
+        "Manor Solomon",
+        "Nathaniel Chalobah",
+        "Daniel James",
+        "Carlos Vin\u00edcius"
+    ],
+    "away_team": [
+        "Hugo Lloris",
+        "Pierre H\u00f8jbjerg",
+        "Son Heung-min",
+        "Harry Kane",
+        "Emerson",
+        "Ivan Peri\u0161i\u0107",
+        "Eric Dier",
+        "Cristian Romero",
+        "Dejan Kulusevski",
+        "Rodrigo Bentancur",
+        "Ben Davies",
+        "Fraser Forster",
+        "Matt Doherty",
+        "Oliver Skipp",
+        "Davinson S\u00e1nchez",
+        "Richarlison",
+        "Ryan Sessegnon",
+        "Japhet Tanganga",
+        "Cl\u00e9ment Lenglet",
+        "Yves Bissouma"
+    ],
+    "fouls": [
+        10,
+        10
+    ],
+    "corners": [
+        3,
+        8
+    ],
+    "crosses": [
+        31,
+        12
+    ],
+    "touches": [
+        668,
+        617
+    ],
+    "tackles": [
+        19,
+        23
+    ],
+    "interceptions": [
+        10,
+        7
+    ],
+    "aerials_won": [
+        9,
+        21
+    ],
+    "clearances": [
+        15,
+        31
+    ],
+    "offsides": [
+        2,
+        0
+    ],
+    "goal_kicks": [
+        7,
+        6
+    ],
+    "throw_ins": [
+        32,
+        16
+    ],
+    "long_balls": [
+        87,
+        51
+    ]
+}

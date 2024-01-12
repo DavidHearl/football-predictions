@@ -1,0 +1,102 @@
+{
+    "goals": [
+        "1",
+        "2"
+    ],
+    "expected_goals": [
+        "1.4",
+        "1.7"
+    ],
+    "home_team": [
+        "Fraser Forster",
+        "Kyle Walker-Peters",
+        "Oriol Romeu",
+        "James Ward-Prowse",
+        "Che Adams",
+        "Romain Perraud",
+        "Stuart Armstrong",
+        "William Smallbone",
+        "Mohammed Salisu",
+        "Mohamed Elyounoussi",
+        "Jan Bednarek",
+        "Willy Caballero",
+        "Jack Stephens",
+        "Shane Long",
+        "Adam Armstrong",
+        "Nathan Redmond",
+        "Armando Broja",
+        "Ibrahima Diallo",
+        "Theo Walcott",
+        "Yan Valery"
+    ],
+    "away_team": [
+        "Ben Foster",
+        "Imran Louza",
+        "Jo\u00e3o Pedro",
+        "Hassane Kamara",
+        "Moussa Sissoko",
+        "Kiko Femen\u00eda",
+        "Samir Santos",
+        "Emmanuel Dennis",
+        "Christian Kabasele",
+        "Cucho",
+        "Juraj Kucka",
+        "Daniel Bachmann",
+        "William Troost-Ekong",
+        "Joshua King",
+        "Tom Cleverley",
+        "Adam Masina",
+        "Ken Sema",
+        "Craig Cathcart",
+        "Samuel Kalu",
+        "Edo Kayembe"
+    ],
+    "fouls": [
+        8,
+        12
+    ],
+    "corners": [
+        11,
+        3
+    ],
+    "crosses": [
+        33,
+        12
+    ],
+    "touches": [
+        678,
+        481
+    ],
+    "tackles": [
+        17,
+        18
+    ],
+    "interceptions": [
+        8,
+        20
+    ],
+    "aerials_won": [
+        23,
+        26
+    ],
+    "clearances": [
+        12,
+        33
+    ],
+    "offsides": [
+        0,
+        0
+    ],
+    "goal_kicks": [
+        7,
+        7
+    ],
+    "throw_ins": [
+        32,
+        16
+    ],
+    "long_balls": [
+        82,
+        82
+    ]
+}

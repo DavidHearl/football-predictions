@@ -1,0 +1,102 @@
+{
+    "goals": [
+        "1",
+        "2"
+    ],
+    "expected_goals": [
+        "1.1",
+        "0.8"
+    ],
+    "home_team": [
+        "Gavin Bazunu",
+        "Ainsley Maitland-Niles",
+        "James Ward-Prowse",
+        "Paul Onuachu",
+        "James Bree",
+        "Romain Perraud",
+        "Kamaldeen Sulemana",
+        "Mohammed Salisu",
+        "Carlos Alcaraz",
+        "Jan Bednarek",
+        "Rom\u00e9o Lavia",
+        "Willy Caballero",
+        "Lyanco",
+        "Joe Aribo",
+        "Adam Armstrong",
+        "Che Adams",
+        "Stuart Armstrong",
+        "Sekou Mara",
+        "Samuel Edozie",
+        "Theo Walcott"
+    ],
+    "away_team": [
+        "Jos\u00e9 S\u00e1",
+        "Rayan A\u00eft Nouri",
+        "Mario Lemina",
+        "R\u00faben Neves",
+        "Matheus Cunha",
+        "Craig Dawson",
+        "Pablo Sarabia",
+        "N\u00e9lson Semedo",
+        "Max Kilman",
+        "Matheus Nunes",
+        "Jo\u00e3o Moutinho",
+        "Daniel Bentley",
+        "Nathan Collins",
+        "Pedro Neto",
+        "Ra\u00fal Jim\u00e9nez",
+        "Jonny Castro",
+        "Diego Costa",
+        "Jo\u00e3o Gomes",
+        "Adama Traor\u00e9",
+        "Hugo Bueno"
+    ],
+    "fouls": [
+        12,
+        14
+    ],
+    "corners": [
+        5,
+        2
+    ],
+    "crosses": [
+        22,
+        11
+    ],
+    "touches": [
+        503,
+        664
+    ],
+    "tackles": [
+        16,
+        21
+    ],
+    "interceptions": [
+        10,
+        6
+    ],
+    "aerials_won": [
+        31,
+        15
+    ],
+    "clearances": [
+        17,
+        33
+    ],
+    "offsides": [
+        0,
+        3
+    ],
+    "goal_kicks": [
+        4,
+        9
+    ],
+    "throw_ins": [
+        24,
+        23
+    ],
+    "long_balls": [
+        74,
+        79
+    ]
+}

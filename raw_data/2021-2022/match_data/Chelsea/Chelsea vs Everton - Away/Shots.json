@@ -1,20 +1,5 @@
 [
     {
-        "('Unnamed: 0_level_0', 'Minute')": "2",
-        "('Unnamed: 1_level_0', 'Player')": "Anthony Gordon",
-        "('Unnamed: 2_level_0', 'Squad')": "Everton",
-        "('Unnamed: 3_level_0', 'xG')": 0.1,
-        "('Unnamed: 4_level_0', 'PSxG')": null,
-        "('Unnamed: 5_level_0', 'Outcome')": "Off Target",
-        "('Unnamed: 6_level_0', 'Distance')": 26.0,
-        "('Unnamed: 7_level_0', 'Body Part')": "Right Foot",
-        "('Unnamed: 8_level_0', 'Notes')": "Free kick",
-        "('SCA 1', 'Player')": "Anthony Gordon",
-        "('SCA 1', 'Event')": "Fouled",
-        "('SCA 2', 'Player')": "Yerry Mina",
-        "('SCA 2', 'Event')": "Pass (Live)"
-    },
-    {
         "('Unnamed: 0_level_0', 'Minute')": "8",
         "('Unnamed: 1_level_0', 'Player')": "Mason Mount",
         "('Unnamed: 2_level_0', 'Squad')": "Chelsea",
@@ -28,21 +13,6 @@
         "('SCA 1', 'Event')": null,
         "('SCA 2', 'Player')": null,
         "('SCA 2', 'Event')": null
-    },
-    {
-        "('Unnamed: 0_level_0', 'Minute')": "16",
-        "('Unnamed: 1_level_0', 'Player')": "Demarai Gray",
-        "('Unnamed: 2_level_0', 'Squad')": "Everton",
-        "('Unnamed: 3_level_0', 'xG')": 0.04,
-        "('Unnamed: 4_level_0', 'PSxG')": 0.22,
-        "('Unnamed: 5_level_0', 'Outcome')": "Saved",
-        "('Unnamed: 6_level_0', 'Distance')": 14.0,
-        "('Unnamed: 7_level_0', 'Body Part')": "Left Foot",
-        "('Unnamed: 8_level_0', 'Notes')": null,
-        "('SCA 1', 'Player')": "Vitaliy Mykolenko",
-        "('SCA 1', 'Event')": "Pass (Live)",
-        "('SCA 2', 'Player')": "Jordan Pickford",
-        "('SCA 2', 'Event')": "Pass (Live)"
     },
     {
         "('Unnamed: 0_level_0', 'Minute')": "24",
@@ -60,21 +30,6 @@
         "('SCA 2', 'Event')": "Pass (Live)"
     },
     {
-        "('Unnamed: 0_level_0', 'Minute')": "33",
-        "('Unnamed: 1_level_0', 'Player')": "Anthony Gordon",
-        "('Unnamed: 2_level_0', 'Squad')": "Everton",
-        "('Unnamed: 3_level_0', 'xG')": 0.04,
-        "('Unnamed: 4_level_0', 'PSxG')": null,
-        "('Unnamed: 5_level_0', 'Outcome')": "Off Target",
-        "('Unnamed: 6_level_0', 'Distance')": 24.0,
-        "('Unnamed: 7_level_0', 'Body Part')": "Left Foot",
-        "('Unnamed: 8_level_0', 'Notes')": null,
-        "('SCA 1', 'Player')": "Alex Iwobi",
-        "('SCA 1', 'Event')": "Pass (Dead)",
-        "('SCA 2', 'Player')": null,
-        "('SCA 2', 'Event')": null
-    },
-    {
         "('Unnamed: 0_level_0', 'Minute')": "43",
         "('Unnamed: 1_level_0', 'Player')": "Marcos Alonso",
         "('Unnamed: 2_level_0', 'Squad')": "Chelsea",
@@ -90,21 +45,6 @@
         "('SCA 2', 'Event')": "Pass (Live)"
     },
     {
-        "('Unnamed: 0_level_0', 'Minute')": "45+1",
-        "('Unnamed: 1_level_0', 'Player')": "Abdoulaye Doucour\u00e9",
-        "('Unnamed: 2_level_0', 'Squad')": "Everton",
-        "('Unnamed: 3_level_0', 'xG')": 0.01,
-        "('Unnamed: 4_level_0', 'PSxG')": null,
-        "('Unnamed: 5_level_0', 'Outcome')": "Blocked",
-        "('Unnamed: 6_level_0', 'Distance')": 26.0,
-        "('Unnamed: 7_level_0', 'Body Part')": "Right Foot",
-        "('Unnamed: 8_level_0', 'Notes')": "Volley",
-        "('SCA 1', 'Player')": "Anthony Gordon",
-        "('SCA 1', 'Event')": "Pass (Live)",
-        "('SCA 2', 'Player')": "Mason Holgate",
-        "('SCA 2', 'Event')": "Pass (Dead)"
-    },
-    {
         "('Unnamed: 0_level_0', 'Minute')": null,
         "('Unnamed: 1_level_0', 'Player')": null,
         "('Unnamed: 2_level_0', 'Squad')": null,
@@ -118,36 +58,6 @@
         "('SCA 1', 'Event')": null,
         "('SCA 2', 'Player')": null,
         "('SCA 2', 'Event')": null
-    },
-    {
-        "('Unnamed: 0_level_0', 'Minute')": "47",
-        "('Unnamed: 1_level_0', 'Player')": "Richarlison",
-        "('Unnamed: 2_level_0', 'Squad')": "Everton",
-        "('Unnamed: 3_level_0', 'xG')": 0.28,
-        "('Unnamed: 4_level_0', 'PSxG')": 0.69,
-        "('Unnamed: 5_level_0', 'Outcome')": "Goal",
-        "('Unnamed: 6_level_0', 'Distance')": 16.0,
-        "('Unnamed: 7_level_0', 'Body Part')": "Right Foot",
-        "('Unnamed: 8_level_0', 'Notes')": null,
-        "('SCA 1', 'Player')": null,
-        "('SCA 1', 'Event')": null,
-        "('SCA 2', 'Player')": null,
-        "('SCA 2', 'Event')": null
-    },
-    {
-        "('Unnamed: 0_level_0', 'Minute')": "49",
-        "('Unnamed: 1_level_0', 'Player')": "Vitaliy Mykolenko",
-        "('Unnamed: 2_level_0', 'Squad')": "Everton",
-        "('Unnamed: 3_level_0', 'xG')": 0.22,
-        "('Unnamed: 4_level_0', 'PSxG')": null,
-        "('Unnamed: 5_level_0', 'Outcome')": "Off Target",
-        "('Unnamed: 6_level_0', 'Distance')": 11.0,
-        "('Unnamed: 7_level_0', 'Body Part')": "Left Foot",
-        "('Unnamed: 8_level_0', 'Notes')": null,
-        "('SCA 1', 'Player')": "Abdoulaye Doucour\u00e9",
-        "('SCA 1', 'Event')": "Pass (Live)",
-        "('SCA 2', 'Player')": "Abdoulaye Doucour\u00e9",
-        "('SCA 2', 'Event')": "Take-On"
     },
     {
         "('Unnamed: 0_level_0', 'Minute')": "53",
@@ -240,21 +150,6 @@
         "('SCA 2', 'Event')": "Shot"
     },
     {
-        "('Unnamed: 0_level_0', 'Minute')": "62",
-        "('Unnamed: 1_level_0', 'Player')": "Richarlison",
-        "('Unnamed: 2_level_0', 'Squad')": "Everton",
-        "('Unnamed: 3_level_0', 'xG')": 0.01,
-        "('Unnamed: 4_level_0', 'PSxG')": 0.06,
-        "('Unnamed: 5_level_0', 'Outcome')": "Saved",
-        "('Unnamed: 6_level_0', 'Distance')": 11.0,
-        "('Unnamed: 7_level_0', 'Body Part')": "Left Foot",
-        "('Unnamed: 8_level_0', 'Notes')": null,
-        "('SCA 1', 'Player')": "Richarlison",
-        "('SCA 1', 'Event')": "Pass (Live)",
-        "('SCA 2', 'Player')": "Demarai Gray",
-        "('SCA 2', 'Event')": "Pass (Live)"
-    },
-    {
         "('Unnamed: 0_level_0', 'Minute')": "65",
         "('Unnamed: 1_level_0', 'Player')": "Timo Werner",
         "('Unnamed: 2_level_0', 'Squad')": "Chelsea",
@@ -330,21 +225,6 @@
         "('SCA 2', 'Event')": "Pass (Live)"
     },
     {
-        "('Unnamed: 0_level_0', 'Minute')": "85",
-        "('Unnamed: 1_level_0', 'Player')": "Demarai Gray",
-        "('Unnamed: 2_level_0', 'Squad')": "Everton",
-        "('Unnamed: 3_level_0', 'xG')": 0.06,
-        "('Unnamed: 4_level_0', 'PSxG')": null,
-        "('Unnamed: 5_level_0', 'Outcome')": "Off Target",
-        "('Unnamed: 6_level_0', 'Distance')": 17.0,
-        "('Unnamed: 7_level_0', 'Body Part')": "Right Foot",
-        "('Unnamed: 8_level_0', 'Notes')": null,
-        "('SCA 1', 'Player')": "Abdoulaye Doucour\u00e9",
-        "('SCA 1', 'Event')": "Pass (Live)",
-        "('SCA 2', 'Player')": "Allan",
-        "('SCA 2', 'Event')": "Pass (Live)"
-    },
-    {
         "('Unnamed: 0_level_0', 'Minute')": "89",
         "('Unnamed: 1_level_0', 'Player')": "Mateo Kova\u010di\u0107",
         "('Unnamed: 2_level_0', 'Squad')": "Chelsea",
@@ -358,21 +238,6 @@
         "('SCA 1', 'Event')": "Pass (Live)",
         "('SCA 2', 'Player')": "Hakim Ziyech",
         "('SCA 2', 'Event')": "Take-On"
-    },
-    {
-        "('Unnamed: 0_level_0', 'Minute')": "89",
-        "('Unnamed: 1_level_0', 'Player')": "Anthony Gordon",
-        "('Unnamed: 2_level_0', 'Squad')": "Everton",
-        "('Unnamed: 3_level_0', 'xG')": 0.05,
-        "('Unnamed: 4_level_0', 'PSxG')": 0.11,
-        "('Unnamed: 5_level_0', 'Outcome')": "Saved",
-        "('Unnamed: 6_level_0', 'Distance')": 14.0,
-        "('Unnamed: 7_level_0', 'Body Part')": "Left Foot",
-        "('Unnamed: 8_level_0', 'Notes')": null,
-        "('SCA 1', 'Player')": "Abdoulaye Doucour\u00e9",
-        "('SCA 1', 'Event')": "Pass (Live)",
-        "('SCA 2', 'Player')": "Vitaliy Mykolenko",
-        "('SCA 2', 'Event')": "Pass (Live)"
     },
     {
         "('Unnamed: 0_level_0', 'Minute')": "90+2",

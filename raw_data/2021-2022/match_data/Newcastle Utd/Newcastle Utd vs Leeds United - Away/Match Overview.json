@@ -1,0 +1,102 @@
+{
+    "goals": [
+        "0",
+        "1"
+    ],
+    "expected_goals": [
+        "0.7",
+        "0.9"
+    ],
+    "home_team": [
+        "Illan Meslier",
+        "Luke Ayling",
+        "Robin Koch",
+        "Raphinha",
+        "Diego Llorente",
+        "Stuart Dallas",
+        "Rodrigo",
+        "Daniel James",
+        "Pascal Struijk",
+        "Jack Harrison",
+        "Mateusz Klich",
+        "Kristoffer Klaesson",
+        "Tyler Roberts",
+        "Lewis Bate",
+        "Joe Gelhardt",
+        "Leo Fuhr Hjelde",
+        "Stuart McKinstry",
+        "Liam McCarron",
+        "Kris Moore",
+        "Nohan Kenneh"
+    ],
+    "away_team": [
+        "Martin D\u00fabravka",
+        "Paul Dummett",
+        "Fabian Sch\u00e4r",
+        "Jamaal Lascelles",
+        "Joelinton",
+        "Jonjo Shelvey",
+        "Allan Saint-Maximin",
+        "Kieran Trippier",
+        "Chris Wood",
+        "Ryan Fraser",
+        "Joe Willock",
+        "Karl Darlow",
+        "Ciaran Clark",
+        "Jamal Lewis",
+        "Jeff Hendrick",
+        "Javier Manquillo",
+        "Jacob Murphy",
+        "Miguel Almir\u00f3n",
+        "Dwight Gayle",
+        "Sean Longstaff"
+    ],
+    "fouls": [
+        9,
+        9
+    ],
+    "corners": [
+        6,
+        7
+    ],
+    "crosses": [
+        22,
+        14
+    ],
+    "touches": [
+        641,
+        459
+    ],
+    "tackles": [
+        21,
+        18
+    ],
+    "interceptions": [
+        7,
+        16
+    ],
+    "aerials_won": [
+        14,
+        30
+    ],
+    "clearances": [
+        20,
+        28
+    ],
+    "offsides": [
+        0,
+        0
+    ],
+    "goal_kicks": [
+        5,
+        9
+    ],
+    "throw_ins": [
+        24,
+        22
+    ],
+    "long_balls": [
+        67,
+        80
+    ]
+}

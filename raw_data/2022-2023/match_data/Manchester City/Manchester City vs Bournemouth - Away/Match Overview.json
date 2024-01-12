@@ -1,0 +1,102 @@
+{
+    "goals": [
+        "1",
+        "4"
+    ],
+    "expected_goals": [
+        "1.0",
+        "2.4"
+    ],
+    "home_team": [
+        "Neto",
+        "Jack Stephens",
+        "Chris Mepham",
+        "Jefferson Lerma",
+        "Dominic Solanke",
+        "Dango Ouattara",
+        "Adam Smith",
+        "Hamed Junior Traor\u00e8",
+        "Marcos Senesi",
+        "Philip Billing",
+        "Jordan Zemura",
+        "Mark Travers",
+        "Darren Randolph",
+        "Ryan Fredericks",
+        "Ryan Christie",
+        "Joe Rothwell",
+        "Jack Stacey",
+        "Kieffer Moore",
+        "Antoine Semenyo",
+        "Jaidon Anthony"
+    ],
+    "away_team": [
+        "Ederson",
+        "R\u00faben Dias",
+        "Nathan Ak\u00e9",
+        "\u0130lkay G\u00fcndo\u011fan",
+        "Erling Haaland",
+        "Jack Grealish",
+        "Rodri",
+        "Juli\u00e1n \u00c1lvarez",
+        "Manuel Akanji",
+        "Phil Foden",
+        "Rico Lewis",
+        "Stefan Ortega",
+        "Scott Carson",
+        "Kyle Walker",
+        "Kalvin Phillips",
+        "Kevin De Bruyne",
+        "Bernardo Silva",
+        "Sergio G\u00f3mez",
+        "Riyad Mahrez",
+        "M\u00e1ximo Perrone"
+    ],
+    "fouls": [
+        10,
+        9
+    ],
+    "corners": [
+        4,
+        6
+    ],
+    "crosses": [
+        16,
+        16
+    ],
+    "touches": [
+        533,
+        901
+    ],
+    "tackles": [
+        15,
+        26
+    ],
+    "interceptions": [
+        10,
+        6
+    ],
+    "aerials_won": [
+        10,
+        9
+    ],
+    "clearances": [
+        12,
+        16
+    ],
+    "offsides": [
+        1,
+        2
+    ],
+    "goal_kicks": [
+        7,
+        7
+    ],
+    "throw_ins": [
+        15,
+        11
+    ],
+    "long_balls": [
+        50,
+        30
+    ]
+}

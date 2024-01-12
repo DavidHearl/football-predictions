@@ -1,0 +1,102 @@
+{
+    "goals": [
+        "3",
+        "1"
+    ],
+    "expected_goals": [
+        "3.3",
+        "0.3"
+    ],
+    "home_team": [
+        "Ederson",
+        "Kyle Walker",
+        "R\u00faben Dias",
+        "\u0130lkay G\u00fcndo\u011fan",
+        "Erling Haaland",
+        "Jack Grealish",
+        "Aymeric Laporte",
+        "Rodri",
+        "Kevin De Bruyne",
+        "Bernardo Silva",
+        "Riyad Mahrez",
+        "Stefan Ortega",
+        "Kalvin Phillips",
+        "Nathan Ak\u00e9",
+        "Juli\u00e1n \u00c1lvarez",
+        "Sergio G\u00f3mez",
+        "Manuel Akanji",
+        "Phil Foden",
+        "Cole Palmer",
+        "Rico Lewis"
+    ],
+    "away_team": [
+        "Emiliano Mart\u00ednez",
+        "Ezri Konsa",
+        "Douglas Luiz",
+        "Emi Buend\u00eda",
+        "Ollie Watkins",
+        "Calum Chambers",
+        "Ashley Young",
+        "Lucas Digne",
+        "Leon Bailey",
+        "Jacob Ramsey",
+        "Boubacar Kamara",
+        "Viljami Sinisalo",
+        "Oliwier Zych",
+        "Matty Cash",
+        "John McGinn",
+        "\u00c1lex Moreno",
+        "Jhon Dur\u00e1n",
+        "Philippe Coutinho",
+        "Leander Dendoncker",
+        "Sil Swinkels"
+    ],
+    "fouls": [
+        13,
+        14
+    ],
+    "corners": [
+        8,
+        4
+    ],
+    "crosses": [
+        18,
+        7
+    ],
+    "touches": [
+        727,
+        409
+    ],
+    "tackles": [
+        7,
+        7
+    ],
+    "interceptions": [
+        3,
+        16
+    ],
+    "aerials_won": [
+        7,
+        4
+    ],
+    "clearances": [
+        3,
+        17
+    ],
+    "offsides": [
+        1,
+        4
+    ],
+    "goal_kicks": [
+        2,
+        8
+    ],
+    "throw_ins": [
+        13,
+        11
+    ],
+    "long_balls": [
+        65,
+        59
+    ]
+}

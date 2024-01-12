@@ -1,0 +1,102 @@
+{
+    "goals": [
+        "1",
+        "3"
+    ],
+    "expected_goals": [
+        "1.6",
+        "1.8"
+    ],
+    "home_team": [
+        "Aaron Ramsdale",
+        "Gabriel Dos Santos",
+        "Bukayo Saka",
+        "Martin \u00d8degaard",
+        "Gabriel Martinelli",
+        "William Saliba",
+        "Eddie Nketiah",
+        "Takehiro Tomiyasu",
+        "Jorginho",
+        "Granit Xhaka",
+        "Oleksandr Zinchenko",
+        "Matt Turner",
+        "Kieran Tierney",
+        "Ben White",
+        "Jakub Kiwior",
+        "Rob Holding",
+        "Leandro Trossard",
+        "Fabio Vieira",
+        "Reiss Nelson",
+        "Amario Duberry"
+    ],
+    "away_team": [
+        "Ederson",
+        "Kyle Walker",
+        "R\u00faben Dias",
+        "Nathan Ak\u00e9",
+        "\u0130lkay G\u00fcndo\u011fan",
+        "Erling Haaland",
+        "Jack Grealish",
+        "Rodri",
+        "Kevin De Bruyne",
+        "Bernardo Silva",
+        "Riyad Mahrez",
+        "Stefan Ortega",
+        "Kalvin Phillips",
+        "Aymeric Laporte",
+        "Juli\u00e1n \u00c1lvarez",
+        "Sergio G\u00f3mez",
+        "Manuel Akanji",
+        "Phil Foden",
+        "Cole Palmer",
+        "Rico Lewis"
+    ],
+    "fouls": [
+        11,
+        15
+    ],
+    "corners": [
+        1,
+        2
+    ],
+    "crosses": [
+        17,
+        9
+    ],
+    "touches": [
+        654,
+        435
+    ],
+    "tackles": [
+        13,
+        17
+    ],
+    "interceptions": [
+        8,
+        11
+    ],
+    "aerials_won": [
+        11,
+        14
+    ],
+    "clearances": [
+        6,
+        14
+    ],
+    "offsides": [
+        0,
+        3
+    ],
+    "goal_kicks": [
+        3,
+        10
+    ],
+    "throw_ins": [
+        21,
+        18
+    ],
+    "long_balls": [
+        62,
+        65
+    ]
+}
