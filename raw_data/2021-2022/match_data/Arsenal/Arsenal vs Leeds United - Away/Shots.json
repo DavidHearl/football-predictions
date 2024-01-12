@@ -1,5 +1,20 @@
 [
     {
+        "('Unnamed: 0_level_0', 'Minute')": 2.0,
+        "('Unnamed: 1_level_0', 'Player')": "Raphinha",
+        "('Unnamed: 2_level_0', 'Squad')": "Leeds United",
+        "('Unnamed: 3_level_0', 'xG')": 0.04,
+        "('Unnamed: 4_level_0', 'PSxG')": null,
+        "('Unnamed: 5_level_0', 'Outcome')": "Off Target",
+        "('Unnamed: 6_level_0', 'Distance')": 7.0,
+        "('Unnamed: 7_level_0', 'Body Part')": "Head",
+        "('Unnamed: 8_level_0', 'Notes')": null,
+        "('SCA 1', 'Player')": "Stuart Dallas",
+        "('SCA 1', 'Event')": "Pass (Dead)",
+        "('SCA 2', 'Player')": "Stuart Dallas",
+        "('SCA 2', 'Event')": "Interception"
+    },
+    {
         "('Unnamed: 0_level_0', 'Minute')": 3.0,
         "('Unnamed: 1_level_0', 'Player')": "Alexandre Lacazette",
         "('Unnamed: 2_level_0', 'Squad')": "Arsenal",
@@ -90,6 +105,21 @@
         "('SCA 2', 'Event')": "Pass (Live)"
     },
     {
+        "('Unnamed: 0_level_0', 'Minute')": 21.0,
+        "('Unnamed: 1_level_0', 'Player')": "Raphinha",
+        "('Unnamed: 2_level_0', 'Squad')": "Leeds United",
+        "('Unnamed: 3_level_0', 'xG')": 0.02,
+        "('Unnamed: 4_level_0', 'PSxG')": null,
+        "('Unnamed: 5_level_0', 'Outcome')": "Off Target",
+        "('Unnamed: 6_level_0', 'Distance')": 52.0,
+        "('Unnamed: 7_level_0', 'Body Part')": "Left Foot",
+        "('Unnamed: 8_level_0', 'Notes')": null,
+        "('SCA 1', 'Player')": null,
+        "('SCA 1', 'Event')": null,
+        "('SCA 2', 'Player')": null,
+        "('SCA 2', 'Event')": null
+    },
+    {
         "('Unnamed: 0_level_0', 'Minute')": 23.0,
         "('Unnamed: 1_level_0', 'Player')": "Martin \u00d8degaard",
         "('Unnamed: 2_level_0', 'Squad')": "Arsenal",
@@ -121,6 +151,21 @@
     },
     {
         "('Unnamed: 0_level_0', 'Minute')": 25.0,
+        "('Unnamed: 1_level_0', 'Player')": "Raphinha",
+        "('Unnamed: 2_level_0', 'Squad')": "Leeds United",
+        "('Unnamed: 3_level_0', 'xG')": 0.41,
+        "('Unnamed: 4_level_0', 'PSxG')": null,
+        "('Unnamed: 5_level_0', 'Outcome')": "Off Target",
+        "('Unnamed: 6_level_0', 'Distance')": 16.0,
+        "('Unnamed: 7_level_0', 'Body Part')": "Left Foot",
+        "('Unnamed: 8_level_0', 'Notes')": null,
+        "('SCA 1', 'Player')": "Adam Forshaw",
+        "('SCA 1', 'Event')": "Pass (Live)",
+        "('SCA 2', 'Player')": "Tyler Roberts",
+        "('SCA 2', 'Event')": "Pass (Live)"
+    },
+    {
+        "('Unnamed: 0_level_0', 'Minute')": 25.0,
         "('Unnamed: 1_level_0', 'Player')": "Thomas Partey",
         "('Unnamed: 2_level_0', 'Squad')": "Arsenal",
         "('Unnamed: 3_level_0', 'xG')": 0.05,
@@ -147,6 +192,21 @@
         "('SCA 1', 'Player')": "Gabriel Martinelli",
         "('SCA 1', 'Event')": "Take-On",
         "('SCA 2', 'Player')": "Granit Xhaka",
+        "('SCA 2', 'Event')": "Pass (Live)"
+    },
+    {
+        "('Unnamed: 0_level_0', 'Minute')": 32.0,
+        "('Unnamed: 1_level_0', 'Player')": "Tyler Roberts",
+        "('Unnamed: 2_level_0', 'Squad')": "Leeds United",
+        "('Unnamed: 3_level_0', 'xG')": 0.03,
+        "('Unnamed: 4_level_0', 'PSxG')": null,
+        "('Unnamed: 5_level_0', 'Outcome')": "Off Target",
+        "('Unnamed: 6_level_0', 'Distance')": 28.0,
+        "('Unnamed: 7_level_0', 'Body Part')": "Right Foot",
+        "('Unnamed: 8_level_0', 'Notes')": null,
+        "('SCA 1', 'Player')": "Mateusz Klich",
+        "('SCA 1', 'Event')": "Pass (Live)",
+        "('SCA 2', 'Player')": "Luke Ayling",
         "('SCA 2', 'Event')": "Pass (Live)"
     },
     {
@@ -270,6 +330,21 @@
         "('SCA 2', 'Event')": null
     },
     {
+        "('Unnamed: 0_level_0', 'Minute')": 59.0,
+        "('Unnamed: 1_level_0', 'Player')": "Tyler Roberts",
+        "('Unnamed: 2_level_0', 'Squad')": "Leeds United",
+        "('Unnamed: 3_level_0', 'xG')": 0.02,
+        "('Unnamed: 4_level_0', 'PSxG')": null,
+        "('Unnamed: 5_level_0', 'Outcome')": "Off Target",
+        "('Unnamed: 6_level_0', 'Distance')": 21.0,
+        "('Unnamed: 7_level_0', 'Body Part')": "Left Foot",
+        "('Unnamed: 8_level_0', 'Notes')": null,
+        "('SCA 1', 'Player')": "Raphinha",
+        "('SCA 1', 'Event')": "Pass (Live)",
+        "('SCA 2', 'Player')": "Raphinha",
+        "('SCA 2', 'Event')": "Take-On"
+    },
+    {
         "('Unnamed: 0_level_0', 'Minute')": 67.0,
         "('Unnamed: 1_level_0', 'Player')": "Bukayo Saka",
         "('Unnamed: 2_level_0', 'Squad')": "Arsenal",
@@ -297,6 +372,66 @@
         "('SCA 1', 'Player')": "Gabriel Martinelli",
         "('SCA 1', 'Event')": "Pass (Live)",
         "('SCA 2', 'Player')": "Bukayo Saka",
+        "('SCA 2', 'Event')": "Pass (Live)"
+    },
+    {
+        "('Unnamed: 0_level_0', 'Minute')": 72.0,
+        "('Unnamed: 1_level_0', 'Player')": "Tyler Roberts",
+        "('Unnamed: 2_level_0', 'Squad')": "Leeds United",
+        "('Unnamed: 3_level_0', 'xG')": 0.02,
+        "('Unnamed: 4_level_0', 'PSxG')": 0.24,
+        "('Unnamed: 5_level_0', 'Outcome')": "Saved",
+        "('Unnamed: 6_level_0', 'Distance')": 29.0,
+        "('Unnamed: 7_level_0', 'Body Part')": "Right Foot",
+        "('Unnamed: 8_level_0', 'Notes')": "Deflected",
+        "('SCA 1', 'Player')": "Crysencio Summerville",
+        "('SCA 1', 'Event')": "Pass (Live)",
+        "('SCA 2', 'Player')": "Adam Forshaw",
+        "('SCA 2', 'Event')": "Pass (Live)"
+    },
+    {
+        "('Unnamed: 0_level_0', 'Minute')": 75.0,
+        "('Unnamed: 1_level_0', 'Player')": "Raphinha (pen)",
+        "('Unnamed: 2_level_0', 'Squad')": "Leeds United",
+        "('Unnamed: 3_level_0', 'xG')": 0.79,
+        "('Unnamed: 4_level_0', 'PSxG')": 0.99,
+        "('Unnamed: 5_level_0', 'Outcome')": "Goal",
+        "('Unnamed: 6_level_0', 'Distance')": 13.0,
+        "('Unnamed: 7_level_0', 'Body Part')": "Left Foot",
+        "('Unnamed: 8_level_0', 'Notes')": null,
+        "('SCA 1', 'Player')": "Joe Gelhardt",
+        "('SCA 1', 'Event')": "Fouled",
+        "('SCA 2', 'Player')": "Mateusz Klich",
+        "('SCA 2', 'Event')": "Pass (Live)"
+    },
+    {
+        "('Unnamed: 0_level_0', 'Minute')": 76.0,
+        "('Unnamed: 1_level_0', 'Player')": "Tyler Roberts",
+        "('Unnamed: 2_level_0', 'Squad')": "Leeds United",
+        "('Unnamed: 3_level_0', 'xG')": 0.09,
+        "('Unnamed: 4_level_0', 'PSxG')": null,
+        "('Unnamed: 5_level_0', 'Outcome')": "Blocked",
+        "('Unnamed: 6_level_0', 'Distance')": 22.0,
+        "('Unnamed: 7_level_0', 'Body Part')": "Right Foot",
+        "('Unnamed: 8_level_0', 'Notes')": null,
+        "('SCA 1', 'Player')": "Mateusz Klich",
+        "('SCA 1', 'Event')": "Pass (Live)",
+        "('SCA 2', 'Player')": "Tyler Roberts",
+        "('SCA 2', 'Event')": "Pass (Live)"
+    },
+    {
+        "('Unnamed: 0_level_0', 'Minute')": 77.0,
+        "('Unnamed: 1_level_0', 'Player')": "Crysencio Summerville",
+        "('Unnamed: 2_level_0', 'Squad')": "Leeds United",
+        "('Unnamed: 3_level_0', 'xG')": 0.21,
+        "('Unnamed: 4_level_0', 'PSxG')": null,
+        "('Unnamed: 5_level_0', 'Outcome')": "Off Target",
+        "('Unnamed: 6_level_0', 'Distance')": 10.0,
+        "('Unnamed: 7_level_0', 'Body Part')": "Right Foot",
+        "('Unnamed: 8_level_0', 'Notes')": "Volley",
+        "('SCA 1', 'Player')": "Mateusz Klich",
+        "('SCA 1', 'Event')": "Pass (Live)",
+        "('SCA 2', 'Player')": "Cody Drameh",
         "('SCA 2', 'Event')": "Pass (Live)"
     },
     {

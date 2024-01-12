@@ -8,6 +8,7 @@ from urllib.parse import urljoin
 import io
 import time
 import re
+import codecs
 
 class LegacyMatchHistory:
 	def __init__(self, legacy_seasons):
@@ -256,6 +257,90 @@ class LegacyMatchHistory:
 							# Initialize BeautifulSoup
 							soup_match_report = BeautifulSoup(html.text, features="lxml")
 
+							# Save the BeautifulSoup object to an HTML file
+							with codecs.open('match_report.html', 'w', encoding='utf-8') as file:
+								file.write(soup_match_report.prettify())
+
+							# -----------------------------------------------------------------
+							# -----------------------------------------------------------------
+							# -----------------------------------------------------------------
+
+							# Find all 'div' tags with class 'score'
+							goals = soup_match_report.find_all('div', {'class': 'score'})
+							expected_goals = soup_match_report('div', {'class': 'score_xg'})
+
+							# Print the contents of each 'div' tag
+							goals = [goals[0].text, goals[1].text]
+							expected_goals = [expected_goals[0].text, expected_goals[1].text]
+
+							# Match Overview
+							lineup_div_home = soup_match_report.find('div', {'class': 'lineup', 'id': 'a'})
+							lineup_div_away = soup_match_report.find('div', {'class': 'lineup', 'id': 'b'})
+
+							# Find all 'td' tags within the selected div
+							td_tags_home = lineup_div_home.find_all('td')
+							td_tags_away = lineup_div_away.find_all('td')
+
+							home_team = []
+							away_team = []
+
+							# Find 'a' tags within each 'td' tag and print the contents
+							for td in td_tags_home:
+								a_tag = td.find('a')
+								if a_tag is not None:
+									home_team.append(a_tag.text)
+
+							for td in td_tags_away:
+								b_tag = td.find('a')
+								if b_tag is not None:
+									away_team.append(b_tag.text)
+
+							players = [home_team, away_team]
+
+							
+							
+							team_stats_div = soup_match_report.find('div', {'id': 'team_stats_extra'})
+
+							# Find all 'div' tags within the selected div
+							div_tags = team_stats_div.find_all('div')
+
+							# Print the contents of each 'div' tag that doesn't have a class attribute and is numeric
+							numeric_values = []
+							for div in div_tags:
+								if not div.has_attr('class') and div.text.isdigit():
+									numeric_values.append(int(div.text))
+
+							print(numeric_values)
+
+							stats_list = [
+								"score",
+								"expected_goals",
+								"teamsheet"
+								"fouls",
+								"corners",
+								"crosses",
+								"touches",
+								"tackles",
+								"interceptions",
+								"aerials_won",
+								"clearances",
+								"offsides",
+								"goal_kicks",
+								"throw_ins",
+								"long_balls",
+							]
+
+							with open('Match Results.json', 'r') as file:
+								json.dump(stats, f)
+
+							# -----------------------------------------------------------------
+							# -----------------------------------------------------------------
+							# -----------------------------------------------------------------
+
+							tables = soup_match_report.select('table.stats_table')
+							table_length = len(tables)
+							print(f"Number of Tables: {table_length}")
+
 							for i in range(8):
 								# Add a delay to prevent the server from blocking the request
 								time.sleep(0.75)
@@ -263,14 +348,26 @@ class LegacyMatchHistory:
 								# Selects different table set for home and away teams
 								if home_away == 'Home':
 									if i != 7:
-										data = soup_match_report.select('table.stats_table')[i]
+										if i < table_length:
+											data = tables[i]
+										else:
+											continue
 									else:
-										data = soup_match_report.select('table.stats_table')[15]
+										if 15 < table_length:
+											data = tables[15]
+										else:
+											continue
 								else:
 									if i != 7:
-										data = soup_match_report.select('table.stats_table')[i + 7]
+										if i + 7 < table_length:
+											data = tables[i + 7]
+										else:
+											continue
 									else:
-										data = soup_match_report.select('table.stats_table')[16]
+										if 16 < table_length:
+											data = tables[16]
+										else:
+											continue
 										
 								# Read the table using Pandas
 								table = pd.read_html(io.StringIO(str(data)))[0]

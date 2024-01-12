@@ -75,6 +75,21 @@
         "('SCA 2', 'Event')": "Pass (Live)"
     },
     {
+        "('Unnamed: 0_level_0', 'Minute')": "29",
+        "('Unnamed: 1_level_0', 'Player')": "Mathias Jensen",
+        "('Unnamed: 2_level_0', 'Squad')": "Brentford",
+        "('Unnamed: 3_level_0', 'xG')": 0.05,
+        "('Unnamed: 4_level_0', 'PSxG')": null,
+        "('Unnamed: 5_level_0', 'Outcome')": "Off Target",
+        "('Unnamed: 6_level_0', 'Distance')": 15.0,
+        "('Unnamed: 7_level_0', 'Body Part')": "Right Foot",
+        "('Unnamed: 8_level_0', 'Notes')": null,
+        "('SCA 1', 'Player')": "Christian N\u00f8rgaard",
+        "('SCA 1', 'Event')": "Pass (Live)",
+        "('SCA 2', 'Player')": null,
+        "('SCA 2', 'Event')": null
+    },
+    {
         "('Unnamed: 0_level_0', 'Minute')": "31",
         "('Unnamed: 1_level_0', 'Player')": "Emi Buend\u00eda",
         "('Unnamed: 2_level_0', 'Squad')": "Aston Villa",
@@ -90,6 +105,51 @@
         "('SCA 2', 'Event')": "Fouled"
     },
     {
+        "('Unnamed: 0_level_0', 'Minute')": "33",
+        "('Unnamed: 1_level_0', 'Player')": "Yoane Wissa",
+        "('Unnamed: 2_level_0', 'Squad')": "Brentford",
+        "('Unnamed: 3_level_0', 'xG')": 0.04,
+        "('Unnamed: 4_level_0', 'PSxG')": null,
+        "('Unnamed: 5_level_0', 'Outcome')": "Off Target",
+        "('Unnamed: 6_level_0', 'Distance')": 9.0,
+        "('Unnamed: 7_level_0', 'Body Part')": "Head",
+        "('Unnamed: 8_level_0', 'Notes')": null,
+        "('SCA 1', 'Player')": "Mathias Jensen",
+        "('SCA 1', 'Event')": "Pass (Live)",
+        "('SCA 2', 'Player')": "Mads Bech S\u00f8rensen",
+        "('SCA 2', 'Event')": "Pass (Dead)"
+    },
+    {
+        "('Unnamed: 0_level_0', 'Minute')": "42",
+        "('Unnamed: 1_level_0', 'Player')": "Yoane Wissa",
+        "('Unnamed: 2_level_0', 'Squad')": "Brentford",
+        "('Unnamed: 3_level_0', 'xG')": 0.08,
+        "('Unnamed: 4_level_0', 'PSxG')": 0.41,
+        "('Unnamed: 5_level_0', 'Outcome')": "Goal",
+        "('Unnamed: 6_level_0', 'Distance')": 21.0,
+        "('Unnamed: 7_level_0', 'Body Part')": "Left Foot",
+        "('Unnamed: 8_level_0', 'Notes')": null,
+        "('SCA 1', 'Player')": "Mads Roerslev",
+        "('SCA 1', 'Event')": "Pass (Live)",
+        "('SCA 2', 'Player')": "Mathias Jensen",
+        "('SCA 2', 'Event')": "Pass (Live)"
+    },
+    {
+        "('Unnamed: 0_level_0', 'Minute')": "45+2",
+        "('Unnamed: 1_level_0', 'Player')": "Pontus Jansson",
+        "('Unnamed: 2_level_0', 'Squad')": "Brentford",
+        "('Unnamed: 3_level_0', 'xG')": 0.01,
+        "('Unnamed: 4_level_0', 'PSxG')": null,
+        "('Unnamed: 5_level_0', 'Outcome')": "Off Target",
+        "('Unnamed: 6_level_0', 'Distance')": 14.0,
+        "('Unnamed: 7_level_0', 'Body Part')": "Head",
+        "('Unnamed: 8_level_0', 'Notes')": null,
+        "('SCA 1', 'Player')": "Mathias Jensen",
+        "('SCA 1', 'Event')": "Pass (Dead)",
+        "('SCA 2', 'Player')": "Ivan Toney",
+        "('SCA 2', 'Event')": "Pass (Live)"
+    },
+    {
         "('Unnamed: 0_level_0', 'Minute')": null,
         "('Unnamed: 1_level_0', 'Player')": null,
         "('Unnamed: 2_level_0', 'Squad')": null,
@@ -99,6 +159,21 @@
         "('Unnamed: 6_level_0', 'Distance')": null,
         "('Unnamed: 7_level_0', 'Body Part')": null,
         "('Unnamed: 8_level_0', 'Notes')": null,
+        "('SCA 1', 'Player')": null,
+        "('SCA 1', 'Event')": null,
+        "('SCA 2', 'Player')": null,
+        "('SCA 2', 'Event')": null
+    },
+    {
+        "('Unnamed: 0_level_0', 'Minute')": "49",
+        "('Unnamed: 1_level_0', 'Player')": "Mads Roerslev",
+        "('Unnamed: 2_level_0', 'Squad')": "Brentford",
+        "('Unnamed: 3_level_0', 'xG')": 0.01,
+        "('Unnamed: 4_level_0', 'PSxG')": null,
+        "('Unnamed: 5_level_0', 'Outcome')": "Off Target",
+        "('Unnamed: 6_level_0', 'Distance')": 28.0,
+        "('Unnamed: 7_level_0', 'Body Part')": "Right Foot",
+        "('Unnamed: 8_level_0', 'Notes')": "Volley",
         "('SCA 1', 'Player')": null,
         "('SCA 1', 'Event')": null,
         "('SCA 2', 'Player')": null,
@@ -117,6 +192,21 @@
         "('SCA 1', 'Player')": "Matt Targett",
         "('SCA 1', 'Event')": "Pass (Live)",
         "('SCA 2', 'Player')": "Jacob Ramsey",
+        "('SCA 2', 'Event')": "Pass (Live)"
+    },
+    {
+        "('Unnamed: 0_level_0', 'Minute')": "56",
+        "('Unnamed: 1_level_0', 'Player')": "Ivan Toney",
+        "('Unnamed: 2_level_0', 'Squad')": "Brentford",
+        "('Unnamed: 3_level_0', 'xG')": 0.04,
+        "('Unnamed: 4_level_0', 'PSxG')": null,
+        "('Unnamed: 5_level_0', 'Outcome')": "Off Target",
+        "('Unnamed: 6_level_0', 'Distance')": 11.0,
+        "('Unnamed: 7_level_0', 'Body Part')": "Head",
+        "('Unnamed: 8_level_0', 'Notes')": null,
+        "('SCA 1', 'Player')": "Mads Bech S\u00f8rensen",
+        "('SCA 1', 'Event')": "Pass (Dead)",
+        "('SCA 2', 'Player')": "Christian N\u00f8rgaard",
         "('SCA 2', 'Event')": "Pass (Live)"
     },
     {
@@ -165,6 +255,21 @@
         "('SCA 2', 'Event')": "Shot"
     },
     {
+        "('Unnamed: 0_level_0', 'Minute')": "75",
+        "('Unnamed: 1_level_0', 'Player')": "Frank Onyeka",
+        "('Unnamed: 2_level_0', 'Squad')": "Brentford",
+        "('Unnamed: 3_level_0', 'xG')": 0.05,
+        "('Unnamed: 4_level_0', 'PSxG')": 0.41,
+        "('Unnamed: 5_level_0', 'Outcome')": "Saved",
+        "('Unnamed: 6_level_0', 'Distance')": 22.0,
+        "('Unnamed: 7_level_0', 'Body Part')": "Right Foot",
+        "('Unnamed: 8_level_0', 'Notes')": null,
+        "('SCA 1', 'Player')": "Ivan Toney",
+        "('SCA 1', 'Event')": "Pass (Live)",
+        "('SCA 2', 'Player')": "Ethan Pinnock",
+        "('SCA 2', 'Event')": "Tackle"
+    },
+    {
         "('Unnamed: 0_level_0', 'Minute')": "82",
         "('Unnamed: 1_level_0', 'Player')": "Danny Ings",
         "('Unnamed: 2_level_0', 'Squad')": "Aston Villa",
@@ -178,6 +283,36 @@
         "('SCA 1', 'Event')": "Pass (Dead)",
         "('SCA 2', 'Player')": "Matty Cash",
         "('SCA 2', 'Event')": "Fouled"
+    },
+    {
+        "('Unnamed: 0_level_0', 'Minute')": "83",
+        "('Unnamed: 1_level_0', 'Player')": "Mads Roerslev",
+        "('Unnamed: 2_level_0', 'Squad')": "Brentford",
+        "('Unnamed: 3_level_0', 'xG')": 0.06,
+        "('Unnamed: 4_level_0', 'PSxG')": 0.03,
+        "('Unnamed: 5_level_0', 'Outcome')": "Saved",
+        "('Unnamed: 6_level_0', 'Distance')": 12.0,
+        "('Unnamed: 7_level_0', 'Body Part')": "Right Foot",
+        "('Unnamed: 8_level_0', 'Notes')": "Deflected",
+        "('SCA 1', 'Player')": "Shandon Baptiste",
+        "('SCA 1', 'Event')": "Pass (Live)",
+        "('SCA 2', 'Player')": "Vitaly Janelt",
+        "('SCA 2', 'Event')": "Pass (Live)"
+    },
+    {
+        "('Unnamed: 0_level_0', 'Minute')": "83",
+        "('Unnamed: 1_level_0', 'Player')": "Mads Roerslev",
+        "('Unnamed: 2_level_0', 'Squad')": "Brentford",
+        "('Unnamed: 3_level_0', 'xG')": 0.18,
+        "('Unnamed: 4_level_0', 'PSxG')": 0.12,
+        "('Unnamed: 5_level_0', 'Outcome')": "Goal",
+        "('Unnamed: 6_level_0', 'Distance')": 6.0,
+        "('Unnamed: 7_level_0', 'Body Part')": "Left Foot",
+        "('Unnamed: 8_level_0', 'Notes')": null,
+        "('SCA 1', 'Player')": "Mads Roerslev",
+        "('SCA 1', 'Event')": "Shot",
+        "('SCA 2', 'Player')": null,
+        "('SCA 2', 'Event')": null
     },
     {
         "('Unnamed: 0_level_0', 'Minute')": "85",
@@ -253,5 +388,20 @@
         "('SCA 1', 'Event')": "Pass (Live)",
         "('SCA 2', 'Player')": "Ezri Konsa",
         "('SCA 2', 'Event')": "Pass (Live)"
+    },
+    {
+        "('Unnamed: 0_level_0', 'Minute')": "90+5",
+        "('Unnamed: 1_level_0', 'Player')": "Ivan Toney",
+        "('Unnamed: 2_level_0', 'Squad')": "Brentford",
+        "('Unnamed: 3_level_0', 'xG')": 0.06,
+        "('Unnamed: 4_level_0', 'PSxG')": null,
+        "('Unnamed: 5_level_0', 'Outcome')": "Off Target",
+        "('Unnamed: 6_level_0', 'Distance')": 41.0,
+        "('Unnamed: 7_level_0', 'Body Part')": "Left Foot",
+        "('Unnamed: 8_level_0', 'Notes')": null,
+        "('SCA 1', 'Player')": null,
+        "('SCA 1', 'Event')": null,
+        "('SCA 2', 'Player')": null,
+        "('SCA 2', 'Event')": null
     }
 ]

@@ -1,5 +1,20 @@
 [
     {
+        "('Unnamed: 0_level_0', 'Minute')": "3",
+        "('Unnamed: 1_level_0', 'Player')": "Jakub Moder",
+        "('Unnamed: 2_level_0', 'Squad')": "Brighton",
+        "('Unnamed: 3_level_0', 'xG')": 0.12,
+        "('Unnamed: 4_level_0', 'PSxG')": null,
+        "('Unnamed: 5_level_0', 'Outcome')": "Off Target",
+        "('Unnamed: 6_level_0', 'Distance')": 18.0,
+        "('Unnamed: 7_level_0', 'Body Part')": "Right Foot",
+        "('Unnamed: 8_level_0', 'Notes')": null,
+        "('SCA 1', 'Player')": "Danny Welbeck",
+        "('SCA 1', 'Event')": "Pass (Live)",
+        "('SCA 2', 'Player')": "Steven Alzate",
+        "('SCA 2', 'Event')": "Pass (Live)"
+    },
+    {
         "('Unnamed: 0_level_0', 'Minute')": "15",
         "('Unnamed: 1_level_0', 'Player')": "C\u00e9sar Azpilicueta",
         "('Unnamed: 2_level_0', 'Squad')": "Chelsea",
@@ -13,6 +28,36 @@
         "('SCA 1', 'Event')": "Pass (Live)",
         "('SCA 2', 'Player')": "Jorginho",
         "('SCA 2', 'Event')": "Pass (Live)"
+    },
+    {
+        "('Unnamed: 0_level_0', 'Minute')": "22",
+        "('Unnamed: 1_level_0', 'Player')": "Danny Welbeck",
+        "('Unnamed: 2_level_0', 'Squad')": "Brighton",
+        "('Unnamed: 3_level_0', 'xG')": 0.04,
+        "('Unnamed: 4_level_0', 'PSxG')": null,
+        "('Unnamed: 5_level_0', 'Outcome')": "Blocked",
+        "('Unnamed: 6_level_0', 'Distance')": 13.0,
+        "('Unnamed: 7_level_0', 'Body Part')": "Head",
+        "('Unnamed: 8_level_0', 'Notes')": null,
+        "('SCA 1', 'Player')": "Tariq Lamptey",
+        "('SCA 1', 'Event')": "Pass (Live)",
+        "('SCA 2', 'Player')": "Jakub Moder",
+        "('SCA 2', 'Event')": "Pass (Live)"
+    },
+    {
+        "('Unnamed: 0_level_0', 'Minute')": "22",
+        "('Unnamed: 1_level_0', 'Player')": "Alexis Mac Allister",
+        "('Unnamed: 2_level_0', 'Squad')": "Brighton",
+        "('Unnamed: 3_level_0', 'xG')": 0.08,
+        "('Unnamed: 4_level_0', 'PSxG')": null,
+        "('Unnamed: 5_level_0', 'Outcome')": "Blocked",
+        "('Unnamed: 6_level_0', 'Distance')": 13.0,
+        "('Unnamed: 7_level_0', 'Body Part')": "Right Foot",
+        "('Unnamed: 8_level_0', 'Notes')": null,
+        "('SCA 1', 'Player')": "Danny Welbeck",
+        "('SCA 1', 'Event')": "Shot",
+        "('SCA 2', 'Player')": null,
+        "('SCA 2', 'Event')": null
     },
     {
         "('Unnamed: 0_level_0', 'Minute')": "28",
@@ -42,6 +87,21 @@
         "('SCA 1', 'Player')": "Thiago Silva",
         "('SCA 1', 'Event')": "Pass (Live)",
         "('SCA 2', 'Player')": "Antonio R\u00fcdiger",
+        "('SCA 2', 'Event')": "Pass (Live)"
+    },
+    {
+        "('Unnamed: 0_level_0', 'Minute')": "40",
+        "('Unnamed: 1_level_0', 'Player')": "Danny Welbeck",
+        "('Unnamed: 2_level_0', 'Squad')": "Brighton",
+        "('Unnamed: 3_level_0', 'xG')": 0.04,
+        "('Unnamed: 4_level_0', 'PSxG')": null,
+        "('Unnamed: 5_level_0', 'Outcome')": "Off Target",
+        "('Unnamed: 6_level_0', 'Distance')": 20.0,
+        "('Unnamed: 7_level_0', 'Body Part')": "Right Foot",
+        "('Unnamed: 8_level_0', 'Notes')": null,
+        "('SCA 1', 'Player')": "Marc Cucurella",
+        "('SCA 1', 'Event')": "Pass (Live)",
+        "('SCA 2', 'Player')": "Jakub Moder",
         "('SCA 2', 'Event')": "Pass (Live)"
     },
     {
@@ -75,6 +135,21 @@
         "('SCA 2', 'Event')": null
     },
     {
+        "('Unnamed: 0_level_0', 'Minute')": "46",
+        "('Unnamed: 1_level_0', 'Player')": "Danny Welbeck",
+        "('Unnamed: 2_level_0', 'Squad')": "Brighton",
+        "('Unnamed: 3_level_0', 'xG')": 0.13,
+        "('Unnamed: 4_level_0', 'PSxG')": null,
+        "('Unnamed: 5_level_0', 'Outcome')": "Off Target",
+        "('Unnamed: 6_level_0', 'Distance')": 12.0,
+        "('Unnamed: 7_level_0', 'Body Part')": "Left Foot",
+        "('Unnamed: 8_level_0', 'Notes')": null,
+        "('SCA 1', 'Player')": "Pascal Gro\u00df",
+        "('SCA 1', 'Event')": "Pass (Live)",
+        "('SCA 2', 'Player')": "Alexis Mac Allister",
+        "('SCA 2', 'Event')": "Pass (Live)"
+    },
+    {
         "('Unnamed: 0_level_0', 'Minute')": "48",
         "('Unnamed: 1_level_0', 'Player')": "Hakim Ziyech",
         "('Unnamed: 2_level_0', 'Squad')": "Chelsea",
@@ -103,6 +178,36 @@
         "('SCA 1', 'Event')": "Pass (Live)",
         "('SCA 2', 'Player')": "Hakim Ziyech",
         "('SCA 2', 'Event')": "Pass (Live)"
+    },
+    {
+        "('Unnamed: 0_level_0', 'Minute')": "60",
+        "('Unnamed: 1_level_0', 'Player')": "Alexis Mac Allister",
+        "('Unnamed: 2_level_0', 'Squad')": "Brighton",
+        "('Unnamed: 3_level_0', 'xG')": 0.13,
+        "('Unnamed: 4_level_0', 'PSxG')": 0.49,
+        "('Unnamed: 5_level_0', 'Outcome')": "Saved",
+        "('Unnamed: 6_level_0', 'Distance')": 16.0,
+        "('Unnamed: 7_level_0', 'Body Part')": "Right Foot",
+        "('Unnamed: 8_level_0', 'Notes')": "Deflected",
+        "('SCA 1', 'Player')": "Marc Cucurella",
+        "('SCA 1', 'Event')": "Pass (Live)",
+        "('SCA 2', 'Player')": "Jakub Moder",
+        "('SCA 2', 'Event')": "Pass (Live)"
+    },
+    {
+        "('Unnamed: 0_level_0', 'Minute')": "60",
+        "('Unnamed: 1_level_0', 'Player')": "Adam Webster",
+        "('Unnamed: 2_level_0', 'Squad')": "Brighton",
+        "('Unnamed: 3_level_0', 'xG')": 0.07,
+        "('Unnamed: 4_level_0', 'PSxG')": 0.11,
+        "('Unnamed: 5_level_0', 'Outcome')": "Goal",
+        "('Unnamed: 6_level_0', 'Distance')": 9.0,
+        "('Unnamed: 7_level_0', 'Body Part')": "Head",
+        "('Unnamed: 8_level_0', 'Notes')": null,
+        "('SCA 1', 'Player')": "Alexis Mac Allister",
+        "('SCA 1', 'Event')": "Pass (Dead)",
+        "('SCA 2', 'Player')": "Alexis Mac Allister",
+        "('SCA 2', 'Event')": "Shot"
     },
     {
         "('Unnamed: 0_level_0', 'Minute')": "63",
@@ -147,6 +252,21 @@
         "('SCA 1', 'Player')": "Callum Hudson-Odoi",
         "('SCA 1', 'Event')": "Pass (Live)",
         "('SCA 2', 'Player')": "Mason Mount",
+        "('SCA 2', 'Event')": "Pass (Live)"
+    },
+    {
+        "('Unnamed: 0_level_0', 'Minute')": "70",
+        "('Unnamed: 1_level_0', 'Player')": "Neal Maupay",
+        "('Unnamed: 2_level_0', 'Squad')": "Brighton",
+        "('Unnamed: 3_level_0', 'xG')": 0.03,
+        "('Unnamed: 4_level_0', 'PSxG')": null,
+        "('Unnamed: 5_level_0', 'Outcome')": "Blocked",
+        "('Unnamed: 6_level_0', 'Distance')": 27.0,
+        "('Unnamed: 7_level_0', 'Body Part')": "Right Foot",
+        "('Unnamed: 8_level_0', 'Notes')": null,
+        "('SCA 1', 'Player')": "Steven Alzate",
+        "('SCA 1', 'Event')": "Pass (Live)",
+        "('SCA 2', 'Player')": "Leandro Trossard",
         "('SCA 2', 'Event')": "Pass (Live)"
     },
     {
@@ -223,6 +343,36 @@
         "('SCA 1', 'Event')": "Pass (Live)",
         "('SCA 2', 'Player')": "Marcos Alonso",
         "('SCA 2', 'Event')": "Pass (Live)"
+    },
+    {
+        "('Unnamed: 0_level_0', 'Minute')": "90+2",
+        "('Unnamed: 1_level_0', 'Player')": "Neal Maupay",
+        "('Unnamed: 2_level_0', 'Squad')": "Brighton",
+        "('Unnamed: 3_level_0', 'xG')": 0.03,
+        "('Unnamed: 4_level_0', 'PSxG')": null,
+        "('Unnamed: 5_level_0', 'Outcome')": "Blocked",
+        "('Unnamed: 6_level_0', 'Distance')": 24.0,
+        "('Unnamed: 7_level_0', 'Body Part')": "Right Foot",
+        "('Unnamed: 8_level_0', 'Notes')": null,
+        "('SCA 1', 'Player')": "Adam Webster",
+        "('SCA 1', 'Event')": "Pass (Live)",
+        "('SCA 2', 'Player')": "Alexis Mac Allister",
+        "('SCA 2', 'Event')": "Pass (Live)"
+    },
+    {
+        "('Unnamed: 0_level_0', 'Minute')": "90+2",
+        "('Unnamed: 1_level_0', 'Player')": "Leandro Trossard",
+        "('Unnamed: 2_level_0', 'Squad')": "Brighton",
+        "('Unnamed: 3_level_0', 'xG')": 0.06,
+        "('Unnamed: 4_level_0', 'PSxG')": null,
+        "('Unnamed: 5_level_0', 'Outcome')": "Blocked",
+        "('Unnamed: 6_level_0', 'Distance')": 11.0,
+        "('Unnamed: 7_level_0', 'Body Part')": "Right Foot",
+        "('Unnamed: 8_level_0', 'Notes')": "Volley",
+        "('SCA 1', 'Player')": "Solly March",
+        "('SCA 1', 'Event')": "Pass (Live)",
+        "('SCA 2', 'Player')": "Neal Maupay",
+        "('SCA 2', 'Event')": "Shot"
     },
     {
         "('Unnamed: 0_level_0', 'Minute')": "90+4",

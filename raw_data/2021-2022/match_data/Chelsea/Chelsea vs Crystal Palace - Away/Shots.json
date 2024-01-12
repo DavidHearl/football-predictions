@@ -1,6 +1,21 @@
 [
     {
-        "('Unnamed: 0_level_0', 'Minute')": 9.0,
+        "('Unnamed: 0_level_0', 'Minute')": "7",
+        "('Unnamed: 1_level_0', 'Player')": "Michael Olise",
+        "('Unnamed: 2_level_0', 'Squad')": "Crystal Palace",
+        "('Unnamed: 3_level_0', 'xG')": 0.08,
+        "('Unnamed: 4_level_0', 'PSxG')": null,
+        "('Unnamed: 5_level_0', 'Outcome')": "Off Target",
+        "('Unnamed: 6_level_0', 'Distance')": 12.0,
+        "('Unnamed: 7_level_0', 'Body Part')": "Right Foot",
+        "('Unnamed: 8_level_0', 'Notes')": null,
+        "('SCA 1', 'Player')": "Wilfried Zaha",
+        "('SCA 1', 'Event')": "Pass (Live)",
+        "('SCA 2', 'Player')": "Jeffrey Schlupp",
+        "('SCA 2', 'Event')": "Pass (Live)"
+    },
+    {
+        "('Unnamed: 0_level_0', 'Minute')": "9",
         "('Unnamed: 1_level_0', 'Player')": "Christian Pulisic",
         "('Unnamed: 2_level_0', 'Squad')": "Chelsea",
         "('Unnamed: 3_level_0', 'xG')": 0.22,
@@ -15,7 +30,7 @@
         "('SCA 2', 'Event')": "Pass (Live)"
     },
     {
-        "('Unnamed: 0_level_0', 'Minute')": 11.0,
+        "('Unnamed: 0_level_0', 'Minute')": "11",
         "('Unnamed: 1_level_0', 'Player')": "Antonio R\u00fcdiger",
         "('Unnamed: 2_level_0', 'Squad')": "Chelsea",
         "('Unnamed: 3_level_0', 'xG')": 0.02,
@@ -30,7 +45,7 @@
         "('SCA 2', 'Event')": "Pass (Live)"
     },
     {
-        "('Unnamed: 0_level_0', 'Minute')": 17.0,
+        "('Unnamed: 0_level_0', 'Minute')": "17",
         "('Unnamed: 1_level_0', 'Player')": "Christian Pulisic",
         "('Unnamed: 2_level_0', 'Squad')": "Chelsea",
         "('Unnamed: 3_level_0', 'xG')": 0.07,
@@ -45,7 +60,7 @@
         "('SCA 2', 'Event')": "Pass (Live)"
     },
     {
-        "('Unnamed: 0_level_0', 'Minute')": 20.0,
+        "('Unnamed: 0_level_0', 'Minute')": "20",
         "('Unnamed: 1_level_0', 'Player')": "N'Golo Kant\u00e9",
         "('Unnamed: 2_level_0', 'Squad')": "Chelsea",
         "('Unnamed: 3_level_0', 'xG')": 0.32,
@@ -60,7 +75,7 @@
         "('SCA 2', 'Event')": "Pass (Live)"
     },
     {
-        "('Unnamed: 0_level_0', 'Minute')": 37.0,
+        "('Unnamed: 0_level_0', 'Minute')": "37",
         "('Unnamed: 1_level_0', 'Player')": "Malang Sarr",
         "('Unnamed: 2_level_0', 'Squad')": "Chelsea",
         "('Unnamed: 3_level_0', 'xG')": 0.04,
@@ -72,6 +87,36 @@
         "('SCA 1', 'Player')": "Kai Havertz",
         "('SCA 1', 'Event')": "Pass (Live)",
         "('SCA 2', 'Player')": "Malang Sarr",
+        "('SCA 2', 'Event')": "Pass (Live)"
+    },
+    {
+        "('Unnamed: 0_level_0', 'Minute')": "39",
+        "('Unnamed: 1_level_0', 'Player')": "Marc Gu\u00e9hi",
+        "('Unnamed: 2_level_0', 'Squad')": "Crystal Palace",
+        "('Unnamed: 3_level_0', 'xG')": 0.15,
+        "('Unnamed: 4_level_0', 'PSxG')": null,
+        "('Unnamed: 5_level_0', 'Outcome')": "Blocked",
+        "('Unnamed: 6_level_0', 'Distance')": 6.0,
+        "('Unnamed: 7_level_0', 'Body Part')": "Head",
+        "('Unnamed: 8_level_0', 'Notes')": null,
+        "('SCA 1', 'Player')": "Michael Olise",
+        "('SCA 1', 'Event')": "Pass (Dead)",
+        "('SCA 2', 'Player')": "Jordan Ayew",
+        "('SCA 2', 'Event')": "Fouled"
+    },
+    {
+        "('Unnamed: 0_level_0', 'Minute')": "45+1",
+        "('Unnamed: 1_level_0', 'Player')": "Wilfried Zaha",
+        "('Unnamed: 2_level_0', 'Squad')": "Crystal Palace",
+        "('Unnamed: 3_level_0', 'xG')": 0.15,
+        "('Unnamed: 4_level_0', 'PSxG')": null,
+        "('Unnamed: 5_level_0', 'Outcome')": "Off Target",
+        "('Unnamed: 6_level_0', 'Distance')": 8.0,
+        "('Unnamed: 7_level_0', 'Body Part')": "Right Foot",
+        "('Unnamed: 8_level_0', 'Notes')": null,
+        "('SCA 1', 'Player')": "Michael Olise",
+        "('SCA 1', 'Event')": "Pass (Live)",
+        "('SCA 2', 'Player')": "James McArthur",
         "('SCA 2', 'Event')": "Pass (Live)"
     },
     {
@@ -90,7 +135,37 @@
         "('SCA 2', 'Event')": null
     },
     {
-        "('Unnamed: 0_level_0', 'Minute')": 60.0,
+        "('Unnamed: 0_level_0', 'Minute')": "48",
+        "('Unnamed: 1_level_0', 'Player')": "Jeffrey Schlupp",
+        "('Unnamed: 2_level_0', 'Squad')": "Crystal Palace",
+        "('Unnamed: 3_level_0', 'xG')": 0.04,
+        "('Unnamed: 4_level_0', 'PSxG')": null,
+        "('Unnamed: 5_level_0', 'Outcome')": "Blocked",
+        "('Unnamed: 6_level_0', 'Distance')": 10.0,
+        "('Unnamed: 7_level_0', 'Body Part')": "Head",
+        "('Unnamed: 8_level_0', 'Notes')": null,
+        "('SCA 1', 'Player')": "Nathaniel Clyne",
+        "('SCA 1', 'Event')": "Pass (Live)",
+        "('SCA 2', 'Player')": "Joachim Andersen",
+        "('SCA 2', 'Event')": "Pass (Live)"
+    },
+    {
+        "('Unnamed: 0_level_0', 'Minute')": "54",
+        "('Unnamed: 1_level_0', 'Player')": "Jeffrey Schlupp",
+        "('Unnamed: 2_level_0', 'Squad')": "Crystal Palace",
+        "('Unnamed: 3_level_0', 'xG')": 0.04,
+        "('Unnamed: 4_level_0', 'PSxG')": null,
+        "('Unnamed: 5_level_0', 'Outcome')": "Off Target",
+        "('Unnamed: 6_level_0', 'Distance')": 25.0,
+        "('Unnamed: 7_level_0', 'Body Part')": "Left Foot",
+        "('Unnamed: 8_level_0', 'Notes')": null,
+        "('SCA 1', 'Player')": null,
+        "('SCA 1', 'Event')": null,
+        "('SCA 2', 'Player')": null,
+        "('SCA 2', 'Event')": null
+    },
+    {
+        "('Unnamed: 0_level_0', 'Minute')": "60",
         "('Unnamed: 1_level_0', 'Player')": "Hakim Ziyech",
         "('Unnamed: 2_level_0', 'Squad')": "Chelsea",
         "('Unnamed: 3_level_0', 'xG')": 0.07,
@@ -105,7 +180,7 @@
         "('SCA 2', 'Event')": "Pass (Live)"
     },
     {
-        "('Unnamed: 0_level_0', 'Minute')": 60.0,
+        "('Unnamed: 0_level_0', 'Minute')": "60",
         "('Unnamed: 1_level_0', 'Player')": "Hakim Ziyech",
         "('Unnamed: 2_level_0', 'Squad')": "Chelsea",
         "('Unnamed: 3_level_0', 'xG')": 0.02,
@@ -120,7 +195,7 @@
         "('SCA 2', 'Event')": null
     },
     {
-        "('Unnamed: 0_level_0', 'Minute')": 82.0,
+        "('Unnamed: 0_level_0', 'Minute')": "82",
         "('Unnamed: 1_level_0', 'Player')": "Kai Havertz",
         "('Unnamed: 2_level_0', 'Squad')": "Chelsea",
         "('Unnamed: 3_level_0', 'xG')": 0.07,
@@ -135,7 +210,22 @@
         "('SCA 2', 'Event')": "Pass (Live)"
     },
     {
-        "('Unnamed: 0_level_0', 'Minute')": 89.0,
+        "('Unnamed: 0_level_0', 'Minute')": "87",
+        "('Unnamed: 1_level_0', 'Player')": "Cheikhou Kouyat\u00e9",
+        "('Unnamed: 2_level_0', 'Squad')": "Crystal Palace",
+        "('Unnamed: 3_level_0', 'xG')": 0.03,
+        "('Unnamed: 4_level_0', 'PSxG')": null,
+        "('Unnamed: 5_level_0', 'Outcome')": "Off Target",
+        "('Unnamed: 6_level_0', 'Distance')": 27.0,
+        "('Unnamed: 7_level_0', 'Body Part')": "Right Foot",
+        "('Unnamed: 8_level_0', 'Notes')": null,
+        "('SCA 1', 'Player')": "Marc Gu\u00e9hi",
+        "('SCA 1', 'Event')": "Pass (Live)",
+        "('SCA 2', 'Player')": "Wilfried Zaha",
+        "('SCA 2', 'Event')": "Pass (Live)"
+    },
+    {
+        "('Unnamed: 0_level_0', 'Minute')": "89",
         "('Unnamed: 1_level_0', 'Player')": "Hakim Ziyech",
         "('Unnamed: 2_level_0', 'Squad')": "Chelsea",
         "('Unnamed: 3_level_0', 'xG')": 0.11,
@@ -148,5 +238,20 @@
         "('SCA 1', 'Event')": "Pass (Live)",
         "('SCA 2', 'Player')": "Antonio R\u00fcdiger",
         "('SCA 2', 'Event')": "Pass (Live)"
+    },
+    {
+        "('Unnamed: 0_level_0', 'Minute')": "90+1",
+        "('Unnamed: 1_level_0', 'Player')": "Wilfried Zaha",
+        "('Unnamed: 2_level_0', 'Squad')": "Crystal Palace",
+        "('Unnamed: 3_level_0', 'xG')": 0.03,
+        "('Unnamed: 4_level_0', 'PSxG')": null,
+        "('Unnamed: 5_level_0', 'Outcome')": "Off Target",
+        "('Unnamed: 6_level_0', 'Distance')": 14.0,
+        "('Unnamed: 7_level_0', 'Body Part')": "Left Foot",
+        "('Unnamed: 8_level_0', 'Notes')": null,
+        "('SCA 1', 'Player')": "Wilfried Zaha",
+        "('SCA 1', 'Event')": "Take-On",
+        "('SCA 2', 'Player')": "Wilfried Zaha",
+        "('SCA 2', 'Event')": "Take-On"
     }
 ]

@@ -1,5 +1,20 @@
 [
     {
+        "('Unnamed: 0_level_0', 'Minute')": "7",
+        "('Unnamed: 1_level_0', 'Player')": "Conor Gallagher",
+        "('Unnamed: 2_level_0', 'Squad')": "Crystal Palace",
+        "('Unnamed: 3_level_0', 'xG')": 0.23,
+        "('Unnamed: 4_level_0', 'PSxG')": null,
+        "('Unnamed: 5_level_0', 'Outcome')": "Woodwork",
+        "('Unnamed: 6_level_0', 'Distance')": 8.0,
+        "('Unnamed: 7_level_0', 'Body Part')": "Right Foot",
+        "('Unnamed: 8_level_0', 'Notes')": null,
+        "('SCA 1', 'Player')": "Wilfried Zaha",
+        "('SCA 1', 'Event')": "Pass (Live)",
+        "('SCA 2', 'Player')": "Conor Gallagher",
+        "('SCA 2', 'Event')": "Pass (Live)"
+    },
+    {
         "('Unnamed: 0_level_0', 'Minute')": "9",
         "('Unnamed: 1_level_0', 'Player')": "Ivan Toney",
         "('Unnamed: 2_level_0', 'Squad')": "Brentford",
@@ -58,6 +73,21 @@
         "('SCA 1', 'Event')": "Pass (Live)",
         "('SCA 2', 'Player')": "Vitaly Janelt",
         "('SCA 2', 'Event')": "Shot"
+    },
+    {
+        "('Unnamed: 0_level_0', 'Minute')": "32",
+        "('Unnamed: 1_level_0', 'Player')": "Conor Gallagher",
+        "('Unnamed: 2_level_0', 'Squad')": "Crystal Palace",
+        "('Unnamed: 3_level_0', 'xG')": 0.07,
+        "('Unnamed: 4_level_0', 'PSxG')": 0.07,
+        "('Unnamed: 5_level_0', 'Outcome')": "Saved",
+        "('Unnamed: 6_level_0', 'Distance')": 19.0,
+        "('Unnamed: 7_level_0', 'Body Part')": "Left Foot",
+        "('Unnamed: 8_level_0', 'Notes')": null,
+        "('SCA 1', 'Player')": "Jeffrey Schlupp",
+        "('SCA 1', 'Event')": "Pass (Live)",
+        "('SCA 2', 'Player')": "Jeffrey Schlupp",
+        "('SCA 2', 'Event')": "Take-On"
     },
     {
         "('Unnamed: 0_level_0', 'Minute')": "36",
@@ -180,6 +210,21 @@
         "('SCA 2', 'Event')": null
     },
     {
+        "('Unnamed: 0_level_0', 'Minute')": "54",
+        "('Unnamed: 1_level_0', 'Player')": "Christian Benteke",
+        "('Unnamed: 2_level_0', 'Squad')": "Crystal Palace",
+        "('Unnamed: 3_level_0', 'xG')": 0.08,
+        "('Unnamed: 4_level_0', 'PSxG')": null,
+        "('Unnamed: 5_level_0', 'Outcome')": "Off Target",
+        "('Unnamed: 6_level_0', 'Distance')": 10.0,
+        "('Unnamed: 7_level_0', 'Body Part')": "Head",
+        "('Unnamed: 8_level_0', 'Notes')": null,
+        "('SCA 1', 'Player')": "Joel Ward",
+        "('SCA 1', 'Event')": "Pass (Live)",
+        "('SCA 2', 'Player')": "Joel Ward",
+        "('SCA 2', 'Event')": "Pass (Dead)"
+    },
+    {
         "('Unnamed: 0_level_0', 'Minute')": "60",
         "('Unnamed: 1_level_0', 'Player')": "Bryan Mbeumo",
         "('Unnamed: 2_level_0', 'Squad')": "Brentford",
@@ -210,6 +255,36 @@
         "('SCA 2', 'Event')": "Pass (Live)"
     },
     {
+        "('Unnamed: 0_level_0', 'Minute')": "69",
+        "('Unnamed: 1_level_0', 'Player')": "James McArthur",
+        "('Unnamed: 2_level_0', 'Squad')": "Crystal Palace",
+        "('Unnamed: 3_level_0', 'xG')": 0.04,
+        "('Unnamed: 4_level_0', 'PSxG')": 0.3,
+        "('Unnamed: 5_level_0', 'Outcome')": "Saved",
+        "('Unnamed: 6_level_0', 'Distance')": 22.0,
+        "('Unnamed: 7_level_0', 'Body Part')": "Right Foot",
+        "('Unnamed: 8_level_0', 'Notes')": null,
+        "('SCA 1', 'Player')": "Wilfried Zaha",
+        "('SCA 1', 'Event')": "Pass (Live)",
+        "('SCA 2', 'Player')": "Jordan Ayew",
+        "('SCA 2', 'Event')": "Pass (Live)"
+    },
+    {
+        "('Unnamed: 0_level_0', 'Minute')": "70",
+        "('Unnamed: 1_level_0', 'Player')": "Joel Ward",
+        "('Unnamed: 2_level_0', 'Squad')": "Crystal Palace",
+        "('Unnamed: 3_level_0', 'xG')": 0.01,
+        "('Unnamed: 4_level_0', 'PSxG')": null,
+        "('Unnamed: 5_level_0', 'Outcome')": "Off Target",
+        "('Unnamed: 6_level_0', 'Distance')": 29.0,
+        "('Unnamed: 7_level_0', 'Body Part')": "Left Foot",
+        "('Unnamed: 8_level_0', 'Notes')": "Volley",
+        "('SCA 1', 'Player')": "James McArthur",
+        "('SCA 1', 'Event')": "Shot",
+        "('SCA 2', 'Player')": null,
+        "('SCA 2', 'Event')": null
+    },
+    {
         "('Unnamed: 0_level_0', 'Minute')": "77",
         "('Unnamed: 1_level_0', 'Player')": "Ivan Toney",
         "('Unnamed: 2_level_0', 'Squad')": "Brentford",
@@ -222,6 +297,36 @@
         "('SCA 1', 'Player')": "Pontus Jansson",
         "('SCA 1', 'Event')": "Pass (Live)",
         "('SCA 2', 'Player')": "Rico Henry",
+        "('SCA 2', 'Event')": "Fouled"
+    },
+    {
+        "('Unnamed: 0_level_0', 'Minute')": "84",
+        "('Unnamed: 1_level_0', 'Player')": "Jordan Ayew",
+        "('Unnamed: 2_level_0', 'Squad')": "Crystal Palace",
+        "('Unnamed: 3_level_0', 'xG')": 0.04,
+        "('Unnamed: 4_level_0', 'PSxG')": null,
+        "('Unnamed: 5_level_0', 'Outcome')": "Off Target",
+        "('Unnamed: 6_level_0', 'Distance')": 12.0,
+        "('Unnamed: 7_level_0', 'Body Part')": "Right Foot",
+        "('Unnamed: 8_level_0', 'Notes')": "Volley",
+        "('SCA 1', 'Player')": "Christian Benteke",
+        "('SCA 1', 'Event')": "Pass (Live)",
+        "('SCA 2', 'Player')": "Wilfried Zaha",
+        "('SCA 2', 'Event')": "Pass (Live)"
+    },
+    {
+        "('Unnamed: 0_level_0', 'Minute')": "90+4",
+        "('Unnamed: 1_level_0', 'Player')": "Joachim Andersen",
+        "('Unnamed: 2_level_0', 'Squad')": "Crystal Palace",
+        "('Unnamed: 3_level_0', 'xG')": 0.05,
+        "('Unnamed: 4_level_0', 'PSxG')": null,
+        "('Unnamed: 5_level_0', 'Outcome')": "Off Target",
+        "('Unnamed: 6_level_0', 'Distance')": 13.0,
+        "('Unnamed: 7_level_0', 'Body Part')": "Head",
+        "('Unnamed: 8_level_0', 'Notes')": null,
+        "('SCA 1', 'Player')": "Conor Gallagher",
+        "('SCA 1', 'Event')": "Pass (Dead)",
+        "('SCA 2', 'Player')": "Conor Gallagher",
         "('SCA 2', 'Event')": "Fouled"
     }
 ]
