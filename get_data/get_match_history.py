@@ -236,6 +236,100 @@ class MatchHistory:
 					# Initialize BeautifulSoup
 					soup_match_report = BeautifulSoup(html.text, features="lxml")
 
+					# Find all 'div' tags with class 'score'
+					goals = soup_match_report.find_all('div', {'class': 'score'})
+					expected_goals = soup_match_report('div', {'class': 'score_xg'})
+
+					# Print the contents of each 'div' tag
+					goals = [goals[0].text, goals[1].text]
+					expected_goals = [expected_goals[0].text, expected_goals[1].text]
+
+					# Match Overview
+					lineup_div_home = soup_match_report.find('div', {'class': 'lineup', 'id': 'a'})
+					lineup_div_away = soup_match_report.find('div', {'class': 'lineup', 'id': 'b'})
+
+					# Find all 'td' tags within the selected div
+					td_tags_home = lineup_div_home.find_all('td')
+					td_tags_away = lineup_div_away.find_all('td')
+
+					home_team = []
+					away_team = []
+
+					# Find 'a' tags within each 'td' tag and print the contents
+					for td in td_tags_home:
+						a_tag = td.find('a')
+						if a_tag is not None:
+							home_team.append(a_tag.text)
+
+					for td in td_tags_away:
+						b_tag = td.find('a')
+						if b_tag is not None:
+							away_team.append(b_tag.text)
+
+					team_stats_div = soup_match_report.find('div', {'id': 'team_stats_extra'})
+
+					# Find all 'div' tags within the selected div
+					div_tags = team_stats_div.find_all('div')
+
+					# Print the contents of each 'div' tag that doesn't have a class attribute and is numeric
+					numeric_values = []
+					for div in div_tags:
+						if not div.has_attr('class') and div.text.isdigit():
+							numeric_values.append(int(div.text))
+
+					fouls = [numeric_values[0], numeric_values[1]]
+					corners = [numeric_values[2], numeric_values[3]]
+					crosses = [numeric_values[4], numeric_values[5]]
+					touches = [numeric_values[6], numeric_values[7]]
+					tackles = [numeric_values[8], numeric_values[9]]
+					interceptions = [numeric_values[10], numeric_values[11]]
+					aerials_won = [numeric_values[12], numeric_values[13]]
+					clearances = [numeric_values[14], numeric_values[15]]
+					offsides = [numeric_values[16], numeric_values[17]]
+					goal_kicks = [numeric_values[18], numeric_values[19]]
+					throw_ins = [numeric_values[20], numeric_values[21]]
+					long_balls = [numeric_values[22], numeric_values[23]]
+			
+
+					# Find all 'div' tags with class 'score'
+					goals = soup_match_report.find_all('div', {'class': 'score'})
+					expected_goals = soup_match_report('div', {'class': 'score_xg'})
+
+					# Print the contents of each 'div' tag
+					goals = [goals[0].text, goals[1].text]
+					expected_goals = [expected_goals[0].text, expected_goals[1].text]
+
+					# Match Overview
+					lineup_div_home = soup_match_report.find('div', {'class': 'lineup', 'id': 'a'})
+					lineup_div_away = soup_match_report.find('div', {'class': 'lineup', 'id': 'b'})
+
+					# Create a dictionary for the match overview data
+					match_overview = {
+						'goals': goals,
+						'expected_goals': expected_goals,
+						'home_team': home_team,
+						'away_team': away_team,
+						'fouls': fouls,
+						'corners': corners,
+						'crosses': crosses,
+						'touches': touches,
+						'tackles': tackles,
+						'interceptions': interceptions,
+						'aerials_won': aerials_won,
+						'clearances': clearances,
+						'offsides': offsides,
+						'goal_kicks': goal_kicks,
+						'throw_ins': throw_ins,
+						'long_balls': long_balls
+					}
+
+					overview_path = os.path.join(match_folder_path, 'Match Overview.json')
+					print(overview_path)
+
+					# Write the match overview data to the JSON file
+					with open(overview_path, 'w') as file:
+						json.dump(match_overview, file, indent=4)
+
 					for i in range(8):
 						# Add a delay to prevent the server from blocking the request
 						time.sleep(0.5)

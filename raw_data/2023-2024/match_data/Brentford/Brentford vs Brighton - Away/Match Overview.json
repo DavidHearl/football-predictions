@@ -1,0 +1,102 @@
+{
+    "goals": [
+        "2",
+        "1"
+    ],
+    "expected_goals": [
+        "1.5",
+        "1.5"
+    ],
+    "home_team": [
+        "Jason Steele",
+        "Igor",
+        "Jo\u00e3o Pedro",
+        "Billy Gilmour",
+        "Pascal Gro\u00df",
+        "Carlos Baleba",
+        "Kaoru Mitoma",
+        "Simon Adingra",
+        "Jan Paul van Hecke",
+        "Facundo Buonanotte",
+        "Jack Hinshelwood",
+        "Bart Verbruggen",
+        "James Milner",
+        "Jakub Moder",
+        "Evan Ferguson",
+        "Jo\u00ebl Veltman",
+        "Benicio Boaitey",
+        "Leigh Kavanagh",
+        "Luca Barrington",
+        "Mark O'Mahony"
+    ],
+    "away_team": [
+        "Mark Flekken",
+        "Ethan Pinnock",
+        "Neal Maupay",
+        "Saman Ghoddos",
+        "Frank Onyeka",
+        "Ben Mee",
+        "Bryan Mbeumo",
+        "Shandon Baptiste",
+        "Vitaly Janelt",
+        "Mads Roerslev",
+        "Yehor Yarmoliuk",
+        "Thomas Strakosha",
+        "Charlie Goode",
+        "Yoane Wissa",
+        "Mathias J\u00f8rgensen",
+        "Keane Lewis-Potter",
+        "Mikkel Damsgaard",
+        "Myles Peart-Harris",
+        "Michael Olakigbe",
+        "Val Adedokun"
+    ],
+    "fouls": [
+        10,
+        8
+    ],
+    "corners": [
+        7,
+        3
+    ],
+    "crosses": [
+        12,
+        11
+    ],
+    "touches": [
+        759,
+        498
+    ],
+    "tackles": [
+        15,
+        27
+    ],
+    "interceptions": [
+        8,
+        11
+    ],
+    "aerials_won": [
+        25,
+        13
+    ],
+    "clearances": [
+        20,
+        20
+    ],
+    "offsides": [
+        1,
+        2
+    ],
+    "goal_kicks": [
+        2,
+        10
+    ],
+    "throw_ins": [
+        17,
+        14
+    ],
+    "long_balls": [
+        66,
+        83
+    ]
+}

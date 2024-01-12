@@ -1,0 +1,102 @@
+{
+    "goals": [
+        "3",
+        "1"
+    ],
+    "expected_goals": [
+        "2.3",
+        "0.5"
+    ],
+    "home_team": [
+        "Emiliano Mart\u00ednez",
+        "Matty Cash",
+        "Ezri Konsa",
+        "Douglas Luiz",
+        "John McGinn",
+        "Ollie Watkins",
+        "Lucas Digne",
+        "Pau Torres",
+        "Moussa Diaby",
+        "Nicol\u00f2 Zaniolo",
+        "Boubacar Kamara",
+        "Robin Olsen",
+        "Diego Carlos",
+        "Youri Tielemans",
+        "Bertrand Traor\u00e9",
+        "Calum Chambers",
+        "Cl\u00e9ment Lenglet",
+        "Leon Bailey",
+        "Leander Dendoncker",
+        "Tim Iroegbunam"
+    ],
+    "away_team": [
+        "Thomas Kaminski",
+        "Gabriel Osho",
+        "Tom Lockyer",
+        "Ross Barkley",
+        "Chiedozie Ogbene",
+        "Carlton Morris",
+        "Issa Kabor\u00e9",
+        "Marvelous Nakamba",
+        "Teden Mengi",
+        "Jacob Brown",
+        "Alfie Doughty",
+        "Tim Krul",
+        "Cauley Woodrow",
+        "Elijah Adebayo",
+        "Tahith Chong",
+        "Pelly Ruddock Mpanzu",
+        "Ryan John Giles",
+        "Andros Townsend",
+        "Joseph Johnson",
+        "Jayden Luker"
+    ],
+    "fouls": [
+        11,
+        10
+    ],
+    "corners": [
+        6,
+        4
+    ],
+    "crosses": [
+        16,
+        18
+    ],
+    "touches": [
+        733,
+        358
+    ],
+    "tackles": [
+        11,
+        17
+    ],
+    "interceptions": [
+        3,
+        7
+    ],
+    "aerials_won": [
+        13,
+        14
+    ],
+    "clearances": [
+        12,
+        9
+    ],
+    "offsides": [
+        0,
+        6
+    ],
+    "goal_kicks": [
+        4,
+        10
+    ],
+    "throw_ins": [
+        9,
+        8
+    ],
+    "long_balls": [
+        38,
+        55
+    ]
+}

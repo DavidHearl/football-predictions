@@ -1,0 +1,101 @@
+{
+    "goals": [
+        "3",
+        "0"
+    ],
+    "expected_goals": [
+        "2.4",
+        "0.7"
+    ],
+    "home_team": [
+        "Jordan Pickford",
+        "James Tarkowski",
+        "Dwight McNeil",
+        "Amadou Onana",
+        "Dominic Calvert-Lewin",
+        "Jack Harrison",
+        "Abdoulaye Doucour\u00e9",
+        "Ashley Young",
+        "Vitaliy Mykolenko",
+        "Jarrad Branthwaite",
+        "James Garner",
+        "Jo\u00e3o Virg\u00ednia",
+        "Nathan Patterson",
+        "Michael Keane",
+        "Arnaut Danjuma",
+        "Beto",
+        "Ben Godfrey",
+        "Youssef Chermiti",
+        "Lewis Dobbin"
+    ],
+    "away_team": [
+        "Neto",
+        "Milos Kerkez",
+        "Lewis Cook",
+        "Dominic Solanke",
+        "Ryan Christie",
+        "Dango Ouattara",
+        "Adam Smith",
+        "Marcus Tavernier",
+        "Marcos Senesi",
+        "Illia Zabarnyi",
+        "Philip Billing",
+        "Ionu\u021b Radu",
+        "David Brooks",
+        "Joe Rothwell",
+        "Luis Sinisterra",
+        "Justin Kluivert",
+        "Kieffer Moore",
+        "Hamed Junior Traor\u00e8",
+        "Antoine Semenyo",
+        "Max Aarons"
+    ],
+    "fouls": [
+        14,
+        15
+    ],
+    "corners": [
+        8,
+        7
+    ],
+    "crosses": [
+        25,
+        18
+    ],
+    "touches": [
+        590,
+        632
+    ],
+    "tackles": [
+        28,
+        20
+    ],
+    "interceptions": [
+        5,
+        6
+    ],
+    "aerials_won": [
+        23,
+        16
+    ],
+    "clearances": [
+        18,
+        29
+    ],
+    "offsides": [
+        2,
+        0
+    ],
+    "goal_kicks": [
+        8,
+        11
+    ],
+    "throw_ins": [
+        23,
+        24
+    ],
+    "long_balls": [
+        77,
+        79
+    ]
+}

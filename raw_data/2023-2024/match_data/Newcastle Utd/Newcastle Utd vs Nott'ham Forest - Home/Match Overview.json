@@ -1,0 +1,102 @@
+{
+    "goals": [
+        "1",
+        "3"
+    ],
+    "expected_goals": [
+        "2.4",
+        "3.5"
+    ],
+    "home_team": [
+        "Martin D\u00fabravka",
+        "Kieran Trippier",
+        "Sven Botman",
+        "Fabian Sch\u00e4r",
+        "Anthony Gordon",
+        "Alexander Isak",
+        "Miguel Almir\u00f3n",
+        "Dan Burn",
+        "Sean Longstaff",
+        "Bruno Guimar\u00e3es",
+        "Lewis Miley",
+        "Loris Karius",
+        "Paul Dummett",
+        "Joelinton",
+        "Callum Wilson",
+        "Matt Ritchie",
+        "Emil Krafth",
+        "Lewis Hall",
+        "Valentino Livramento",
+        "Alex Murphy"
+    ],
+    "away_team": [
+        "Matt Turner",
+        "Ibrahim Sangar\u00e9",
+        "Morgan Gibbs-White",
+        "Chris Wood",
+        "Callum Hudson-Odoi",
+        "Moussa Niakhate",
+        "Anthony Elanga",
+        "Danilo",
+        "Gonzalo Montiel",
+        "Murillo",
+        "Ola Aina",
+        "Odisseas Vlachodimos",
+        "Nuno Tavares",
+        "Joe Worrall",
+        "Orel Mangala",
+        "Neco Williams",
+        "Cheikhou Kouyat\u00e9",
+        "Nicol\u00e1s Dom\u00ednguez",
+        "Ryan Yates",
+        "Divock Origi"
+    ],
+    "fouls": [
+        10,
+        11
+    ],
+    "corners": [
+        10,
+        2
+    ],
+    "crosses": [
+        36,
+        9
+    ],
+    "touches": [
+        681,
+        511
+    ],
+    "tackles": [
+        12,
+        21
+    ],
+    "interceptions": [
+        11,
+        11
+    ],
+    "aerials_won": [
+        9,
+        10
+    ],
+    "clearances": [
+        7,
+        47
+    ],
+    "offsides": [
+        0,
+        1
+    ],
+    "goal_kicks": [
+        10,
+        14
+    ],
+    "throw_ins": [
+        20,
+        18
+    ],
+    "long_balls": [
+        54,
+        68
+    ]
+}

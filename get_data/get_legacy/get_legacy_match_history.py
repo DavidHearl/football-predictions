@@ -10,6 +10,7 @@ import time
 import re
 import codecs
 
+
 class LegacyMatchHistory:
 	def __init__(self, legacy_seasons):
 		self.legacy_seasons = legacy_seasons
@@ -257,14 +258,6 @@ class LegacyMatchHistory:
 							# Initialize BeautifulSoup
 							soup_match_report = BeautifulSoup(html.text, features="lxml")
 
-							# Save the BeautifulSoup object to an HTML file
-							with codecs.open('match_report.html', 'w', encoding='utf-8') as file:
-								file.write(soup_match_report.prettify())
-
-							# -----------------------------------------------------------------
-							# -----------------------------------------------------------------
-							# -----------------------------------------------------------------
-
 							# Find all 'div' tags with class 'score'
 							goals = soup_match_report.find_all('div', {'class': 'score'})
 							expected_goals = soup_match_report('div', {'class': 'score_xg'})
@@ -295,10 +288,6 @@ class LegacyMatchHistory:
 								if b_tag is not None:
 									away_team.append(b_tag.text)
 
-							players = [home_team, away_team]
-
-							
-							
 							team_stats_div = soup_match_report.find('div', {'id': 'team_stats_extra'})
 
 							# Find all 'div' tags within the selected div
@@ -310,32 +299,58 @@ class LegacyMatchHistory:
 								if not div.has_attr('class') and div.text.isdigit():
 									numeric_values.append(int(div.text))
 
-							print(numeric_values)
+							fouls = [numeric_values[0], numeric_values[1]]
+							corners = [numeric_values[2], numeric_values[3]]
+							crosses = [numeric_values[4], numeric_values[5]]
+							touches = [numeric_values[6], numeric_values[7]]
+							tackles = [numeric_values[8], numeric_values[9]]
+							interceptions = [numeric_values[10], numeric_values[11]]
+							aerials_won = [numeric_values[12], numeric_values[13]]
+							clearances = [numeric_values[14], numeric_values[15]]
+							offsides = [numeric_values[16], numeric_values[17]]
+							goal_kicks = [numeric_values[18], numeric_values[19]]
+							throw_ins = [numeric_values[20], numeric_values[21]]
+							long_balls = [numeric_values[22], numeric_values[23]]
+					
 
-							stats_list = [
-								"score",
-								"expected_goals",
-								"teamsheet"
-								"fouls",
-								"corners",
-								"crosses",
-								"touches",
-								"tackles",
-								"interceptions",
-								"aerials_won",
-								"clearances",
-								"offsides",
-								"goal_kicks",
-								"throw_ins",
-								"long_balls",
-							]
+							# Find all 'div' tags with class 'score'
+							goals = soup_match_report.find_all('div', {'class': 'score'})
+							expected_goals = soup_match_report('div', {'class': 'score_xg'})
 
-							with open('Match Results.json', 'r') as file:
-								json.dump(stats, f)
+							# Print the contents of each 'div' tag
+							goals = [goals[0].text, goals[1].text]
+							expected_goals = [expected_goals[0].text, expected_goals[1].text]
 
-							# -----------------------------------------------------------------
-							# -----------------------------------------------------------------
-							# -----------------------------------------------------------------
+							# Match Overview
+							lineup_div_home = soup_match_report.find('div', {'class': 'lineup', 'id': 'a'})
+							lineup_div_away = soup_match_report.find('div', {'class': 'lineup', 'id': 'b'})
+
+							# Create a dictionary for the match overview data
+							match_overview = {
+								'goals': goals,
+								'expected_goals': expected_goals,
+								'home_team': home_team,
+								'away_team': away_team,
+								'fouls': fouls,
+								'corners': corners,
+								'crosses': crosses,
+								'touches': touches,
+								'tackles': tackles,
+								'interceptions': interceptions,
+								'aerials_won': aerials_won,
+								'clearances': clearances,
+								'offsides': offsides,
+								'goal_kicks': goal_kicks,
+								'throw_ins': throw_ins,
+								'long_balls': long_balls
+							}
+
+							overview_path = os.path.join(match_folder_path, 'Match Overview.json')
+							print(overview_path)
+
+							# Write the match overview data to the JSON file
+							with open(overview_path, 'w') as file:
+								json.dump(match_overview, file, indent=4)
 
 							tables = soup_match_report.select('table.stats_table')
 							table_length = len(tables)

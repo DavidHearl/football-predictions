@@ -1,0 +1,102 @@
+{
+    "goals": [
+        "2",
+        "3"
+    ],
+    "expected_goals": [
+        "2.4",
+        "0.6"
+    ],
+    "home_team": [
+        "Wes Foderingham",
+        "George Baldock",
+        "Auston Trusty",
+        "Gustavo Hamer",
+        "Oliver McBurnie",
+        "Cameron Archer",
+        "Anel Ahmedhod\u017ei\u0107",
+        "Jack Robinson",
+        "Vinicius Souza",
+        "James Mcatee",
+        "Andre Brooks",
+        "Adam Davies",
+        "Max Lowe",
+        "Rhian Brewster",
+        "Oliver Norwood",
+        "Ben Osborn",
+        "Anis Ben Slimane",
+        "William Osula",
+        "Rhys Norrington-Davies",
+        "Femi Seriki"
+    ],
+    "away_team": [
+        "Thomas Kaminski",
+        "Gabriel Osho",
+        "Ross Barkley",
+        "Elijah Adebayo",
+        "Teden Mengi",
+        "Jacob Brown",
+        "Ryan John Giles",
+        "Albert Sambi Lokonga",
+        "Amari'i Bell",
+        "Andros Townsend",
+        "Alfie Doughty",
+        "James Shea",
+        "Tim Krul",
+        "Mads Juel Andersen",
+        "Chiedozie Ogbene",
+        "Luke Berry",
+        "Carlton Morris",
+        "Cauley Woodrow",
+        "Tahith Chong",
+        "Pelly Ruddock Mpanzu"
+    ],
+    "fouls": [
+        13,
+        13
+    ],
+    "corners": [
+        9,
+        4
+    ],
+    "crosses": [
+        26,
+        20
+    ],
+    "touches": [
+        528,
+        536
+    ],
+    "tackles": [
+        20,
+        15
+    ],
+    "interceptions": [
+        13,
+        17
+    ],
+    "aerials_won": [
+        26,
+        26
+    ],
+    "clearances": [
+        21,
+        37
+    ],
+    "offsides": [
+        1,
+        0
+    ],
+    "goal_kicks": [
+        5,
+        9
+    ],
+    "throw_ins": [
+        23,
+        23
+    ],
+    "long_balls": [
+        87,
+        69
+    ]
+}

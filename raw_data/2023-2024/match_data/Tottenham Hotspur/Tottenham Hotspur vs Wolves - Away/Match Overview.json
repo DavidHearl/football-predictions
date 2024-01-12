@@ -1,0 +1,102 @@
+{
+    "goals": [
+        "2",
+        "1"
+    ],
+    "expected_goals": [
+        "2.1",
+        "0.7"
+    ],
+    "home_team": [
+        "Jos\u00e9 S\u00e1",
+        "Rayan A\u00eft Nouri",
+        "Mario Lemina",
+        "Jo\u00e3o Gomes",
+        "Hwang Hee-chan",
+        "Matheus Cunha",
+        "Craig Dawson",
+        "N\u00e9lson Semedo",
+        "Max Kilman",
+        "Toti Gomes",
+        "Jean-Ricner Bellegarde",
+        "Daniel Bentley",
+        "Matt Doherty",
+        "Boubacar Traor\u00e9",
+        "F\u00e1bio Silva",
+        "Hugo Bueno",
+        "Sasa Kalajdzic",
+        "Jonny Castro",
+        "Tommy Doyle",
+        "Pablo Sarabia"
+    ],
+    "away_team": [
+        "Guglielmo Vicario",
+        "Pierre H\u00f8jbjerg",
+        "Son Heung-min",
+        "Yves Bissouma",
+        "Emerson",
+        "Eric Dier",
+        "Dejan Kulusevski",
+        "Brennan Johnson",
+        "Pedro Porro",
+        "Pape Matar Sarr",
+        "Ben Davies",
+        "Fraser Forster",
+        "Oliver Skipp",
+        "Bryan Gil",
+        "Giovani Lo Celso",
+        "Rodrigo Bentancur",
+        "Ashley Phillips",
+        "Alejo V\u00e9liz",
+        "Jamie Donley",
+        "Alfie Dorrington"
+    ],
+    "fouls": [
+        19,
+        15
+    ],
+    "corners": [
+        11,
+        3
+    ],
+    "crosses": [
+        26,
+        11
+    ],
+    "touches": [
+        599,
+        776
+    ],
+    "tackles": [
+        23,
+        19
+    ],
+    "interceptions": [
+        10,
+        7
+    ],
+    "aerials_won": [
+        10,
+        9
+    ],
+    "clearances": [
+        12,
+        31
+    ],
+    "offsides": [
+        4,
+        1
+    ],
+    "goal_kicks": [
+        4,
+        9
+    ],
+    "throw_ins": [
+        20,
+        16
+    ],
+    "long_balls": [
+        71,
+        38
+    ]
+}

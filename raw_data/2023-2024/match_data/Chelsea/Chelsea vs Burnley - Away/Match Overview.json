@@ -1,0 +1,102 @@
+{
+    "goals": [
+        "1",
+        "4"
+    ],
+    "expected_goals": [
+        "0.7",
+        "1.9"
+    ],
+    "home_team": [
+        "James Trafford",
+        "Charlie Taylor",
+        "Josh Brownhill",
+        "Sander Berge",
+        "Lyle Foster",
+        "Vitinho",
+        "Josh Cullen",
+        "Ameen Al-Dakhil",
+        "Mike Tr\u00e9sor",
+        "Hannes Delcroix",
+        "Wilson Odobert",
+        "Arijanet Muric",
+        "Dara O'Shea",
+        "Jack Cork",
+        "Jay Rodriguez",
+        "Connor Roberts",
+        "Aaron Ramsey",
+        "Zeki Amdouni",
+        "Luca Koleosho",
+        "Jacob Bruun Larsen"
+    ],
+    "away_team": [
+        "Robert S\u00e1nchez",
+        "Axel Disasi",
+        "Marc Cucurella",
+        "Thiago Silva",
+        "Raheem Sterling",
+        "Enzo Fern\u00e1ndez",
+        "Armando Broja",
+        "Cole Palmer",
+        "Conor Gallagher",
+        "Mois\u00e9s Caicedo",
+        "Levi Colwill",
+        "\u0110or\u0111e Petrovi\u0107",
+        "Mykhailo Mudryk",
+        "Noni Madueke",
+        "Nicolas Jackson",
+        "Lesley Ugochukwu",
+        "Carney Chukwuemeka",
+        "Ian Maatsen",
+        "Alfie Gilchrist",
+        "Alex Matos"
+    ],
+    "fouls": [
+        11,
+        8
+    ],
+    "corners": [
+        7,
+        3
+    ],
+    "crosses": [
+        9,
+        13
+    ],
+    "touches": [
+        532,
+        799
+    ],
+    "tackles": [
+        24,
+        22
+    ],
+    "interceptions": [
+        4,
+        9
+    ],
+    "aerials_won": [
+        10,
+        9
+    ],
+    "clearances": [
+        10,
+        10
+    ],
+    "offsides": [
+        4,
+        2
+    ],
+    "goal_kicks": [
+        5,
+        3
+    ],
+    "throw_ins": [
+        20,
+        18
+    ],
+    "long_balls": [
+        51,
+        57
+    ]
+}

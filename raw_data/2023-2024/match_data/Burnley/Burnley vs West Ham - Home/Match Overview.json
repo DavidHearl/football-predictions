@@ -1,0 +1,102 @@
+{
+    "goals": [
+        "1",
+        "2"
+    ],
+    "expected_goals": [
+        "1.3",
+        "0.9"
+    ],
+    "home_team": [
+        "James Trafford",
+        "Dara O'Shea",
+        "Charlie Taylor",
+        "Jordan Beyer",
+        "J\u00f3hann Berg Gu\u00f0mundsson",
+        "Josh Brownhill",
+        "Jay Rodriguez",
+        "Sander Berge",
+        "Vitinho",
+        "Zeki Amdouni",
+        "Luca Koleosho",
+        "Lawrence Vigouroux",
+        "Connor Roberts",
+        "Nathan Redmond",
+        "Hjalmar Ekdal",
+        "Anass Zaroury",
+        "Aaron Ramsey",
+        "Josh Cullen",
+        "Jacob Bruun Larsen",
+        "Michael Obafemi"
+    ],
+    "away_team": [
+        "Alphonse Areola",
+        "Kurt Zouma",
+        "Vladim\u00edr Coufal",
+        "James Ward-Prowse",
+        "Lucas Paquet\u00e1",
+        "Kudus Mohammed",
+        "Danny Ings",
+        "Edson \u00c1lvarez",
+        "Nayef Aguerd",
+        "Tom\u00e1\u0161 Sou\u010dek",
+        "Emerson Palmieri",
+        "\u0141ukasz Fabia\u0144ski",
+        "Aaron Cresswell",
+        "Pablo Fornals",
+        "Konstantinos Mavropanos",
+        "Maxwel Cornet",
+        "Angelo Ogbonna",
+        "Sa\u00efd Benrahma",
+        "Thilo Kehrer",
+        "Divin Mubama"
+    ],
+    "fouls": [
+        11,
+        7
+    ],
+    "corners": [
+        4,
+        5
+    ],
+    "crosses": [
+        15,
+        19
+    ],
+    "touches": [
+        660,
+        621
+    ],
+    "tackles": [
+        17,
+        20
+    ],
+    "interceptions": [
+        5,
+        7
+    ],
+    "aerials_won": [
+        20,
+        22
+    ],
+    "clearances": [
+        25,
+        12
+    ],
+    "offsides": [
+        2,
+        1
+    ],
+    "goal_kicks": [
+        6,
+        9
+    ],
+    "throw_ins": [
+        15,
+        24
+    ],
+    "long_balls": [
+        79,
+        79
+    ]
+}

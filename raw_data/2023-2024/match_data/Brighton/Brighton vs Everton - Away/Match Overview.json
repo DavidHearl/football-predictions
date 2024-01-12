@@ -1,0 +1,102 @@
+{
+    "goals": [
+        "1",
+        "1"
+    ],
+    "expected_goals": [
+        "0.7",
+        "0.5"
+    ],
+    "home_team": [
+        "Jordan Pickford",
+        "James Tarkowski",
+        "Dwight McNeil",
+        "Dominic Calvert-Lewin",
+        "Jack Harrison",
+        "Abdoulaye Doucour\u00e9",
+        "Ashley Young",
+        "Vitaliy Mykolenko",
+        "Idrissa Gana Gueye",
+        "Jarrad Branthwaite",
+        "James Garner",
+        "Jo\u00e3o Virg\u00ednia",
+        "Andy Lonergan",
+        "Nathan Patterson",
+        "Michael Keane",
+        "Arnaut Danjuma",
+        "Beto",
+        "Ben Godfrey",
+        "Youssef Chermiti",
+        "Lewis Dobbin"
+    ],
+    "away_team": [
+        "Bart Verbruggen",
+        "Lewis Dunk",
+        "James Milner",
+        "Billy Gilmour",
+        "Pascal Gro\u00df",
+        "Adam Lallana",
+        "Kaoru Mitoma",
+        "Simon Adingra",
+        "Evan Ferguson",
+        "Jan Paul van Hecke",
+        "Jo\u00ebl Veltman",
+        "Jason Steele",
+        "Igor",
+        "Adam Webster",
+        "Mahmoud Dahoud",
+        "Jo\u00e3o Pedro",
+        "Carlos Baleba",
+        "Ansu Fati",
+        "Facundo Buonanotte",
+        "Jack Hinshelwood"
+    ],
+    "fouls": [
+        15,
+        5
+    ],
+    "corners": [
+        3,
+        3
+    ],
+    "crosses": [
+        13,
+        17
+    ],
+    "touches": [
+        337,
+        992
+    ],
+    "tackles": [
+        16,
+        6
+    ],
+    "interceptions": [
+        6,
+        3
+    ],
+    "aerials_won": [
+        17,
+        13
+    ],
+    "clearances": [
+        25,
+        13
+    ],
+    "offsides": [
+        0,
+        3
+    ],
+    "goal_kicks": [
+        8,
+        6
+    ],
+    "throw_ins": [
+        15,
+        22
+    ],
+    "long_balls": [
+        71,
+        55
+    ]
+}

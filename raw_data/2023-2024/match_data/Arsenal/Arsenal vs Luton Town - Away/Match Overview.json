@@ -1,0 +1,102 @@
+{
+    "goals": [
+        "3",
+        "4"
+    ],
+    "expected_goals": [
+        "0.5",
+        "2.2"
+    ],
+    "home_team": [
+        "Thomas Kaminski",
+        "Gabriel Osho",
+        "Ross Barkley",
+        "Elijah Adebayo",
+        "Issa Kabor\u00e9",
+        "Teden Mengi",
+        "Pelly Ruddock Mpanzu",
+        "Jacob Brown",
+        "Amari'i Bell",
+        "Andros Townsend",
+        "Alfie Doughty",
+        "Tim Krul",
+        "Chiedozie Ogbene",
+        "Luke Berry",
+        "Carlton Morris",
+        "Tahith Chong",
+        "Jordan Clark",
+        "Ryan John Giles",
+        "Joseph Johnson",
+        "Zack Nelson"
+    ],
+    "away_team": [
+        "David Raya",
+        "William Saliba",
+        "Ben White",
+        "Gabriel Dos Santos",
+        "Bukayo Saka",
+        "Martin \u00d8degaard",
+        "Gabriel Jesus",
+        "Gabriel Martinelli",
+        "Jakub Kiwior",
+        "Kai Havertz",
+        "Declan Rice",
+        "Aaron Ramsdale",
+        "Eddie Nketiah",
+        "C\u00e9dric Soares",
+        "Leandro Trossard",
+        "Jorginho",
+        "Reiss Nelson",
+        "Mohamed Elneny",
+        "Oleksandr Zinchenko",
+        "Reuell Walters"
+    ],
+    "fouls": [
+        14,
+        7
+    ],
+    "corners": [
+        3,
+        8
+    ],
+    "crosses": [
+        12,
+        25
+    ],
+    "touches": [
+        456,
+        745
+    ],
+    "tackles": [
+        20,
+        13
+    ],
+    "interceptions": [
+        8,
+        6
+    ],
+    "aerials_won": [
+        19,
+        19
+    ],
+    "clearances": [
+        37,
+        16
+    ],
+    "offsides": [
+        1,
+        4
+    ],
+    "goal_kicks": [
+        8,
+        5
+    ],
+    "throw_ins": [
+        13,
+        17
+    ],
+    "long_balls": [
+        85,
+        64
+    ]
+}

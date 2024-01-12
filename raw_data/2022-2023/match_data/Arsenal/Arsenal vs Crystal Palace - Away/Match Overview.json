@@ -1,0 +1,148 @@
+{
+    "goals": [
+        "0",
+        "2"
+    ],
+    "expected_goals": [
+        "1.2",
+        "1.0"
+    ],
+    "home_team": [
+        "Vicente Guaita",
+        "Tyrick Mitchell",
+        "Marc Gu\u00e9hi",
+        "Jordan Ayew",
+        "Eberechi Eze",
+        "Wilfried Zaha",
+        "Jeffrey Schlupp",
+        "Joachim Andersen",
+        "Nathaniel Clyne",
+        "Odsonne \u00c9douard",
+        "Cheick Doucour\u00e9",
+        "Sam Johnstone",
+        "Joel Ward",
+        "Luka Milivojevi\u0107",
+        "Jean-Philippe Mateta",
+        "Will Hughes",
+        "Malcolm Ebiowei",
+        "Chris Richards",
+        "Ja\u00efro Riedewald",
+        "Luke Plange"
+    ],
+    "away_team": [
+        "Aaron Ramsdale",
+        "Ben White",
+        "Thomas Partey",
+        "Gabriel Dos Santos",
+        "Bukayo Saka",
+        "Martin \u00d8degaard",
+        "Gabriel Jesus",
+        "Gabriel Martinelli",
+        "William Saliba",
+        "Granit Xhaka",
+        "Oleksandr Zinchenko",
+        "Matt Turner",
+        "Kieran Tierney",
+        "Eddie Nketiah",
+        "Rob Holding",
+        "C\u00e9dric Soares",
+        "Nicolas P\u00e9p\u00e9",
+        "Albert Sambi Lokonga",
+        "Reiss Nelson",
+        "Mohamed Elneny"
+    ],
+    "players": [
+        [
+            "Vicente Guaita",
+            "Tyrick Mitchell",
+            "Marc Gu\u00e9hi",
+            "Jordan Ayew",
+            "Eberechi Eze",
+            "Wilfried Zaha",
+            "Jeffrey Schlupp",
+            "Joachim Andersen",
+            "Nathaniel Clyne",
+            "Odsonne \u00c9douard",
+            "Cheick Doucour\u00e9",
+            "Sam Johnstone",
+            "Joel Ward",
+            "Luka Milivojevi\u0107",
+            "Jean-Philippe Mateta",
+            "Will Hughes",
+            "Malcolm Ebiowei",
+            "Chris Richards",
+            "Ja\u00efro Riedewald",
+            "Luke Plange"
+        ],
+        [
+            "Aaron Ramsdale",
+            "Ben White",
+            "Thomas Partey",
+            "Gabriel Dos Santos",
+            "Bukayo Saka",
+            "Martin \u00d8degaard",
+            "Gabriel Jesus",
+            "Gabriel Martinelli",
+            "William Saliba",
+            "Granit Xhaka",
+            "Oleksandr Zinchenko",
+            "Matt Turner",
+            "Kieran Tierney",
+            "Eddie Nketiah",
+            "Rob Holding",
+            "C\u00e9dric Soares",
+            "Nicolas P\u00e9p\u00e9",
+            "Albert Sambi Lokonga",
+            "Reiss Nelson",
+            "Mohamed Elneny"
+        ]
+    ],
+    "fouls": [
+        16,
+        11
+    ],
+    "corners": [
+        3,
+        5
+    ],
+    "crosses": [
+        19,
+        11
+    ],
+    "touches": [
+        726,
+        599
+    ],
+    "tackles": [
+        18,
+        29
+    ],
+    "interceptions": [
+        8,
+        9
+    ],
+    "aerials_won": [
+        10,
+        14
+    ],
+    "clearances": [
+        18,
+        24
+    ],
+    "offsides": [
+        1,
+        2
+    ],
+    "goal_kicks": [
+        4,
+        2
+    ],
+    "throw_ins": [
+        25,
+        14
+    ],
+    "long_balls": [
+        83,
+        59
+    ]
+}

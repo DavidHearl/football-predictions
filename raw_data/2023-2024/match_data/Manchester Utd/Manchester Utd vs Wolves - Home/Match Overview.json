@@ -1,0 +1,102 @@
+{
+    "goals": [
+        "1",
+        "0"
+    ],
+    "expected_goals": [
+        "2.2",
+        "2.2"
+    ],
+    "home_team": [
+        "Andr\u00e9 Onana",
+        "Lisandro Mart\u00ednez",
+        "Mason Mount",
+        "Bruno Fernandes",
+        "Marcus Rashford",
+        "Casemiro",
+        "Rapha\u00ebl Varane",
+        "Antony",
+        "Luke Shaw",
+        "Aaron Wan-Bissaka",
+        "Alejandro Garnacho",
+        "Dean Henderson",
+        "Victor Lindel\u00f6f",
+        "Harry Maguire",
+        "Anthony Martial",
+        "Christian Eriksen",
+        "Diogo Dalot",
+        "Jadon Sancho",
+        "Facundo Pellistri",
+        "Scott McTominay"
+    ],
+    "away_team": [
+        "Jos\u00e9 S\u00e1",
+        "Rayan A\u00eft Nouri",
+        "Mario Lemina",
+        "Pedro Neto",
+        "Jo\u00e3o Gomes",
+        "Matheus Cunha",
+        "Craig Dawson",
+        "Pablo Sarabia",
+        "N\u00e9lson Semedo",
+        "Max Kilman",
+        "Matheus Nunes",
+        "Daniel Bentley",
+        "Matt Doherty",
+        "Boubacar Traor\u00e9",
+        "Hwang Hee-chan",
+        "Hugo Bueno",
+        "Sasa Kalajdzic",
+        "Toti Gomes",
+        "F\u00e1bio Silva",
+        "Joseph Hodge"
+    ],
+    "fouls": [
+        15,
+        10
+    ],
+    "corners": [
+        8,
+        7
+    ],
+    "crosses": [
+        17,
+        23
+    ],
+    "touches": [
+        643,
+        634
+    ],
+    "tackles": [
+        18,
+        23
+    ],
+    "interceptions": [
+        8,
+        18
+    ],
+    "aerials_won": [
+        7,
+        17
+    ],
+    "clearances": [
+        21,
+        20
+    ],
+    "offsides": [
+        1,
+        3
+    ],
+    "goal_kicks": [
+        8,
+        9
+    ],
+    "throw_ins": [
+        14,
+        16
+    ],
+    "long_balls": [
+        51,
+        53
+    ]
+}

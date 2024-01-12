@@ -1,0 +1,102 @@
+{
+    "goals": [
+        "0",
+        "2"
+    ],
+    "expected_goals": [
+        "1.0",
+        "1.8"
+    ],
+    "home_team": [
+        "Sam Johnstone",
+        "Joel Ward",
+        "Tyrick Mitchell",
+        "Marc Gu\u00e9hi",
+        "Michael Olise",
+        "Jefferson Lerma",
+        "Jordan Ayew",
+        "Jeffrey Schlupp",
+        "Joachim Andersen",
+        "Odsonne \u00c9douard",
+        "Chris Richards",
+        "Remi Matthews",
+        "James Tomkins",
+        "Matheus Fran\u00e7a",
+        "Jean-Philippe Mateta",
+        "Nathaniel Clyne",
+        "Will Hughes",
+        "Malcolm Ebiowei",
+        "Naouirou Ahamada",
+        "Ja\u00efro Riedewald"
+    ],
+    "away_team": [
+        "Neto",
+        "Milos Kerkez",
+        "Lewis Cook",
+        "Dominic Solanke",
+        "Ryan Christie",
+        "Adam Smith",
+        "Luis Sinisterra",
+        "Justin Kluivert",
+        "Antoine Semenyo",
+        "Marcos Senesi",
+        "Illia Zabarnyi",
+        "Mark Travers",
+        "Chris Mepham",
+        "David Brooks",
+        "Joe Rothwell",
+        "Dango Ouattara",
+        "Marcus Tavernier",
+        "Kieffer Moore",
+        "Gavin Kilkenny",
+        "Philip Billing"
+    ],
+    "fouls": [
+        10,
+        17
+    ],
+    "corners": [
+        3,
+        9
+    ],
+    "crosses": [
+        17,
+        18
+    ],
+    "touches": [
+        678,
+        521
+    ],
+    "tackles": [
+        23,
+        19
+    ],
+    "interceptions": [
+        2,
+        9
+    ],
+    "aerials_won": [
+        18,
+        19
+    ],
+    "clearances": [
+        15,
+        18
+    ],
+    "offsides": [
+        0,
+        0
+    ],
+    "goal_kicks": [
+        6,
+        9
+    ],
+    "throw_ins": [
+        24,
+        19
+    ],
+    "long_balls": [
+        78,
+        84
+    ]
+}
