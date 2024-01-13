@@ -1,0 +1,62 @@
+[
+    {
+        "('Unnamed: 0_level_0', 'Minute')": 11,
+        "('Unnamed: 1_level_0', 'Player')": "Laurent Koscielny",
+        "('Unnamed: 2_level_0', 'Squad')": "Arsenal",
+        "('Unnamed: 3_level_0', 'xG')": 0.54,
+        "('Unnamed: 4_level_0', 'PSxG')": 0.91,
+        "('Unnamed: 5_level_0', 'Outcome')": "Goal",
+        "('Unnamed: 6_level_0', 'Distance')": 3,
+        "('Unnamed: 7_level_0', 'Body Part')": "Head",
+        "('Unnamed: 8_level_0', 'Notes')": null,
+        "('SCA 1', 'Player')": "Nacho Monreal",
+        "('SCA 1', 'Event')": "Pass (Live)",
+        "('SCA 2', 'Player')": "Lucas Torreira",
+        "('SCA 2', 'Event')": "Pass (Dead)"
+    },
+    {
+        "('Unnamed: 0_level_0', 'Minute')": 39,
+        "('Unnamed: 1_level_0', 'Player')": "Sead Kola\u0161inac",
+        "('Unnamed: 2_level_0', 'Squad')": "Arsenal",
+        "('Unnamed: 3_level_0', 'xG')": 0.04,
+        "('Unnamed: 4_level_0', 'PSxG')": 0.09,
+        "('Unnamed: 5_level_0', 'Outcome')": "Saved",
+        "('Unnamed: 6_level_0', 'Distance')": 18,
+        "('Unnamed: 7_level_0', 'Body Part')": "Left Foot",
+        "('Unnamed: 8_level_0', 'Notes')": null,
+        "('SCA 1', 'Player')": "Matt\u00e9o Guendouzi",
+        "('SCA 1', 'Event')": "Pass (Live)",
+        "('SCA 2', 'Player')": "Nacho Monreal",
+        "('SCA 2', 'Event')": "Pass (Live)"
+    },
+    {
+        "('Unnamed: 0_level_0', 'Minute')": 39,
+        "('Unnamed: 1_level_0', 'Player')": "Lucas Torreira",
+        "('Unnamed: 2_level_0', 'Squad')": "Arsenal",
+        "('Unnamed: 3_level_0', 'xG')": 0.06,
+        "('Unnamed: 4_level_0', 'PSxG')": null,
+        "('Unnamed: 5_level_0', 'Outcome')": "Blocked",
+        "('Unnamed: 6_level_0', 'Distance')": 25,
+        "('Unnamed: 7_level_0', 'Body Part')": "Right Foot",
+        "('Unnamed: 8_level_0', 'Notes')": null,
+        "('SCA 1', 'Player')": "Alexandre Lacazette",
+        "('SCA 1', 'Event')": "Pass (Live)",
+        "('SCA 2', 'Player')": "Nacho Monreal",
+        "('SCA 2', 'Event')": "Pass (Live)"
+    },
+    {
+        "('Unnamed: 0_level_0', 'Minute')": 42,
+        "('Unnamed: 1_level_0', 'Player')": "Pierre-Emerick Aubameyang",
+        "('Unnamed: 2_level_0', 'Squad')": "Arsenal",
+        "('Unnamed: 3_level_0', 'xG')": 0.04,
+        "('Unnamed: 4_level_0', 'PSxG')": null,
+        "('Unnamed: 5_level_0', 'Outcome')": "Blocked",
+        "('Unnamed: 6_level_0', 'Distance')": 28,
+        "('Unnamed: 7_level_0', 'Body Part')": "Right Foot",
+        "('Unnamed: 8_level_0', 'Notes')": null,
+        "('SCA 1', 'Player')": "Lucas Torreira",
+        "('SCA 1', 'Event')": "Pass (Live)",
+        "('SCA 2', 'Player')": null,
+        "('SCA 2', 'Event')": null
+    }
+]

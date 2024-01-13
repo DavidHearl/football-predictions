@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "1",
+        "5"
+    ],
+    "expected_goals": [
+        "2.6",
+        "3.0"
+    ],
+    "home_team": [
+        "Michael McGovern",
+        "Max Aarons",
+        "Ben Godfrey",
+        "Moritz Leitner",
+        "Jamal Lewis",
+        "Todd Cantwell",
+        "Emi Buend\u00eda",
+        "Marco Stiepermann",
+        "Teemu Pukki",
+        "Kenny McLean",
+        "Ibrahim Amadou",
+        "Archie Mair",
+        "Sam Byram",
+        "Patrick Roberts",
+        "Josip Drmi\u0107",
+        "Dennis Srbeny",
+        "Adam Idah",
+        "Akin Famewo"
+    ],
+    "away_team": [
+        "Tom Heaton",
+        "John McGinn",
+        "Wesley Moraes",
+        "Jack Grealish",
+        "Marvelous Nakamba",
+        "Conor Hourihane",
+        "Matt Targett",
+        "Anwar El Ghazi",
+        "Bj\u00f6rn Engels",
+        "Frederic Guilbert",
+        "Tyrone Mings",
+        "Jed Steer",
+        "Neil Taylor",
+        "Douglas Luiz",
+        "Ezri Konsa",
+        "Tr\u00e9z\u00e9guet",
+        "Jota",
+        "Keinan Davis"
+    ],
+    "fouls": [
+        14,
+        17
+    ],
+    "corners": [
+        10,
+        6
+    ],
+    "crosses": [
+        20,
+        17
+    ],
+    "touches": [
+        649,
+        534
+    ],
+    "tackles": [
+        20,
+        16
+    ],
+    "interceptions": [
+        7,
+        11
+    ],
+    "aerials_won": [
+        10,
+        14
+    ],
+    "clearances": [
+        19,
+        37
+    ],
+    "offsides": [
+        0,
+        1
+    ],
+    "goal_kicks": [
+        9,
+        10
+    ],
+    "throw_ins": [
+        14,
+        22
+    ],
+    "long_balls": [
+        43,
+        81
+    ]
+}

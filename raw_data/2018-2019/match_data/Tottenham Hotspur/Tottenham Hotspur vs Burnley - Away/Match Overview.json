@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "2",
+        "1"
+    ],
+    "expected_goals": [
+        "1.2",
+        "0.9"
+    ],
+    "home_team": [
+        "Tom Heaton",
+        "Charlie Taylor",
+        "Jack Cork",
+        "James Tarkowski",
+        "Ben Mee",
+        "Ashley Barnes",
+        "Chris Wood",
+        "Jeff Hendrick",
+        "Ashley Westwood",
+        "Phil Bardsley",
+        "Dwight McNeil",
+        "Joe Hart",
+        "Matthew Lowton",
+        "J\u00f3hann Berg Gu\u00f0mundsson",
+        "Robbie Brady",
+        "Ben Gibson",
+        "Peter Crouch",
+        "Mat\u011bj Vydra"
+    ],
+    "away_team": [
+        "Hugo Lloris",
+        "Danny Rose",
+        "Toby Alderweireld",
+        "Jan Vertonghen",
+        "Son Heung-min",
+        "Harry Winks",
+        "Harry Kane",
+        "Moussa Sissoko",
+        "Juan Foyth",
+        "Christian Eriksen",
+        "Serge Aurier",
+        "Paulo Gazzaniga",
+        "\u00c9rik Lamela",
+        "Victor Wanyama",
+        "Kyle Walker-Peters",
+        "Fernando Llorente",
+        "Lucas Moura",
+        "Ben Davies"
+    ],
+    "fouls": [
+        9,
+        12
+    ],
+    "corners": [
+        7,
+        6
+    ],
+    "crosses": [
+        23,
+        26
+    ],
+    "touches": [
+        405,
+        684
+    ],
+    "tackles": [
+        12,
+        16
+    ],
+    "interceptions": [
+        11,
+        5
+    ],
+    "aerials_won": [
+        26,
+        22
+    ],
+    "clearances": [
+        46,
+        27
+    ],
+    "offsides": [
+        4,
+        0
+    ],
+    "goal_kicks": [
+        8,
+        9
+    ],
+    "throw_ins": [
+        28,
+        25
+    ],
+    "long_balls": [
+        92,
+        94
+    ]
+}

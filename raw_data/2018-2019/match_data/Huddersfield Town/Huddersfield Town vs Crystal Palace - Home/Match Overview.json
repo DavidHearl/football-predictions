@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "0",
+        "1"
+    ],
+    "expected_goals": [
+        "0.9",
+        "0.7"
+    ],
+    "home_team": [
+        "Jonas L\u00f6ssl",
+        "Terence Kongolo",
+        "Philip Billing",
+        "Elias Kachunga",
+        "Aaron Mooy",
+        "Chris L\u00f6we",
+        "Rajiv van La Parra",
+        "Steve Mouni\u00e9",
+        "Mathias J\u00f8rgensen",
+        "Christopher Schindler",
+        "Florent Hadergjonaj",
+        "Ben Hamer",
+        "Tommy Smith",
+        "Adama Diakhaby",
+        "Isaac Mbenza",
+        "Danny Williams",
+        "Laurent Depoitre",
+        "Alex Pritchard"
+    ],
+    "away_team": [
+        "Wayne Hennessey",
+        "Patrick van Aanholt",
+        "Luka Milivojevi\u0107",
+        "James Tomkins",
+        "Cheikhou Kouyat\u00e9",
+        "Andros Townsend",
+        "Wilfried Zaha",
+        "Mamadou Sakho",
+        "Jordan Ayew",
+        "James McArthur",
+        "Aaron Wan-Bissaka",
+        "Vicente Guaita",
+        "Joel Ward",
+        "Max Meyer",
+        "Alexander S\u00f8rloth",
+        "Jeffrey Schlupp",
+        "Martin Kelly",
+        "Ja\u00efro Riedewald"
+    ],
+    "fouls": [
+        11,
+        17
+    ],
+    "corners": [
+        5,
+        3
+    ],
+    "crosses": [
+        30,
+        10
+    ],
+    "touches": [
+        638,
+        493
+    ],
+    "tackles": [
+        17,
+        13
+    ],
+    "interceptions": [
+        5,
+        9
+    ],
+    "aerials_won": [
+        23,
+        17
+    ],
+    "clearances": [
+        10,
+        29
+    ],
+    "offsides": [
+        5,
+        2
+    ],
+    "goal_kicks": [
+        7,
+        8
+    ],
+    "throw_ins": [
+        27,
+        16
+    ],
+    "long_balls": [
+        94,
+        64
+    ]
+}

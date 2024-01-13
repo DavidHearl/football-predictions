@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "1",
+        "3"
+    ],
+    "expected_goals": [
+        "1.0",
+        "4.2"
+    ],
+    "home_team": [
+        "Tim Krul",
+        "Max Aarons",
+        "Ben Godfrey",
+        "Moritz Leitner",
+        "Jamal Lewis",
+        "Todd Cantwell",
+        "Emi Buend\u00eda",
+        "Teemu Pukki",
+        "Kenny McLean",
+        "Ibrahim Amadou",
+        "Alexander Tettey",
+        "Michael McGovern",
+        "Sam Byram",
+        "Onel Hern\u00e1ndez",
+        "Marco Stiepermann",
+        "Tom Trybull",
+        "Josip Drmi\u0107",
+        "Dennis Srbeny"
+    ],
+    "away_team": [
+        "David de Gea",
+        "Victor Lindel\u00f6f",
+        "Harry Maguire",
+        "Anthony Martial",
+        "Marcus Rashford",
+        "Andreas Pereira",
+        "Fred",
+        "Ashley Young",
+        "Daniel James",
+        "Aaron Wan-Bissaka",
+        "Scott McTominay",
+        "Sergio Romero",
+        "Juan Mata",
+        "Jesse Lingard",
+        "Marcos Rojo",
+        "Mason Greenwood",
+        "James Garner",
+        "Brandon Williams"
+    ],
+    "fouls": [
+        13,
+        10
+    ],
+    "corners": [
+        1,
+        10
+    ],
+    "crosses": [
+        6,
+        19
+    ],
+    "touches": [
+        577,
+        640
+    ],
+    "tackles": [
+        26,
+        24
+    ],
+    "interceptions": [
+        8,
+        6
+    ],
+    "aerials_won": [
+        4,
+        6
+    ],
+    "clearances": [
+        18,
+        15
+    ],
+    "offsides": [
+        1,
+        0
+    ],
+    "goal_kicks": [
+        8,
+        5
+    ],
+    "throw_ins": [
+        19,
+        22
+    ],
+    "long_balls": [
+        46,
+        64
+    ]
+}

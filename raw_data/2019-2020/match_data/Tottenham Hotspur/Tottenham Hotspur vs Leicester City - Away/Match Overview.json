@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "2",
+        "1"
+    ],
+    "expected_goals": [
+        "1.3",
+        "1.1"
+    ],
+    "home_team": [
+        "Kasper Schmeichel",
+        "Ben Chilwell",
+        "\u00c7a\u011flar S\u00f6y\u00fcnc\u00fc",
+        "Jonny Evans",
+        "Youri Tielemans",
+        "Jamie Vardy",
+        "James Maddison",
+        "Harvey Barnes",
+        "Ayoze P\u00e9rez",
+        "Ricardo Pereira",
+        "Wilfred Ndidi",
+        "Danny Ward",
+        "James Justin",
+        "Wes Morgan",
+        "Demarai Gray",
+        "Marc Albrighton",
+        "Hamza Choudhury",
+        "Dennis Praet"
+    ],
+    "away_team": [
+        "Paulo Gazzaniga",
+        "Danny Rose",
+        "Toby Alderweireld",
+        "Jan Vertonghen",
+        "Son Heung-min",
+        "Harry Winks",
+        "Harry Kane",
+        "\u00c9rik Lamela",
+        "Moussa Sissoko",
+        "Serge Aurier",
+        "Tanguy Ndombele",
+        "Alfie Whiteman",
+        "Victor Wanyama",
+        "Eric Dier",
+        "Christian Eriksen",
+        "Lucas Moura",
+        "Oliver Skipp",
+        "Ben Davies"
+    ],
+    "fouls": [
+        16,
+        13
+    ],
+    "corners": [
+        8,
+        2
+    ],
+    "crosses": [
+        19,
+        22
+    ],
+    "touches": [
+        549,
+        658
+    ],
+    "tackles": [
+        23,
+        18
+    ],
+    "interceptions": [
+        12,
+        8
+    ],
+    "aerials_won": [
+        12,
+        15
+    ],
+    "clearances": [
+        24,
+        25
+    ],
+    "offsides": [
+        3,
+        3
+    ],
+    "goal_kicks": [
+        9,
+        11
+    ],
+    "throw_ins": [
+        15,
+        21
+    ],
+    "long_balls": [
+        75,
+        60
+    ]
+}

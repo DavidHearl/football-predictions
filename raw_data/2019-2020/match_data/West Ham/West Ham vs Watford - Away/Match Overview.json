@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "1",
+        "3"
+    ],
+    "expected_goals": [
+        "2.3",
+        "3.5"
+    ],
+    "home_team": [
+        "Ben Foster",
+        "Craig Dawson",
+        "Gerard Deulofeu",
+        "Tom Cleverley",
+        "Craig Cathcart",
+        "Abdoulaye Doucour\u00e9",
+        "Andre Gray",
+        "Will Hughes",
+        "Kiko Femen\u00eda",
+        "Jos\u00e9 Holebas",
+        "\u00c9tienne Capoue",
+        "Heurelho Gomes",
+        "Daryl Janmaat",
+        "Danny Welbeck",
+        "Nathaniel Chalobah",
+        "Domingos Quina",
+        "Ismaila Sarr",
+        "Christian Kabasele"
+    ],
+    "away_team": [
+        "\u0141ukasz Fabia\u0144ski",
+        "Andriy Yarmolenko",
+        "Felipe Anderson",
+        "Manuel Lanzini",
+        "Mark Noble",
+        "Angelo Ogbonna",
+        "S\u00e9bastien Haller",
+        "Issa Diop",
+        "Ryan Fredericks",
+        "Arthur Masuaku",
+        "Declan Rice",
+        "Roberto",
+        "Fabi\u00e1n Balbuena",
+        "Pablo Zabaleta",
+        "Carlos S\u00e1nchez",
+        "Pablo Fornals",
+        "Albian Ajeti",
+        "Michail Antonio"
+    ],
+    "fouls": [
+        12,
+        11
+    ],
+    "corners": [
+        8,
+        7
+    ],
+    "crosses": [
+        26,
+        14
+    ],
+    "touches": [
+        627,
+        547
+    ],
+    "tackles": [
+        17,
+        17
+    ],
+    "interceptions": [
+        11,
+        11
+    ],
+    "aerials_won": [
+        16,
+        17
+    ],
+    "clearances": [
+        13,
+        23
+    ],
+    "offsides": [
+        1,
+        2
+    ],
+    "goal_kicks": [
+        5,
+        11
+    ],
+    "throw_ins": [
+        15,
+        17
+    ],
+    "long_balls": [
+        56,
+        66
+    ]
+}

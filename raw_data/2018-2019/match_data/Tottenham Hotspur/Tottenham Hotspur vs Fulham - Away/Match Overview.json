@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "1",
+        "2"
+    ],
+    "expected_goals": [
+        "0.9",
+        "1.7"
+    ],
+    "home_team": [
+        "Sergio Rico",
+        "Denis Odoi",
+        "Calum Chambers",
+        "Aleksandar Mitrovi\u0107",
+        "Ryan Babel",
+        "Tim Ream",
+        "Andr\u00e9 Sch\u00fcrrle",
+        "Maxime Le Marchand",
+        "Cyrus Christie",
+        "Joe Bryan",
+        "Jean Seri",
+        "Marcus Bettinelli",
+        "Ryan Sessegnon",
+        "Neeskens Kebano",
+        "Tom Cairney",
+        "Floyd Ayit\u00e9",
+        "Luciano Vietto",
+        "Ibrahima Ciss\u00e9"
+    ],
+    "away_team": [
+        "Hugo Lloris",
+        "Kieran Trippier",
+        "Danny Rose",
+        "Toby Alderweireld",
+        "Jan Vertonghen",
+        "Davinson S\u00e1nchez",
+        "Harry Winks",
+        "\u00c9rik Lamela",
+        "Fernando Llorente",
+        "Dele Alli",
+        "Christian Eriksen",
+        "Paulo Gazzaniga",
+        "Georges-K\u00e9vin N'Koudou",
+        "Eric Dier",
+        "Juan Foyth",
+        "Ben Davies",
+        "Kazaiah Sterling",
+        "Oliver Skipp"
+    ],
+    "fouls": [
+        10,
+        8
+    ],
+    "corners": [
+        7,
+        10
+    ],
+    "crosses": [
+        17,
+        32
+    ],
+    "touches": [
+        431,
+        851
+    ],
+    "tackles": [
+        13,
+        13
+    ],
+    "interceptions": [
+        15,
+        8
+    ],
+    "aerials_won": [
+        20,
+        26
+    ],
+    "clearances": [
+        42,
+        16
+    ],
+    "offsides": [
+        7,
+        1
+    ],
+    "goal_kicks": [
+        11,
+        3
+    ],
+    "throw_ins": [
+        19,
+        31
+    ],
+    "long_balls": [
+        79,
+        98
+    ]
+}

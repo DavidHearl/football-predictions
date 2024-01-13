@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "2",
+        "3"
+    ],
+    "expected_goals": [
+        "1.0",
+        "1.7"
+    ],
+    "home_team": [
+        "Neil Etheridge",
+        "Joe Bennett",
+        "Sean Morrison",
+        "Bruno Ecuele Manga",
+        "Harry Arter",
+        "Joe Ralls",
+        "Danny Ward",
+        "Bobby Reid",
+        "V\u00edctor Camarasa",
+        "Sol Bamba",
+        "Junior Hoilett",
+        "Brian Murphy",
+        "Lee Peltier",
+        "Kenneth Zohore",
+        "Callum Paterson",
+        "Greg Cunningham",
+        "Kadeem Harris",
+        "Gary Madine"
+    ],
+    "away_team": [
+        "Petr \u010cech",
+        "H\u00e9ctor Beller\u00edn",
+        "Sokratis Papastathopoulos",
+        "Aaron Ramsey",
+        "Alexandre Lacazette",
+        "Mesut \u00d6zil",
+        "Pierre-Emerick Aubameyang",
+        "Nacho Monreal",
+        "Shkodran Mustafi",
+        "Matt\u00e9o Guendouzi",
+        "Granit Xhaka",
+        "Bernd Leno",
+        "Mohamed Elneny",
+        "Henrikh Mkhitaryan",
+        "Lucas Torreira",
+        "Stephan Lichtsteiner",
+        "Rob Holding",
+        "Danny Welbeck"
+    ],
+    "fouls": [
+        12,
+        14
+    ],
+    "corners": [
+        3,
+        9
+    ],
+    "crosses": [
+        19,
+        19
+    ],
+    "touches": [
+        387,
+        786
+    ],
+    "tackles": [
+        12,
+        11
+    ],
+    "interceptions": [
+        15,
+        11
+    ],
+    "aerials_won": [
+        24,
+        22
+    ],
+    "clearances": [
+        34,
+        23
+    ],
+    "offsides": [
+        3,
+        1
+    ],
+    "goal_kicks": [
+        5,
+        14
+    ],
+    "throw_ins": [
+        7,
+        23
+    ],
+    "long_balls": [
+        63,
+        74
+    ]
+}

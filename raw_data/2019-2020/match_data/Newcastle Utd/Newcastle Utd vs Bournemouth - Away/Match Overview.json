@@ -1,0 +1,102 @@
+{
+    "goals": [
+        "1",
+        "4"
+    ],
+    "expected_goals": [
+        "1.6",
+        "1.8"
+    ],
+    "home_team": [
+        "Aaron Ramsdale",
+        "Steve Cook",
+        "Nathan Ak\u00e9",
+        "Joshua King",
+        "Jefferson Lerma",
+        "Dominic Solanke",
+        "Arnaut Danjuma",
+        "Adam Smith",
+        "David Brooks",
+        "Lloyd Kelly",
+        "Philip Billing",
+        "Artur Boruc",
+        "Dan Gosling",
+        "Lewis Cook",
+        "Jack Stacey",
+        "Junior Stanislas",
+        "Diego Rico",
+        "Harry Wilson",
+        "Chris Mepham",
+        "Sam Surridge"
+    ],
+    "away_team": [
+        "Martin D\u00fabravka",
+        "Jamaal Lascelles",
+        "Jonjo Shelvey",
+        "Joelinton",
+        "Allan Saint-Maximin",
+        "Dwight Gayle",
+        "Emil Krafth",
+        "Federico Fern\u00e1ndez",
+        "Javier Manquillo",
+        "Sean Longstaff",
+        "Nabil Bentaleb",
+        "Karl Darlow",
+        "Fabian Sch\u00e4r",
+        "Andy Carroll",
+        "Matt Ritchie",
+        "Isaac Hayden",
+        "DeAndre Yedlin",
+        "Valentino Lazaro",
+        "Miguel Almir\u00f3n",
+        "Danny Rose"
+    ],
+    "fouls": [
+        11,
+        10
+    ],
+    "corners": [
+        6,
+        3
+    ],
+    "crosses": [
+        16,
+        7
+    ],
+    "touches": [
+        630,
+        538
+    ],
+    "tackles": [
+        16,
+        16
+    ],
+    "interceptions": [
+        8,
+        16
+    ],
+    "aerials_won": [
+        21,
+        22
+    ],
+    "clearances": [
+        7,
+        13
+    ],
+    "offsides": [
+        2,
+        1
+    ],
+    "goal_kicks": [
+        4,
+        10
+    ],
+    "throw_ins": [
+        19,
+        14
+    ],
+    "long_balls": [
+        64,
+        88
+    ]
+}

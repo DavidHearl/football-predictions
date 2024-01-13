@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "0",
+        "3"
+    ],
+    "expected_goals": [
+        "0.4",
+        "2.0"
+    ],
+    "home_team": [
+        "Mark Travers",
+        "Simon Francis",
+        "Steve Cook",
+        "Dan Gosling",
+        "Nathan Ak\u00e9",
+        "Jefferson Lerma",
+        "Dominic Solanke",
+        "Callum Wilson",
+        "Adam Smith",
+        "Harry Wilson",
+        "Ryan Fraser",
+        "Artur Boruc",
+        "Andrew Surman",
+        "Lewis Cook",
+        "Diego Rico",
+        "Jack Simpson",
+        "Philip Billing",
+        "Sam Surridge"
+    ],
+    "away_team": [
+        "Ben Foster",
+        "Craig Dawson",
+        "Adrian Mariappa",
+        "Gerard Deulofeu",
+        "Troy Deeney",
+        "Adam Masina",
+        "Nathaniel Chalobah",
+        "Craig Cathcart",
+        "Abdoulaye Doucour\u00e9",
+        "Ismaila Sarr",
+        "\u00c9tienne Capoue",
+        "Heurelho Gomes",
+        "Andre Gray",
+        "Domingos Quina",
+        "Isaac Success",
+        "Tom Dele-Bashiru",
+        "Jos\u00e9 Holebas",
+        "Roberto Pereyra"
+    ],
+    "fouls": [
+        3,
+        13
+    ],
+    "corners": [
+        5,
+        5
+    ],
+    "crosses": [
+        21,
+        18
+    ],
+    "touches": [
+        700,
+        576
+    ],
+    "tackles": [
+        8,
+        27
+    ],
+    "interceptions": [
+        11,
+        7
+    ],
+    "aerials_won": [
+        29,
+        41
+    ],
+    "clearances": [
+        16,
+        37
+    ],
+    "offsides": [
+        0,
+        5
+    ],
+    "goal_kicks": [
+        7,
+        11
+    ],
+    "throw_ins": [
+        25,
+        16
+    ],
+    "long_balls": [
+        67,
+        72
+    ]
+}

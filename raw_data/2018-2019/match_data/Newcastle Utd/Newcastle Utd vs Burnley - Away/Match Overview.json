@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "1",
+        "2"
+    ],
+    "expected_goals": [
+        "1.8",
+        "1.6"
+    ],
+    "home_team": [
+        "Joe Hart",
+        "Matthew Lowton",
+        "Charlie Taylor",
+        "Jack Cork",
+        "Ben Mee",
+        "Sam Vokes",
+        "Chris Wood",
+        "Robbie Brady",
+        "Steven Defour",
+        "Aaron Lennon",
+        "Kevin Long",
+        "Tom Heaton",
+        "Ashley Barnes",
+        "Jeff Hendrick",
+        "Ben Gibson",
+        "Ashley Westwood",
+        "Phil Bardsley",
+        "Mat\u011bj Vydra"
+    ],
+    "away_team": [
+        "Martin D\u00fabravka",
+        "Ciaran Clark",
+        "Ki Sung-yueng",
+        "Fabian Sch\u00e4r",
+        "Salom\u00f3n Rond\u00f3n",
+        "Mohamed Diam\u00e9",
+        "Matt Ritchie",
+        "Kenedy",
+        "Ayoze P\u00e9rez",
+        "Federico Fern\u00e1ndez",
+        "DeAndre Yedlin",
+        "Freddie Woodman",
+        "Jacob Murphy",
+        "Jonjo Shelvey",
+        "Isaac Hayden",
+        "Javier Manquillo",
+        "Joselu",
+        "Christian Atsu"
+    ],
+    "fouls": [
+        6,
+        11
+    ],
+    "corners": [
+        5,
+        5
+    ],
+    "crosses": [
+        27,
+        20
+    ],
+    "touches": [
+        746,
+        621
+    ],
+    "tackles": [
+        15,
+        12
+    ],
+    "interceptions": [
+        8,
+        13
+    ],
+    "aerials_won": [
+        26,
+        27
+    ],
+    "clearances": [
+        23,
+        47
+    ],
+    "offsides": [
+        1,
+        1
+    ],
+    "goal_kicks": [
+        5,
+        6
+    ],
+    "throw_ins": [
+        24,
+        11
+    ],
+    "long_balls": [
+        104,
+        80
+    ]
+}

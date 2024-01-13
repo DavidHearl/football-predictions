@@ -212,7 +212,7 @@ class LegacyMatchHistory:
 			# Selects each team folder within 'match_history'
 			for folder in os.listdir(location):
 				# Add a delay to prevent the server from blocking the request
-				time.sleep(2)
+				time.sleep(4)
 
 				# Creates a variable for the path to each team folder
 				folder_path = os.path.join(location, folder)
@@ -227,7 +227,7 @@ class LegacyMatchHistory:
 				# Selects each match within the 'completed matches.json' file
 				for match in data:
 					# Add a delay to prevent the server from blocking the request
-					time.sleep(2)
+					time.sleep(3)
 					
 					# Creates variables for each column in the JSON file
 					opponent = match.get('Opponent', '')

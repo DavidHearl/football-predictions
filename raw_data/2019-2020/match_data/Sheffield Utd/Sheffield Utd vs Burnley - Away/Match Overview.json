@@ -1,0 +1,101 @@
+{
+    "goals": [
+        "1",
+        "1"
+    ],
+    "expected_goals": [
+        "1.3",
+        "1.1"
+    ],
+    "home_team": [
+        "Nick Pope",
+        "Charlie Taylor",
+        "James Tarkowski",
+        "Josh Brownhill",
+        "Dwight McNeil",
+        "Ashley Westwood",
+        "Jay Rodriguez",
+        "Erik Pieters",
+        "Phil Bardsley",
+        "Mat\u011bj Vydra",
+        "Kevin Long",
+        "Bailey Peacock-Farrell",
+        "J\u00f3hann Berg Gu\u00f0mundsson",
+        "Chris Wood",
+        "Robbie Brady",
+        "Max Thompson",
+        "Jimmy Dunne",
+        "Bobby Thomas",
+        "Josh Benson",
+        "Mace Goodridge"
+    ],
+    "away_team": [
+        "Dean Henderson",
+        "George Baldock",
+        "Enda Stevens",
+        "Chris Basham",
+        "Oliver McBurnie",
+        "John Egan",
+        "Oliver Norwood",
+        "David McGoldrick",
+        "Jack Robinson",
+        "Ben Osborn",
+        "Sander Berge",
+        "Simon Moore",
+        "Jack O'Connell",
+        "Billy Sharp",
+        "Phil Jagielka",
+        "Kieron Freeman",
+        "Lys Mousset",
+        "Jack Rodwell",
+        "Richairo \u017divkovi\u0107"
+    ],
+    "fouls": [
+        8,
+        14
+    ],
+    "corners": [
+        3,
+        9
+    ],
+    "crosses": [
+        16,
+        31
+    ],
+    "touches": [
+        576,
+        595
+    ],
+    "tackles": [
+        9,
+        12
+    ],
+    "interceptions": [
+        7,
+        9
+    ],
+    "aerials_won": [
+        22,
+        32
+    ],
+    "clearances": [
+        41,
+        20
+    ],
+    "offsides": [
+        2,
+        1
+    ],
+    "goal_kicks": [
+        6,
+        10
+    ],
+    "throw_ins": [
+        29,
+        24
+    ],
+    "long_balls": [
+        101,
+        100
+    ]
+}

@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "2",
+        "3"
+    ],
+    "expected_goals": [
+        "1.9",
+        "1.6"
+    ],
+    "home_team": [
+        "Neil Etheridge",
+        "Lee Peltier",
+        "Joe Bennett",
+        "Sean Morrison",
+        "Bruno Ecuele Manga",
+        "Danny Ward",
+        "Josh Murphy",
+        "Bobby Reid",
+        "Aron Gunnarsson",
+        "Nathaniel Mendez-Laing",
+        "V\u00edctor Camarasa",
+        "Brian Murphy",
+        "Jazz Richards",
+        "Kenneth Zohore",
+        "Leandro Bacuna",
+        "Greg Cunningham",
+        "Rhys Healey",
+        "Junior Hoilett"
+    ],
+    "away_team": [
+        "Vicente Guaita",
+        "Joel Ward",
+        "Luka Milivojevi\u0107",
+        "Scott Dann",
+        "Andros Townsend",
+        "Wilfried Zaha",
+        "Jordan Ayew",
+        "James McArthur",
+        "Michy Batshuayi",
+        "Aaron Wan-Bissaka",
+        "Martin Kelly",
+        "Wayne Hennessey",
+        "Patrick van Aanholt",
+        "Max Meyer",
+        "Cheikhou Kouyat\u00e9",
+        "Connor Wickham",
+        "Bakary Sako",
+        "Ja\u00efro Riedewald"
+    ],
+    "fouls": [
+        14,
+        11
+    ],
+    "corners": [
+        10,
+        5
+    ],
+    "crosses": [
+        23,
+        12
+    ],
+    "touches": [
+        460,
+        640
+    ],
+    "tackles": [
+        21,
+        16
+    ],
+    "interceptions": [
+        11,
+        10
+    ],
+    "aerials_won": [
+        34,
+        24
+    ],
+    "clearances": [
+        23,
+        30
+    ],
+    "offsides": [
+        1,
+        2
+    ],
+    "goal_kicks": [
+        7,
+        8
+    ],
+    "throw_ins": [
+        22,
+        21
+    ],
+    "long_balls": [
+        95,
+        68
+    ]
+}
