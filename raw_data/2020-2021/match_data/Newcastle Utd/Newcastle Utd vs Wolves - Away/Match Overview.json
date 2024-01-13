@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "1",
+        "1"
+    ],
+    "expected_goals": [
+        "0.7",
+        "0.3"
+    ],
+    "home_team": [
+        "Rui Patr\u00edcio",
+        "Pedro Neto",
+        "R\u00faben Neves",
+        "Ra\u00fal Jim\u00e9nez",
+        "Daniel Podence",
+        "Willy Boly",
+        "Conor Coady",
+        "N\u00e9lson Semedo",
+        "Romain Sa\u00efss",
+        "Leander Dendoncker",
+        "Max Kilman",
+        "John Ruddy",
+        "Ki-Jana Hoever",
+        "Rayan A\u00eft Nouri",
+        "Fernando Mar\u00e7al",
+        "F\u00e1bio Silva",
+        "Jo\u00e3o Moutinho",
+        "Adama Traor\u00e9"
+    ],
+    "away_team": [
+        "Karl Darlow",
+        "Fabian Sch\u00e4r",
+        "Jamaal Lascelles",
+        "Allan Saint-Maximin",
+        "Callum Wilson",
+        "Jamal Lewis",
+        "Jeff Hendrick",
+        "Federico Fern\u00e1ndez",
+        "Ryan Fraser",
+        "Jacob Murphy",
+        "Miguel Almir\u00f3n",
+        "Mark Gillespie",
+        "Andy Carroll",
+        "Joelinton",
+        "Isaac Hayden",
+        "Emil Krafth",
+        "Javier Manquillo",
+        "Sean Longstaff"
+    ],
+    "fouls": [
+        10,
+        10
+    ],
+    "corners": [
+        2,
+        3
+    ],
+    "crosses": [
+        18,
+        16
+    ],
+    "touches": [
+        834,
+        526
+    ],
+    "tackles": [
+        11,
+        23
+    ],
+    "interceptions": [
+        8,
+        7
+    ],
+    "aerials_won": [
+        8,
+        13
+    ],
+    "clearances": [
+        13,
+        20
+    ],
+    "offsides": [
+        0,
+        0
+    ],
+    "goal_kicks": [
+        2,
+        12
+    ],
+    "throw_ins": [
+        18,
+        17
+    ],
+    "long_balls": [
+        52,
+        64
+    ]
+}

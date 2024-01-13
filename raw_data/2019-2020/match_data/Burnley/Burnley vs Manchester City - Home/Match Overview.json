@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "1",
+        "4"
+    ],
+    "expected_goals": [
+        "0.6",
+        "2.2"
+    ],
+    "home_team": [
+        "Nick Pope",
+        "Jack Cork",
+        "James Tarkowski",
+        "Ben Mee",
+        "Danny Drinkwater",
+        "Chris Wood",
+        "Dwight McNeil",
+        "Jeff Hendrick",
+        "Erik Pieters",
+        "Aaron Lennon",
+        "Phil Bardsley",
+        "Joe Hart",
+        "Matthew Lowton",
+        "Ashley Barnes",
+        "Robbie Brady",
+        "Ben Gibson",
+        "Jay Rodriguez",
+        "Mat\u011bj Vydra"
+    ],
+    "away_team": [
+        "Ederson",
+        "Kyle Walker",
+        "Raheem Sterling",
+        "Gabriel Jesus",
+        "Angeli\u00f1o",
+        "Rodri",
+        "Kevin De Bruyne",
+        "Bernardo Silva",
+        "David Silva",
+        "Fernandinho",
+        "Nicol\u00e1s Otamendi",
+        "Claudio Bravo",
+        "John Stones",
+        "Benjamin Mendy",
+        "Riyad Mahrez",
+        "Jo\u00e3o Cancelo",
+        "Phil Foden",
+        "Eric Garc\u00eda"
+    ],
+    "fouls": [
+        9,
+        6
+    ],
+    "corners": [
+        3,
+        6
+    ],
+    "crosses": [
+        9,
+        28
+    ],
+    "touches": [
+        397,
+        917
+    ],
+    "tackles": [
+        14,
+        8
+    ],
+    "interceptions": [
+        13,
+        6
+    ],
+    "aerials_won": [
+        21,
+        12
+    ],
+    "clearances": [
+        27,
+        20
+    ],
+    "offsides": [
+        0,
+        2
+    ],
+    "goal_kicks": [
+        7,
+        5
+    ],
+    "throw_ins": [
+        21,
+        21
+    ],
+    "long_balls": [
+        66,
+        69
+    ]
+}

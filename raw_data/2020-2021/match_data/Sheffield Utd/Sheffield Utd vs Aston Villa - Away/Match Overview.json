@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "1",
+        "0"
+    ],
+    "expected_goals": [
+        "1.0",
+        "0.9"
+    ],
+    "home_team": [
+        "Emiliano Mart\u00ednez",
+        "Matty Cash",
+        "Ezri Konsa",
+        "Tyrone Mings",
+        "Douglas Luiz",
+        "John McGinn",
+        "Jack Grealish",
+        "Ollie Watkins",
+        "Conor Hourihane",
+        "Tr\u00e9z\u00e9guet",
+        "Matt Targett",
+        "Jed Steer",
+        "Neil Taylor",
+        "Marvelous Nakamba",
+        "Anwar El Ghazi",
+        "Ahmed Elmohamady",
+        "Kortney Hause",
+        "Keinan Davis"
+    ],
+    "away_team": [
+        "Aaron Ramsdale",
+        "George Baldock",
+        "Enda Stevens",
+        "John Fleck",
+        "Jack O'Connell",
+        "Chris Basham",
+        "John Lundstram",
+        "Sander Berge",
+        "John Egan",
+        "Oliver Burke",
+        "David McGoldrick",
+        "Wes Foderingham",
+        "Oliver McBurnie",
+        "Billy Sharp",
+        "Oliver Norwood",
+        "Jack Robinson",
+        "Ethan Ampadu",
+        "Ben Osborn"
+    ],
+    "fouls": [
+        12,
+        13
+    ],
+    "corners": [
+        10,
+        4
+    ],
+    "crosses": [
+        41,
+        14
+    ],
+    "touches": [
+        707,
+        347
+    ],
+    "tackles": [
+        5,
+        9
+    ],
+    "interceptions": [
+        7,
+        7
+    ],
+    "aerials_won": [
+        32,
+        22
+    ],
+    "clearances": [
+        14,
+        40
+    ],
+    "offsides": [
+        1,
+        0
+    ],
+    "goal_kicks": [
+        3,
+        18
+    ],
+    "throw_ins": [
+        20,
+        17
+    ],
+    "long_balls": [
+        63,
+        67
+    ]
+}

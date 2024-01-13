@@ -1,0 +1,102 @@
+{
+    "goals": [
+        "1",
+        "2"
+    ],
+    "expected_goals": [
+        "0.8",
+        "1.1"
+    ],
+    "home_team": [
+        "Alex McCarthy",
+        "Kyle Walker-Peters",
+        "Ryan Bertrand",
+        "Jannik Vestergaard",
+        "Oriol Romeu",
+        "James Ward-Prowse",
+        "Danny Ings",
+        "Nathan Redmond",
+        "Stuart Armstrong",
+        "Takumi Minamino",
+        "Jan Bednarek",
+        "Fraser Forster",
+        "Jack Stephens",
+        "Che Adams",
+        "Moussa Djenepo",
+        "Mohammed Salisu",
+        "Nathan Tella",
+        "Dan Nlundulu",
+        "Caleb Watts",
+        "Kgagelo Chauke"
+    ],
+    "away_team": [
+        "Rui Patr\u00edcio",
+        "Pedro Neto",
+        "R\u00faben Neves",
+        "Willian Jos\u00e9",
+        "Conor Coady",
+        "Jonny Castro",
+        "N\u00e9lson Semedo",
+        "Romain Sa\u00efss",
+        "Jo\u00e3o Moutinho",
+        "Leander Dendoncker",
+        "Adama Traor\u00e9",
+        "John Ruddy",
+        "Ki-Jana Hoever",
+        "Rayan A\u00eft Nouri",
+        "Fernando Mar\u00e7al",
+        "F\u00e1bio Silva",
+        "Morgan Gibbs-White",
+        "Vitinha",
+        "Max Kilman",
+        "Owen Otasowie"
+    ],
+    "fouls": [
+        10,
+        9
+    ],
+    "corners": [
+        4,
+        6
+    ],
+    "crosses": [
+        11,
+        19
+    ],
+    "touches": [
+        633,
+        600
+    ],
+    "tackles": [
+        23,
+        9
+    ],
+    "interceptions": [
+        14,
+        13
+    ],
+    "aerials_won": [
+        17,
+        18
+    ],
+    "clearances": [
+        18,
+        14
+    ],
+    "offsides": [
+        6,
+        1
+    ],
+    "goal_kicks": [
+        7,
+        3
+    ],
+    "throw_ins": [
+        17,
+        27
+    ],
+    "long_balls": [
+        50,
+        76
+    ]
+}

@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "2",
+        "1"
+    ],
+    "expected_goals": [
+        "2.9",
+        "1.5"
+    ],
+    "home_team": [
+        "Karl Darlow",
+        "Fabian Sch\u00e4r",
+        "Jamaal Lascelles",
+        "Allan Saint-Maximin",
+        "Callum Wilson",
+        "Jamal Lewis",
+        "Jeff Hendrick",
+        "Federico Fern\u00e1ndez",
+        "Jacob Murphy",
+        "Miguel Almir\u00f3n",
+        "Sean Longstaff",
+        "Mark Gillespie",
+        "Ciaran Clark",
+        "Andy Carroll",
+        "Joelinton",
+        "Isaac Hayden",
+        "Javier Manquillo",
+        "Ryan Fraser"
+    ],
+    "away_team": [
+        "Robin Olsen",
+        "Jonjoe Kenny",
+        "Michael Keane",
+        "Allan",
+        "Fabian Delph",
+        "Dominic Calvert-Lewin",
+        "Gylfi Sigur\u00f0sson",
+        "Yerry Mina",
+        "Abdoulaye Doucour\u00e9",
+        "Niels Nkounkou",
+        "Andr\u00e9 Gomes",
+        "Jordan Pickford",
+        "Cenk Tosun",
+        "Alex Iwobi",
+        "Bernard",
+        "Anthony Gordon",
+        "Jarrad Branthwaite",
+        "Ellis Simms"
+    ],
+    "fouls": [
+        9,
+        10
+    ],
+    "corners": [
+        5,
+        4
+    ],
+    "crosses": [
+        11,
+        27
+    ],
+    "touches": [
+        521,
+        774
+    ],
+    "tackles": [
+        13,
+        22
+    ],
+    "interceptions": [
+        5,
+        6
+    ],
+    "aerials_won": [
+        6,
+        10
+    ],
+    "clearances": [
+        27,
+        13
+    ],
+    "offsides": [
+        1,
+        0
+    ],
+    "goal_kicks": [
+        11,
+        3
+    ],
+    "throw_ins": [
+        29,
+        23
+    ],
+    "long_balls": [
+        78,
+        49
+    ]
+}

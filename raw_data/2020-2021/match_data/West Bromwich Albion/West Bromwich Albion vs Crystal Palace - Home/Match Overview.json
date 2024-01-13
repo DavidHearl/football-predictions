@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "1",
+        "5"
+    ],
+    "expected_goals": [
+        "0.7",
+        "1.6"
+    ],
+    "home_team": [
+        "Sam Johnstone",
+        "Darnell Furlong",
+        "Kyle Bartley",
+        "Semi Ajayi",
+        "Matt Phillips",
+        "Grady Diangana",
+        "Matheus Pereira",
+        "Conor Gallagher",
+        "Romaine Sawyers",
+        "Branislav Ivanovi\u0107",
+        "Karlan Grant",
+        "David Button",
+        "Kieran Gibbs",
+        "Callum Robinson",
+        "Kamil Grosicki",
+        "Charlie Austin",
+        "Filip Krovinovi\u0107",
+        "Dara O'Shea"
+    ],
+    "away_team": [
+        "Vicente Guaita",
+        "Patrick van Aanholt",
+        "Luka Milivojevi\u0107",
+        "Cheikhou Kouyat\u00e9",
+        "Wilfried Zaha",
+        "Jeffrey Schlupp",
+        "Nathaniel Clyne",
+        "James McArthur",
+        "Christian Benteke",
+        "Gary Cahill",
+        "Eberechi Eze",
+        "Jack Butland",
+        "Joel Ward",
+        "Jordan Ayew",
+        "Andros Townsend",
+        "Mamadou Sakho",
+        "Michy Batshuayi",
+        "Ja\u00efro Riedewald"
+    ],
+    "fouls": [
+        10,
+        16
+    ],
+    "corners": [
+        4,
+        6
+    ],
+    "crosses": [
+        14,
+        12
+    ],
+    "touches": [
+        628,
+        626
+    ],
+    "tackles": [
+        15,
+        14
+    ],
+    "interceptions": [
+        4,
+        5
+    ],
+    "aerials_won": [
+        18,
+        11
+    ],
+    "clearances": [
+        13,
+        16
+    ],
+    "offsides": [
+        2,
+        3
+    ],
+    "goal_kicks": [
+        6,
+        4
+    ],
+    "throw_ins": [
+        14,
+        11
+    ],
+    "long_balls": [
+        48,
+        47
+    ]
+}

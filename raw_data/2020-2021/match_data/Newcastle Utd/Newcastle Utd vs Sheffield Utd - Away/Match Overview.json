@@ -1,0 +1,100 @@
+{
+    "goals": [
+        "1",
+        "0"
+    ],
+    "expected_goals": [
+        "2.1",
+        "0.6"
+    ],
+    "home_team": [
+        "Aaron Ramsdale",
+        "John Fleck",
+        "Chris Basham",
+        "John Lundstram",
+        "John Egan",
+        "Oliver Burke",
+        "Oliver Norwood",
+        "David McGoldrick",
+        "Jayden Bogle",
+        "Ethan Ampadu",
+        "Ben Osborn",
+        "Wes Foderingham",
+        "Billy Sharp",
+        "Lys Mousset",
+        "Max Lowe",
+        "Phil Jagielka",
+        "Rhian Brewster",
+        "Kean Bryan"
+    ],
+    "away_team": [
+        "Karl Darlow",
+        "Ciaran Clark",
+        "Paul Dummett",
+        "Fabian Sch\u00e4r",
+        "Callum Wilson",
+        "Isaac Hayden",
+        "Jeff Hendrick",
+        "Federico Fern\u00e1ndez",
+        "Ryan Fraser",
+        "DeAndre Yedlin",
+        "Sean Longstaff",
+        "Martin D\u00fabravka",
+        "Matthew Longstaff",
+        "Andy Carroll",
+        "Joelinton",
+        "Matt Ritchie",
+        "Dwight Gayle",
+        "Jacob Murphy",
+        "Miguel Almir\u00f3n",
+        "Elliot Anderson"
+    ],
+    "fouls": [
+        13,
+        12
+    ],
+    "corners": [
+        5,
+        2
+    ],
+    "crosses": [
+        24,
+        12
+    ],
+    "touches": [
+        725,
+        436
+    ],
+    "tackles": [
+        11,
+        15
+    ],
+    "interceptions": [
+        8,
+        6
+    ],
+    "aerials_won": [
+        21,
+        19
+    ],
+    "clearances": [
+        18,
+        32
+    ],
+    "offsides": [
+        2,
+        2
+    ],
+    "goal_kicks": [
+        2,
+        13
+    ],
+    "throw_ins": [
+        24,
+        23
+    ],
+    "long_balls": [
+        77,
+        73
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "goals": [
+        "0",
+        "2"
+    ],
+    "expected_goals": [
+        "1.0",
+        "1.3"
+    ],
+    "home_team": [
+        "Marek Rod\u00e1k",
+        "Kenny Tete",
+        "Tim Ream",
+        "Bobby Reid",
+        "Tosin Adarabioyo",
+        "Ivan Cavaleiro",
+        "Ademola Lookman",
+        "Joe Bryan",
+        "Josh Onomah",
+        "Andre-Frank Zambo Anguissa",
+        "Fabio Carvalho",
+        "Alphonse Areola",
+        "Michael Hector",
+        "Ruben Loftus-Cheek",
+        "Mario Lemina",
+        "Josh Maja",
+        "Ola Aina",
+        "Tyrese Francois",
+        "Sylvester Jasper"
+    ],
+    "away_team": [
+        "Martin D\u00fabravka",
+        "Paul Dummett",
+        "Jonjo Shelvey",
+        "Allan Saint-Maximin",
+        "Matt Ritchie",
+        "Emil Krafth",
+        "Federico Fern\u00e1ndez",
+        "Jacob Murphy",
+        "Miguel Almir\u00f3n",
+        "Joe Willock",
+        "Sean Longstaff",
+        "Mark Gillespie",
+        "Ciaran Clark",
+        "Matthew Longstaff",
+        "Fabian Sch\u00e4r",
+        "Andy Carroll",
+        "Dwight Gayle",
+        "Jamal Lewis",
+        "Jeff Hendrick",
+        "Javier Manquillo"
+    ],
+    "fouls": [
+        12,
+        6
+    ],
+    "corners": [
+        5,
+        4
+    ],
+    "crosses": [
+        37,
+        11
+    ],
+    "touches": [
+        750,
+        491
+    ],
+    "tackles": [
+        18,
+        13
+    ],
+    "interceptions": [
+        10,
+        10
+    ],
+    "aerials_won": [
+        7,
+        10
+    ],
+    "clearances": [
+        11,
+        32
+    ],
+    "offsides": [
+        1,
+        0
+    ],
+    "goal_kicks": [
+        3,
+        11
+    ],
+    "throw_ins": [
+        22,
+        22
+    ],
+    "long_balls": [
+        51,
+        61
+    ]
+}

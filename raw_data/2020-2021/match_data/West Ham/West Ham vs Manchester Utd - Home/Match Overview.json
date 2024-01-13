@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "1",
+        "3"
+    ],
+    "expected_goals": [
+        "2.0",
+        "1.7"
+    ],
+    "home_team": [
+        "\u0141ukasz Fabia\u0144ski",
+        "Aaron Cresswell",
+        "Fabi\u00e1n Balbuena",
+        "Vladim\u00edr Coufal",
+        "Pablo Fornals",
+        "Jarrod Bowen",
+        "Angelo Ogbonna",
+        "S\u00e9bastien Haller",
+        "Arthur Masuaku",
+        "Tom\u00e1\u0161 Sou\u010dek",
+        "Declan Rice",
+        "Darren Randolph",
+        "Sa\u00efd Benrahma",
+        "Manuel Lanzini",
+        "Robert Snodgrass",
+        "Mark Noble",
+        "Issa Diop",
+        "Ben Johnson"
+    ],
+    "away_team": [
+        "Dean Henderson",
+        "Victor Lindel\u00f6f",
+        "Harry Maguire",
+        "Paul Pogba",
+        "Edinson Cavani",
+        "Anthony Martial",
+        "Mason Greenwood",
+        "Alex Telles",
+        "Aaron Wan-Bissaka",
+        "Donny van de Beek",
+        "Scott McTominay",
+        "Lee Grant",
+        "Juan Mata",
+        "Marcus Rashford",
+        "Bruno Fernandes",
+        "Nemanja Mati\u0107",
+        "Brandon Williams",
+        "Axel Tuanzebe"
+    ],
+    "fouls": [
+        9,
+        10
+    ],
+    "corners": [
+        5,
+        4
+    ],
+    "crosses": [
+        25,
+        10
+    ],
+    "touches": [
+        535,
+        774
+    ],
+    "tackles": [
+        12,
+        12
+    ],
+    "interceptions": [
+        13,
+        9
+    ],
+    "aerials_won": [
+        14,
+        16
+    ],
+    "clearances": [
+        9,
+        20
+    ],
+    "offsides": [
+        4,
+        3
+    ],
+    "goal_kicks": [
+        5,
+        8
+    ],
+    "throw_ins": [
+        18,
+        15
+    ],
+    "long_balls": [
+        71,
+        59
+    ]
+}

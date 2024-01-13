@@ -1,0 +1,102 @@
+{
+    "goals": [
+        "0",
+        "2"
+    ],
+    "expected_goals": [
+        "0.5",
+        "0.8"
+    ],
+    "home_team": [
+        "Aaron Ramsdale",
+        "Steve Cook",
+        "Nathan Ak\u00e9",
+        "Joshua King",
+        "Jefferson Lerma",
+        "Callum Wilson",
+        "Adam Smith",
+        "Lewis Cook",
+        "Jack Stacey",
+        "David Brooks",
+        "Harry Wilson",
+        "Artur Boruc",
+        "Dan Gosling",
+        "Andrew Surman",
+        "Dominic Solanke",
+        "Arnaut Danjuma",
+        "Junior Stanislas",
+        "Diego Rico",
+        "Lloyd Kelly",
+        "Chris Mepham"
+    ],
+    "away_team": [
+        "Vicente Guaita",
+        "Joel Ward",
+        "Patrick van Aanholt",
+        "Luka Milivojevi\u0107",
+        "Scott Dann",
+        "Cheikhou Kouyat\u00e9",
+        "Jordan Ayew",
+        "Wilfried Zaha",
+        "Christian Benteke",
+        "James McArthur",
+        "Gary Cahill",
+        "Wayne Hennessey",
+        "Max Meyer",
+        "Andros Townsend",
+        "Mamadou Sakho",
+        "James McCarthy",
+        "Nikola Tavares",
+        "Tyrick Mitchell",
+        "Brandon Pierrick",
+        "Ja\u00efro Riedewald"
+    ],
+    "fouls": [
+        13,
+        15
+    ],
+    "corners": [
+        11,
+        4
+    ],
+    "crosses": [
+        16,
+        10
+    ],
+    "touches": [
+        639,
+        504
+    ],
+    "tackles": [
+        18,
+        26
+    ],
+    "interceptions": [
+        7,
+        13
+    ],
+    "aerials_won": [
+        19,
+        22
+    ],
+    "clearances": [
+        10,
+        21
+    ],
+    "offsides": [
+        2,
+        3
+    ],
+    "goal_kicks": [
+        5,
+        10
+    ],
+    "throw_ins": [
+        20,
+        16
+    ],
+    "long_balls": [
+        45,
+        59
+    ]
+}

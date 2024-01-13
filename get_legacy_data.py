@@ -14,7 +14,7 @@ from get_data.get_legacy.get_legacy_match_history import LegacyMatchHistory
 legacy_seasons = [
 	# '2022-2023',
 	# '2021-2022',
-	'2020-2021',
+	# '2020-2021',
 	'2019-2020',
 	'2018-2019',
 	'2017-2018'
@@ -66,8 +66,8 @@ class LegacyStatsProcessor:
 legacy_stats_processor = LegacyStatsProcessor(club_legacy, player_legacy, match_legacy)
 
 # Call the methods on the instance, which are now wrapped with the timing_decorator
-club_legacy.create_json()
-player_legacy.create_json()
-match_legacy.get_fixtures()
-match_legacy.clean_fixtures()
+# club_legacy.create_json()
+# player_legacy.create_json()
+# match_legacy.get_fixtures()
+# match_legacy.clean_fixtures()
 match_legacy.create_match_folders()

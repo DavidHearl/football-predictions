@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "2",
+        "3"
+    ],
+    "expected_goals": [
+        "0.9",
+        "2.2"
+    ],
+    "home_team": [
+        "Ben Foster",
+        "Adrian Mariappa",
+        "Gerard Deulofeu",
+        "Troy Deeney",
+        "Adam Masina",
+        "Nathaniel Chalobah",
+        "Craig Cathcart",
+        "Abdoulaye Doucour\u00e9",
+        "Christian Kabasele",
+        "\u00c9tienne Capoue",
+        "Roberto Pereyra",
+        "Heurelho Gomes",
+        "Danny Welbeck",
+        "Andre Gray",
+        "Will Hughes",
+        "Isaac Success",
+        "Jos\u00e9 Holebas",
+        "Ignacio Pussetto"
+    ],
+    "away_team": [
+        "Jordan Pickford",
+        "Mason Holgate",
+        "Richarlison",
+        "Fabian Delph",
+        "Dominic Calvert-Lewin",
+        "Gylfi Sigur\u00f0sson",
+        "Theo Walcott",
+        "Lucas Digne",
+        "Yerry Mina",
+        "Alex Iwobi",
+        "Djibril Sidib\u00e9",
+        "Maarten Stekelenburg",
+        "Leighton Baines",
+        "Michael Keane",
+        "Morgan Schneiderlin",
+        "Bernard",
+        "S\u00e9amus Coleman",
+        "Moise Kean"
+    ],
+    "fouls": [
+        17,
+        14
+    ],
+    "corners": [
+        4,
+        4
+    ],
+    "crosses": [
+        12,
+        26
+    ],
+    "touches": [
+        519,
+        594
+    ],
+    "tackles": [
+        15,
+        22
+    ],
+    "interceptions": [
+        9,
+        10
+    ],
+    "aerials_won": [
+        33,
+        26
+    ],
+    "clearances": [
+        20,
+        21
+    ],
+    "offsides": [
+        0,
+        2
+    ],
+    "goal_kicks": [
+        8,
+        9
+    ],
+    "throw_ins": [
+        21,
+        18
+    ],
+    "long_balls": [
+        88,
+        86
+    ]
+}

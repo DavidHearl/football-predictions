@@ -1,0 +1,102 @@
+{
+    "goals": [
+        "0",
+        "1"
+    ],
+    "expected_goals": [
+        "1.0",
+        "1.3"
+    ],
+    "home_team": [
+        "Caoimh\u00edn Kelleher",
+        "Georginio Wijnaldum",
+        "Thiago Alc\u00e1ntara",
+        "James Milner",
+        "Roberto Firmino",
+        "Mohamed Salah",
+        "Jordan Henderson",
+        "Xherdan Shaqiri",
+        "Andrew Robertson",
+        "Nathaniel Phillips",
+        "Trent Alexander-Arnold",
+        "Adri\u00e1n",
+        "Alex Oxlade-Chamberlain",
+        "Curtis Jones",
+        "Kostas Tsimikas",
+        "Divock Origi",
+        "Ben Davies",
+        "Rhys Williams",
+        "Jake Cain",
+        "Neco Williams"
+    ],
+    "away_team": [
+        "Robert S\u00e1nchez",
+        "Ben White",
+        "Adam Webster",
+        "Lewis Dunk",
+        "Yves Bissouma",
+        "Neal Maupay",
+        "Leandro Trossard",
+        "Pascal Gro\u00df",
+        "Steven Alzate",
+        "Solly March",
+        "Dan Burn",
+        "Christian Walton",
+        "Thomas Mcgill",
+        "Micha\u0142 Karbownik",
+        "Aaron Connolly",
+        "Adam Lallana",
+        "Jakub Moder",
+        "Percy Tau",
+        "Andi Zeqiri",
+        "Jensen Weir"
+    ],
+    "fouls": [
+        12,
+        6
+    ],
+    "corners": [
+        5,
+        3
+    ],
+    "crosses": [
+        27,
+        12
+    ],
+    "touches": [
+        858,
+        556
+    ],
+    "tackles": [
+        12,
+        13
+    ],
+    "interceptions": [
+        12,
+        15
+    ],
+    "aerials_won": [
+        8,
+        18
+    ],
+    "clearances": [
+        15,
+        31
+    ],
+    "offsides": [
+        0,
+        3
+    ],
+    "goal_kicks": [
+        9,
+        8
+    ],
+    "throw_ins": [
+        25,
+        16
+    ],
+    "long_balls": [
+        59,
+        70
+    ]
+}

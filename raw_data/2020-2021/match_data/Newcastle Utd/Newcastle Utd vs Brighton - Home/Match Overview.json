@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "0",
+        "3"
+    ],
+    "expected_goals": [
+        "0.5",
+        "1.8"
+    ],
+    "home_team": [
+        "Karl Darlow",
+        "Jamaal Lascelles",
+        "Andy Carroll",
+        "Jonjo Shelvey",
+        "Allan Saint-Maximin",
+        "Callum Wilson",
+        "Isaac Hayden",
+        "Jamal Lewis",
+        "Jeff Hendrick",
+        "Federico Fern\u00e1ndez",
+        "Javier Manquillo",
+        "Mark Gillespie",
+        "Ciaran Clark",
+        "Joelinton",
+        "Matt Ritchie",
+        "Emil Krafth",
+        "Ryan Fraser",
+        "Miguel Almir\u00f3n"
+    ],
+    "away_team": [
+        "Mathew Ryan",
+        "Tariq Lamptey",
+        "Ben White",
+        "Adam Webster",
+        "Lewis Dunk",
+        "Aaron Connolly",
+        "Yves Bissouma",
+        "Neal Maupay",
+        "Leandro Trossard",
+        "Steven Alzate",
+        "Solly March",
+        "Jason Steele",
+        "Pascal Gro\u00df",
+        "Adam Lallana",
+        "Alireza Jahanbakhsh",
+        "Bernardo",
+        "Dan Burn",
+        "Jo\u00ebl Veltman"
+    ],
+    "fouls": [
+        16,
+        15
+    ],
+    "corners": [
+        7,
+        1
+    ],
+    "crosses": [
+        20,
+        9
+    ],
+    "touches": [
+        504,
+        567
+    ],
+    "tackles": [
+        10,
+        8
+    ],
+    "interceptions": [
+        9,
+        11
+    ],
+    "aerials_won": [
+        20,
+        15
+    ],
+    "clearances": [
+        14,
+        21
+    ],
+    "offsides": [
+        1,
+        2
+    ],
+    "goal_kicks": [
+        8,
+        6
+    ],
+    "throw_ins": [
+        18,
+        17
+    ],
+    "long_balls": [
+        72,
+        87
+    ]
+}

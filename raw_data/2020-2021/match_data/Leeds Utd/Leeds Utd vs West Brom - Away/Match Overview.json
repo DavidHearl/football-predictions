@@ -1,0 +1,101 @@
+{
+    "goals": [
+        "0",
+        "5"
+    ],
+    "expected_goals": [
+        "0.5",
+        "1.2"
+    ],
+    "home_team": [
+        "Sam Johnstone",
+        "Darnell Furlong",
+        "Semi Ajayi",
+        "Callum Robinson",
+        "Matt Phillips",
+        "Grady Diangana",
+        "Conor Gallagher",
+        "Romaine Sawyers",
+        "Lee Peltier",
+        "Dara O'Shea",
+        "Karlan Grant",
+        "David Button",
+        "Matheus Pereira",
+        "Kamil Grosicki",
+        "Charlie Austin",
+        "Rekeem Harper",
+        "Filip Krovinovi\u0107",
+        "Branislav Ivanovi\u0107",
+        "C\u00e9dric Kipr\u00e9"
+    ],
+    "away_team": [
+        "Illan Meslier",
+        "Luke Ayling",
+        "Patrick Bamford",
+        "Ezgjan Alioski",
+        "Stuart Dallas",
+        "Raphinha",
+        "Rodrigo",
+        "Pascal Struijk",
+        "Jack Harrison",
+        "Kalvin Phillips",
+        "Mateusz Klich",
+        "Kiko Casilla",
+        "Ian Carlo Poveda",
+        "Tyler Roberts",
+        "H\u00e9lder Costa",
+        "Pablo Hern\u00e1ndez",
+        "Leif Davis",
+        "Jamie Shackleton",
+        "Jack Jenkins",
+        "Oliver Casey"
+    ],
+    "fouls": [
+        7,
+        10
+    ],
+    "corners": [
+        3,
+        10
+    ],
+    "crosses": [
+        17,
+        28
+    ],
+    "touches": [
+        371,
+        898
+    ],
+    "tackles": [
+        10,
+        13
+    ],
+    "interceptions": [
+        11,
+        6
+    ],
+    "aerials_won": [
+        18,
+        25
+    ],
+    "clearances": [
+        25,
+        19
+    ],
+    "offsides": [
+        1,
+        1
+    ],
+    "goal_kicks": [
+        7,
+        5
+    ],
+    "throw_ins": [
+        17,
+        13
+    ],
+    "long_balls": [
+        74,
+        75
+    ]
+}

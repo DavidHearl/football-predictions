@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "1",
+        "1"
+    ],
+    "expected_goals": [
+        "1.7",
+        "1.5"
+    ],
+    "home_team": [
+        "Aaron Ramsdale",
+        "George Baldock",
+        "Enda Stevens",
+        "Chris Basham",
+        "John Lundstram",
+        "Sander Berge",
+        "Oliver McBurnie",
+        "John Egan",
+        "Max Lowe",
+        "Oliver Norwood",
+        "David McGoldrick",
+        "Michael Verrips",
+        "Billy Sharp",
+        "Oliver Burke",
+        "Jack Robinson",
+        "Ethan Ampadu",
+        "Ben Osborn",
+        "Rhian Brewster"
+    ],
+    "away_team": [
+        "Alphonse Areola",
+        "Aleksandar Mitrovi\u0107",
+        "Tom Cairney",
+        "Tim Ream",
+        "Ruben Loftus-Cheek",
+        "Tosin Adarabioyo",
+        "Ivan Cavaleiro",
+        "Ademola Lookman",
+        "Andre-Frank Zambo Anguissa",
+        "Antonee Robinson",
+        "Ola Aina",
+        "Marek Rod\u00e1k",
+        "Neeskens Kebano",
+        "Bobby Reid",
+        "Mario Lemina",
+        "Maxime Le Marchand",
+        "Joe Bryan",
+        "Aboubakar Kamara"
+    ],
+    "fouls": [
+        5,
+        9
+    ],
+    "corners": [
+        2,
+        5
+    ],
+    "crosses": [
+        15,
+        16
+    ],
+    "touches": [
+        544,
+        709
+    ],
+    "tackles": [
+        15,
+        14
+    ],
+    "interceptions": [
+        18,
+        12
+    ],
+    "aerials_won": [
+        24,
+        20
+    ],
+    "clearances": [
+        17,
+        24
+    ],
+    "offsides": [
+        4,
+        0
+    ],
+    "goal_kicks": [
+        5,
+        4
+    ],
+    "throw_ins": [
+        16,
+        20
+    ],
+    "long_balls": [
+        58,
+        63
+    ]
+}

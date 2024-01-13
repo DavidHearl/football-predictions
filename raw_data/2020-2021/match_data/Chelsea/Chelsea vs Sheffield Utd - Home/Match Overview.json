@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "4",
+        "1"
+    ],
+    "expected_goals": [
+        "2.2",
+        "0.4"
+    ],
+    "home_team": [
+        "Edouard Mendy",
+        "Thiago Silva",
+        "N'Golo Kant\u00e9",
+        "Tammy Abraham",
+        "Timo Werner",
+        "Kurt Zouma",
+        "Mateo Kova\u010di\u0107",
+        "Mason Mount",
+        "Ben Chilwell",
+        "Hakim Ziyech",
+        "Reece James",
+        "Willy Caballero",
+        "Antonio R\u00fcdiger",
+        "Jorginho",
+        "Olivier Giroud",
+        "Callum Hudson-Odoi",
+        "C\u00e9sar Azpilicueta",
+        "Emerson Palmieri"
+    ],
+    "away_team": [
+        "Aaron Ramsdale",
+        "George Baldock",
+        "Enda Stevens",
+        "Chris Basham",
+        "John Lundstram",
+        "Sander Berge",
+        "John Egan",
+        "Max Lowe",
+        "Oliver Norwood",
+        "David McGoldrick",
+        "Rhian Brewster",
+        "Michael Verrips",
+        "Oliver McBurnie",
+        "Billy Sharp",
+        "Oliver Burke",
+        "Phil Jagielka",
+        "Jack Robinson",
+        "Ben Osborn"
+    ],
+    "fouls": [
+        5,
+        14
+    ],
+    "corners": [
+        6,
+        7
+    ],
+    "crosses": [
+        16,
+        14
+    ],
+    "touches": [
+        922,
+        464
+    ],
+    "tackles": [
+        13,
+        11
+    ],
+    "interceptions": [
+        10,
+        5
+    ],
+    "aerials_won": [
+        13,
+        14
+    ],
+    "clearances": [
+        15,
+        24
+    ],
+    "offsides": [
+        1,
+        1
+    ],
+    "goal_kicks": [
+        3,
+        5
+    ],
+    "throw_ins": [
+        20,
+        24
+    ],
+    "long_balls": [
+        80,
+        61
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "goals": [
+        "1",
+        "1"
+    ],
+    "expected_goals": [
+        "1.1",
+        "0.9"
+    ],
+    "home_team": [
+        "Emiliano Mart\u00ednez",
+        "H\u00e9ctor Beller\u00edn",
+        "Kieran Tierney",
+        "Dani Ceballos",
+        "Alexandre Lacazette",
+        "Pierre-Emerick Aubameyang",
+        "Shkodran Mustafi",
+        "David Luiz",
+        "Sead Kola\u0161inac",
+        "Granit Xhaka",
+        "Bukayo Saka",
+        "Matt Macey",
+        "Sokratis Papastathopoulos",
+        "Lucas Torreira",
+        "Ainsley Maitland-Niles",
+        "Rob Holding",
+        "Nicolas P\u00e9p\u00e9",
+        "Reiss Nelson",
+        "Joe Willock",
+        "Eddie Nketiah"
+    ],
+    "away_team": [
+        "Kasper Schmeichel",
+        "James Justin",
+        "\u00c7a\u011flar S\u00f6y\u00fcnc\u00fc",
+        "Jonny Evans",
+        "Youri Tielemans",
+        "Jamie Vardy",
+        "Marc Albrighton",
+        "Kelechi Iheanacho",
+        "Ayoze P\u00e9rez",
+        "Wilfred Ndidi",
+        "Ryan Bennett",
+        "Danny Ward",
+        "Wes Morgan",
+        "Demarai Gray",
+        "Harvey Barnes",
+        "Hamza Choudhury",
+        "Matty James",
+        "Nampalys Mendy",
+        "Dennis Praet",
+        "Christian Fuchs"
+    ],
+    "fouls": [
+        10,
+        14
+    ],
+    "corners": [
+        10,
+        1
+    ],
+    "crosses": [
+        20,
+        18
+    ],
+    "touches": [
+        480,
+        706
+    ],
+    "tackles": [
+        6,
+        17
+    ],
+    "interceptions": [
+        16,
+        8
+    ],
+    "aerials_won": [
+        16,
+        18
+    ],
+    "clearances": [
+        15,
+        20
+    ],
+    "offsides": [
+        4,
+        1
+    ],
+    "goal_kicks": [
+        2,
+        7
+    ],
+    "throw_ins": [
+        30,
+        22
+    ],
+    "long_balls": [
+        76,
+        80
+    ]
+}

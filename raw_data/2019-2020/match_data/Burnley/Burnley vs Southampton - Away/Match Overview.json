@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "1",
+        "2"
+    ],
+    "expected_goals": [
+        "0.8",
+        "0.8"
+    ],
+    "home_team": [
+        "Alex McCarthy",
+        "Jannik Vestergaard",
+        "Jack Stephens",
+        "Shane Long",
+        "Danny Ings",
+        "James Ward-Prowse",
+        "Stuart Armstrong",
+        "Sofiane Boufal",
+        "Ryan Bertrand",
+        "Pierre H\u00f8jbjerg",
+        "Kyle Walker-Peters",
+        "Angus Gunn",
+        "Che Adams",
+        "Moussa Djenepo",
+        "Oriol Romeu",
+        "Michael Obafemi",
+        "William Smallbone",
+        "Jan Bednarek"
+    ],
+    "away_team": [
+        "Nick Pope",
+        "Charlie Taylor",
+        "Jack Cork",
+        "James Tarkowski",
+        "Ben Mee",
+        "Chris Wood",
+        "Dwight McNeil",
+        "Jeff Hendrick",
+        "Ashley Westwood",
+        "Jay Rodriguez",
+        "Phil Bardsley",
+        "Joe Hart",
+        "Josh Brownhill",
+        "Robbie Brady",
+        "Erik Pieters",
+        "Aaron Lennon",
+        "Mat\u011bj Vydra",
+        "Kevin Long"
+    ],
+    "fouls": [
+        8,
+        11
+    ],
+    "corners": [
+        4,
+        2
+    ],
+    "crosses": [
+        26,
+        12
+    ],
+    "touches": [
+        692,
+        484
+    ],
+    "tackles": [
+        11,
+        18
+    ],
+    "interceptions": [
+        7,
+        10
+    ],
+    "aerials_won": [
+        26,
+        22
+    ],
+    "clearances": [
+        11,
+        32
+    ],
+    "offsides": [
+        1,
+        3
+    ],
+    "goal_kicks": [
+        7,
+        5
+    ],
+    "throw_ins": [
+        42,
+        40
+    ],
+    "long_balls": [
+        84,
+        90
+    ]
+}

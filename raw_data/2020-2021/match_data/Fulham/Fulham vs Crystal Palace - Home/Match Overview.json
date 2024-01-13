@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "1",
+        "2"
+    ],
+    "expected_goals": [
+        "1.1",
+        "2.5"
+    ],
+    "home_team": [
+        "Alphonse Areola",
+        "Aleksandar Mitrovi\u0107",
+        "Tom Cairney",
+        "Tim Ream",
+        "Ruben Loftus-Cheek",
+        "Tosin Adarabioyo",
+        "Mario Lemina",
+        "Ademola Lookman",
+        "Andre-Frank Zambo Anguissa",
+        "Antonee Robinson",
+        "Ola Aina",
+        "Marek Rod\u00e1k",
+        "Denis Odoi",
+        "Bobby Reid",
+        "Maxime Le Marchand",
+        "Harrison Reed",
+        "Joe Bryan",
+        "Aboubakar Kamara"
+    ],
+    "away_team": [
+        "Vicente Guaita",
+        "Luka Milivojevi\u0107",
+        "Scott Dann",
+        "Cheikhou Kouyat\u00e9",
+        "Andros Townsend",
+        "Wilfried Zaha",
+        "Jeffrey Schlupp",
+        "Nathaniel Clyne",
+        "Michy Batshuayi",
+        "Tyrick Mitchell",
+        "Ja\u00efro Riedewald",
+        "Stephen Henderson",
+        "Patrick van Aanholt",
+        "Max Meyer",
+        "Mamadou Sakho",
+        "Christian Benteke",
+        "Eberechi Eze",
+        "Martin Kelly"
+    ],
+    "fouls": [
+        11,
+        11
+    ],
+    "corners": [
+        4,
+        4
+    ],
+    "crosses": [
+        29,
+        7
+    ],
+    "touches": [
+        800,
+        523
+    ],
+    "tackles": [
+        19,
+        22
+    ],
+    "interceptions": [
+        10,
+        10
+    ],
+    "aerials_won": [
+        9,
+        5
+    ],
+    "clearances": [
+        13,
+        21
+    ],
+    "offsides": [
+        1,
+        2
+    ],
+    "goal_kicks": [
+        5,
+        14
+    ],
+    "throw_ins": [
+        20,
+        22
+    ],
+    "long_balls": [
+        55,
+        61
+    ]
+}

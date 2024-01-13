@@ -1,0 +1,102 @@
+{
+    "goals": [
+        "3",
+        "2"
+    ],
+    "expected_goals": [
+        "1.1",
+        "0.9"
+    ],
+    "home_team": [
+        "Robert S\u00e1nchez",
+        "Ben White",
+        "Adam Webster",
+        "Yves Bissouma",
+        "Alexis Mac Allister",
+        "Pascal Gro\u00df",
+        "Jakub Moder",
+        "Alireza Jahanbakhsh",
+        "Steven Alzate",
+        "Danny Welbeck",
+        "Dan Burn",
+        "Jason Steele",
+        "Christian Walton",
+        "Micha\u0142 Karbownik",
+        "Aaron Connolly",
+        "Leandro Trossard",
+        "Adam Lallana",
+        "Percy Tau",
+        "Mois\u00e9s Caicedo",
+        "Andi Zeqiri"
+    ],
+    "away_team": [
+        "Ederson",
+        "R\u00faben Dias",
+        "John Stones",
+        "\u0130lkay G\u00fcndo\u011fan",
+        "Oleksandr Zinchenko",
+        "Rodri",
+        "Bernardo Silva",
+        "Ferr\u00e1n Torres",
+        "Riyad Mahrez",
+        "Jo\u00e3o Cancelo",
+        "Phil Foden",
+        "Zack Steffen",
+        "Nathan Ak\u00e9",
+        "Gabriel Jesus",
+        "Aymeric Laporte",
+        "Kevin De Bruyne",
+        "Benjamin Mendy",
+        "Fernandinho",
+        "Eric Garc\u00eda",
+        "Cole Palmer"
+    ],
+    "fouls": [
+        13,
+        11
+    ],
+    "corners": [
+        5,
+        3
+    ],
+    "crosses": [
+        14,
+        7
+    ],
+    "touches": [
+        744,
+        490
+    ],
+    "tackles": [
+        18,
+        15
+    ],
+    "interceptions": [
+        7,
+        7
+    ],
+    "aerials_won": [
+        12,
+        12
+    ],
+    "clearances": [
+        10,
+        25
+    ],
+    "offsides": [
+        3,
+        1
+    ],
+    "goal_kicks": [
+        2,
+        9
+    ],
+    "throw_ins": [
+        17,
+        10
+    ],
+    "long_balls": [
+        53,
+        45
+    ]
+}

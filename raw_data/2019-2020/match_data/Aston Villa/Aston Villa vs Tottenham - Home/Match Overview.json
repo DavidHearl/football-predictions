@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "2",
+        "3"
+    ],
+    "expected_goals": [
+        "1.8",
+        "3.4"
+    ],
+    "home_team": [
+        "Pepe Reina",
+        "Danny Drinkwater",
+        "Douglas Luiz",
+        "Jack Grealish",
+        "Ezri Konsa",
+        "Matt Targett",
+        "Mbwana Samatta",
+        "Anwar El Ghazi",
+        "Bj\u00f6rn Engels",
+        "Frederic Guilbert",
+        "Kortney Hause",
+        "\u00d8rjan Nyland",
+        "Neil Taylor",
+        "Marvelous Nakamba",
+        "Conor Hourihane",
+        "Tr\u00e9z\u00e9guet",
+        "Borja Bast\u00f3n",
+        "Ahmed Elmohamady"
+    ],
+    "away_team": [
+        "Hugo Lloris",
+        "Toby Alderweireld",
+        "Davinson S\u00e1nchez",
+        "Son Heung-min",
+        "Harry Winks",
+        "Eric Dier",
+        "Dele Alli",
+        "Steven Bergwijn",
+        "Serge Aurier",
+        "Lucas Moura",
+        "Ben Davies",
+        "Paulo Gazzaniga",
+        "Jan Vertonghen",
+        "Giovani Lo Celso",
+        "Tanguy Ndombele",
+        "Oliver Skipp",
+        "Gedson Fernandes",
+        "Japhet Tanganga"
+    ],
+    "fouls": [
+        12,
+        10
+    ],
+    "corners": [
+        12,
+        7
+    ],
+    "crosses": [
+        29,
+        15
+    ],
+    "touches": [
+        648,
+        583
+    ],
+    "tackles": [
+        14,
+        24
+    ],
+    "interceptions": [
+        15,
+        11
+    ],
+    "aerials_won": [
+        16,
+        19
+    ],
+    "clearances": [
+        18,
+        30
+    ],
+    "offsides": [
+        0,
+        1
+    ],
+    "goal_kicks": [
+        6,
+        6
+    ],
+    "throw_ins": [
+        30,
+        19
+    ],
+    "long_balls": [
+        80,
+        57
+    ]
+}

@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "1",
+        "1"
+    ],
+    "expected_goals": [
+        "0.8",
+        "0.2"
+    ],
+    "home_team": [
+        "Mathew Ryan",
+        "Shane Duffy",
+        "Lewis Dunk",
+        "Leandro Trossard",
+        "Pascal Gro\u00df",
+        "Glenn Murray",
+        "Aaron Mooy",
+        "Solly March",
+        "Ezequiel Schelotto",
+        "Davy Pr\u00f6pper",
+        "Dan Burn",
+        "David Button",
+        "Neal Maupay",
+        "Adam Webster",
+        "Alireza Jahanbakhsh",
+        "Bernardo",
+        "Aaron Connolly",
+        "Steven Alzate"
+    ],
+    "away_team": [
+        "Ben Foster",
+        "Adrian Mariappa",
+        "Gerard Deulofeu",
+        "Troy Deeney",
+        "Adam Masina",
+        "Craig Cathcart",
+        "Abdoulaye Doucour\u00e9",
+        "Will Hughes",
+        "Christian Kabasele",
+        "\u00c9tienne Capoue",
+        "Roberto Pereyra",
+        "Heurelho Gomes",
+        "Craig Dawson",
+        "Danny Welbeck",
+        "Nathaniel Chalobah",
+        "Andre Gray",
+        "Jos\u00e9 Holebas",
+        "Ignacio Pussetto"
+    ],
+    "fouls": [
+        9,
+        12
+    ],
+    "corners": [
+        3,
+        2
+    ],
+    "crosses": [
+        28,
+        7
+    ],
+    "touches": [
+        767,
+        452
+    ],
+    "tackles": [
+        13,
+        25
+    ],
+    "interceptions": [
+        11,
+        18
+    ],
+    "aerials_won": [
+        35,
+        19
+    ],
+    "clearances": [
+        9,
+        26
+    ],
+    "offsides": [
+        2,
+        2
+    ],
+    "goal_kicks": [
+        5,
+        11
+    ],
+    "throw_ins": [
+        22,
+        22
+    ],
+    "long_balls": [
+        78,
+        86
+    ]
+}

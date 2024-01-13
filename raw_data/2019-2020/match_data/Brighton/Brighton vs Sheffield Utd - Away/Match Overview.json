@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "1",
+        "1"
+    ],
+    "expected_goals": [
+        "1.6",
+        "1.2"
+    ],
+    "home_team": [
+        "Dean Henderson",
+        "George Baldock",
+        "Enda Stevens",
+        "John Fleck",
+        "Jack O'Connell",
+        "Chris Basham",
+        "Oliver McBurnie",
+        "Billy Sharp",
+        "John Egan",
+        "Oliver Norwood",
+        "Sander Berge",
+        "Michael Verrips",
+        "John Lundstram",
+        "Phil Jagielka",
+        "David McGoldrick",
+        "Lys Mousset",
+        "Ben Osborn",
+        "Panagiotis Retsos"
+    ],
+    "away_team": [
+        "Mathew Ryan",
+        "Shane Duffy",
+        "Lewis Dunk",
+        "Neal Maupay",
+        "Yves Bissouma",
+        "Adam Webster",
+        "Glenn Murray",
+        "Aaron Mooy",
+        "Ezequiel Schelotto",
+        "Davy Pr\u00f6pper",
+        "Dan Burn",
+        "David Button",
+        "Leandro Trossard",
+        "Pascal Gro\u00df",
+        "Alireza Jahanbakhsh",
+        "Solly March",
+        "Bernardo",
+        "Aaron Connolly"
+    ],
+    "fouls": [
+        5,
+        6
+    ],
+    "corners": [
+        12,
+        2
+    ],
+    "crosses": [
+        50,
+        6
+    ],
+    "touches": [
+        748,
+        496
+    ],
+    "tackles": [
+        15,
+        15
+    ],
+    "interceptions": [
+        8,
+        12
+    ],
+    "aerials_won": [
+        22,
+        23
+    ],
+    "clearances": [
+        7,
+        63
+    ],
+    "offsides": [
+        3,
+        2
+    ],
+    "goal_kicks": [
+        4,
+        9
+    ],
+    "throw_ins": [
+        41,
+        32
+    ],
+    "long_balls": [
+        112,
+        69
+    ]
+}

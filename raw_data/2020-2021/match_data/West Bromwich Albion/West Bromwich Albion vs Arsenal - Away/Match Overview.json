@@ -1,0 +1,102 @@
+{
+    "goals": [
+        "3",
+        "1"
+    ],
+    "expected_goals": [
+        "0.9",
+        "1.8"
+    ],
+    "home_team": [
+        "Bernd Leno",
+        "Gabriel Dos Santos",
+        "Bukayo Saka",
+        "Dani Ceballos",
+        "Willian",
+        "Rob Holding",
+        "Nicolas P\u00e9p\u00e9",
+        "Calum Chambers",
+        "Mohamed Elneny",
+        "Emile Smith Rowe",
+        "Gabriel Martinelli",
+        "R\u00fanar Alex R\u00fanarsson",
+        "H\u00e9ctor Beller\u00edn",
+        "Kieran Tierney",
+        "Alexandre Lacazette",
+        "Martin \u00d8degaard",
+        "Pierre-Emerick Aubameyang",
+        "C\u00e9dric Soares",
+        "Thomas Partey",
+        "Eddie Nketiah"
+    ],
+    "away_team": [
+        "Sam Johnstone",
+        "Darnell Furlong",
+        "Kyle Bartley",
+        "Semi Ajayi",
+        "Callum Robinson",
+        "Matt Phillips",
+        "Matheus Pereira",
+        "Conor Townsend",
+        "Mbaye Diagne",
+        "Conor Gallagher",
+        "Okay Yoku\u015flu",
+        "David Button",
+        "Hal Robson-Kanu",
+        "Jake Livermore",
+        "Grady Diangana",
+        "Lee Peltier",
+        "Dara O'Shea",
+        "Karlan Grant",
+        "Taylor Gardner-Hickman",
+        "Caleb Taylor"
+    ],
+    "fouls": [
+        7,
+        9
+    ],
+    "corners": [
+        6,
+        6
+    ],
+    "crosses": [
+        16,
+        23
+    ],
+    "touches": [
+        717,
+        432
+    ],
+    "tackles": [
+        11,
+        14
+    ],
+    "interceptions": [
+        12,
+        13
+    ],
+    "aerials_won": [
+        11,
+        12
+    ],
+    "clearances": [
+        25,
+        12
+    ],
+    "offsides": [
+        1,
+        2
+    ],
+    "goal_kicks": [
+        6,
+        6
+    ],
+    "throw_ins": [
+        17,
+        21
+    ],
+    "long_balls": [
+        52,
+        85
+    ]
+}

@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "3",
+        "1"
+    ],
+    "expected_goals": [
+        "3.0",
+        "0.3"
+    ],
+    "home_team": [
+        "Adri\u00e1n",
+        "Fabinho",
+        "Virgil van Dijk",
+        "Georginio Wijnaldum",
+        "Sadio Man\u00e9",
+        "Mohamed Salah",
+        "Alex Oxlade-Chamberlain",
+        "Andrew Robertson",
+        "Divock Origi",
+        "Jo\u00ebl Matip",
+        "Trent Alexander-Arnold",
+        "Caoimh\u00edn Kelleher",
+        "James Milner",
+        "Roberto Firmino",
+        "Joe Gomez",
+        "Jordan Henderson",
+        "Adam Lallana",
+        "Xherdan Shaqiri"
+    ],
+    "away_team": [
+        "Martin D\u00fabravka",
+        "Paul Dummett",
+        "Fabian Sch\u00e4r",
+        "Jamaal Lascelles",
+        "Jonjo Shelvey",
+        "Joelinton",
+        "Isaac Hayden",
+        "Jetro Willems",
+        "Emil Krafth",
+        "Miguel Almir\u00f3n",
+        "Christian Atsu",
+        "Karl Darlow",
+        "Ciaran Clark",
+        "Ki Sung-yueng",
+        "Yoshinori Mut\u014d",
+        "Federico Fern\u00e1ndez",
+        "Javier Manquillo",
+        "Matthew Longstaff"
+    ],
+    "fouls": [
+        5,
+        4
+    ],
+    "corners": [
+        10,
+        1
+    ],
+    "crosses": [
+        34,
+        5
+    ],
+    "touches": [
+        994,
+        445
+    ],
+    "tackles": [
+        13,
+        20
+    ],
+    "interceptions": [
+        8,
+        11
+    ],
+    "aerials_won": [
+        25,
+        13
+    ],
+    "clearances": [
+        8,
+        36
+    ],
+    "offsides": [
+        2,
+        8
+    ],
+    "goal_kicks": [
+        4,
+        13
+    ],
+    "throw_ins": [
+        13,
+        15
+    ],
+    "long_balls": [
+        59,
+        64
+    ]
+}
