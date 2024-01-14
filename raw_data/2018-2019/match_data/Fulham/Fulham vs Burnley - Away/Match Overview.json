@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "2",
+        "1"
+    ],
+    "expected_goals": [
+        "0.8",
+        "0.8"
+    ],
+    "home_team": [
+        "Tom Heaton",
+        "Charlie Taylor",
+        "Jack Cork",
+        "James Tarkowski",
+        "Ben Mee",
+        "Ashley Barnes",
+        "Chris Wood",
+        "Jeff Hendrick",
+        "Ashley Westwood",
+        "Phil Bardsley",
+        "Dwight McNeil",
+        "Joe Hart",
+        "Matthew Lowton",
+        "Sam Vokes",
+        "Ben Gibson",
+        "Steven Defour",
+        "Mat\u011bj Vydra",
+        "Kevin Long"
+    ],
+    "away_team": [
+        "Sergio Rico",
+        "Ryan Sessegnon",
+        "Denis Odoi",
+        "Calum Chambers",
+        "Aleksandar Mitrovi\u0107",
+        "Tim Ream",
+        "Andr\u00e9 Sch\u00fcrrle",
+        "Maxime Le Marchand",
+        "Cyrus Christie",
+        "Joe Bryan",
+        "Jean Seri",
+        "Marcus Bettinelli",
+        "Neeskens Kebano",
+        "Tom Cairney",
+        "Floyd Ayit\u00e9",
+        "Luciano Vietto",
+        "Steven Sessegnon",
+        "Ibrahima Ciss\u00e9"
+    ],
+    "fouls": [
+        5,
+        9
+    ],
+    "corners": [
+        2,
+        6
+    ],
+    "crosses": [
+        12,
+        33
+    ],
+    "touches": [
+        578,
+        754
+    ],
+    "tackles": [
+        22,
+        10
+    ],
+    "interceptions": [
+        13,
+        13
+    ],
+    "aerials_won": [
+        30,
+        30
+    ],
+    "clearances": [
+        32,
+        25
+    ],
+    "offsides": [
+        2,
+        0
+    ],
+    "goal_kicks": [
+        7,
+        11
+    ],
+    "throw_ins": [
+        25,
+        23
+    ],
+    "long_balls": [
+        100,
+        87
+    ]
+}

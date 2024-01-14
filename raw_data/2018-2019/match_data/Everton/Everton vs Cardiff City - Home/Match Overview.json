@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "1",
+        "0"
+    ],
+    "expected_goals": [
+        "2.1",
+        "1.0"
+    ],
+    "home_team": [
+        "Jordan Pickford",
+        "Michael Keane",
+        "Andr\u00e9 Gomes",
+        "Gylfi Sigur\u00f0sson",
+        "Theo Walcott",
+        "Lucas Digne",
+        "Yerry Mina",
+        "Idrissa Gana Gueye",
+        "Bernard",
+        "S\u00e9amus Coleman",
+        "Richarlison",
+        "Maarten Stekelenburg",
+        "Leighton Baines",
+        "Kurt Zouma",
+        "Cenk Tosun",
+        "Tom Davies",
+        "Dominic Calvert-Lewin",
+        "Ademola Lookman"
+    ],
+    "away_team": [
+        "Neil Etheridge",
+        "Sean Morrison",
+        "Bruno Ecuele Manga",
+        "Harry Arter",
+        "Joe Ralls",
+        "Callum Paterson",
+        "Aron Gunnarsson",
+        "Greg Cunningham",
+        "V\u00edctor Camarasa",
+        "Sol Bamba",
+        "Kadeem Harris",
+        "Alex Smithies",
+        "Lee Peltier",
+        "Joe Bennett",
+        "Danny Ward",
+        "Josh Murphy",
+        "Bobby Reid",
+        "Junior Hoilett"
+    ],
+    "fouls": [
+        12,
+        13
+    ],
+    "corners": [
+        7,
+        3
+    ],
+    "crosses": [
+        26,
+        7
+    ],
+    "touches": [
+        692,
+        384
+    ],
+    "tackles": [
+        12,
+        16
+    ],
+    "interceptions": [
+        10,
+        14
+    ],
+    "aerials_won": [
+        25,
+        25
+    ],
+    "clearances": [
+        23,
+        36
+    ],
+    "offsides": [
+        0,
+        1
+    ],
+    "goal_kicks": [
+        5,
+        12
+    ],
+    "throw_ins": [
+        27,
+        21
+    ],
+    "long_balls": [
+        61,
+        87
+    ]
+}
