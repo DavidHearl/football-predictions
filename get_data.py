@@ -6,6 +6,7 @@ It provides a StatsProcessor class that processes the data using timing decorato
 import time
 from functools import wraps
 
+from get_data.get_folder_structure import CreateStructure
 from get_data.get_club_statistics import ClubStatistics
 from get_data.get_player_statistics import PlayerStatistics
 from get_data.get_match_history import MatchHistory
@@ -14,6 +15,7 @@ from get_data.get_match_history import MatchHistory
 season = '2023-2024'
 
 # Get methods and pass through the variables
+folder_structure = CreateStructure(season)
 club_stats = ClubStatistics(season)
 player_stats = PlayerStatistics(season)
 fixture_list = MatchHistory(season)
@@ -29,14 +31,19 @@ def timing_decorator(func):
 	return wrapper
 
 class StatsProcessor:
-	def __init__(self, club_stats, player_stats, fixture_list):
+	def __init__(self, club_stats, player_stats, fixture_list, folder_structure):
+		self.folder_structure_instance = folder_structure
 		self.club_stats = club_stats
 		self.player_stats = player_stats
 		self.fixture_list = fixture_list
 
 	@timing_decorator
+	def folder_structure(self):
+		self.folder_structure_instance.folder_structure()
+
+	@timing_decorator
 	def process_club_stats(self):
-		self.club_stats.create_json()
+		self.club_stats.get_club_data()
 
 	@timing_decorator
 	def process_player_stats(self):
@@ -56,11 +63,12 @@ class StatsProcessor:
 
 
 # Create an instance of StatsProcessor
-stats_processor = StatsProcessor(club_stats, player_stats, fixture_list)
+stats_processor = StatsProcessor(club_stats, player_stats, fixture_list, folder_structure)
 
 # Call the methods on the instance, which are now wrapped with the timing_decorator
-stats_processor.process_club_stats()
+# stats_processor.folder_structure()
+# stats_processor.process_club_stats()
 stats_processor.process_player_stats()
-stats_processor.process_fixtures()
-stats_processor.process_clean_fixtures()
-stats_processor.process_create_match_folders()
+# stats_processor.process_fixtures()
+# stats_processor.process_clean_fixtures()
+# stats_processor.process_create_match_folders()

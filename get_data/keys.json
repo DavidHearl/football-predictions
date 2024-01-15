@@ -49,9 +49,24 @@
         "Shots"
     ],
     "overall_urls": [
-        "https://fbref.com/en/comps/9/Premier-League-Stats"
+        "https://fbref.com/en/comps/9/Premier-League-Stats",
+        "https://fbref.com/en/comps/10/Championship-Stats",
+        "https://fbref.com/en/comps/12/La-Liga-Stats",
+        "https://fbref.com/en/comps/13/Ligue-1-Stats"
     ],
-    "club_urls": {
+    "leagues": [
+        "premier_league",
+        "championship",
+        "la_liga",
+        "ligue_1"
+    ],
+    "folders": [
+        "club_data",
+        "player_data",
+        "match_data",
+        "players"
+    ],
+    "premier_league": {
         "2023-2024": [
             "/en/squads/822bd0ba/Liverpool-Stats",
             "/en/squads/8602292d/Aston-Villa-Stats",
@@ -206,5 +221,105 @@
             "/en/squads/17892952/2017-2018/Stoke-City-Stats",
             "/en/squads/60c6b05f/2017-2018/West-Bromwich-Albion-Stats"
         ]
+    },
+    "club_urls": {
+        "ligue_1": {
+            "2023-2024": [
+                "/en/squads/e2d8892c/Paris-Saint-Germain-Stats",
+                "/en/squads/132ebc33/Nice-Stats",
+                "/en/squads/fb08dbb3/Brest-Stats",
+                "/en/squads/fd6114db/Monaco-Stats",
+                "/en/squads/cb188c0c/Lille-Stats",
+                "/en/squads/7fdd64e0/Reims-Stats",
+                "/en/squads/5725cc7b/Marseille-Stats",
+                "/en/squads/fd4e0f7d/Lens-Stats",
+                "/en/squads/c0d3eab4/Strasbourg-Stats",
+                "/en/squads/b3072e00/Rennes-Stats",
+                "/en/squads/5c2737db/Le-Havre-Stats",
+                "/en/squads/281b0e73/Montpellier-Stats",
+                "/en/squads/d7a486cd/Nantes-Stats",
+                "/en/squads/3f8c4b5f/Toulouse-Stats",
+                "/en/squads/f83960ae/Metz-Stats",
+                "/en/squads/d53c0b06/Lyon-Stats",
+                "/en/squads/d9676424/Clermont-Foot-Stats",
+                "/en/squads/d2c87802/Lorient-Stats"
+            ]
+        },
+        "premier_league": {
+            "2023-2024": [
+                "/en/squads/822bd0ba/Liverpool-Stats",
+                "/en/squads/b8fd03ef/Manchester-City-Stats",
+                "/en/squads/8602292d/Aston-Villa-Stats",
+                "/en/squads/18bb7c10/Arsenal-Stats",
+                "/en/squads/361ca564/Tottenham-Hotspur-Stats",
+                "/en/squads/7c21e445/West-Ham-United-Stats",
+                "/en/squads/19538871/Manchester-United-Stats",
+                "/en/squads/d07537b9/Brighton-and-Hove-Albion-Stats",
+                "/en/squads/cff3d9bb/Chelsea-Stats",
+                "/en/squads/b2b47a98/Newcastle-United-Stats",
+                "/en/squads/8cec06e1/Wolverhampton-Wanderers-Stats",
+                "/en/squads/4ba7cbea/Bournemouth-Stats",
+                "/en/squads/fd962109/Fulham-Stats",
+                "/en/squads/47c64c55/Crystal-Palace-Stats",
+                "/en/squads/e4a775cb/Nottingham-Forest-Stats",
+                "/en/squads/cd051869/Brentford-Stats",
+                "/en/squads/d3fd31cc/Everton-Stats",
+                "/en/squads/e297cd13/Luton-Town-Stats",
+                "/en/squads/943e8050/Burnley-Stats",
+                "/en/squads/1df6b87e/Sheffield-United-Stats"
+            ]
+        },
+        "championship": {
+            "2023-2024": [
+                "/en/squads/a2d435b3/Leicester-City-Stats",
+                "/en/squads/b74092de/Ipswich-Town-Stats",
+                "/en/squads/33c895d4/Southampton-Stats",
+                "/en/squads/5bfb9659/Leeds-United-Stats",
+                "/en/squads/60c6b05f/West-Bromwich-Albion-Stats",
+                "/en/squads/f7e3dfe9/Coventry-City-Stats",
+                "/en/squads/8ef52968/Sunderland-Stats",
+                "/en/squads/2abfe087/Watford-Stats",
+                "/en/squads/bd8769d1/Hull-City-Stats",
+                "/en/squads/7f59c601/Middlesbrough-Stats",
+                "/en/squads/1c781004/Norwich-City-Stats",
+                "/en/squads/22df8478/Preston-North-End-Stats",
+                "/en/squads/75fae011/Cardiff-City-Stats",
+                "/en/squads/93493607/Bristol-City-Stats",
+                "/en/squads/fb10988f/Swansea-City-Stats",
+                "/en/squads/e3c537a1/Millwall-Stats",
+                "/en/squads/17892952/Stoke-City-Stats",
+                "/en/squads/e090f40b/Blackburn-Rovers-Stats",
+                "/en/squads/32a1480e/Plymouth-Argyle-Stats",
+                "/en/squads/ec79b7c2/Birmingham-City-Stats",
+                "/en/squads/f5922ca5/Huddersfield-Town-Stats",
+                "/en/squads/bba7d733/Sheffield-Wednesday-Stats",
+                "/en/squads/a757999c/Queens-Park-Rangers-Stats",
+                "/en/squads/375d66f1/Rotherham-United-Stats"
+            ]
+        },
+        "la_liga": {
+            "2023-2024": [
+                "/en/squads/9024a00a/Girona-Stats",
+                "/en/squads/53a2f082/Real-Madrid-Stats",
+                "/en/squads/2b390eca/Athletic-Club-Stats",
+                "/en/squads/206d90db/Barcelona-Stats",
+                "/en/squads/db3b9613/Atletico-Madrid-Stats",
+                "/en/squads/e31d1cd9/Real-Sociedad-Stats",
+                "/en/squads/fc536746/Real-Betis-Stats",
+                "/en/squads/dcc91a7b/Valencia-Stats",
+                "/en/squads/0049d422/Las-Palmas-Stats",
+                "/en/squads/7848bd64/Getafe-Stats",
+                "/en/squads/98e8af82/Rayo-Vallecano-Stats",
+                "/en/squads/03c57e2b/Osasuna-Stats",
+                "/en/squads/8d6fd021/Alaves-Stats",
+                "/en/squads/2aa12281/Mallorca-Stats",
+                "/en/squads/2a8183b3/Villarreal-Stats",
+                "/en/squads/f25da7fb/Celta-Vigo-Stats",
+                "/en/squads/ad2be733/Sevilla-Stats",
+                "/en/squads/ee7c297c/Cadiz-Stats",
+                "/en/squads/a0435291/Granada-Stats",
+                "/en/squads/78ecf4bb/Almeria-Stats"
+            ]
+        }
     }
 }
