@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "1",
+        "2"
+    ],
+    "expected_goals": [
+        "3.0",
+        "1.6"
+    ],
+    "home_team": [
+        "\u0141ukasz Fabia\u0144ski",
+        "Mike van der Hoorn",
+        "Alfie Mawson",
+        "Nathan Dyer",
+        "Tom Carroll",
+        "Wayne Routledge",
+        "Martin Olsson",
+        "Jordan Ayew",
+        "Andr\u00e9 Ayew",
+        "\u00c0ngel Rangel",
+        "Andy King",
+        "Kristoffer Nordfeldt",
+        "Leon Britton",
+        "Tammy Abraham",
+        "Luciano Narsingh",
+        "Sam Clucas",
+        "Kyle Naughton",
+        "Federico Fern\u00e1ndez"
+    ],
+    "away_team": [
+        "Jack Butland",
+        "Moritz Bauer",
+        "Erik Pieters",
+        "Joe Allen",
+        "Kurt Zouma",
+        "Ryan Shawcross",
+        "Mame Biram Diouf",
+        "Xherdan Shaqiri",
+        "Peter Crouch",
+        "Badou Ndiaye",
+        "Lasse S\u00f8rensen",
+        "Jakob Haugaard",
+        "Stephen Ireland",
+        "Glen Johnson",
+        "Charlie Adam",
+        "Geoff Cameron",
+        "Darren Fletcher",
+        "Tyrese Campbell"
+    ],
+    "fouls": [
+        12,
+        9
+    ],
+    "corners": [
+        6,
+        0
+    ],
+    "crosses": [
+        31,
+        5
+    ],
+    "touches": [
+        697,
+        569
+    ],
+    "tackles": [
+        16,
+        21
+    ],
+    "interceptions": [
+        8,
+        18
+    ],
+    "aerials_won": [
+        11,
+        22
+    ],
+    "clearances": [
+        4,
+        46
+    ],
+    "offsides": [
+        1,
+        5
+    ],
+    "goal_kicks": [
+        4,
+        7
+    ],
+    "throw_ins": [
+        18,
+        11
+    ],
+    "long_balls": [
+        71,
+        78
+    ]
+}

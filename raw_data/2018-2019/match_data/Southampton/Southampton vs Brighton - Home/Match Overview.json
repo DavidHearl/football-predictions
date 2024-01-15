@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "2",
+        "2"
+    ],
+    "expected_goals": [
+        "2.0",
+        "1.4"
+    ],
+    "home_team": [
+        "Alex McCarthy",
+        "C\u00e9dric Soares",
+        "Jannik Vestergaard",
+        "Wesley Hoedt",
+        "Shane Long",
+        "Danny Ings",
+        "Mohamed Elyounoussi",
+        "Mario Lemina",
+        "Ryan Bertrand",
+        "Nathan Redmond",
+        "Pierre H\u00f8jbjerg",
+        "Angus Gunn",
+        "Maya Yoshida",
+        "Steven Davis",
+        "Charlie Austin",
+        "James Ward-Prowse",
+        "Manolo Gabbiadini",
+        "Matt Targett"
+    ],
+    "away_team": [
+        "Mathew Ryan",
+        "Ga\u00ebtan Bong",
+        "Shane Duffy",
+        "Lewis Dunk",
+        "Dale Stephens",
+        "Yves Bissouma",
+        "Anthony Knockaert",
+        "Glenn Murray",
+        "Solly March",
+        "Mart\u00edn Montoya",
+        "Davy Pr\u00f6pper",
+        "David Button",
+        "Bruno",
+        "Beram Kayal",
+        "J\u00fcrgen Locadia",
+        "Leon Balogun",
+        "Alireza Jahanbakhsh",
+        "Bernardo"
+    ],
+    "fouls": [
+        10,
+        13
+    ],
+    "corners": [
+        1,
+        4
+    ],
+    "crosses": [
+        13,
+        18
+    ],
+    "touches": [
+        616,
+        597
+    ],
+    "tackles": [
+        16,
+        14
+    ],
+    "interceptions": [
+        20,
+        13
+    ],
+    "aerials_won": [
+        17,
+        25
+    ],
+    "clearances": [
+        16,
+        21
+    ],
+    "offsides": [
+        2,
+        2
+    ],
+    "goal_kicks": [
+        7,
+        10
+    ],
+    "throw_ins": [
+        20,
+        24
+    ],
+    "long_balls": [
+        83,
+        85
+    ]
+}

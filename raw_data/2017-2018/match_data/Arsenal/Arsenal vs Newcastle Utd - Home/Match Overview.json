@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "1",
+        "0"
+    ],
+    "expected_goals": [
+        "1.8",
+        "0.3"
+    ],
+    "home_team": [
+        "Petr \u010cech",
+        "Laurent Koscielny",
+        "Alexis S\u00e1nchez",
+        "Alexandre Lacazette",
+        "Jack Wilshere",
+        "Mesut \u00d6zil",
+        "Alex Iwobi",
+        "Nacho Monreal",
+        "H\u00e9ctor Beller\u00edn",
+        "Granit Xhaka",
+        "Ainsley Maitland-Niles",
+        "David Ospina",
+        "Olivier Giroud",
+        "Calum Chambers",
+        "Danny Welbeck",
+        "Sead Kola\u0161inac",
+        "Francis Coquelin",
+        "Mohamed Elneny"
+    ],
+    "away_team": [
+        "Rob Elliot",
+        "Jamaal Lascelles",
+        "Jacob Murphy",
+        "Isaac Hayden",
+        "Ayoze P\u00e9rez",
+        "Javier Manquillo",
+        "Florian Lejeune",
+        "Joselu",
+        "DeAndre Yedlin",
+        "Mikel Merino",
+        "Christian Atsu",
+        "Karl Darlow",
+        "Ciaran Clark",
+        "Paul Dummett",
+        "Dwight Gayle",
+        "Mohamed Diam\u00e9",
+        "Matt Ritchie",
+        "Rolando Aarons"
+    ],
+    "fouls": [
+        13,
+        9
+    ],
+    "corners": [
+        7,
+        5
+    ],
+    "crosses": [
+        10,
+        14
+    ],
+    "touches": [
+        921,
+        474
+    ],
+    "tackles": [
+        17,
+        21
+    ],
+    "interceptions": [
+        12,
+        14
+    ],
+    "aerials_won": [
+        25,
+        38
+    ],
+    "clearances": [
+        27,
+        41
+    ],
+    "offsides": [
+        1,
+        2
+    ],
+    "goal_kicks": [
+        8,
+        11
+    ],
+    "throw_ins": [
+        21,
+        11
+    ],
+    "long_balls": [
+        65,
+        85
+    ]
+}

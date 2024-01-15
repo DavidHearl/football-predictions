@@ -252,151 +252,154 @@ class LegacyMatchHistory:
 
 					if suspended != 'Match Suspended':
 						with requests.Session() as session:
-							# Download the page and convert to HTML
-							html = session.get(match_url, timeout=20)
+							try:
+								# Download the page and convert to HTML
+								html = session.get(match_url, timeout=20)
 
-							# Initialize BeautifulSoup
-							soup_match_report = BeautifulSoup(html.text, features="lxml")
+								# Initialize BeautifulSoup
+								soup_match_report = BeautifulSoup(html.text, features="lxml")
 
-							# Find all 'div' tags with class 'score'
-							goals = soup_match_report.find_all('div', {'class': 'score'})
-							expected_goals = soup_match_report('div', {'class': 'score_xg'})
+								# Find all 'div' tags with class 'score'
+								goals = soup_match_report.find_all('div', {'class': 'score'})
+								expected_goals = soup_match_report('div', {'class': 'score_xg'})
 
-							# Print the contents of each 'div' tag
-							goals = [goals[0].text, goals[1].text]
-							expected_goals = [expected_goals[0].text, expected_goals[1].text]
+								# Print the contents of each 'div' tag
+								goals = [goals[0].text, goals[1].text]
+								expected_goals = [expected_goals[0].text, expected_goals[1].text]
 
-							# Match Overview
-							lineup_div_home = soup_match_report.find('div', {'class': 'lineup', 'id': 'a'})
-							lineup_div_away = soup_match_report.find('div', {'class': 'lineup', 'id': 'b'})
+								# Match Overview
+								lineup_div_home = soup_match_report.find('div', {'class': 'lineup', 'id': 'a'})
+								lineup_div_away = soup_match_report.find('div', {'class': 'lineup', 'id': 'b'})
 
-							# Find all 'td' tags within the selected div
-							td_tags_home = lineup_div_home.find_all('td')
-							td_tags_away = lineup_div_away.find_all('td')
+								# Find all 'td' tags within the selected div
+								td_tags_home = lineup_div_home.find_all('td')
+								td_tags_away = lineup_div_away.find_all('td')
 
-							home_team = []
-							away_team = []
+								home_team = []
+								away_team = []
 
-							# Find 'a' tags within each 'td' tag and print the contents
-							for td in td_tags_home:
-								a_tag = td.find('a')
-								if a_tag is not None:
-									home_team.append(a_tag.text)
+								# Find 'a' tags within each 'td' tag and print the contents
+								for td in td_tags_home:
+									a_tag = td.find('a')
+									if a_tag is not None:
+										home_team.append(a_tag.text)
 
-							for td in td_tags_away:
-								b_tag = td.find('a')
-								if b_tag is not None:
-									away_team.append(b_tag.text)
+								for td in td_tags_away:
+									b_tag = td.find('a')
+									if b_tag is not None:
+										away_team.append(b_tag.text)
 
-							team_stats_div = soup_match_report.find('div', {'id': 'team_stats_extra'})
+								team_stats_div = soup_match_report.find('div', {'id': 'team_stats_extra'})
 
-							# Find all 'div' tags within the selected div
-							div_tags = team_stats_div.find_all('div')
+								# Find all 'div' tags within the selected div
+								div_tags = team_stats_div.find_all('div')
 
-							# Print the contents of each 'div' tag that doesn't have a class attribute and is numeric
-							numeric_values = []
-							for div in div_tags:
-								if not div.has_attr('class') and div.text.isdigit():
-									numeric_values.append(int(div.text))
+								# Print the contents of each 'div' tag that doesn't have a class attribute and is numeric
+								numeric_values = []
+								for div in div_tags:
+									if not div.has_attr('class') and div.text.isdigit():
+										numeric_values.append(int(div.text))
 
-							fouls = [numeric_values[0], numeric_values[1]]
-							corners = [numeric_values[2], numeric_values[3]]
-							crosses = [numeric_values[4], numeric_values[5]]
-							touches = [numeric_values[6], numeric_values[7]]
-							tackles = [numeric_values[8], numeric_values[9]]
-							interceptions = [numeric_values[10], numeric_values[11]]
-							aerials_won = [numeric_values[12], numeric_values[13]]
-							clearances = [numeric_values[14], numeric_values[15]]
-							offsides = [numeric_values[16], numeric_values[17]]
-							goal_kicks = [numeric_values[18], numeric_values[19]]
-							throw_ins = [numeric_values[20], numeric_values[21]]
-							long_balls = [numeric_values[22], numeric_values[23]]
-					
+								fouls = [numeric_values[0], numeric_values[1]]
+								corners = [numeric_values[2], numeric_values[3]]
+								crosses = [numeric_values[4], numeric_values[5]]
+								touches = [numeric_values[6], numeric_values[7]]
+								tackles = [numeric_values[8], numeric_values[9]]
+								interceptions = [numeric_values[10], numeric_values[11]]
+								aerials_won = [numeric_values[12], numeric_values[13]]
+								clearances = [numeric_values[14], numeric_values[15]]
+								offsides = [numeric_values[16], numeric_values[17]]
+								goal_kicks = [numeric_values[18], numeric_values[19]]
+								throw_ins = [numeric_values[20], numeric_values[21]]
+								long_balls = [numeric_values[22], numeric_values[23]]
+						
 
-							# Find all 'div' tags with class 'score'
-							goals = soup_match_report.find_all('div', {'class': 'score'})
-							expected_goals = soup_match_report('div', {'class': 'score_xg'})
+								# Find all 'div' tags with class 'score'
+								goals = soup_match_report.find_all('div', {'class': 'score'})
+								expected_goals = soup_match_report('div', {'class': 'score_xg'})
 
-							# Print the contents of each 'div' tag
-							goals = [goals[0].text, goals[1].text]
-							expected_goals = [expected_goals[0].text, expected_goals[1].text]
+								# Print the contents of each 'div' tag
+								goals = [goals[0].text, goals[1].text]
+								expected_goals = [expected_goals[0].text, expected_goals[1].text]
 
-							# Match Overview
-							lineup_div_home = soup_match_report.find('div', {'class': 'lineup', 'id': 'a'})
-							lineup_div_away = soup_match_report.find('div', {'class': 'lineup', 'id': 'b'})
+								# Match Overview
+								lineup_div_home = soup_match_report.find('div', {'class': 'lineup', 'id': 'a'})
+								lineup_div_away = soup_match_report.find('div', {'class': 'lineup', 'id': 'b'})
 
-							# Create a dictionary for the match overview data
-							match_overview = {
-								'goals': goals,
-								'expected_goals': expected_goals,
-								'home_team': home_team,
-								'away_team': away_team,
-								'fouls': fouls,
-								'corners': corners,
-								'crosses': crosses,
-								'touches': touches,
-								'tackles': tackles,
-								'interceptions': interceptions,
-								'aerials_won': aerials_won,
-								'clearances': clearances,
-								'offsides': offsides,
-								'goal_kicks': goal_kicks,
-								'throw_ins': throw_ins,
-								'long_balls': long_balls
-							}
+								# Create a dictionary for the match overview data
+								match_overview = {
+									'goals': goals,
+									'expected_goals': expected_goals,
+									'home_team': home_team,
+									'away_team': away_team,
+									'fouls': fouls,
+									'corners': corners,
+									'crosses': crosses,
+									'touches': touches,
+									'tackles': tackles,
+									'interceptions': interceptions,
+									'aerials_won': aerials_won,
+									'clearances': clearances,
+									'offsides': offsides,
+									'goal_kicks': goal_kicks,
+									'throw_ins': throw_ins,
+									'long_balls': long_balls
+								}
 
-							overview_path = os.path.join(match_folder_path, 'Match Overview.json')
-							print(overview_path)
+								overview_path = os.path.join(match_folder_path, 'Match Overview.json')
+								print(overview_path)
 
-							# Write the match overview data to the JSON file
-							with open(overview_path, 'w') as file:
-								json.dump(match_overview, file, indent=4)
+								# Write the match overview data to the JSON file
+								with open(overview_path, 'w') as file:
+									json.dump(match_overview, file, indent=4)
 
-							tables = soup_match_report.select('table.stats_table')
-							table_length = len(tables)
-							print(f"Number of Tables: {table_length}")
+								tables = soup_match_report.select('table.stats_table')
+								table_length = len(tables)
+								print(f"Number of Tables: {table_length}")
 
-							for i in range(8):
-								# Add a delay to prevent the server from blocking the request
-								time.sleep(3)
+								for i in range(8):
+									# Add a delay to prevent the server from blocking the request
+									time.sleep(3)
 
-								# Selects different table set for home and away teams
-								if home_away == 'Home':
-									if i != 7:
-										if i < table_length:
-											data = tables[i]
+									# Selects different table set for home and away teams
+									if home_away == 'Home':
+										if i != 7:
+											if i < table_length:
+												data = tables[i]
+											else:
+												continue
 										else:
-											continue
+											if 15 < table_length:
+												data = tables[15]
+											else:
+												continue
 									else:
-										if 15 < table_length:
-											data = tables[15]
+										if i != 7:
+											if i + 7 < table_length:
+												data = tables[i + 7]
+											else:
+												continue
 										else:
-											continue
-								else:
-									if i != 7:
-										if i + 7 < table_length:
-											data = tables[i + 7]
-										else:
-											continue
-									else:
-										if 16 < table_length:
-											data = tables[16]
-										else:
-											continue
-										
-								# Read the table using Pandas
-								table = pd.read_html(io.StringIO(str(data)))[0]
+											if 16 < table_length:
+												data = tables[16]
+											else:
+												continue
+											
+									# Read the table using Pandas
+									table = pd.read_html(io.StringIO(str(data)))[0]
 
-								# Create a .JSON file using the strings from player table
-								json_filename = os.path.join(match_folder_path, f"{match_statistics_tables[i]}.json")
-								print(json_filename)
+									# Create a .JSON file using the strings from player table
+									json_filename = os.path.join(match_folder_path, f"{match_statistics_tables[i]}.json")
+									print(json_filename)
 
-								# Open each .JSON file and convert tables to json data
-								try:
-									with open(json_filename, "w") as json_file:
-										json.dump(json.loads(table.to_json(orient="records")), json_file, indent=4)
-								except Exception as e:
-									print(f"Error: {e}")
+									# Open each .JSON file and convert tables to json data
+									try:
+										with open(json_filename, "w") as json_file:
+											json.dump(json.loads(table.to_json(orient="records")), json_file, indent=4)
+									except Exception as e:
+										print(f"Error: {e}")
+							except requests.exceptions.HTTPError as e:
+								print(f"HTTP Error: {e}")
 					else:
 						print(f"Match Suspended, data skipped.")
 

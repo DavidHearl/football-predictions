@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "3",
+        "1"
+    ],
+    "expected_goals": [
+        "2.1",
+        "1.3"
+    ],
+    "home_team": [
+        "\u0141ukasz Fabia\u0144ski",
+        "Ki Sung-yueng",
+        "Mike van der Hoorn",
+        "Alfie Mawson",
+        "Leroy Fer",
+        "Nathan Dyer",
+        "Martin Olsson",
+        "Sam Clucas",
+        "Jordan Ayew",
+        "Kyle Naughton",
+        "Federico Fern\u00e1ndez",
+        "Kristoffer Nordfeldt",
+        "Wilfried Bony",
+        "Tammy Abraham",
+        "Luciano Narsingh",
+        "Tom Carroll",
+        "Wayne Routledge",
+        "Kyle Bartley"
+    ],
+    "away_team": [
+        "Petr \u010cech",
+        "Laurent Koscielny",
+        "Aaron Ramsey",
+        "Alexandre Lacazette",
+        "Mesut \u00d6zil",
+        "Alex Iwobi",
+        "Nacho Monreal",
+        "Shkodran Mustafi",
+        "H\u00e9ctor Beller\u00edn",
+        "Granit Xhaka",
+        "Mohamed Elneny",
+        "David Ospina",
+        "Henrikh Mkhitaryan",
+        "Olivier Giroud",
+        "Calum Chambers",
+        "Ainsley Maitland-Niles",
+        "Sead Kola\u0161inac",
+        "Eddie Nketiah"
+    ],
+    "fouls": [
+        4,
+        8
+    ],
+    "corners": [
+        4,
+        3
+    ],
+    "crosses": [
+        12,
+        21
+    ],
+    "touches": [
+        419,
+        1028
+    ],
+    "tackles": [
+        13,
+        11
+    ],
+    "interceptions": [
+        13,
+        8
+    ],
+    "aerials_won": [
+        10,
+        14
+    ],
+    "clearances": [
+        26,
+        15
+    ],
+    "offsides": [
+        0,
+        3
+    ],
+    "goal_kicks": [
+        7,
+        5
+    ],
+    "throw_ins": [
+        14,
+        23
+    ],
+    "long_balls": [
+        65,
+        36
+    ]
+}

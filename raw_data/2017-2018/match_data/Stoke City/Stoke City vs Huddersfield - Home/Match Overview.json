@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "2",
+        "0"
+    ],
+    "expected_goals": [
+        "1.0",
+        "0.3"
+    ],
+    "home_team": [
+        "Jack Butland",
+        "Moritz Bauer",
+        "Erik Pieters",
+        "Joe Allen",
+        "Kurt Zouma",
+        "Eric Maxim Choupo-Moting",
+        "Charlie Adam",
+        "Ryan Shawcross",
+        "Mame Biram Diouf",
+        "Xherdan Shaqiri",
+        "Darren Fletcher",
+        "Lee Grant",
+        "Stephen Ireland",
+        "Bruno Martins Indi",
+        "Geoff Cameron",
+        "Peter Crouch",
+        "Ramadan Sobhi",
+        "Tom Edwards"
+    ],
+    "away_team": [
+        "Jonas L\u00f6ssl",
+        "Scott Malone",
+        "Jonathan Hogg",
+        "Aaron Mooy",
+        "Rajiv van La Parra",
+        "Alex Pritchard",
+        "Tom Ince",
+        "Steve Mouni\u00e9",
+        "Mathias J\u00f8rgensen",
+        "Christopher Schindler",
+        "Florent Hadergjonaj",
+        "Joel Coleman",
+        "Tommy Smith",
+        "Terence Kongolo",
+        "Abdelhamid Sabiri",
+        "Danny Williams",
+        "Laurent Depoitre",
+        "Collin Quaner"
+    ],
+    "fouls": [
+        18,
+        13
+    ],
+    "corners": [
+        3,
+        2
+    ],
+    "crosses": [
+        15,
+        17
+    ],
+    "touches": [
+        525,
+        509
+    ],
+    "tackles": [
+        22,
+        14
+    ],
+    "interceptions": [
+        17,
+        6
+    ],
+    "aerials_won": [
+        60,
+        33
+    ],
+    "clearances": [
+        26,
+        19
+    ],
+    "offsides": [
+        10,
+        0
+    ],
+    "goal_kicks": [
+        7,
+        10
+    ],
+    "throw_ins": [
+        29,
+        41
+    ],
+    "long_balls": [
+        96,
+        113
+    ]
+}

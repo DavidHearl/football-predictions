@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "1",
+        "2"
+    ],
+    "expected_goals": [
+        "1.2",
+        "1.0"
+    ],
+    "home_team": [
+        "Orestis Karnezis",
+        "Daryl Janmaat",
+        "Sebastian Pr\u00f6dl",
+        "Adrian Mariappa",
+        "Troy Deeney",
+        "Abdoulaye Doucour\u00e9",
+        "Will Hughes",
+        "Kiko Femen\u00eda",
+        "Jos\u00e9 Holebas",
+        "\u00c9tienne Capoue",
+        "Roberto Pereyra",
+        "Heurelho Gomes",
+        "Miguel Britos",
+        "Richarlison",
+        "Craig Cathcart",
+        "Andre Gray",
+        "Andr\u00e9 Carrillo",
+        "Stefano Okaka"
+    ],
+    "away_team": [
+        "Nick Pope",
+        "Matthew Lowton",
+        "Jack Cork",
+        "James Tarkowski",
+        "Georges-K\u00e9vin N'Koudou",
+        "Ashley Barnes",
+        "Chris Wood",
+        "Ashley Westwood",
+        "Stephen Ward",
+        "Aaron Lennon",
+        "Kevin Long",
+        "Tom Heaton",
+        "Charlie Taylor",
+        "Dean Marney",
+        "Sam Vokes",
+        "Jeff Hendrick",
+        "Nahki Wells",
+        "Phil Bardsley"
+    ],
+    "fouls": [
+        18,
+        12
+    ],
+    "corners": [
+        11,
+        1
+    ],
+    "crosses": [
+        31,
+        9
+    ],
+    "touches": [
+        593,
+        453
+    ],
+    "tackles": [
+        9,
+        13
+    ],
+    "interceptions": [
+        9,
+        16
+    ],
+    "aerials_won": [
+        30,
+        32
+    ],
+    "clearances": [
+        22,
+        52
+    ],
+    "offsides": [
+        3,
+        2
+    ],
+    "goal_kicks": [
+        3,
+        5
+    ],
+    "throw_ins": [
+        27,
+        21
+    ],
+    "long_balls": [
+        95,
+        110
+    ]
+}

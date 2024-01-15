@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "1",
+        "0"
+    ],
+    "expected_goals": [
+        "0.7",
+        "0.5"
+    ],
+    "home_team": [
+        "\u0141ukasz Fabia\u0144ski",
+        "Ki Sung-yueng",
+        "Mike van der Hoorn",
+        "Alfie Mawson",
+        "Nathan Dyer",
+        "Tom Carroll",
+        "Martin Olsson",
+        "Sam Clucas",
+        "Jordan Ayew",
+        "Kyle Naughton",
+        "Federico Fern\u00e1ndez",
+        "Kristoffer Nordfeldt",
+        "Tammy Abraham",
+        "Luciano Narsingh",
+        "Wayne Routledge",
+        "Andr\u00e9 Ayew",
+        "Andy King",
+        "Kyle Bartley"
+    ],
+    "away_team": [
+        "Nick Pope",
+        "Matthew Lowton",
+        "Charlie Taylor",
+        "Jack Cork",
+        "Ben Mee",
+        "Sam Vokes",
+        "Ashley Barnes",
+        "Jeff Hendrick",
+        "J\u00f3hann Berg Gu\u00f0mundsson",
+        "Aaron Lennon",
+        "Kevin Long",
+        "Anders Lindegaard",
+        "Georges-K\u00e9vin N'Koudou",
+        "Ashley Westwood",
+        "Nahki Wells",
+        "Stephen Ward",
+        "Scott Arfield",
+        "Aiden O'Neill"
+    ],
+    "fouls": [
+        10,
+        9
+    ],
+    "corners": [
+        5,
+        2
+    ],
+    "crosses": [
+        22,
+        14
+    ],
+    "touches": [
+        615,
+        492
+    ],
+    "tackles": [
+        12,
+        17
+    ],
+    "interceptions": [
+        4,
+        11
+    ],
+    "aerials_won": [
+        34,
+        33
+    ],
+    "clearances": [
+        22,
+        36
+    ],
+    "offsides": [
+        2,
+        0
+    ],
+    "goal_kicks": [
+        9,
+        12
+    ],
+    "throw_ins": [
+        23,
+        19
+    ],
+    "long_balls": [
+        95,
+        112
+    ]
+}

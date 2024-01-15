@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "0",
+        "2"
+    ],
+    "expected_goals": [
+        "0.8",
+        "2.5"
+    ],
+    "home_team": [
+        "Rob Elliot",
+        "Ciaran Clark",
+        "Paul Dummett",
+        "Jonjo Shelvey",
+        "Dwight Gayle",
+        "Matt Ritchie",
+        "Isaac Hayden",
+        "Ayoze P\u00e9rez",
+        "Javier Manquillo",
+        "Florian Lejeune",
+        "Christian Atsu",
+        "Karl Darlow",
+        "Jamaal Lascelles",
+        "Jacob Murphy",
+        "Rolando Aarons",
+        "Chancel Mbemba",
+        "Mikel Merino",
+        "Aleksandar Mitrovi\u0107"
+    ],
+    "away_team": [
+        "Hugo Lloris",
+        "Toby Alderweireld",
+        "Jan Vertonghen",
+        "Harry Kane",
+        "Eric Dier",
+        "Moussa Sissoko",
+        "Mousa Demb\u00e9l\u00e9",
+        "Dele Alli",
+        "Christian Eriksen",
+        "Ben Davies",
+        "Kyle Walker-Peters",
+        "Michel Vorm",
+        "Son Heung-min",
+        "Vincent Janssen",
+        "Victor Wanyama",
+        "Kevin Wimmer",
+        "Harry Winks",
+        "Cameron Carter-Vickers"
+    ],
+    "fouls": [
+        6,
+        10
+    ],
+    "corners": [
+        5,
+        7
+    ],
+    "crosses": [
+        19,
+        19
+    ],
+    "touches": [
+        403,
+        865
+    ],
+    "tackles": [
+        12,
+        16
+    ],
+    "interceptions": [
+        8,
+        5
+    ],
+    "aerials_won": [
+        14,
+        15
+    ],
+    "clearances": [
+        33,
+        26
+    ],
+    "offsides": [
+        2,
+        1
+    ],
+    "goal_kicks": [
+        7,
+        5
+    ],
+    "throw_ins": [
+        26,
+        26
+    ],
+    "long_balls": [
+        68,
+        59
+    ]
+}
