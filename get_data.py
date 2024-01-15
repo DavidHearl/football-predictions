@@ -47,7 +47,7 @@ class StatsProcessor:
 
 	@timing_decorator
 	def process_player_stats(self):
-		self.player_stats.create_json()
+		self.player_stats.get_player_data()
 
 	@timing_decorator
 	def process_fixtures(self):
