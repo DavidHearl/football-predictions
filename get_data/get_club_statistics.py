@@ -24,7 +24,6 @@ class ClubStatistics:
 	
 		# Get the overall statistics table list
 		overall_statistics_tables = data['overall_statistics_tables']
-		base_url = "https://fbref.com"
 
 		for league, url in zip(data['leagues'], data['overall_urls']):
 			# Create the folder name

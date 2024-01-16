@@ -11,6 +11,7 @@ import requests
 import pandas as pd
 from bs4 import BeautifulSoup
 import json
+from urllib.parse import urljoin
 
 
 class CreateStructure:
@@ -22,7 +23,11 @@ class CreateStructure:
         with open('get_data/keys.json', 'r') as f:
             data = json.load(f)
 
-        # Create folder structure for raw data
+        # Create folder structure for each league and season
+        # raw_data
+        # ├── championship
+        # │   ├── 2019-2020
+        # │   │   ├── match_data
         for league in data['leagues']:
             for folder in data['folders']:
                 os.makedirs(f"raw_data/{league}/{self.season}/{folder}", exist_ok=True)
@@ -51,12 +56,30 @@ class CreateStructure:
                 href = team_element.find('a')['href']
                 href_values.append(href)
 
+            # Add the base URL to the href values
+            base_url = "https://fbref.com"
+
             # Append the href values to the corresponding league and season
             if 'club_urls' not in data:
                 data['club_urls'] = {}
-            if league not in data['club_urls']:
+
+            # Check if 'league' is in data['club_urls']
+            if 'league' not in data['club_urls']:
                 data['club_urls'][league] = {}
-            data['club_urls'][league][self.season] = href_values
+
+            # Check if 'season' is in data['club_urls']['league']
+            if 'season' not in data['club_urls'][league]:
+                data['club_urls'][league][self.season] = []
+
+            # Reset the list
+            data['club_urls'][league][self.season] = []
+
+            # Iterate over the href values and add the base URL
+            for url in href_values:
+                merged_url = urljoin(base_url, url)
+                # Append the href values to the corresponding league and season
+                data['club_urls'][league][self.season].append([merged_url, ''])
+
 
         # Save the updated data back to the keys.json file
         with open('get_data/keys.json', 'w') as f:
@@ -64,9 +87,12 @@ class CreateStructure:
 
         # Create a folder for each team within their respective league
         for league in data['club_urls']:
-            for url in data['club_urls'][league][self.season]:
-                # Split the URL by "/"
-                url_parts = url.split("/")
+            for item in data['club_urls'][league][self.season]:
+                # Check if the item is a list with at least one element
+                if isinstance(item, list) and len(item) > 0:
+                    url = item[0]
+                    # Split the URL by "/"
+                    url_parts = url.split("/")
 
                 # Find the index of 'squads' in the URL
                 squads_index = url_parts.index("squads")
@@ -98,10 +124,17 @@ class CreateStructure:
                     if special_case in team_name:
                         team_name = team_name.replace(special_case, replacement)
 
+                # Append the href values to the corresponding league and season
+                item[1] = team_name
+
+                # Save the updated data back to the keys.json file
+                with open('get_data/keys.json', 'w') as f:
+                    json.dump(data, f, indent=4)
+
                 # Create a new folder for each team
                 folder_name = os.path.join(f"raw_data/{league}/{self.season}/player_data", team_name)
                 os.makedirs(folder_name, exist_ok=True)
 
                 # Create a new folder for each team
                 folder_name = os.path.join(f"raw_data/{league}/{self.season}/match_data", team_name)
-                os.makedirs(folder_name, exist_ok=True)		
+                os.makedirs(folder_name, exist_ok=True)
