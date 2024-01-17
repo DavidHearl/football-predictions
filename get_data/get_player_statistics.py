@@ -27,8 +27,11 @@ class PlayerStatistics:
 		# Assign the player statistics tables to a variable
 		player_statistics_tables = data['player_statistics_tables']
 
-		for league in data['club_urls']:
-			for item in data['club_urls'][league][self.season]:
+		# Assign the club urls to a variable
+		club_urls = data['club_urls']
+
+		for league in club_urls:
+			for item in club_urls[league]["2023-2024"]:
 				# Add delay to prevent server from blocking the request
 				time.sleep(4)
 
@@ -52,7 +55,6 @@ class PlayerStatistics:
 
 				# Initialize BeautifulSoup
 				soup_team_list = BeautifulSoup(html.text, features="lxml")
-				print(soup_team_list)
 				
 				# Iterate through the player tables
 				for i in range(len(player_statistics_tables)):
