@@ -90,69 +90,77 @@ class MatchHistory:
 
 
 	def clean_fixtures(self):
-		# Specify the folder location to iterate through
-		folder_location = f"raw_data/{self.season}/match_data"
+		# Open the keys.json file and load the data
+		with open('get_data/keys.json', 'r') as f:
+			data = json.load(f)
 
-		# Iterate through each folder in the specified location
-		for subfolder in os.listdir(folder_location):
-			# Create a variable for the 'Scores & Fixtures.json' file
-			fixture_list_path = os.path.join(folder_location, subfolder, 'Scores & Fixtures.json')
+		# Assign the club_urls to a variable
+		club_urls = data['club_urls']
 
-			# Create a variable for the Completed Matches & Scheduled Matches
-			completed_match_path = os.path.join(folder_location, subfolder, 'Completed Matches.json')		
-			scheduled_match_path = os.path.join(folder_location, subfolder, 'Scheduled Matches.json')
+		for league in club_urls:
+			# Specify the folder location to iterate through
+			folder_location = f"raw_data/{league}/{self.season}/match_data"
 
-			# Create the directory if it doesn't exist
-			os.makedirs(os.path.dirname(completed_match_path), exist_ok=True)
-			os.makedirs(os.path.dirname(scheduled_match_path), exist_ok=True)
+			# Iterate through each folder in the specified location
+			for subfolder in os.listdir(folder_location):
+				# Create a variable for the 'Scores & Fixtures.json' file
+				fixture_list_path = os.path.join(folder_location, subfolder, 'Scores & Fixtures.json')
 
-			# Read the JSON data from the file
-			with open(fixture_list_path, 'r') as file:
-				all_match_data = json.load(file)
+				# Create a variable for the Completed Matches & Scheduled Matches
+				completed_match_path = os.path.join(folder_location, subfolder, 'Completed Matches.json')		
+				scheduled_match_path = os.path.join(folder_location, subfolder, 'Scheduled Matches.json')
 
-			# Filter the data to only include Premier League matches
-			league_data = [
-				match
-				for match in all_match_data
-				if (
-					match.get("Comp") == "Premier League"  # Check if 'Comp' is 'Premier League'
-				)
-			]
+				# Create the directory if it doesn't exist
+				os.makedirs(os.path.dirname(completed_match_path), exist_ok=True)
+				os.makedirs(os.path.dirname(scheduled_match_path), exist_ok=True)
 
-			# Save the filtered data back to the JSON file
-			with open(fixture_list_path, 'w') as file:
-				json.dump(league_data, file, indent=2)
+				# Read the JSON data from the file
+				with open(fixture_list_path, 'r') as file:
+					all_match_data = json.load(file)
 
-			# -----------------------------------------------------------------
+				# Filter the data to only include Premier League matches
+				league_data = [
+					match
+					for match in all_match_data
+					if (
+						match.get("Comp") == "Premier League"  # Check if 'Comp' is 'Premier League'
+					)
+				]
 
-			with open(fixture_list_path, 'r') as file:
-				league_data = json.load(file)
+				# Save the filtered data back to the JSON file
+				with open(fixture_list_path, 'w') as file:
+					json.dump(league_data, file, indent=2)
 
-			# Filter the data to only include matches that have been played
-			completed_matches = [
-				match
-				for match in league_data
-				if (
-					match.get("Result") is not None
-				)
-			]
+				# -----------------------------------------------------------------
 
-			# Filter the data to only include matches that have NOT been played
-			scheduled_matches = [
-				match
-				for match in league_data
-				if (
-					match.get("Result") is None
-				)
-			]
+				with open(fixture_list_path, 'r') as file:
+					league_data = json.load(file)
 
-			# Save the filtered data back to the JSON file
-			with open(completed_match_path, 'w') as file:
-				json.dump(completed_matches, file, indent=2)
-			
-			# Save the filtered data back to the JSON file
-			with open(scheduled_match_path, 'w') as file:
-				json.dump(scheduled_matches, file, indent=2)
+				# Filter the data to only include matches that have been played
+				completed_matches = [
+					match
+					for match in league_data
+					if (
+						match.get("Result") is not None
+					)
+				]
+
+				# Filter the data to only include matches that have NOT been played
+				scheduled_matches = [
+					match
+					for match in league_data
+					if (
+						match.get("Result") is None
+					)
+				]
+
+				# Save the filtered data back to the JSON file
+				with open(completed_match_path, 'w') as file:
+					json.dump(completed_matches, file, indent=2)
+				
+				# Save the filtered data back to the JSON file
+				with open(scheduled_match_path, 'w') as file:
+					json.dump(scheduled_matches, file, indent=2)
 
 
 	def create_match_folders(self):

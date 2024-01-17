@@ -328,7 +328,7 @@
     "xG": 0.6,
     "xGA": 1.4,
     "Poss": 39.0,
-    "Attendance": null,
+    "Attendance": 42000.0,
     "Captain": "John McGinn",
     "Formation": "4-4-1-1",
     "Referee": "Jarred Gillett",
@@ -417,6 +417,27 @@
     "Formation": "4-4-1-1",
     "Referee": "Stuart Attwell",
     "Match Report": "/en/matches/2828c5bc/Aston-Villa-Burnley-December-30-2023-Premier-League",
+    "Notes": null
+  },
+  {
+    "Date": "2024-01-14",
+    "Time": "14:00",
+    "Comp": "Premier League",
+    "Round": "Matchweek 21",
+    "Day": "Sun",
+    "Venue": "Away",
+    "Result": "D",
+    "GF": 0.0,
+    "GA": 0.0,
+    "Opponent": "Everton",
+    "xG": 1.2,
+    "xGA": 1.1,
+    "Poss": 68.0,
+    "Attendance": 39284.0,
+    "Captain": "John McGinn",
+    "Formation": "4-4-2",
+    "Referee": "David Coote",
+    "Match Report": "/en/matches/1628c63e/Everton-Aston-Villa-January-14-2024-Premier-League",
     "Notes": null
   }
 ]
