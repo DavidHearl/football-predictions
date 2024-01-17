@@ -10,6 +10,8 @@ import json
 from urllib.parse import urljoin
 
 
+# The server will block the request if frequency exceeds 1 request per 3 seconds (20 requests per minute)
+# Therefore, we need to add a delay to prevent the server from blocking the request, use 4 seconds for safety.
 class ClubStatistics:
 	def __init__(self, season):
 		self.season = season
@@ -26,6 +28,9 @@ class ClubStatistics:
 		overall_statistics_tables = data['overall_statistics_tables']
 
 		for league, url in zip(data['leagues'], data['overall_urls']):
+			# Add delay to prevent server from blocking the request
+			time.sleep(4)
+
 			# Create the folder name
 			folder_name = f"raw_data/{league}/{self.season}/club_data"
 
@@ -51,9 +56,6 @@ class ClubStatistics:
 
 			# Iterate over the tables and create a .JSON file for each table
 			for table_name, table in zip(overall_statistics_tables, tables):
-				# Add a delay to prevent the server from blocking the request
-				time.sleep(1)
-
 				# Create a .JSON file using the strings from squad table
 				json_filename = os.path.join(folder_name, table_name + ".json")
 				print(json_filename)
