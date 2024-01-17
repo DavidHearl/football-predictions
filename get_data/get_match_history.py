@@ -118,21 +118,19 @@ class MatchHistory:
 				with open(fixture_list_path, 'r') as file:
 					all_match_data = json.load(file)
 
-				# Filter the data to only include Premier League matches
+				# Filter the data to only include matches from desired leagues
+				desired_leagues = ["Premier League", "Championship", "La Liga", "Ligue 1"]
 				league_data = [
 					match
 					for match in all_match_data
-					if (
-						match.get("Comp") == "Premier League" or "Championship" or "La Liga" or "Ligue 1"
-					)
+					if match.get("Comp") in desired_leagues
 				]
 
 				# Save the filtered data back to the JSON file
 				with open(fixture_list_path, 'w') as file:
 					json.dump(league_data, file, indent=2)
 
-				# -----------------------------------------------------------------
-
+				# Open the JSON file again
 				with open(fixture_list_path, 'r') as file:
 					league_data = json.load(file)
 
