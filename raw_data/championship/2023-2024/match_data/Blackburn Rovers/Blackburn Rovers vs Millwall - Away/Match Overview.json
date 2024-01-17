@@ -1,0 +1,102 @@
+{
+    "goals": [
+        "1",
+        "2"
+    ],
+    "expected_goals": [
+        "1.8",
+        "1.1"
+    ],
+    "home_team": [
+        "Bartosz Bia\u0142kowski",
+        "Jake Cooper",
+        "Billy Mitchell",
+        "Tom Bradshaw",
+        "Zian Flemming",
+        "Ryan Longman",
+        "Joe Bryan",
+        "Brooke Norton-Cuffy",
+        "Aidomo Emakhu",
+        "Casper de Norre",
+        "Wes Harding",
+        "Connal Trueman",
+        "Dan McNamara",
+        "Murray Wallace",
+        "Allan Campbell",
+        "George Saville",
+        "Romain Esse",
+        "Tom Leahy",
+        "George Honeyman",
+        "Sashiel Adom-Malaki"
+    ],
+    "away_team": [
+        "Leopold Wahlstedt",
+        "Callum Brittain",
+        "Harry Pickering",
+        "James Hill",
+        "Dominic Hyam",
+        "Sondre Tronstad",
+        "Arn\u00f3r Sigur\u00f0sson",
+        "Sammie Szmodics",
+        "Tyrhys Dolan",
+        "Joe Rankin-Costello",
+        "Hayden Carter",
+        "Joe Hilton",
+        "Niall Ennis",
+        "Scott Wharton",
+        "Dilan Markanday",
+        "Adam Wharton",
+        "Andrew Moran",
+        "Jake Garrett",
+        "Tom Atcheson",
+        "Semir Telalovic"
+    ],
+    "fouls": [
+        6,
+        6
+    ],
+    "corners": [
+        11,
+        3
+    ],
+    "crosses": [
+        35,
+        10
+    ],
+    "touches": [
+        590,
+        683
+    ],
+    "tackles": [
+        10,
+        19
+    ],
+    "interceptions": [
+        15,
+        9
+    ],
+    "aerials_won": [
+        16,
+        17
+    ],
+    "clearances": [
+        19,
+        34
+    ],
+    "offsides": [
+        0,
+        1
+    ],
+    "goal_kicks": [
+        4,
+        9
+    ],
+    "throw_ins": [
+        28,
+        27
+    ],
+    "long_balls": [
+        80,
+        72
+    ]
+}

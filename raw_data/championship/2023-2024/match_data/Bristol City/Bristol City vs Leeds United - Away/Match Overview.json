@@ -1,0 +1,102 @@
+{
+    "goals": [
+        "2",
+        "1"
+    ],
+    "expected_goals": [
+        "2.5",
+        "0.5"
+    ],
+    "home_team": [
+        "Illan Meslier",
+        "Ethan Ampadu",
+        "Jo\u00ebl Piroe",
+        "Glen Kamara",
+        "Crysencio Summerville",
+        "Joe Rodon",
+        "Daniel James",
+        "Pascal Struijk",
+        "Archie Gray",
+        "Georginio Rutter",
+        "Sam Byram",
+        "Karl Darlow",
+        "Luke Ayling",
+        "Charlie Cresswell",
+        "Liam Cooper",
+        "Patrick Bamford",
+        "Jaidon Anthony",
+        "Ian Carlo Poveda",
+        "Joe Gelhardt",
+        "Ilia Gruev"
+    ],
+    "away_team": [
+        "Max O'Leary",
+        "Cameron Pring",
+        "Kal Naismith",
+        "Matty James",
+        "Joe Williams",
+        "Jason Knight",
+        "Robert Dickie",
+        "Mark Sykes",
+        "Sam Bell",
+        "Nahki Wells",
+        "Taylor Gardner-Hickman",
+        "Stefan Bajic",
+        "Harry Cornick",
+        "Andy King",
+        "Anis Mehmeti",
+        "Andreas Weimann",
+        "Tommy Conway",
+        "Haydon Roberts",
+        "Ephraim Yeboah",
+        "Raekwon Nelson"
+    ],
+    "fouls": [
+        10,
+        8
+    ],
+    "corners": [
+        8,
+        6
+    ],
+    "crosses": [
+        16,
+        25
+    ],
+    "touches": [
+        568,
+        542
+    ],
+    "tackles": [
+        18,
+        18
+    ],
+    "interceptions": [
+        9,
+        5
+    ],
+    "aerials_won": [
+        23,
+        13
+    ],
+    "clearances": [
+        19,
+        23
+    ],
+    "offsides": [
+        3,
+        1
+    ],
+    "goal_kicks": [
+        5,
+        9
+    ],
+    "throw_ins": [
+        19,
+        30
+    ],
+    "long_balls": [
+        52,
+        91
+    ]
+}

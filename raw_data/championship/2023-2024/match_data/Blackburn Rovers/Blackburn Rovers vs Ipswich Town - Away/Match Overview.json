@@ -1,0 +1,102 @@
+{
+    "goals": [
+        "4",
+        "3"
+    ],
+    "expected_goals": [
+        "2.9",
+        "0.9"
+    ],
+    "home_team": [
+        "V\u00e1clav Hladk\u00fd",
+        "Harry Clarke",
+        "Leif Davis",
+        "Sam Morsy",
+        "Luke Woolfenden",
+        "Wes Burns",
+        "Conor Chaplin",
+        "Cameron Burgess",
+        "Massimo Luongo",
+        "George Hirst",
+        "Nathan Broadhead",
+        "Cieran Slicker",
+        "Lee Evans",
+        "Freddie Ladapo",
+        "Marcus Harness",
+        "Dominic Ball",
+        "Jack Taylor",
+        "Brandon Williams",
+        "Omari Hutchinson",
+        "Dane Scarlett"
+    ],
+    "away_team": [
+        "Aynsley Pears",
+        "Callum Brittain",
+        "Harry Pickering",
+        "Dominic Hyam",
+        "Arn\u00f3r Sigur\u00f0sson",
+        "Sammie Szmodics",
+        "Hayden Carter",
+        "Harry Leonard",
+        "Adam Wharton",
+        "Andrew Moran",
+        "Lewis Travis",
+        "Leopold Wahlstedt",
+        "James Hill",
+        "Sondre Tronstad",
+        "Tyrhys Dolan",
+        "Joe Rankin-Costello",
+        "Scott Wharton",
+        "Dilan Markanday",
+        "Ryan Hedges",
+        "Semir Telalovic"
+    ],
+    "fouls": [
+        10,
+        13
+    ],
+    "corners": [
+        10,
+        5
+    ],
+    "crosses": [
+        20,
+        15
+    ],
+    "touches": [
+        546,
+        727
+    ],
+    "tackles": [
+        22,
+        9
+    ],
+    "interceptions": [
+        7,
+        14
+    ],
+    "aerials_won": [
+        16,
+        12
+    ],
+    "clearances": [
+        9,
+        19
+    ],
+    "offsides": [
+        0,
+        4
+    ],
+    "goal_kicks": [
+        5,
+        9
+    ],
+    "throw_ins": [
+        20,
+        24
+    ],
+    "long_balls": [
+        82,
+        68
+    ]
+}

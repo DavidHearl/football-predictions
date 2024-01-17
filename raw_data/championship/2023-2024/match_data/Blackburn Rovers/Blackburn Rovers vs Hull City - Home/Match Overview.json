@@ -1,0 +1,102 @@
+{
+    "goals": [
+        "1",
+        "2"
+    ],
+    "expected_goals": [
+        "1.6",
+        "2.1"
+    ],
+    "home_team": [
+        "Aynsley Pears",
+        "Harry Pickering",
+        "Dominic Hyam",
+        "Sammie Szmodics",
+        "Tyrhys Dolan",
+        "Joe Rankin-Costello",
+        "Hayden Carter",
+        "Ryan Hedges",
+        "Harry Leonard",
+        "Adam Wharton",
+        "Lewis Travis",
+        "Joe Hilton",
+        "Callum Brittain",
+        "Sondre Tronstad",
+        "Sam Gallagher",
+        "Niall Ennis",
+        "Scott Wharton",
+        "Dilan Markanday",
+        "John Buckley",
+        "Jake Garrett"
+    ],
+    "away_team": [
+        "Matt Ingram",
+        "Lewie Coyle",
+        "Jacob Greaves",
+        "Alfie Jones",
+        "Sean McLoughlin",
+        "Ozan Tufan",
+        "Adama Traor\u00e9",
+        "Liam Delap",
+        "Jean Seri",
+        "Regan Slater",
+        "Scott Twine",
+        "Thimothee Lo Tutala",
+        "Harry Vaughan",
+        "Xavier Simons",
+        "Oscar Estupi\u00f1an",
+        "Brandon Fleming",
+        "Jason Lokilo",
+        "Andy Smith",
+        "Cyrus Christie",
+        "Aaron Connolly"
+    ],
+    "fouls": [
+        12,
+        7
+    ],
+    "corners": [
+        2,
+        8
+    ],
+    "crosses": [
+        11,
+        15
+    ],
+    "touches": [
+        596,
+        777
+    ],
+    "tackles": [
+        13,
+        10
+    ],
+    "interceptions": [
+        15,
+        11
+    ],
+    "aerials_won": [
+        8,
+        12
+    ],
+    "clearances": [
+        15,
+        14
+    ],
+    "offsides": [
+        2,
+        2
+    ],
+    "goal_kicks": [
+        8,
+        10
+    ],
+    "throw_ins": [
+        24,
+        15
+    ],
+    "long_balls": [
+        64,
+        54
+    ]
+}

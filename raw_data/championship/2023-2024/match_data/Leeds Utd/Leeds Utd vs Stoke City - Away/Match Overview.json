@@ -1,0 +1,102 @@
+{
+    "goals": [
+        "1",
+        "0"
+    ],
+    "expected_goals": [
+        "0.8",
+        "1.8"
+    ],
+    "home_team": [
+        "Mark Travers",
+        "Ben Pearson",
+        "Michael Rose",
+        "Wouter Burger",
+        "Andr\u00e9 Vidigal",
+        "Daniel Johnson",
+        "Jordan Thompson",
+        "Ki-Jana Hoever",
+        "Ryan Mmaee",
+        "Luke McNally",
+        "Mehdi L\u00e9ris",
+        "Jack Bonham",
+        "Lynden Gooch",
+        "Enda Stevens",
+        "Wesley Moraes",
+        "Sead Haksabanovi\u0107",
+        "Bae Junho",
+        "Junior Tchamadeu",
+        "Josh Laurent",
+        "Nathan Lowe"
+    ],
+    "away_team": [
+        "Illan Meslier",
+        "Ethan Ampadu",
+        "Jo\u00ebl Piroe",
+        "Jaidon Anthony",
+        "Joe Rodon",
+        "Pascal Struijk",
+        "Archie Gray",
+        "Georginio Rutter",
+        "Sam Byram",
+        "Degnand Gnonto",
+        "Ilia Gruev",
+        "Karl Darlow",
+        "Luke Ayling",
+        "Liam Cooper",
+        "Glen Kamara",
+        "Patrick Bamford",
+        "Crysencio Summerville",
+        "Jamie Shackleton",
+        "Daniel James",
+        "Ian Carlo Poveda"
+    ],
+    "fouls": [
+        16,
+        11
+    ],
+    "corners": [
+        5,
+        3
+    ],
+    "crosses": [
+        15,
+        14
+    ],
+    "touches": [
+        603,
+        619
+    ],
+    "tackles": [
+        26,
+        14
+    ],
+    "interceptions": [
+        12,
+        13
+    ],
+    "aerials_won": [
+        15,
+        6
+    ],
+    "clearances": [
+        12,
+        11
+    ],
+    "offsides": [
+        4,
+        1
+    ],
+    "goal_kicks": [
+        9,
+        7
+    ],
+    "throw_ins": [
+        23,
+        20
+    ],
+    "long_balls": [
+        84,
+        46
+    ]
+}

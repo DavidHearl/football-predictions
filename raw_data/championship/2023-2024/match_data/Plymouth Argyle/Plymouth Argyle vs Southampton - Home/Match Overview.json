@@ -1,0 +1,102 @@
+{
+    "goals": [
+        "1",
+        "2"
+    ],
+    "expected_goals": [
+        "1.4",
+        "2.0"
+    ],
+    "home_team": [
+        "Conor Hazard",
+        "Bali Mumba",
+        "Jordan Houghton",
+        "Dan Scarr",
+        "Joe Edwards",
+        "Ryan Hardie",
+        "Morgan Whittaker",
+        "Lewis Gibson",
+        "Finn Azaz",
+        "Luke Cundle",
+        "Kaine Kessler",
+        "Callum Burton",
+        "Julio Pleguezuelo",
+        "Matt Butcher",
+        "Callum Wright",
+        "Mickel Miller",
+        "Lewis Warrington",
+        "Tyreik Wright",
+        "Adam Randell",
+        "Ben Waine"
+    ],
+    "away_team": [
+        "Gavin Bazunu",
+        "Kyle Walker-Peters",
+        "Ryan Manning",
+        "Jack Stephens",
+        "Adam Armstrong",
+        "Che Adams",
+        "Nathan Tella",
+        "Stuart Armstrong",
+        "Samuel Edozie",
+        "Shea Charles",
+        "Jan Bednarek",
+        "Joe Lumley",
+        "Joe Aribo",
+        "James Bree",
+        "Romain Perraud",
+        "Sekou Mara",
+        "Lyanco",
+        "Samuel Amo-Ameyaw",
+        "Kami Doyle",
+        "Dominic Ballard"
+    ],
+    "fouls": [
+        11,
+        15
+    ],
+    "corners": [
+        5,
+        10
+    ],
+    "crosses": [
+        13,
+        20
+    ],
+    "touches": [
+        500,
+        727
+    ],
+    "tackles": [
+        24,
+        15
+    ],
+    "interceptions": [
+        6,
+        11
+    ],
+    "aerials_won": [
+        4,
+        12
+    ],
+    "clearances": [
+        19,
+        14
+    ],
+    "offsides": [
+        0,
+        4
+    ],
+    "goal_kicks": [
+        9,
+        6
+    ],
+    "throw_ins": [
+        15,
+        25
+    ],
+    "long_balls": [
+        63,
+        47
+    ]
+}

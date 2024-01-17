@@ -1,0 +1,102 @@
+{
+    "goals": [
+        "2",
+        "2"
+    ],
+    "expected_goals": [
+        "0.9",
+        "1.6"
+    ],
+    "home_team": [
+        "John Ruddy",
+        "Ethan Laird",
+        "Dion Sanderson",
+        "Juninho Bacuna",
+        "Koji Miyoshi",
+        "Cody Drameh",
+        "Jordan James",
+        "Jay Stansfield",
+        "Ivan \u0160unji\u0107",
+        "Emanuel Aiwum",
+        "Oliver Burke",
+        "Neil Etheridge",
+        "Marc Roberts",
+        "Krystian Bielik",
+        "Scott Hogan",
+        "Lukas Jutkiewicz",
+        "Siriki Demb\u00e9l\u00e9",
+        "Gary Gardner",
+        "Emmanuel Longelo",
+        "Kevin Long"
+    ],
+    "away_team": [
+        "V\u00e1clav Hladk\u00fd",
+        "Harry Clarke",
+        "Leif Davis",
+        "Sam Morsy",
+        "Luke Woolfenden",
+        "Conor Chaplin",
+        "Cameron Burgess",
+        "Omari Hutchinson",
+        "Massimo Luongo",
+        "George Hirst",
+        "Nathan Broadhead",
+        "Christian Walton",
+        "Freddie Ladapo",
+        "Marcus Harness",
+        "Dominic Ball",
+        "Jack Taylor",
+        "Kayden Jackson",
+        "Dane Scarlett",
+        "Cameron Humphreys",
+        "Axel Tuanzebe"
+    ],
+    "fouls": [
+        9,
+        11
+    ],
+    "corners": [
+        7,
+        8
+    ],
+    "crosses": [
+        18,
+        25
+    ],
+    "touches": [
+        457,
+        738
+    ],
+    "tackles": [
+        23,
+        21
+    ],
+    "interceptions": [
+        19,
+        9
+    ],
+    "aerials_won": [
+        16,
+        20
+    ],
+    "clearances": [
+        23,
+        16
+    ],
+    "offsides": [
+        2,
+        3
+    ],
+    "goal_kicks": [
+        7,
+        7
+    ],
+    "throw_ins": [
+        28,
+        38
+    ],
+    "long_balls": [
+        74,
+        99
+    ]
+}
