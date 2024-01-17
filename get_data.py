@@ -68,7 +68,7 @@ stats_processor = StatsProcessor(club_stats, player_stats, fixture_list, folder_
 # Call the methods on the instance, which are now wrapped with the timing_decorator
 # stats_processor.folder_structure()
 # stats_processor.process_club_stats()
-# stats_processor.process_player_stats()
+stats_processor.process_player_stats()
 # stats_processor.process_fixtures()
-stats_processor.process_clean_fixtures()
+# stats_processor.process_clean_fixtures()
 # stats_processor.process_create_match_folders()

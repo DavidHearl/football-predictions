@@ -1,6 +1,7 @@
 import os
 import json
 import time
+from io import StringIO
 import io
 
 import requests
@@ -55,32 +56,24 @@ class PlayerStatistics:
 
 				# Initialize BeautifulSoup
 				soup_team_list = BeautifulSoup(html.text, features="lxml")
+
+				# Use list comprehension to iterate over the tables
+				tables = [
+					pd.read_html(StringIO(str(data)))[0]
+					for data in soup_team_list.select('table.stats_table')
+				]
 				
-				# Iterate through the player tables
-				for i in range(len(player_statistics_tables)):
-					print(f"Note: {i}")
-
-					# Iterate through the 'stats table' which is the class of the table element
-					stats_tables = soup_team_list.select('table.stats_table')
-					if i < len(stats_tables):
-						data = stats_tables[i]
-					else:
-						print(f"No stats table found at index {i}")
-						continue
-
-					# Read the table using Pandas
-					table_data = pd.read_html(io.StringIO(str(stats_tables)))[0]
-
-					# Create a .JSON file using the strings from player table
-					json_filename = os.path.join(folder_name, f"{player_statistics_tables[i]}.json")
+				for table_name, table in zip(player_statistics_tables, tables):
+					# Create a .JSON file using the strings from squad table
+					json_filename = os.path.join(folder_name, table_name + ".json")
 					print(json_filename)
 
 					# Create the directory if it doesn't exist
 					os.makedirs(os.path.dirname(json_filename), exist_ok=True)
 
-					# Open each .JSON file and convert tables to JSON data
+					# Open each .JSON file and convert tables to json data
 					try:
 						with open(json_filename, "w") as json_file:
-							json.dump(json.loads(table_data.to_json(orient="records")), json_file, indent=4)
+							json.dump(json.loads(table.to_json(orient="records")), json_file, indent=4)
 					except Exception as e:
 						print(f"Error: {e}")
