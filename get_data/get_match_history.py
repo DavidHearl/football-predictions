@@ -19,100 +19,74 @@ class MatchHistory:
 			data = json.load(f)
 
 		# Assign the club_urls to a variable
-		club_urls = data['club_urls'][self.season]
+		club_urls = data['club_urls']
 
-		# Iterate through all the club urls
-		for url in club_urls:
-			club_url = urljoin('https://fbref.com', url)
-			print(club_url)
+		for league in club_urls:
+			# Iterate through all the club urls
+			for item in club_urls[league][self.season]:
+				# Add delay to prevent server from blocking the request
+				time.sleep(4)
 
-			# Download the page and convert to HTML
-			html = requests.get(club_url, timeout=20)
-			home_page = StringIO(html.text)
+				# Add a delay to try again if the request fails
+				while True:
+					try:
+						# Download the page and convert to HTML
+						html = requests.get(item[0], timeout=20)
+						break
+					except requests.exceptions.Timeout:
+						time.sleep(900) # Wait 15 minutes before trying again
+						print("Timeout occurred. Trying again in 15 minutes...")
+						print("Current Time:", time.strftime("%H:%M:%S", time.localtime()))
 
-			# Initialize BeautifulSoup
-			soup_team_list = BeautifulSoup(home_page, features="lxml")
+				# Initialize BeautifulSoup
+				soup_team_list = BeautifulSoup(html.text, features="lxml")
 
-			# Split the URL by "/"
-			url_parts = club_url.split("/")
-			
-			# Find the index of 'squads' in the URL
-			squads_index = url_parts.index("squads")
-			
-			# Extract the part of the URL containing the team name
-			team_name_with_hyphen = url_parts[squads_index + 2]
-			
-			# Check if the team name ends with "Stats" and remove it
-			if team_name_with_hyphen.endswith("-Stats"):
-				team_name_with_hyphen = team_name_with_hyphen[:-6]  # Remove the last 6 characters ("Stats")
-			
-			# Remove hyphens from the team name and replace with a space
-			team_name = team_name_with_hyphen.replace('-', ' ')
-			
-			# Convert 'United' to 'Utd'
-			if 'United' in team_name.split():
-				team_name = team_name.replace('United', 'Utd')
-			
-			# Handle special cases
-			special_cases = {
-				'Brighton and Hove Albion': 'Brighton',
-				'West Ham Utd': 'West Ham',
-				'Wolverhampton Wanderers': 'Wolves',
-				'Nottingham Forest': "Nott'ham Forest"
-			}
-			
-			# Replace special cases with their new values
-			for special_case, replacement in special_cases.items():
-				if special_case in team_name:
-					team_name = team_name.replace(special_case, replacement)
+				# Create a new folder for each team
+				folder_name = os.path.join(f"raw_data/{league}/{self.season}/match_data", item[1])
+				os.makedirs(folder_name, exist_ok=True)		
 
-			# Create a new folder for each team
-			folder_name = os.path.join(f"raw_data/{self.season}/match_data", team_name)
-			os.makedirs(folder_name, exist_ok=True)		
+				# Iterate through the 'stats table' which is the class of the table element
+				data = soup_team_list.select('table.stats_table')[1]
 
-			# Iterate through the 'stats table'
-			# 'stats table' is the class of the table element
-			data = soup_team_list.select('table.stats_table')[1]
+				# Read the table using Pandas
+				table_data = pd.read_html(io.StringIO(str(data)))[0]
 
-			# Read the table using Pandas
-			table_data = pd.read_html(io.StringIO(str(data)))[0]
+				# Extract content from 'td' elements in the 17th column
+				td_17_content = [
+					td.contents[0] if td.contents else None
+					for td in data.select('td:nth-of-type(17)')
+				]
 
-			# Extract content from 'td' elements in the 17th column
-			td_17_content = [
-				td.contents[0] if td.contents else None
-				for td in data.select('td:nth-of-type(17)')
-			]
+				# Generate href_values based on the content of 'td' elements
+				href_values = []
+				for content in td_17_content:
+					if content and content.name == 'a' and 'href' in content.attrs:
+						href_values.append(content['href'])
+					else:
+						href_values.append("Match Postponed")
 
-			# Generate href_values based on the content of 'td' elements
-			href_values = []
-			for content in td_17_content:
-				if content and content.name == 'a' and 'href' in content.attrs:
-					href_values.append(content['href'])
+				# Ensure the lengths match
+				if len(href_values) == len(table_data):
+					# Replace the "Match Report" values with href values
+					table_data["Match Report"] = href_values
+
+					# Create a .JSON file using the strings from player table
+					json_filename = os.path.join(folder_name, "Scores & Fixtures.json")
+					print(json_filename)
+
+					# Create the directory if it doesn't exist
+					os.makedirs(os.path.dirname(json_filename), exist_ok=True)
+
+					# Open each .JSON file and convert tables to JSON data
+					try:
+						with open(json_filename, "w") as json_file:
+							json.dump(json.loads(table_data.to_json(orient="records")), json_file, indent=4)
+					except Exception as e:
+						print(f"Error while writing JSON file: {e}")
 				else:
-					href_values.append("Match Postponed")
-
-			# Ensure the lengths match
-			if len(href_values) == len(table_data):
-				# Replace the "Match Report" values with href values
-				table_data["Match Report"] = href_values
-
-				# Create a .JSON file using the strings from player table
-				json_filename = os.path.join(folder_name, "Scores & Fixtures.json")
-				print(json_filename)
-
-				# Create the directory if it doesn't exist
-				os.makedirs(os.path.dirname(json_filename), exist_ok=True)
-
-				# Open each .JSON file and convert tables to JSON data
-				try:
-					with open(json_filename, "w") as json_file:
-						json.dump(json.loads(table_data.to_json(orient="records")), json_file, indent=4)
-				except Exception as e:
-					print(f"Error while writing JSON file: {e}")
-			else:
-				print("Error: Length mismatch between href_values and table_data")
-				print(f"Length of href_values: {len(href_values)}")
-				print(f"Number of rows in table_data: {len(table_data)}")
+					print("Error: Length mismatch between href_values and table_data")
+					print(f"Length of href_values: {len(href_values)}")
+					print(f"Number of rows in table_data: {len(table_data)}")
 
 
 	def clean_fixtures(self):
