@@ -1,0 +1,102 @@
+{
+    "goals": [
+        "2",
+        "1"
+    ],
+    "expected_goals": [
+        "1.0",
+        "0.8"
+    ],
+    "home_team": [
+        "Pau L\u00f3pez",
+        "Samuel Gigot",
+        "Jonathan Clauss",
+        "Azzedine Ounahi",
+        "Vitinha",
+        "Renan Lodi",
+        "Geoffrey Kondogbia",
+        "Valentin Rongier",
+        "Fran\u00e7ois Mughe",
+        "Iliman Ndiaye",
+        "Chancel Mbemba",
+        "Rub\u00e9n Blanco",
+        "Matt\u00e9o Guendouzi",
+        "Pierre-Emerick Aubameyang",
+        "Amine Harit",
+        "Ismaila Sarr",
+        "Jordan Veretout",
+        "Bilal Nadir",
+        "Emran Soglo",
+        "Souleymane Tour\u00e9"
+    ],
+    "away_team": [
+        "Yehvann Diouf",
+        "Joseph Okumu",
+        "Yunis Abdelhamid",
+        "Junya Ito",
+        "Amir Richardson",
+        "Reda Khadra",
+        "Marshall Munetsi",
+        "Josh Wilson-Esbrand",
+        "Azor Matusiwa",
+        "Oumar Diakit\u00e9",
+        "Thomas Foket",
+        "Alexandre Olliero",
+        "Kamory Doumbia",
+        "Valentin Atangana Edoa",
+        "Teddy Teuma",
+        "Amine Salama",
+        "Keito Nakamura",
+        "Ibrahim Diakit\u00e9",
+        "Therence Koudou",
+        "Mamadou Diakhon"
+    ],
+    "fouls": [
+        7,
+        16
+    ],
+    "corners": [
+        10,
+        10
+    ],
+    "crosses": [
+        20,
+        24
+    ],
+    "touches": [
+        472,
+        592
+    ],
+    "tackles": [
+        15,
+        16
+    ],
+    "interceptions": [
+        16,
+        9
+    ],
+    "aerials_won": [
+        14,
+        16
+    ],
+    "clearances": [
+        27,
+        18
+    ],
+    "offsides": [
+        3,
+        4
+    ],
+    "goal_kicks": [
+        8,
+        8
+    ],
+    "throw_ins": [
+        17,
+        26
+    ],
+    "long_balls": [
+        66,
+        67
+    ]
+}

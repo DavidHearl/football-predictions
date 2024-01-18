@@ -1,0 +1,102 @@
+{
+    "goals": [
+        "1",
+        "0"
+    ],
+    "expected_goals": [
+        "2.0",
+        "0.5"
+    ],
+    "home_team": [
+        "Alex Palmer",
+        "Darnell Furlong",
+        "Conor Townsend",
+        "C\u00e9dric Kipr\u00e9",
+        "Kyle Bartley",
+        "Jed Wallace",
+        "Grady Diangana",
+        "John Swift",
+        "Brandon Thomas-Asante",
+        "Alex Mowatt",
+        "Okay Yoku\u015flu",
+        "Joshua Griffiths",
+        "Semi Ajayi",
+        "Jayson Molumby",
+        "Nathaniel Chalobah",
+        "Erik Pieters",
+        "Jeremy Sarmiento",
+        "Adam Reach",
+        "Tom Fellows",
+        "Caleb Taylor"
+    ],
+    "away_team": [
+        "Angus Gunn",
+        "Jack Stacey",
+        "Borja Sainz",
+        "Ashley Barnes",
+        "Adam Idah",
+        "Sam McCallum",
+        "Gabriel",
+        "Kenny McLean",
+        "Shane Duffy",
+        "Marcelino N\u00fa\u00f1ez",
+        "Jon Rowe",
+        "George Long",
+        "Grant Hanley",
+        "Liam Gibbs",
+        "Christian Fassnacht",
+        "Przemys\u0142aw P\u0142acheta",
+        "Danny Batth",
+        "Onel Hern\u00e1ndez",
+        "Hwang Ui-jo",
+        "Kellen Fisher"
+    ],
+    "fouls": [
+        5,
+        8
+    ],
+    "corners": [
+        12,
+        4
+    ],
+    "crosses": [
+        51,
+        10
+    ],
+    "touches": [
+        835,
+        417
+    ],
+    "tackles": [
+        10,
+        16
+    ],
+    "interceptions": [
+        2,
+        9
+    ],
+    "aerials_won": [
+        18,
+        11
+    ],
+    "clearances": [
+        17,
+        52
+    ],
+    "offsides": [
+        1,
+        3
+    ],
+    "goal_kicks": [
+        7,
+        13
+    ],
+    "throw_ins": [
+        26,
+        25
+    ],
+    "long_balls": [
+        49,
+        87
+    ]
+}

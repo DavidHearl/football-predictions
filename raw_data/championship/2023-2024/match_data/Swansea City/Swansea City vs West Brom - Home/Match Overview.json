@@ -1,0 +1,102 @@
+{
+    "goals": [
+        "1",
+        "0"
+    ],
+    "expected_goals": [
+        "0.7",
+        "1.9"
+    ],
+    "home_team": [
+        "Carl Rushworth",
+        "Jay Fulton",
+        "Ben Cabango",
+        "Harry Darling",
+        "Matt Grimes",
+        "Jamal Lowe",
+        "Jamie Paterson",
+        "Josh Tymon",
+        "Liam Cullen",
+        "Liam Walsh",
+        "Bashir Humphreys",
+        "Andy Fisher",
+        "Kristian Pedersen",
+        "Joe Allen",
+        "Jerry Yates",
+        "Yannick Bolasie",
+        "Charlie Patino",
+        "Nathan Wood-Gordon",
+        "Kyle Naughton",
+        "Samuel Parker"
+    ],
+    "away_team": [
+        "Alex Palmer",
+        "Darnell Furlong",
+        "Conor Townsend",
+        "C\u00e9dric Kipr\u00e9",
+        "Kyle Bartley",
+        "Jayson Molumby",
+        "Grady Diangana",
+        "Brandon Thomas-Asante",
+        "Alex Mowatt",
+        "Tom Fellows",
+        "Okay Yoku\u015flu",
+        "Joshua Griffiths",
+        "Semi Ajayi",
+        "Nathaniel Chalobah",
+        "Erik Pieters",
+        "John Swift",
+        "Adam Reach",
+        "Pipa",
+        "Caleb Taylor",
+        "Akeel Higgins"
+    ],
+    "fouls": [
+        10,
+        7
+    ],
+    "corners": [
+        3,
+        5
+    ],
+    "crosses": [
+        18,
+        29
+    ],
+    "touches": [
+        564,
+        699
+    ],
+    "tackles": [
+        15,
+        7
+    ],
+    "interceptions": [
+        15,
+        6
+    ],
+    "aerials_won": [
+        16,
+        12
+    ],
+    "clearances": [
+        31,
+        16
+    ],
+    "offsides": [
+        2,
+        1
+    ],
+    "goal_kicks": [
+        7,
+        5
+    ],
+    "throw_ins": [
+        19,
+        25
+    ],
+    "long_balls": [
+        75,
+        54
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "goals": [
+        "0",
+        "2"
+    ],
+    "expected_goals": [
+        "1.8",
+        "2.0"
+    ],
+    "home_team": [
+        "Ben Wilson",
+        "Jay Dasilva",
+        "Bobby Thomas",
+        "Kyle McFadzean",
+        "Tatsuhiro Sakamoto",
+        "Jamie Allen",
+        "Haji Wright",
+        "Ben Sheaf",
+        "Liam Kitching",
+        "Milan van Ewijk",
+        "Josh Eccles",
+        "Bradley Collins",
+        "Luis Binks",
+        "Ellis Simms",
+        "Callum O'Hare",
+        "Jake Bidwell",
+        "Jo\u00ebl Latibeaudi\u00e8re",
+        "Matthew Godden",
+        "Yasin Ayari",
+        "Bradley Stretton"
+    ],
+    "away_team": [
+        "Alex Palmer",
+        "C\u00e9dric Kipr\u00e9",
+        "Kyle Bartley",
+        "Jed Wallace",
+        "Matt Phillips",
+        "Grady Diangana",
+        "Nathaniel Chalobah",
+        "Erik Pieters",
+        "Pipa",
+        "Alex Mowatt",
+        "Okay Yoku\u015flu",
+        "Joshua Griffiths",
+        "Darnell Furlong",
+        "Conor Townsend",
+        "Jayson Molumby",
+        "Brandon Thomas-Asante",
+        "Tom Fellows",
+        "Caleb Taylor",
+        "Harry Whitwell",
+        "Reyes Cleary"
+    ],
+    "fouls": [
+        9,
+        7
+    ],
+    "corners": [
+        5,
+        5
+    ],
+    "crosses": [
+        25,
+        10
+    ],
+    "touches": [
+        789,
+        512
+    ],
+    "tackles": [
+        26,
+        24
+    ],
+    "interceptions": [
+        5,
+        15
+    ],
+    "aerials_won": [
+        5,
+        4
+    ],
+    "clearances": [
+        11,
+        32
+    ],
+    "offsides": [
+        5,
+        3
+    ],
+    "goal_kicks": [
+        3,
+        8
+    ],
+    "throw_ins": [
+        29,
+        23
+    ],
+    "long_balls": [
+        53,
+        52
+    ]
+}

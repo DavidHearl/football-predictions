@@ -1,0 +1,102 @@
+{
+    "goals": [
+        "2",
+        "1"
+    ],
+    "expected_goals": [
+        "0.6",
+        "0.9"
+    ],
+    "home_team": [
+        "Yvon Mvogo",
+        "Montassar Talbi",
+        "Darlin Yongwa",
+        "Formose Mendy",
+        "Tiemou\u00e9 Bakayoko",
+        "Laurent Abergel",
+        "Eli Junior Kroupi",
+        "Pablo Pagis",
+        "Tosin Aiyegun",
+        "Th\u00e9o Le Bris",
+        "Souleymane Tour\u00e9",
+        "Dominique Youfeigane",
+        "Romain Faivre",
+        "Julien Laporte",
+        "Jean-Victor Makengo",
+        "Julien Ponceau",
+        "Gedeon Kalulu",
+        "Vincent Le Goff",
+        "Bassirou Ndiaye",
+        "Ayman Kari"
+    ],
+    "away_team": [
+        "Steve Mandanda",
+        "Adrien Truffert",
+        "Baptiste Santamaria",
+        "Arnaud Kalimuendo",
+        "Amine Gouiri",
+        "Ludovic Blas",
+        "Benjamin Bourigeaud",
+        "Jean\u00f6el Belocian",
+        "Lorenz Assignon",
+        "Warmed Omari",
+        "Enzo Le F\u00e9e",
+        "Gauthier Gallon",
+        "Christopher Wooh",
+        "Guela Dou\u00e9",
+        "Fabian Rieder",
+        "D\u00e9sir\u00e9 Dou\u00e9",
+        "Ibrahim Salah",
+        "Mahamadou Nagida",
+        "J\u00e9r\u00e9my Jacquet",
+        "Bertu\u011f \u00d6zg\u00fcr Y\u0131ld\u0131r\u0131m"
+    ],
+    "fouls": [
+        5,
+        14
+    ],
+    "corners": [
+        6,
+        16
+    ],
+    "crosses": [
+        12,
+        38
+    ],
+    "touches": [
+        447,
+        838
+    ],
+    "tackles": [
+        27,
+        19
+    ],
+    "interceptions": [
+        17,
+        9
+    ],
+    "aerials_won": [
+        15,
+        6
+    ],
+    "clearances": [
+        44,
+        12
+    ],
+    "offsides": [
+        0,
+        2
+    ],
+    "goal_kicks": [
+        9,
+        3
+    ],
+    "throw_ins": [
+        10,
+        26
+    ],
+    "long_balls": [
+        61,
+        59
+    ]
+}

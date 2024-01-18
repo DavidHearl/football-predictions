@@ -1,0 +1,102 @@
+{
+    "goals": [
+        "0",
+        "1"
+    ],
+    "expected_goals": [
+        "0.7",
+        "1.1"
+    ],
+    "home_team": [
+        "Mory Diaw",
+        "Mehdi Zeffane",
+        "Neto Borges",
+        "Komnen Andri\u0107",
+        "Muhammed Cham",
+        "Jim Allevinah",
+        "Maxime Gonalons",
+        "Andy Pelmard",
+        "Florent Ogier",
+        "Johan Gastien",
+        "Alidu Seidu",
+        "Massamba Ndiaye",
+        "Habib Keita",
+        "Yohann Magnin",
+        "Bilal Boutobba",
+        "Cheick Konat\u00e9",
+        "A\u00efman Maurer",
+        "Yo\u00ebl Armougom",
+        "J\u00e9r\u00e9mie Bela",
+        "Grejohn Kyei"
+    ],
+    "away_team": [
+        "Alexandre Oukidja",
+        "Maxime Colin",
+        "Matthieu Udol",
+        "Fali Cand\u00e9",
+        "K\u00e9vin N'Doram",
+        "Isma\u00ebl Traor\u00e9",
+        "Georges Mikautadze",
+        "Simon Elisor",
+        "Cheikh Tidiane Sabaly",
+        "Lamine Camara",
+        "Danley Jean-Jacques",
+        "Guillaume Dietsch",
+        "Papa Amadou Diallo",
+        "Habib Ma\u00efga",
+        "Jean Frederic N'Guessan",
+        "Arthur Atta",
+        "Joseph N'Duquidi",
+        "Ibou San\u00e9",
+        "Sadibou San\u00e9",
+        "Koffi Kouao"
+    ],
+    "fouls": [
+        8,
+        10
+    ],
+    "corners": [
+        10,
+        2
+    ],
+    "crosses": [
+        28,
+        8
+    ],
+    "touches": [
+        809,
+        422
+    ],
+    "tackles": [
+        27,
+        15
+    ],
+    "interceptions": [
+        10,
+        17
+    ],
+    "aerials_won": [
+        14,
+        9
+    ],
+    "clearances": [
+        12,
+        27
+    ],
+    "offsides": [
+        1,
+        2
+    ],
+    "goal_kicks": [
+        8,
+        12
+    ],
+    "throw_ins": [
+        18,
+        27
+    ],
+    "long_balls": [
+        58,
+        59
+    ]
+}

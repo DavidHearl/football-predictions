@@ -1,0 +1,102 @@
+{
+    "goals": [
+        "1",
+        "1"
+    ],
+    "expected_goals": [
+        "0.8",
+        "1.3"
+    ],
+    "home_team": [
+        "Guillaume Restes",
+        "Rasmus Nicolaisen",
+        "Mikkel Desler",
+        "Logan Costa",
+        "Vincent Sierro",
+        "Thijs Dallinga",
+        "Gelabert",
+        "Aron D\u00f8nnum",
+        "Gabriel Suazo",
+        "Niklas Schmidt",
+        "Cristian C\u00e1sseres Jr.",
+        "\u00c1lex Dom\u00ednguez",
+        "Denis Genreau",
+        "Waren Kamanzi",
+        "Yanis Begraoui",
+        "Frank Magri",
+        "Mamady Bangr\u00e9",
+        "Naatan Skytt\u00e4",
+        "Moussa Diarra",
+        "K\u00e9vin Keben Biakolo"
+    ],
+    "away_team": [
+        "Yehvann Diouf",
+        "Joseph Okumu",
+        "Yunis Abdelhamid",
+        "Valentin Atangana Edoa",
+        "Junya Ito",
+        "Amir Richardson",
+        "Mohammed Daramy",
+        "Marshall Munetsi",
+        "Emmanuel Agbadou",
+        "Thibault De Smet",
+        "Thomas Foket",
+        "Alexandre Olliero",
+        "Amine Salama",
+        "Reda Khadra",
+        "Josh Wilson-Esbrand",
+        "Oumar Diakit\u00e9",
+        "Adama Bojang",
+        "Ibrahim Diakit\u00e9",
+        "Mamadou Diakhon",
+        "Amadou Kon\u00e9"
+    ],
+    "fouls": [
+        18,
+        15
+    ],
+    "corners": [
+        5,
+        7
+    ],
+    "crosses": [
+        19,
+        21
+    ],
+    "touches": [
+        607,
+        623
+    ],
+    "tackles": [
+        15,
+        32
+    ],
+    "interceptions": [
+        12,
+        9
+    ],
+    "aerials_won": [
+        14,
+        11
+    ],
+    "clearances": [
+        19,
+        24
+    ],
+    "offsides": [
+        1,
+        2
+    ],
+    "goal_kicks": [
+        7,
+        5
+    ],
+    "throw_ins": [
+        20,
+        21
+    ],
+    "long_balls": [
+        64,
+        64
+    ]
+}

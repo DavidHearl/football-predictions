@@ -1,0 +1,101 @@
+{
+    "goals": [
+        "1",
+        "2"
+    ],
+    "expected_goals": [
+        "1.4",
+        "2.3"
+    ],
+    "home_team": [
+        "Carl Rushworth",
+        "Josh Key",
+        "Ben Cabango",
+        "Matt Grimes",
+        "Jerry Yates",
+        "Charlie Patino",
+        "Liam Cullen",
+        "Nathan Wood-Gordon",
+        "Kyle Naughton",
+        "Harrison Ashby",
+        "Oliver Cooper",
+        "Andy Fisher",
+        "Jay Fulton",
+        "Harry Darling",
+        "Joe Allen",
+        "Josh Ginnelly",
+        "Jamie Paterson",
+        "Mykola Kukharevych",
+        "Nathan Tjoe-A-On",
+        "Filip Lissah"
+    ],
+    "away_team": [
+        "Max O'Leary",
+        "Cameron Pring",
+        "Kal Naismith",
+        "Matty James",
+        "Joe Williams",
+        "Jason Knight",
+        "Mark Sykes",
+        "Sam Bell",
+        "Nahki Wells",
+        "Taylor Gardner-Hickman",
+        "Zak Vyner",
+        "Stefan Bajic",
+        "Harry Cornick",
+        "Andy King",
+        "Anis Mehmeti",
+        "Robert Dickie",
+        "George Tanner",
+        "Haydon Roberts",
+        "Ephraim Yeboah"
+    ],
+    "fouls": [
+        13,
+        17
+    ],
+    "corners": [
+        4,
+        8
+    ],
+    "crosses": [
+        19,
+        21
+    ],
+    "touches": [
+        694,
+        506
+    ],
+    "tackles": [
+        11,
+        13
+    ],
+    "interceptions": [
+        7,
+        4
+    ],
+    "aerials_won": [
+        29,
+        18
+    ],
+    "clearances": [
+        14,
+        20
+    ],
+    "offsides": [
+        0,
+        4
+    ],
+    "goal_kicks": [
+        10,
+        5
+    ],
+    "throw_ins": [
+        18,
+        25
+    ],
+    "long_balls": [
+        61,
+        84
+    ]
+}

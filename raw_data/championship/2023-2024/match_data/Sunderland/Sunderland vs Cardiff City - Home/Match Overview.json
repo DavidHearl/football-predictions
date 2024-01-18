@@ -1,0 +1,102 @@
+{
+    "goals": [
+        "0",
+        "1"
+    ],
+    "expected_goals": [
+        "1.2",
+        "1.7"
+    ],
+    "home_team": [
+        "Anthony Patterson",
+        "Niall Huggins",
+        "Daniel Ballard",
+        "Jobe Bellingham",
+        "Mason Burstow",
+        "Luke O'Nien",
+        "Abdoullah Ba",
+        "Jack Clarke",
+        "Alex Pritchard",
+        "Daniel Neil",
+        "Trai Hume",
+        "Nathan Bishop",
+        "Luis Semedo",
+        "Patrick Roberts",
+        "Nazariy Rusyn",
+        "Ellis Taylor",
+        "Adil Aouchiche",
+        "Jenson Seelt",
+        "Nectarios Triantis",
+        "Chris Rigg"
+    ],
+    "away_team": [
+        "Jak Alnwick",
+        "Dimitris Goutas",
+        "Mark McGuinness",
+        "Ryan Wintle",
+        "Joe Ralls",
+        "Ike Ugbo",
+        "Karlan Grant",
+        "Jamilu Collins",
+        "Yakou M\u00e9\u00efte",
+        "Emmanouil Siopis",
+        "Perry Ng",
+        "R\u00fanar Alex R\u00fanarsson",
+        "Mahlon Romeo",
+        "Kion Etete",
+        "Ebou Adams",
+        "Jonathan Panzo",
+        "Rubin Colwill",
+        "Ollie Tanner",
+        "Andy Rinomhota",
+        "Callum Robinson"
+    ],
+    "fouls": [
+        6,
+        14
+    ],
+    "corners": [
+        4,
+        4
+    ],
+    "crosses": [
+        17,
+        12
+    ],
+    "touches": [
+        819,
+        527
+    ],
+    "tackles": [
+        26,
+        27
+    ],
+    "interceptions": [
+        12,
+        13
+    ],
+    "aerials_won": [
+        8,
+        16
+    ],
+    "clearances": [
+        10,
+        25
+    ],
+    "offsides": [
+        1,
+        0
+    ],
+    "goal_kicks": [
+        6,
+        6
+    ],
+    "throw_ins": [
+        17,
+        26
+    ],
+    "long_balls": [
+        53,
+        71
+    ]
+}

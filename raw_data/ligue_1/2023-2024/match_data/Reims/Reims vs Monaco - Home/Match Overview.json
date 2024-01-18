@@ -1,0 +1,102 @@
+{
+    "goals": [
+        "1",
+        "3"
+    ],
+    "expected_goals": [
+        "1.5",
+        "1.2"
+    ],
+    "home_team": [
+        "Yehvann Diouf",
+        "Joseph Okumu",
+        "Yunis Abdelhamid",
+        "Junya Ito",
+        "Mohammed Daramy",
+        "Teddy Teuma",
+        "Marshall Munetsi",
+        "Keito Nakamura",
+        "Azor Matusiwa",
+        "Thibault De Smet",
+        "Ibrahim Diakit\u00e9",
+        "Alexandre Olliero",
+        "Valentin Atangana Edoa",
+        "Amir Richardson",
+        "Amine Salama",
+        "Reda Khadra",
+        "Josh Wilson-Esbrand",
+        "Oumar Diakit\u00e9",
+        "Emmanuel Agbadou",
+        "Mamadou Diakhon"
+    ],
+    "away_team": [
+        "Philipp K\u00f6hn",
+        "Guillermo Marip\u00e1n",
+        "Denis Zakaria",
+        "Wissam Ben Yedder",
+        "Ismail Jakobs",
+        "Aleksandr Golovin",
+        "Youssouf Fofana",
+        "Kr\u00e9pin Diatta",
+        "Folarin Balogun",
+        "Soungoutou Magassa",
+        "Wilfried Singo",
+        "Rados\u0142aw Majecki",
+        "Mohamed Camara",
+        "Eliot Matazo",
+        "Myron Boadu",
+        "Takumi Minamino",
+        "Maghnes Akliouche",
+        "Chrislain Matsima",
+        "Edan Diop",
+        "Antonin Cartillier"
+    ],
+    "fouls": [
+        10,
+        14
+    ],
+    "corners": [
+        10,
+        5
+    ],
+    "crosses": [
+        38,
+        13
+    ],
+    "touches": [
+        601,
+        560
+    ],
+    "tackles": [
+        13,
+        24
+    ],
+    "interceptions": [
+        10,
+        16
+    ],
+    "aerials_won": [
+        19,
+        16
+    ],
+    "clearances": [
+        15,
+        32
+    ],
+    "offsides": [
+        3,
+        5
+    ],
+    "goal_kicks": [
+        6,
+        4
+    ],
+    "throw_ins": [
+        25,
+        21
+    ],
+    "long_balls": [
+        88,
+        73
+    ]
+}

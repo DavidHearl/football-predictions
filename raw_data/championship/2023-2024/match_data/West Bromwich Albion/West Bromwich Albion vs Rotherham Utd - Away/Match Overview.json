@@ -1,0 +1,100 @@
+{
+    "goals": [
+        "0",
+        "2"
+    ],
+    "expected_goals": [
+        "0.1",
+        "0.5"
+    ],
+    "home_team": [
+        "Viktor Johansson",
+        "Dexter Lembikisa",
+        "Cohen Bramall",
+        "Jordan Hugill",
+        "Jamie Lindsay",
+        "Oliver Rathbone",
+        "Hakeem Odoffin",
+        "Sean Morrison",
+        "Christ Ti\u00e9hi",
+        "Seb Revan",
+        "Arvin Appiah",
+        "Dillon Phillips",
+        "Tom Eaves",
+        "Georgie Kelly",
+        "Grant Hall",
+        "Lee Peltier",
+        "Sam Nombe",
+        "Ciaran McGuckin"
+    ],
+    "away_team": [
+        "Alex Palmer",
+        "Darnell Furlong",
+        "Conor Townsend",
+        "C\u00e9dric Kipr\u00e9",
+        "Kyle Bartley",
+        "Jayson Molumby",
+        "Grady Diangana",
+        "Jeremy Sarmiento",
+        "Brandon Thomas-Asante",
+        "Alex Mowatt",
+        "Okay Yoku\u015flu",
+        "Joshua Griffiths",
+        "Semi Ajayi",
+        "Jed Wallace",
+        "Nathaniel Chalobah",
+        "Erik Pieters",
+        "John Swift",
+        "Adam Reach",
+        "Pipa",
+        "Tom Fellows"
+    ],
+    "fouls": [
+        11,
+        10
+    ],
+    "corners": [
+        1,
+        2
+    ],
+    "crosses": [
+        11,
+        11
+    ],
+    "touches": [
+        515,
+        617
+    ],
+    "tackles": [
+        14,
+        12
+    ],
+    "interceptions": [
+        8,
+        7
+    ],
+    "aerials_won": [
+        22,
+        14
+    ],
+    "clearances": [
+        27,
+        26
+    ],
+    "offsides": [
+        0,
+        0
+    ],
+    "goal_kicks": [
+        7,
+        7
+    ],
+    "throw_ins": [
+        24,
+        35
+    ],
+    "long_balls": [
+        74,
+        62
+    ]
+}

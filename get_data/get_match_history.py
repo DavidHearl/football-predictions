@@ -211,7 +211,7 @@ class MatchHistory:
 
 					if suspended != 'Match Suspended':
 						# Add delay to prevent server from blocking the request
-						time.sleep(4)
+						time.sleep(5)
 
 						# Add a delay to try again if the request fails
 						while True:
