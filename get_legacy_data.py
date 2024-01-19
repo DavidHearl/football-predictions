@@ -54,7 +54,7 @@ class LegacyStatsProcessor:
 
 	@timing_decorator
 	def process_player_stats(self):
-		self.player_legacy.create_json()
+		self.player_legacy.get_player_data()
 
 	@timing_decorator
 	def process_fixtures(self):
@@ -74,8 +74,8 @@ legacy_stats_processor = LegacyStatsProcessor(club_legacy, player_legacy, match_
 
 # Call the methods on the instance, which are now wrapped with the timing_decorator
 # legacy_stats_processor.folder_structure()
-legacy_stats_processor.process_club_stats()
-# legacy_stats_processor.process_player_stats()
+# legacy_stats_processor.process_club_stats()
+legacy_stats_processor.process_player_stats()
 # legacy_stats_processor.process_fixtures()
 # legacy_stats_processor.process_clean_fixtures()
 # legacy_stats_processor.create_match_folders()
