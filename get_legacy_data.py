@@ -6,6 +6,7 @@ It provides a StatsProcessor class that processes the data using timing decorato
 import time
 from functools import wraps
 
+from get_data.get_legacy.get_legacy_folder_structure import CreateStructure
 from get_data.get_legacy.get_legacy_club_statistics import LegacyClubStatistics
 from get_data.get_legacy.get_legacy_player_statistics import LegacyPlayerStatistics
 from get_data.get_legacy.get_legacy_match_history import LegacyMatchHistory
@@ -21,6 +22,7 @@ legacy_seasons = [
 ]
 
 # Get methods and pass through the variables
+folder_structure = CreateStructure(legacy_seasons)
 club_legacy = LegacyClubStatistics(legacy_seasons)
 player_legacy = LegacyPlayerStatistics(legacy_seasons)
 match_legacy = LegacyMatchHistory(legacy_seasons)
@@ -36,11 +38,16 @@ def timing_decorator(func):
 	return wrapper
 
 class LegacyStatsProcessor:
-	def __init__(self, club_legacy, player_legacy, match_legacy):
+	def __init__(self, club_legacy, player_legacy, match_legacy, folder_structure):
+		self.folder_structure_instance = folder_structure
 		self.club_legacy = club_legacy
 		self.player_legacy = player_legacy
 		self.match_legacy = match_legacy
 
+	@timing_decorator
+	def folder_structure(self):
+		self.folder_structure_instance.folder_structure()
+	
 	@timing_decorator
 	def process_club_stats(self):
 		self.club_legacy.create_json()
@@ -63,11 +70,12 @@ class LegacyStatsProcessor:
 
 
 # Create an instance of LegacyStatsProcessor
-legacy_stats_processor = LegacyStatsProcessor(club_legacy, player_legacy, match_legacy)
+legacy_stats_processor = LegacyStatsProcessor(club_legacy, player_legacy, match_legacy, folder_structure)
 
 # Call the methods on the instance, which are now wrapped with the timing_decorator
+legacy_stats_processor.folder_structure()
 # club_legacy.create_json()
 # player_legacy.create_json()
 # match_legacy.get_fixtures()
 # match_legacy.clean_fixtures()
-match_legacy.create_match_folders()
+# match_legacy.create_match_folders()
