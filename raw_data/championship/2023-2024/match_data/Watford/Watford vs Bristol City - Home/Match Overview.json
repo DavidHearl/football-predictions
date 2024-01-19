@@ -1,0 +1,102 @@
+{
+    "goals": [
+        "1",
+        "4"
+    ],
+    "expected_goals": [
+        "0.9",
+        "1.3"
+    ],
+    "home_team": [
+        "Ben Hamer",
+        "Francisco Sierralta",
+        "Wesley Hoedt",
+        "Jamal Lewis",
+        "Jake Livermore",
+        "Mileta Rajovic",
+        "Isma\u00ebl Kon\u00e9",
+        "Ken Sema",
+        "Yaser Asprilla",
+        "Edo Kayembe",
+        "Ryan Andrews",
+        "Daniel Bachmann",
+        "Ryan Porteous",
+        "Tom Ince",
+        "Rhys Healey",
+        "Matthew Pollock",
+        "Giorgi Chakvetadze",
+        "Vakoun Issouf Bayo",
+        "Tom Dele-Bashiru",
+        "Matheus Martins"
+    ],
+    "away_team": [
+        "Max O'Leary",
+        "Cameron Pring",
+        "Joe Williams",
+        "Anis Mehmeti",
+        "Jason Knight",
+        "Tommy Conway",
+        "Robert Dickie",
+        "Mark Sykes",
+        "George Tanner",
+        "Taylor Gardner-Hickman",
+        "Zak Vyner",
+        "Stefan Bajic",
+        "Matty James",
+        "Harry Cornick",
+        "Andreas Weimann",
+        "Sam Bell",
+        "Nahki Wells",
+        "Jamie Knight-Lebel",
+        "Ephraim Yeboah",
+        "Raekwon Nelson"
+    ],
+    "fouls": [
+        10,
+        4
+    ],
+    "corners": [
+        6,
+        6
+    ],
+    "crosses": [
+        26,
+        15
+    ],
+    "touches": [
+        713,
+        530
+    ],
+    "tackles": [
+        13,
+        19
+    ],
+    "interceptions": [
+        8,
+        8
+    ],
+    "aerials_won": [
+        15,
+        14
+    ],
+    "clearances": [
+        25,
+        22
+    ],
+    "offsides": [
+        3,
+        0
+    ],
+    "goal_kicks": [
+        7,
+        8
+    ],
+    "throw_ins": [
+        28,
+        18
+    ],
+    "long_balls": [
+        67,
+        71
+    ]
+}

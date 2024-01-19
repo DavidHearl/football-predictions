@@ -1,0 +1,107 @@
+{
+    "goals": [
+        "1",
+        "2"
+    ],
+    "expected_goals": [
+        "0.8",
+        "2.0"
+    ],
+    "home_team": [
+        "Aitor Fern\u00e1ndez",
+        "Juan Cruz Armada",
+        "Aimar Oroz",
+        "Jes\u00fas Areso",
+        "Rub\u00e9n Garc\u00eda",
+        "Pablo Ib\u00e1\u00f1ez",
+        "Jos\u00e9 Arnaiz",
+        "Ra\u00fal",
+        "Catena",
+        "Jorge Herrando",
+        "Iker Mu\u00f1oz",
+        "Sergio Herrera",
+        "Nacho Vidal",
+        "Unai Garc\u00eda",
+        "David Garc\u00eda",
+        "Lucas Torr\u00f3",
+        "Jon Moncayola",
+        "Ezequiel \u00c1vila",
+        "Kike Barja",
+        "Rub\u00e9n Pe\u00f1a",
+        "Moi G\u00f3mez",
+        "Ante Budimir",
+        "Johan Mojica"
+    ],
+    "away_team": [
+        "Marc-Andr\u00e9 ter Stegen",
+        "Alejandro Balde",
+        "Gavi",
+        "Robert Lewandowski",
+        "Andreas Christensen",
+        "Oriol Romeu",
+        "Sergi Roberto",
+        "Frenkie de Jong",
+        "\u0130lkay G\u00fcndo\u011fan",
+        "Jules Kound\u00e9",
+        "Lamine Yamal",
+        "I\u00f1aki Pe\u00f1a ",
+        "Diego Kochen",
+        "Jo\u00e3o Cancelo",
+        "I\u00f1igo Mart\u00ednez",
+        "Ferr\u00e1n Torres",
+        "Raphinha",
+        "Jo\u00e3o F\u00e9lix",
+        "Marcos Alonso",
+        "Marc Casado",
+        "Fermin L\u00f3pez",
+        "Pau Cubars\u00ed"
+    ],
+    "fouls": [
+        6,
+        16
+    ],
+    "corners": [
+        8,
+        5
+    ],
+    "crosses": [
+        29,
+        16
+    ],
+    "touches": [
+        414,
+        818
+    ],
+    "tackles": [
+        16,
+        20
+    ],
+    "interceptions": [
+        5,
+        8
+    ],
+    "aerials_won": [
+        16,
+        15
+    ],
+    "clearances": [
+        21,
+        28
+    ],
+    "offsides": [
+        2,
+        2
+    ],
+    "goal_kicks": [
+        3,
+        3
+    ],
+    "throw_ins": [
+        26,
+        21
+    ],
+    "long_balls": [
+        77,
+        38
+    ]
+}

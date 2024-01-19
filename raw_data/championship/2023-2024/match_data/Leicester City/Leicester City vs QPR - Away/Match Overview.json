@@ -1,0 +1,102 @@
+{
+    "goals": [
+        "1",
+        "2"
+    ],
+    "expected_goals": [
+        "0.4",
+        "1.0"
+    ],
+    "home_team": [
+        "Asmir Begovi\u0107",
+        "Osman Kakay",
+        "Jack Colback",
+        "Sam Field",
+        "Lyndon Dykes",
+        "Ilias Chair",
+        "Andre Dozzell",
+        "Reggie Cannon",
+        "Kenneth Paal",
+        "Charlie Kelman",
+        "Albert Adomah",
+        "Jordan Archer",
+        "Chris Willock",
+        "Paul Smyth",
+        "Taylor Richards",
+        "Elijah Dixon-Bonner",
+        "Ziyad Larkeche",
+        "Stephen Duke-McKenna",
+        "Aaron Drewe",
+        "Rayan Kolli"
+    ],
+    "away_team": [
+        "Mads Hermansen",
+        "James Justin",
+        "Conor Coady",
+        "Cesare Casadei",
+        "Harry Winks",
+        "Jamie Vardy",
+        "Stephy Mavididi",
+        "Hamza Choudhury",
+        "Abdul Fatawu Issahaku",
+        "Kiernan Dewsbury-Hall",
+        "Jannik Vestergaard",
+        "Jakub Stolarczyk",
+        "Wout Faes",
+        "Marc Albrighton",
+        "Kelechi Iheanacho",
+        "Harry Souttar",
+        "Patson Daka",
+        "Ricardo Pereira",
+        "Kasey McAteer",
+        "Wanya Marcal-Madivadua"
+    ],
+    "fouls": [
+        13,
+        7
+    ],
+    "corners": [
+        1,
+        8
+    ],
+    "crosses": [
+        9,
+        17
+    ],
+    "touches": [
+        329,
+        947
+    ],
+    "tackles": [
+        18,
+        6
+    ],
+    "interceptions": [
+        4,
+        6
+    ],
+    "aerials_won": [
+        9,
+        14
+    ],
+    "clearances": [
+        17,
+        12
+    ],
+    "offsides": [
+        0,
+        3
+    ],
+    "goal_kicks": [
+        10,
+        3
+    ],
+    "throw_ins": [
+        19,
+        17
+    ],
+    "long_balls": [
+        66,
+        67
+    ]
+}

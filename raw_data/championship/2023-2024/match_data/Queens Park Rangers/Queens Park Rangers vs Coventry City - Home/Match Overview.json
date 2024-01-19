@@ -1,0 +1,102 @@
+{
+    "goals": [
+        "1",
+        "3"
+    ],
+    "expected_goals": [
+        "1.0",
+        "1.5"
+    ],
+    "home_team": [
+        "Asmir Begovi\u0107",
+        "Osman Kakay",
+        "Steve Cook",
+        "Chris Willock",
+        "Sam Field",
+        "Lyndon Dykes",
+        "Ilias Chair",
+        "Paul Smyth",
+        "Morgan Fox",
+        "Andre Dozzell",
+        "Kenneth Paal",
+        "Jordan Archer",
+        "Jake Clarke-Salter",
+        "Elijah Dixon-Bonner",
+        "Ziyad Larkeche",
+        "Charlie Kelman",
+        "Stephen Duke-McKenna",
+        "Sinclair Armstrong",
+        "Albert Adomah",
+        "Rayan Kolli"
+    ],
+    "away_team": [
+        "Ben Wilson",
+        "Luis Binks",
+        "Jay Dasilva",
+        "Bobby Thomas",
+        "Kyle McFadzean",
+        "Liam Kelly",
+        "Jamie Allen",
+        "Ellis Simms",
+        "Jo\u00ebl Latibeaudi\u00e8re",
+        "Matthew Godden",
+        "Josh Eccles",
+        "Bradley Collins",
+        "Tatsuhiro Sakamoto",
+        "Haji Wright",
+        "Liam Kitching",
+        "Jake Bidwell",
+        "Yasin Ayari",
+        "Marco Rus",
+        "Bradley Stretton",
+        "Justin Obikwu"
+    ],
+    "fouls": [
+        11,
+        14
+    ],
+    "corners": [
+        4,
+        5
+    ],
+    "crosses": [
+        27,
+        21
+    ],
+    "touches": [
+        582,
+        551
+    ],
+    "tackles": [
+        17,
+        15
+    ],
+    "interceptions": [
+        10,
+        3
+    ],
+    "aerials_won": [
+        25,
+        23
+    ],
+    "clearances": [
+        25,
+        31
+    ],
+    "offsides": [
+        1,
+        1
+    ],
+    "goal_kicks": [
+        11,
+        11
+    ],
+    "throw_ins": [
+        25,
+        19
+    ],
+    "long_balls": [
+        82,
+        70
+    ]
+}

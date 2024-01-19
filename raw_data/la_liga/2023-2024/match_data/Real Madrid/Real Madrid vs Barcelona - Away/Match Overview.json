@@ -1,0 +1,105 @@
+{
+    "goals": [
+        "1",
+        "2"
+    ],
+    "expected_goals": [
+        "1.5",
+        "1.1"
+    ],
+    "home_team": [
+        "Marc-Andr\u00e9 ter Stegen",
+        "Jo\u00e3o Cancelo",
+        "Alejandro Balde",
+        "Ronald Ara\u00fajo",
+        "I\u00f1igo Mart\u00ednez",
+        "Gavi",
+        "Ferr\u00e1n Torres",
+        "Jo\u00e3o F\u00e9lix",
+        "Andreas Christensen",
+        "\u0130lkay G\u00fcndo\u011fan",
+        "Fermin L\u00f3pez",
+        "I\u00f1aki Pe\u00f1a ",
+        "Ander Astralaga",
+        "Robert Lewandowski",
+        "Raphinha",
+        "Marcos Alonso",
+        "Oriol Romeu",
+        "Jules Kound\u00e9",
+        "Lamine Yamal",
+        "Marc Casado",
+        "Pau Cubars\u00ed",
+        "Marc Guiu",
+        "H\u00e9ctor Fort"
+    ],
+    "away_team": [
+        "Kepa Arrizabalaga",
+        "Dani Carvajal",
+        "David Alaba",
+        "Jude Bellingham",
+        "Vinicius J\u00fanior",
+        "Toni Kroos",
+        "Rodrygo",
+        "Federico Valverde",
+        "Aur\u00e9lien Tchouam\u00e9ni",
+        "Antonio R\u00fcdiger",
+        "Ferland Mendy",
+        "Andriy Lunin",
+        "Diego Pi\u00f1eiro",
+        "Nacho",
+        "Luka Modri\u0107",
+        "Eduardo Camavinga",
+        "Joselu",
+        "Lucas V\u00e1zquez",
+        "Fran Garcia",
+        "Brahim D\u00edaz"
+    ],
+    "fouls": [
+        15,
+        15
+    ],
+    "corners": [
+        6,
+        3
+    ],
+    "crosses": [
+        14,
+        10
+    ],
+    "touches": [
+        686,
+        645
+    ],
+    "tackles": [
+        21,
+        14
+    ],
+    "interceptions": [
+        5,
+        12
+    ],
+    "aerials_won": [
+        6,
+        13
+    ],
+    "clearances": [
+        12,
+        17
+    ],
+    "offsides": [
+        1,
+        0
+    ],
+    "goal_kicks": [
+        5,
+        8
+    ],
+    "throw_ins": [
+        23,
+        10
+    ],
+    "long_balls": [
+        61,
+        39
+    ]
+}

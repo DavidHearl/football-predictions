@@ -1,0 +1,102 @@
+{
+    "goals": [
+        "0",
+        "1"
+    ],
+    "expected_goals": [
+        "1.2",
+        "1.4"
+    ],
+    "home_team": [
+        "Lee Nicholls",
+        "Josh Ruffels",
+        "Matty Pearson",
+        "Micha\u0142 Helik",
+        "Jonathan Hogg",
+        "Jack Rudoni",
+        "Josh Koroma",
+        "Brahima Diarra",
+        "Sorba Thomas",
+        "Tom Edwards",
+        "Danny Ward",
+        "Chris Maxwell",
+        "Rarmani Edmonds-Green",
+        "Jordan Rhodes",
+        "Kian Harratt",
+        "Patrick Jones",
+        "Kyle Hudlin",
+        "Ben Jackson",
+        "Yuta Nakayama",
+        "Joshua Austerfield"
+    ],
+    "away_team": [
+        "Jakub Stolarczyk",
+        "Wout Faes",
+        "Callum Doyle",
+        "Harry Winks",
+        "Stephy Mavididi",
+        "Kelechi Iheanacho",
+        "Ricardo Pereira",
+        "Kiernan Dewsbury-Hall",
+        "Jannik Vestergaard",
+        "Dennis Praet",
+        "Wanya Marcal-Madivadua",
+        "Danny Ward",
+        "Daniel Iversen",
+        "James Justin",
+        "Jamie Vardy",
+        "Marc Albrighton",
+        "Hamza Choudhury",
+        "Wilfred Ndidi",
+        "Luke Thomas",
+        "Benjamin Nelson"
+    ],
+    "fouls": [
+        15,
+        8
+    ],
+    "corners": [
+        5,
+        4
+    ],
+    "crosses": [
+        24,
+        8
+    ],
+    "touches": [
+        388,
+        743
+    ],
+    "tackles": [
+        21,
+        13
+    ],
+    "interceptions": [
+        8,
+        3
+    ],
+    "aerials_won": [
+        14,
+        10
+    ],
+    "clearances": [
+        12,
+        31
+    ],
+    "offsides": [
+        3,
+        1
+    ],
+    "goal_kicks": [
+        10,
+        7
+    ],
+    "throw_ins": [
+        18,
+        23
+    ],
+    "long_balls": [
+        84,
+        54
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "goals": [
+        "1",
+        "2"
+    ],
+    "expected_goals": [
+        "2.0",
+        "1.3"
+    ],
+    "home_team": [
+        "Jak Alnwick",
+        "Dimitris Goutas",
+        "Mark McGuinness",
+        "Ryan Wintle",
+        "Aaron Ramsey",
+        "Callum O'Dowda",
+        "Ike Ugbo",
+        "Josh Bowler",
+        "Karlan Grant",
+        "Ebou Adams",
+        "Perry Ng",
+        "Rohan Luthra",
+        "Mahlon Romeo",
+        "Kion Etete",
+        "Jamilu Collins",
+        "Jack Simpson",
+        "Rubin Colwill",
+        "Ollie Tanner",
+        "Andy Rinomhota",
+        "Callum Robinson"
+    ],
+    "away_team": [
+        "Asmir Begovi\u0107",
+        "Osman Kakay",
+        "Steve Cook",
+        "Sam Field",
+        "Lyndon Dykes",
+        "Ilias Chair",
+        "Paul Smyth",
+        "Morgan Fox",
+        "Andre Dozzell",
+        "Kenneth Paal",
+        "Sinclair Armstrong",
+        "Jordan Archer",
+        "Taylor Richards",
+        "Elijah Dixon-Bonner",
+        "Ziyad Larkeche",
+        "Stephen Duke-McKenna",
+        "Joe Gubbins",
+        "Alex Aoraha",
+        "Albert Adomah",
+        "Rayan Kolli"
+    ],
+    "fouls": [
+        8,
+        13
+    ],
+    "corners": [
+        13,
+        7
+    ],
+    "crosses": [
+        32,
+        18
+    ],
+    "touches": [
+        745,
+        440
+    ],
+    "tackles": [
+        8,
+        6
+    ],
+    "interceptions": [
+        9,
+        9
+    ],
+    "aerials_won": [
+        33,
+        20
+    ],
+    "clearances": [
+        18,
+        25
+    ],
+    "offsides": [
+        0,
+        1
+    ],
+    "goal_kicks": [
+        5,
+        13
+    ],
+    "throw_ins": [
+        18,
+        19
+    ],
+    "long_balls": [
+        79,
+        101
+    ]
+}

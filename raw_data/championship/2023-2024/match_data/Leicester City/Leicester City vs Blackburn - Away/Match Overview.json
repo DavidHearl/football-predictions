@@ -1,0 +1,102 @@
+{
+    "goals": [
+        "1",
+        "4"
+    ],
+    "expected_goals": [
+        "1.4",
+        "1.8"
+    ],
+    "home_team": [
+        "Aynsley Pears",
+        "Callum Brittain",
+        "Harry Pickering",
+        "Dominic Hyam",
+        "Arn\u00f3r Sigur\u00f0sson",
+        "Sammie Szmodics",
+        "Hayden Carter",
+        "Dilan Markanday",
+        "Adam Wharton",
+        "Andrew Moran",
+        "Lewis Travis",
+        "Leopold Wahlstedt",
+        "James Hill",
+        "Sondre Tronstad",
+        "Tyrhys Dolan",
+        "Joe Rankin-Costello",
+        "Scott Wharton",
+        "Zak Gilsenan",
+        "Jake Garrett",
+        "Semir Telalovic"
+    ],
+    "away_team": [
+        "Mads Hermansen",
+        "James Justin",
+        "Wout Faes",
+        "Harry Winks",
+        "Jamie Vardy",
+        "Stephy Mavididi",
+        "Abdul Fatawu Issahaku",
+        "Ricardo Pereira",
+        "Kiernan Dewsbury-Hall",
+        "Jannik Vestergaard",
+        "Wilfred Ndidi",
+        "Jakub Stolarczyk",
+        "Conor Coady",
+        "Cesare Casadei",
+        "Kelechi Iheanacho",
+        "Harry Souttar",
+        "Hamza Choudhury",
+        "Patson Daka",
+        "Yunus Akg\u00fcn",
+        "Kasey McAteer"
+    ],
+    "fouls": [
+        8,
+        14
+    ],
+    "corners": [
+        5,
+        6
+    ],
+    "crosses": [
+        13,
+        9
+    ],
+    "touches": [
+        662,
+        713
+    ],
+    "tackles": [
+        15,
+        24
+    ],
+    "interceptions": [
+        11,
+        21
+    ],
+    "aerials_won": [
+        11,
+        5
+    ],
+    "clearances": [
+        10,
+        13
+    ],
+    "offsides": [
+        2,
+        1
+    ],
+    "goal_kicks": [
+        5,
+        13
+    ],
+    "throw_ins": [
+        17,
+        13
+    ],
+    "long_balls": [
+        43,
+        65
+    ]
+}

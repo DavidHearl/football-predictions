@@ -1,0 +1,102 @@
+{
+    "goals": [
+        "2",
+        "3"
+    ],
+    "expected_goals": [
+        "0.9",
+        "1.5"
+    ],
+    "home_team": [
+        "Angus Gunn",
+        "Jack Stacey",
+        "Ben Gibson",
+        "Liam Gibbs",
+        "Adam Idah",
+        "Gabriel",
+        "Kenny McLean",
+        "Shane Duffy",
+        "Onel Hern\u00e1ndez",
+        "Jon Rowe",
+        "Dimitris Giannoulis",
+        "George Long",
+        "Borja Sainz",
+        "Christian Fassnacht",
+        "Przemys\u0142aw P\u0142acheta",
+        "Danny Batth",
+        "Adam Forshaw",
+        "Hwang Ui-jo",
+        "Kellen Fisher",
+        "Tony Springett"
+    ],
+    "away_team": [
+        "Illan Meslier",
+        "Ethan Ampadu",
+        "Jo\u00ebl Piroe",
+        "Glen Kamara",
+        "Crysencio Summerville",
+        "Joe Rodon",
+        "Daniel James",
+        "Pascal Struijk",
+        "Archie Gray",
+        "Georginio Rutter",
+        "Sam Byram",
+        "Karl Darlow",
+        "Luke Ayling",
+        "Liam Cooper",
+        "Patrick Bamford",
+        "Jaidon Anthony",
+        "Jamie Shackleton",
+        "Ian Carlo Poveda",
+        "Degnand Gnonto",
+        "Ilia Gruev"
+    ],
+    "fouls": [
+        11,
+        13
+    ],
+    "corners": [
+        7,
+        7
+    ],
+    "crosses": [
+        19,
+        14
+    ],
+    "touches": [
+        535,
+        609
+    ],
+    "tackles": [
+        18,
+        19
+    ],
+    "interceptions": [
+        12,
+        7
+    ],
+    "aerials_won": [
+        9,
+        3
+    ],
+    "clearances": [
+        22,
+        23
+    ],
+    "offsides": [
+        5,
+        0
+    ],
+    "goal_kicks": [
+        11,
+        6
+    ],
+    "throw_ins": [
+        20,
+        21
+    ],
+    "long_balls": [
+        52,
+        42
+    ]
+}

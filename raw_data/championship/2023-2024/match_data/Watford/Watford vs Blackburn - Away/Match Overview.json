@@ -1,0 +1,102 @@
+{
+    "goals": [
+        "1",
+        "2"
+    ],
+    "expected_goals": [
+        "0.9",
+        "2.1"
+    ],
+    "home_team": [
+        "Leopold Wahlstedt",
+        "Dominic Hyam",
+        "Sondre Tronstad",
+        "Arn\u00f3r Sigur\u00f0sson",
+        "Niall Ennis",
+        "Scott Wharton",
+        "Hayden Carter",
+        "Adam Wharton",
+        "Andrew Moran",
+        "Lewis Travis",
+        "Jake Garrett",
+        "Joe Hilton",
+        "James Hill",
+        "Patrick Gamble",
+        "Dilan Markanday",
+        "Harry Leonard",
+        "Charlie Weston",
+        "Semir Telalovic",
+        "Thomas Bloxham",
+        "Leonard Duru"
+    ],
+    "away_team": [
+        "Ben Hamer",
+        "Wesley Hoedt",
+        "Ryan Porteous",
+        "Jamal Lewis",
+        "Jake Livermore",
+        "Isma\u00ebl Kon\u00e9",
+        "Ken Sema",
+        "Vakoun Issouf Bayo",
+        "Tom Dele-Bashiru",
+        "Matheus Martins",
+        "Edo Kayembe",
+        "Daniel Bachmann",
+        "Francisco Sierralta",
+        "Tom Ince",
+        "Mileta Rajovic",
+        "Rhys Healey",
+        "Matthew Pollock",
+        "Giorgi Chakvetadze",
+        "Yaser Asprilla",
+        "Ryan Andrews"
+    ],
+    "fouls": [
+        12,
+        8
+    ],
+    "corners": [
+        7,
+        5
+    ],
+    "crosses": [
+        9,
+        22
+    ],
+    "touches": [
+        666,
+        587
+    ],
+    "tackles": [
+        31,
+        15
+    ],
+    "interceptions": [
+        11,
+        18
+    ],
+    "aerials_won": [
+        10,
+        7
+    ],
+    "clearances": [
+        19,
+        17
+    ],
+    "offsides": [
+        0,
+        2
+    ],
+    "goal_kicks": [
+        13,
+        10
+    ],
+    "throw_ins": [
+        24,
+        25
+    ],
+    "long_balls": [
+        73,
+        72
+    ]
+}

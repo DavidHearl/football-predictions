@@ -1,0 +1,102 @@
+{
+    "goals": [
+        "2",
+        "1"
+    ],
+    "expected_goals": [
+        "3.0",
+        "1.4"
+    ],
+    "home_team": [
+        "Seny Dieng",
+        "Rav van den Berg",
+        "Dael Fry",
+        "Hayden Hackney",
+        "Riley McGree",
+        "Isaiah Jones",
+        "Jonny Howson",
+        "Josh Coburn",
+        "Matt Crooks",
+        "Darragh Lenihan",
+        "Lewis O'Brien",
+        "Tom Glover",
+        "Tommy Smith",
+        "Daniel Barlaser",
+        "Emmanuel Latte Lath",
+        "Morgan Rogers",
+        "Paddy McNair",
+        "Sam Silvera",
+        "Lukas Engel",
+        "Sam Greenwood"
+    ],
+    "away_team": [
+        "Gavin Bazunu",
+        "Kyle Walker-Peters",
+        "Flynn Downes",
+        "Mason Holgate",
+        "Adam Armstrong",
+        "Che Adams",
+        "William Smallbone",
+        "Taylor Harwood-Bellis",
+        "Shea Charles",
+        "Ryan Fraser",
+        "Jan Bednarek",
+        "Alex McCarthy",
+        "Ryan Manning",
+        "Joe Aribo",
+        "James Bree",
+        "Stuart Armstrong",
+        "Sekou Mara",
+        "Kamaldeen Sulemana",
+        "Carlos Alcaraz",
+        "Samuel Edozie"
+    ],
+    "fouls": [
+        16,
+        7
+    ],
+    "corners": [
+        5,
+        7
+    ],
+    "crosses": [
+        10,
+        21
+    ],
+    "touches": [
+        719,
+        693
+    ],
+    "tackles": [
+        22,
+        12
+    ],
+    "interceptions": [
+        12,
+        14
+    ],
+    "aerials_won": [
+        11,
+        9
+    ],
+    "clearances": [
+        20,
+        16
+    ],
+    "offsides": [
+        4,
+        1
+    ],
+    "goal_kicks": [
+        7,
+        8
+    ],
+    "throw_ins": [
+        25,
+        9
+    ],
+    "long_balls": [
+        61,
+        41
+    ]
+}

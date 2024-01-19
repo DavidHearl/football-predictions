@@ -1,0 +1,102 @@
+{
+    "goals": [
+        "1",
+        "2"
+    ],
+    "expected_goals": [
+        "0.8",
+        "1.4"
+    ],
+    "home_team": [
+        "Jacob Chapman",
+        "Micha\u0142 Helik",
+        "Jonathan Hogg",
+        "Jack Rudoni",
+        "Josh Koroma",
+        "Sorba Thomas",
+        "Jaheim Headley",
+        "David Kasumu",
+        "Ben Wiles",
+        "Tom Lees",
+        "Yuta Nakayama",
+        "Giosue Bellagambi",
+        "Rarmani Edmonds-Green",
+        "Brahima Diarra",
+        "Kyle Hudlin",
+        "Joshua Austerfield",
+        "Loick Ayina",
+        "Tom Iorpenda",
+        "Michael Stone",
+        "Conor Falls"
+    ],
+    "away_team": [
+        "Tom Glover",
+        "Rav van den Berg",
+        "Daniel Barlaser",
+        "Dael Fry",
+        "Morgan Rogers",
+        "Isaiah Jones",
+        "Anfernee Dijksteel",
+        "Jonny Howson",
+        "Sam Silvera",
+        "Alex Bangura",
+        "Sam Greenwood",
+        "Jamie Jones",
+        "Matthew Clarke",
+        "Riley McGree",
+        "Alexander Gilbert",
+        "Josh Coburn",
+        "Hayden Coulson",
+        "Lukas Engel",
+        "Calum Kavanagh",
+        "Aidan Bridge"
+    ],
+    "fouls": [
+        11,
+        11
+    ],
+    "corners": [
+        7,
+        2
+    ],
+    "crosses": [
+        39,
+        9
+    ],
+    "touches": [
+        591,
+        768
+    ],
+    "tackles": [
+        21,
+        17
+    ],
+    "interceptions": [
+        14,
+        10
+    ],
+    "aerials_won": [
+        11,
+        14
+    ],
+    "clearances": [
+        11,
+        35
+    ],
+    "offsides": [
+        1,
+        2
+    ],
+    "goal_kicks": [
+        6,
+        8
+    ],
+    "throw_ins": [
+        14,
+        12
+    ],
+    "long_balls": [
+        50,
+        77
+    ]
+}
