@@ -14,6 +14,8 @@ import json
 from urllib.parse import urljoin
 
 
+# The server will block the request if frequency exceeds 1 request per 3 seconds (20 requests per minute)
+# Therefore, we need to add a delay to prevent the server from blocking the request, use 4 seconds for safety.
 class CreateStructure:
     def __init__(self, legacy_seasons):
         self.legacy_seasons = legacy_seasons
