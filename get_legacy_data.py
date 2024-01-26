@@ -73,9 +73,9 @@ class LegacyStatsProcessor:
 legacy_stats_processor = LegacyStatsProcessor(club_legacy, player_legacy, match_legacy, folder_structure)
 
 # Call the methods on the instance, which are now wrapped with the timing_decorator
-legacy_stats_processor.folder_structure()
-legacy_stats_processor.process_club_stats()
+# legacy_stats_processor.folder_structure()
+# legacy_stats_processor.process_club_stats()
 legacy_stats_processor.process_player_stats()
 legacy_stats_processor.process_fixtures()
 legacy_stats_processor.process_clean_fixtures()
-legacy_stats_processor.create_match_folders()
+legacy_stats_processor.process_create_match_folders()

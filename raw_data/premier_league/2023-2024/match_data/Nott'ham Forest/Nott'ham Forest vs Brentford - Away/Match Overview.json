@@ -1,0 +1,102 @@
+{
+    "goals": [
+        "3",
+        "2"
+    ],
+    "expected_goals": [
+        "1.2",
+        "1.2"
+    ],
+    "home_team": [
+        "Mark Flekken",
+        "Ethan Pinnock",
+        "Neal Maupay",
+        "Mathias Jensen",
+        "Ben Mee",
+        "Ivan Toney",
+        "Nathan Collins",
+        "Keane Lewis-Potter",
+        "Mikkel Damsgaard",
+        "Vitaly Janelt",
+        "Mads Roerslev",
+        "Thomas Strakosha",
+        "Josh Dasilva",
+        "Sergio Reguil\u00f3n",
+        "Mathias J\u00f8rgensen",
+        "Kristoffer Ajer",
+        "Myles Peart-Harris",
+        "Shandon Baptiste",
+        "Yehor Yarmoliuk",
+        "Michael Olakigbe"
+    ],
+    "away_team": [
+        "Matt Turner",
+        "Nuno Tavares",
+        "Orel Mangala",
+        "Chris Wood",
+        "Callum Hudson-Odoi",
+        "Nicol\u00e1s Dom\u00ednguez",
+        "Ryan Yates",
+        "Danilo",
+        "Gonzalo Montiel",
+        "Andrew Omobamidele",
+        "Murillo",
+        "Odisseas Vlachodimos",
+        "Joe Worrall",
+        "Neco Williams",
+        "Harry Toffolo",
+        "Scott McKenna",
+        "Brandon Aguilera",
+        "Detlef Osong",
+        "Jamie McDonnell",
+        "Joe Gardner"
+    ],
+    "fouls": [
+        10,
+        14
+    ],
+    "corners": [
+        6,
+        4
+    ],
+    "crosses": [
+        19,
+        20
+    ],
+    "touches": [
+        614,
+        652
+    ],
+    "tackles": [
+        16,
+        13
+    ],
+    "interceptions": [
+        12,
+        9
+    ],
+    "aerials_won": [
+        17,
+        13
+    ],
+    "clearances": [
+        30,
+        26
+    ],
+    "offsides": [
+        0,
+        2
+    ],
+    "goal_kicks": [
+        8,
+        5
+    ],
+    "throw_ins": [
+        25,
+        16
+    ],
+    "long_balls": [
+        76,
+        71
+    ]
+}
