@@ -14,15 +14,14 @@
         "('Standard', 'G/Sh')": 0.23,
         "('Standard', 'G/SoT')": 0.47,
         "('Standard', 'Dist')": 17.4,
-        "('Standard', 'FK')": 1,
+        "('Standard', 'FK')": 1.0,
         "('Standard', 'PK')": 0,
         "('Standard', 'PKatt')": 0,
         "('Expected', 'xG')": 5.4,
         "('Expected', 'npxG')": 5.4,
         "('Expected', 'npxG/Sh')": 0.14,
         "('Expected', 'G-xG')": 3.6,
-        "('Expected', 'np:G-xG')": 3.6,
-        "('Unnamed: 22_level_0', 'Matches')": "Matches"
+        "('Expected', 'np:G-xG')": 3.6
     },
     {
         "('Unnamed: 0_level_0', 'Player')": "Lewis Dunk",
@@ -39,15 +38,14 @@
         "('Standard', 'G/Sh')": 0.05,
         "('Standard', 'G/SoT')": 0.33,
         "('Standard', 'Dist')": 11.7,
-        "('Standard', 'FK')": 1,
+        "('Standard', 'FK')": 1.0,
         "('Standard', 'PK')": 0,
         "('Standard', 'PKatt')": 0,
         "('Expected', 'xG')": 1.7,
         "('Expected', 'npxG')": 1.7,
         "('Expected', 'npxG/Sh')": 0.08,
         "('Expected', 'G-xG')": -0.7,
-        "('Expected', 'np:G-xG')": -0.7,
-        "('Unnamed: 22_level_0', 'Matches')": "Matches"
+        "('Expected', 'np:G-xG')": -0.7
     },
     {
         "('Unnamed: 0_level_0', 'Player')": "Mois\u00e9s Caicedo",
@@ -64,15 +62,14 @@
         "('Standard', 'G/Sh')": 0.04,
         "('Standard', 'G/SoT')": 0.13,
         "('Standard', 'Dist')": 23.9,
-        "('Standard', 'FK')": 0,
+        "('Standard', 'FK')": 0.0,
         "('Standard', 'PK')": 0,
         "('Standard', 'PKatt')": 0,
         "('Expected', 'xG')": 1.7,
         "('Expected', 'npxG')": 1.7,
         "('Expected', 'npxG/Sh')": 0.06,
         "('Expected', 'G-xG')": -0.7,
-        "('Expected', 'np:G-xG')": -0.7,
-        "('Unnamed: 22_level_0', 'Matches')": "Matches"
+        "('Expected', 'np:G-xG')": -0.7
     },
     {
         "('Unnamed: 0_level_0', 'Player')": "Alexis Mac Allister",
@@ -89,15 +86,14 @@
         "('Standard', 'G/Sh')": 0.05,
         "('Standard', 'G/SoT')": 0.14,
         "('Standard', 'Dist')": 22.5,
-        "('Standard', 'FK')": 8,
+        "('Standard', 'FK')": 8.0,
         "('Standard', 'PK')": 6,
         "('Standard', 'PKatt')": 6,
         "('Expected', 'xG')": 12.1,
         "('Expected', 'npxG')": 7.3,
         "('Expected', 'npxG/Sh')": 0.09,
         "('Expected', 'G-xG')": -2.1,
-        "('Expected', 'np:G-xG')": -3.3,
-        "('Unnamed: 22_level_0', 'Matches')": "Matches"
+        "('Expected', 'np:G-xG')": -3.3
     },
     {
         "('Unnamed: 0_level_0', 'Player')": "Solly March",
@@ -114,15 +110,14 @@
         "('Standard', 'G/Sh')": 0.09,
         "('Standard', 'G/SoT')": 0.23,
         "('Standard', 'Dist')": 16.2,
-        "('Standard', 'FK')": 1,
+        "('Standard', 'FK')": 1.0,
         "('Standard', 'PK')": 0,
         "('Standard', 'PKatt')": 0,
         "('Expected', 'xG')": 8.1,
         "('Expected', 'npxG')": 8.1,
         "('Expected', 'npxG/Sh')": 0.11,
         "('Expected', 'G-xG')": -1.1,
-        "('Expected', 'np:G-xG')": -1.1,
-        "('Unnamed: 22_level_0', 'Matches')": "Matches"
+        "('Expected', 'np:G-xG')": -1.1
     },
     {
         "('Unnamed: 0_level_0', 'Player')": "Pervis Estupi\u00f1\u00e1n",
@@ -139,15 +134,14 @@
         "('Standard', 'G/Sh')": 0.03,
         "('Standard', 'G/SoT')": 0.25,
         "('Standard', 'Dist')": 19.3,
-        "('Standard', 'FK')": 0,
+        "('Standard', 'FK')": 0.0,
         "('Standard', 'PK')": 0,
         "('Standard', 'PKatt')": 0,
         "('Expected', 'xG')": 1.7,
         "('Expected', 'npxG')": 1.7,
         "('Expected', 'npxG/Sh')": 0.06,
         "('Expected', 'G-xG')": -0.7,
-        "('Expected', 'np:G-xG')": -0.7,
-        "('Unnamed: 22_level_0', 'Matches')": "Matches"
+        "('Expected', 'np:G-xG')": -0.7
     },
     {
         "('Unnamed: 0_level_0', 'Player')": "Jo\u00ebl Veltman",
@@ -164,15 +158,14 @@
         "('Standard', 'G/Sh')": 0.07,
         "('Standard', 'G/SoT')": 0.2,
         "('Standard', 'Dist')": 16.3,
-        "('Standard', 'FK')": 0,
+        "('Standard', 'FK')": 0.0,
         "('Standard', 'PK')": 0,
         "('Standard', 'PKatt')": 0,
         "('Expected', 'xG')": 1.8,
         "('Expected', 'npxG')": 1.8,
         "('Expected', 'npxG/Sh')": 0.12,
         "('Expected', 'G-xG')": -0.8,
-        "('Expected', 'np:G-xG')": -0.8,
-        "('Unnamed: 22_level_0', 'Matches')": "Matches"
+        "('Expected', 'np:G-xG')": -0.8
     },
     {
         "('Unnamed: 0_level_0', 'Player')": "Kaoru Mitoma",
@@ -189,15 +182,14 @@
         "('Standard', 'G/Sh')": 0.13,
         "('Standard', 'G/SoT')": 0.33,
         "('Standard', 'Dist')": 13.2,
-        "('Standard', 'FK')": 0,
+        "('Standard', 'FK')": 0.0,
         "('Standard', 'PK')": 0,
         "('Standard', 'PKatt')": 0,
         "('Expected', 'xG')": 8.1,
         "('Expected', 'npxG')": 8.1,
         "('Expected', 'npxG/Sh')": 0.16,
         "('Expected', 'G-xG')": -1.1,
-        "('Expected', 'np:G-xG')": -1.1,
-        "('Unnamed: 22_level_0', 'Matches')": "Matches"
+        "('Expected', 'np:G-xG')": -1.1
     },
     {
         "('Unnamed: 0_level_0', 'Player')": "Robert S\u00e1nchez",
@@ -214,15 +206,14 @@
         "('Standard', 'G/Sh')": null,
         "('Standard', 'G/SoT')": null,
         "('Standard', 'Dist')": null,
-        "('Standard', 'FK')": 0,
+        "('Standard', 'FK')": 0.0,
         "('Standard', 'PK')": 0,
         "('Standard', 'PKatt')": 0,
         "('Expected', 'xG')": 0.0,
         "('Expected', 'npxG')": 0.0,
         "('Expected', 'npxG/Sh')": null,
         "('Expected', 'G-xG')": 0.0,
-        "('Expected', 'np:G-xG')": 0.0,
-        "('Unnamed: 22_level_0', 'Matches')": "Matches"
+        "('Expected', 'np:G-xG')": 0.0
     },
     {
         "('Unnamed: 0_level_0', 'Player')": "Adam Webster",
@@ -239,15 +230,14 @@
         "('Standard', 'G/Sh')": 0.0,
         "('Standard', 'G/SoT')": 0.0,
         "('Standard', 'Dist')": 11.2,
-        "('Standard', 'FK')": 0,
+        "('Standard', 'FK')": 0.0,
         "('Standard', 'PK')": 0,
         "('Standard', 'PKatt')": 0,
         "('Expected', 'xG')": 1.8,
         "('Expected', 'npxG')": 1.8,
         "('Expected', 'npxG/Sh')": 0.1,
         "('Expected', 'G-xG')": -1.8,
-        "('Expected', 'np:G-xG')": -1.8,
-        "('Unnamed: 22_level_0', 'Matches')": "Matches"
+        "('Expected', 'np:G-xG')": -1.8
     },
     {
         "('Unnamed: 0_level_0', 'Player')": "Danny Welbeck",
@@ -264,15 +254,14 @@
         "('Standard', 'G/Sh')": 0.1,
         "('Standard', 'G/SoT')": 0.27,
         "('Standard', 'Dist')": 14.1,
-        "('Standard', 'FK')": 1,
+        "('Standard', 'FK')": 1.0,
         "('Standard', 'PK')": 0,
         "('Standard', 'PKatt')": 0,
         "('Expected', 'xG')": 9.4,
         "('Expected', 'npxG')": 9.4,
         "('Expected', 'npxG/Sh')": 0.15,
         "('Expected', 'G-xG')": -3.4,
-        "('Expected', 'np:G-xG')": -3.4,
-        "('Unnamed: 22_level_0', 'Matches')": "Matches"
+        "('Expected', 'np:G-xG')": -3.4
     },
     {
         "('Unnamed: 0_level_0', 'Player')": "Leandro Trossard",
@@ -289,15 +278,14 @@
         "('Standard', 'G/Sh')": 0.18,
         "('Standard', 'G/SoT')": 0.41,
         "('Standard', 'Dist')": 15.0,
-        "('Standard', 'FK')": 0,
+        "('Standard', 'FK')": 0.0,
         "('Standard', 'PK')": 0,
         "('Standard', 'PKatt')": 0,
         "('Expected', 'xG')": 4.4,
         "('Expected', 'npxG')": 4.4,
         "('Expected', 'npxG/Sh')": 0.12,
         "('Expected', 'G-xG')": 2.6,
-        "('Expected', 'np:G-xG')": 2.6,
-        "('Unnamed: 22_level_0', 'Matches')": "Matches"
+        "('Expected', 'np:G-xG')": 2.6
     },
     {
         "('Unnamed: 0_level_0', 'Player')": "Jason Steele",
@@ -314,15 +302,14 @@
         "('Standard', 'G/Sh')": null,
         "('Standard', 'G/SoT')": null,
         "('Standard', 'Dist')": null,
-        "('Standard', 'FK')": 0,
+        "('Standard', 'FK')": 0.0,
         "('Standard', 'PK')": 0,
         "('Standard', 'PKatt')": 0,
         "('Expected', 'xG')": 0.0,
         "('Expected', 'npxG')": 0.0,
         "('Expected', 'npxG/Sh')": null,
         "('Expected', 'G-xG')": 0.0,
-        "('Expected', 'np:G-xG')": 0.0,
-        "('Unnamed: 22_level_0', 'Matches')": "Matches"
+        "('Expected', 'np:G-xG')": 0.0
     },
     {
         "('Unnamed: 0_level_0', 'Player')": "Levi Colwill",
@@ -339,15 +326,14 @@
         "('Standard', 'G/Sh')": 0.0,
         "('Standard', 'G/SoT')": null,
         "('Standard', 'Dist')": 7.0,
-        "('Standard', 'FK')": 0,
+        "('Standard', 'FK')": 0.0,
         "('Standard', 'PK')": 0,
         "('Standard', 'PKatt')": 0,
         "('Expected', 'xG')": 1.4,
         "('Expected', 'npxG')": 1.4,
         "('Expected', 'npxG/Sh')": 0.18,
         "('Expected', 'G-xG')": -1.4,
-        "('Expected', 'np:G-xG')": -1.4,
-        "('Unnamed: 22_level_0', 'Matches')": "Matches"
+        "('Expected', 'np:G-xG')": -1.4
     },
     {
         "('Unnamed: 0_level_0', 'Player')": "Adam Lallana",
@@ -364,15 +350,14 @@
         "('Standard', 'G/Sh')": 0.25,
         "('Standard', 'G/SoT')": 0.4,
         "('Standard', 'Dist')": 13.3,
-        "('Standard', 'FK')": 0,
+        "('Standard', 'FK')": 0.0,
         "('Standard', 'PK')": 0,
         "('Standard', 'PKatt')": 0,
         "('Expected', 'xG')": 0.9,
         "('Expected', 'npxG')": 0.9,
         "('Expected', 'npxG/Sh')": 0.11,
         "('Expected', 'G-xG')": 1.1,
-        "('Expected', 'np:G-xG')": 1.1,
-        "('Unnamed: 22_level_0', 'Matches')": "Matches"
+        "('Expected', 'np:G-xG')": 1.1
     },
     {
         "('Unnamed: 0_level_0', 'Player')": "Evan Ferguson",
@@ -389,15 +374,14 @@
         "('Standard', 'G/Sh')": 0.17,
         "('Standard', 'G/SoT')": 0.35,
         "('Standard', 'Dist')": 15.2,
-        "('Standard', 'FK')": 0,
+        "('Standard', 'FK')": 0.0,
         "('Standard', 'PK')": 0,
         "('Standard', 'PKatt')": 0,
         "('Expected', 'xG')": 5.3,
         "('Expected', 'npxG')": 5.3,
         "('Expected', 'npxG/Sh')": 0.15,
         "('Expected', 'G-xG')": 0.7,
-        "('Expected', 'np:G-xG')": 0.7,
-        "('Unnamed: 22_level_0', 'Matches')": "Matches"
+        "('Expected', 'np:G-xG')": 0.7
     },
     {
         "('Unnamed: 0_level_0', 'Player')": "Julio C\u00e9sar Enciso",
@@ -414,15 +398,14 @@
         "('Standard', 'G/Sh')": 0.11,
         "('Standard', 'G/SoT')": 0.22,
         "('Standard', 'Dist')": 19.6,
-        "('Standard', 'FK')": 0,
+        "('Standard', 'FK')": 0.0,
         "('Standard', 'PK')": 0,
         "('Standard', 'PKatt')": 0,
         "('Expected', 'xG')": 4.0,
         "('Expected', 'npxG')": 4.0,
         "('Expected', 'npxG/Sh')": 0.11,
         "('Expected', 'G-xG')": 0.0,
-        "('Expected', 'np:G-xG')": 0.0,
-        "('Unnamed: 22_level_0', 'Matches')": "Matches"
+        "('Expected', 'np:G-xG')": 0.0
     },
     {
         "('Unnamed: 0_level_0', 'Player')": "Billy Gilmour",
@@ -439,15 +422,14 @@
         "('Standard', 'G/Sh')": 0.0,
         "('Standard', 'G/SoT')": 0.0,
         "('Standard', 'Dist')": 20.1,
-        "('Standard', 'FK')": 0,
+        "('Standard', 'FK')": 0.0,
         "('Standard', 'PK')": 0,
         "('Standard', 'PKatt')": 0,
         "('Expected', 'xG')": 0.5,
         "('Expected', 'npxG')": 0.5,
         "('Expected', 'npxG/Sh')": 0.09,
         "('Expected', 'G-xG')": -0.5,
-        "('Expected', 'np:G-xG')": -0.5,
-        "('Unnamed: 22_level_0', 'Matches')": "Matches"
+        "('Expected', 'np:G-xG')": -0.5
     },
     {
         "('Unnamed: 0_level_0', 'Player')": "Deniz Undav",
@@ -464,15 +446,14 @@
         "('Standard', 'G/Sh')": 0.19,
         "('Standard', 'G/SoT')": 0.42,
         "('Standard', 'Dist')": 13.8,
-        "('Standard', 'FK')": 0,
+        "('Standard', 'FK')": 0.0,
         "('Standard', 'PK')": 0,
         "('Standard', 'PKatt')": 0,
         "('Expected', 'xG')": 4.5,
         "('Expected', 'npxG')": 4.5,
         "('Expected', 'npxG/Sh')": 0.18,
         "('Expected', 'G-xG')": 0.5,
-        "('Expected', 'np:G-xG')": 0.5,
-        "('Unnamed: 22_level_0', 'Matches')": "Matches"
+        "('Expected', 'np:G-xG')": 0.5
     },
     {
         "('Unnamed: 0_level_0', 'Player')": "Facundo Buonanotte",
@@ -489,15 +470,14 @@
         "('Standard', 'G/Sh')": 0.09,
         "('Standard', 'G/SoT')": 0.33,
         "('Standard', 'Dist')": 16.9,
-        "('Standard', 'FK')": 0,
+        "('Standard', 'FK')": 0.0,
         "('Standard', 'PK')": 0,
         "('Standard', 'PKatt')": 0,
         "('Expected', 'xG')": 1.4,
         "('Expected', 'npxG')": 1.4,
         "('Expected', 'npxG/Sh')": 0.13,
         "('Expected', 'G-xG')": -0.4,
-        "('Expected', 'np:G-xG')": -0.4,
-        "('Unnamed: 22_level_0', 'Matches')": "Matches"
+        "('Expected', 'np:G-xG')": -0.4
     },
     {
         "('Unnamed: 0_level_0', 'Player')": "Tariq Lamptey",
@@ -514,15 +494,14 @@
         "('Standard', 'G/Sh')": 0.0,
         "('Standard', 'G/SoT')": null,
         "('Standard', 'Dist')": 20.1,
-        "('Standard', 'FK')": 0,
+        "('Standard', 'FK')": 0.0,
         "('Standard', 'PK')": 0,
         "('Standard', 'PKatt')": 0,
         "('Expected', 'xG')": 0.2,
         "('Expected', 'npxG')": 0.2,
         "('Expected', 'npxG/Sh')": 0.04,
         "('Expected', 'G-xG')": -0.2,
-        "('Expected', 'np:G-xG')": -0.2,
-        "('Unnamed: 22_level_0', 'Matches')": "Matches"
+        "('Expected', 'np:G-xG')": -0.2
     },
     {
         "('Unnamed: 0_level_0', 'Player')": "Jan Paul van Hecke",
@@ -539,15 +518,14 @@
         "('Standard', 'G/Sh')": 0.0,
         "('Standard', 'G/SoT')": null,
         "('Standard', 'Dist')": 16.3,
-        "('Standard', 'FK')": 0,
+        "('Standard', 'FK')": 0.0,
         "('Standard', 'PK')": 0,
         "('Standard', 'PKatt')": 0,
         "('Expected', 'xG')": 0.6,
         "('Expected', 'npxG')": 0.6,
         "('Expected', 'npxG/Sh')": 0.3,
         "('Expected', 'G-xG')": -0.6,
-        "('Expected', 'np:G-xG')": -0.6,
-        "('Unnamed: 22_level_0', 'Matches')": "Matches"
+        "('Expected', 'np:G-xG')": -0.6
     },
     {
         "('Unnamed: 0_level_0', 'Player')": "Enock Mwepu",
@@ -564,15 +542,14 @@
         "('Standard', 'G/Sh')": 0.0,
         "('Standard', 'G/SoT')": 0.0,
         "('Standard', 'Dist')": 16.7,
-        "('Standard', 'FK')": 0,
+        "('Standard', 'FK')": 0.0,
         "('Standard', 'PK')": 0,
         "('Standard', 'PKatt')": 0,
         "('Expected', 'xG')": 0.2,
         "('Expected', 'npxG')": 0.2,
         "('Expected', 'npxG/Sh')": 0.11,
         "('Expected', 'G-xG')": -0.2,
-        "('Expected', 'np:G-xG')": -0.2,
-        "('Unnamed: 22_level_0', 'Matches')": "Matches"
+        "('Expected', 'np:G-xG')": -0.2
     },
     {
         "('Unnamed: 0_level_0', 'Player')": "Jeremy Sarmiento",
@@ -589,15 +566,14 @@
         "('Standard', 'G/Sh')": 0.0,
         "('Standard', 'G/SoT')": 0.0,
         "('Standard', 'Dist')": 20.5,
-        "('Standard', 'FK')": 0,
+        "('Standard', 'FK')": 0.0,
         "('Standard', 'PK')": 0,
         "('Standard', 'PKatt')": 0,
         "('Expected', 'xG')": 0.3,
         "('Expected', 'npxG')": 0.3,
         "('Expected', 'npxG/Sh')": 0.07,
         "('Expected', 'G-xG')": -0.3,
-        "('Expected', 'np:G-xG')": -0.3,
-        "('Unnamed: 22_level_0', 'Matches')": "Matches"
+        "('Expected', 'np:G-xG')": -0.3
     },
     {
         "('Unnamed: 0_level_0', 'Player')": "Yasin Ayari",
@@ -614,15 +590,14 @@
         "('Standard', 'G/Sh')": 0.0,
         "('Standard', 'G/SoT')": null,
         "('Standard', 'Dist')": 29.7,
-        "('Standard', 'FK')": 0,
+        "('Standard', 'FK')": 0.0,
         "('Standard', 'PK')": 0,
         "('Standard', 'PKatt')": 0,
         "('Expected', 'xG')": 0.0,
         "('Expected', 'npxG')": 0.0,
         "('Expected', 'npxG/Sh')": 0.02,
         "('Expected', 'G-xG')": 0.0,
-        "('Expected', 'np:G-xG')": 0.0,
-        "('Unnamed: 22_level_0', 'Matches')": "Matches"
+        "('Expected', 'np:G-xG')": 0.0
     },
     {
         "('Unnamed: 0_level_0', 'Player')": "Odeluga Offiah",
@@ -639,15 +614,14 @@
         "('Standard', 'G/Sh')": null,
         "('Standard', 'G/SoT')": null,
         "('Standard', 'Dist')": null,
-        "('Standard', 'FK')": 0,
+        "('Standard', 'FK')": 0.0,
         "('Standard', 'PK')": 0,
         "('Standard', 'PKatt')": 0,
         "('Expected', 'xG')": 0.0,
         "('Expected', 'npxG')": 0.0,
         "('Expected', 'npxG/Sh')": null,
         "('Expected', 'G-xG')": 0.0,
-        "('Expected', 'np:G-xG')": 0.0,
-        "('Unnamed: 22_level_0', 'Matches')": "Matches"
+        "('Expected', 'np:G-xG')": 0.0
     },
     {
         "('Unnamed: 0_level_0', 'Player')": "Andrew Moran",
@@ -664,15 +638,14 @@
         "('Standard', 'G/Sh')": null,
         "('Standard', 'G/SoT')": null,
         "('Standard', 'Dist')": null,
-        "('Standard', 'FK')": 0,
+        "('Standard', 'FK')": 0.0,
         "('Standard', 'PK')": 0,
         "('Standard', 'PKatt')": 0,
         "('Expected', 'xG')": 0.0,
         "('Expected', 'npxG')": 0.0,
         "('Expected', 'npxG/Sh')": null,
         "('Expected', 'G-xG')": 0.0,
-        "('Expected', 'np:G-xG')": 0.0,
-        "('Unnamed: 22_level_0', 'Matches')": "Matches"
+        "('Expected', 'np:G-xG')": 0.0
     },
     {
         "('Unnamed: 0_level_0', 'Player')": "Cameron Peupion",
@@ -689,15 +662,14 @@
         "('Standard', 'G/Sh')": 0.0,
         "('Standard', 'G/SoT')": null,
         "('Standard', 'Dist')": 8.0,
-        "('Standard', 'FK')": 0,
+        "('Standard', 'FK')": 0.0,
         "('Standard', 'PK')": 0,
         "('Standard', 'PKatt')": 0,
         "('Expected', 'xG')": 0.1,
         "('Expected', 'npxG')": 0.1,
         "('Expected', 'npxG/Sh')": 0.06,
         "('Expected', 'G-xG')": -0.1,
-        "('Expected', 'np:G-xG')": -0.1,
-        "('Unnamed: 22_level_0', 'Matches')": "Matches"
+        "('Expected', 'np:G-xG')": -0.1
     },
     {
         "('Unnamed: 0_level_0', 'Player')": "Jack Hinshelwood",
@@ -714,15 +686,14 @@
         "('Standard', 'G/Sh')": null,
         "('Standard', 'G/SoT')": null,
         "('Standard', 'Dist')": null,
-        "('Standard', 'FK')": 0,
+        "('Standard', 'FK')": 0.0,
         "('Standard', 'PK')": 0,
         "('Standard', 'PKatt')": 0,
         "('Expected', 'xG')": 0.0,
         "('Expected', 'npxG')": 0.0,
         "('Expected', 'npxG/Sh')": null,
         "('Expected', 'G-xG')": 0.0,
-        "('Expected', 'np:G-xG')": 0.0,
-        "('Unnamed: 22_level_0', 'Matches')": "Matches"
+        "('Expected', 'np:G-xG')": 0.0
     },
     {
         "('Unnamed: 0_level_0', 'Player')": "Squad Total",
@@ -738,22 +709,21 @@
         "('Standard', 'SoT/90')": 5.76,
         "('Standard', 'G/Sh')": 0.1,
         "('Standard', 'G/SoT')": 0.28,
-        "('Standard', 'Dist')": 16.8,
-        "('Standard', 'FK')": 12,
+        "('Standard', 'Dist')": null,
+        "('Standard', 'FK')": null,
         "('Standard', 'PK')": 6,
         "('Standard', 'PKatt')": 6,
-        "('Expected', 'xG')": 73.3,
-        "('Expected', 'npxG')": 68.9,
-        "('Expected', 'npxG/Sh')": 0.12,
-        "('Expected', 'G-xG')": -5.3,
-        "('Expected', 'np:G-xG')": -6.9,
-        "('Unnamed: 22_level_0', 'Matches')": null
+        "('Expected', 'xG')": null,
+        "('Expected', 'npxG')": null,
+        "('Expected', 'npxG/Sh')": null,
+        "('Expected', 'G-xG')": null,
+        "('Expected', 'np:G-xG')": null
     },
     {
         "('Unnamed: 0_level_0', 'Player')": "Opponent Total",
         "('Unnamed: 1_level_0', 'Nation')": null,
         "('Unnamed: 2_level_0', 'Pos')": null,
-        "('Unnamed: 3_level_0', 'Age')": 26.5,
+        "('Unnamed: 3_level_0', 'Age')": null,
         "('Unnamed: 4_level_0', '90s')": 38.0,
         "('Standard', 'Gls')": 47,
         "('Standard', 'Sh')": 380,
@@ -763,15 +733,14 @@
         "('Standard', 'SoT/90')": 3.24,
         "('Standard', 'G/Sh')": 0.11,
         "('Standard', 'G/SoT')": 0.33,
-        "('Standard', 'Dist')": 16.2,
-        "('Standard', 'FK')": 15,
+        "('Standard', 'Dist')": null,
+        "('Standard', 'FK')": null,
         "('Standard', 'PK')": 6,
         "('Standard', 'PKatt')": 8,
-        "('Expected', 'xG')": 50.2,
-        "('Expected', 'npxG')": 43.7,
-        "('Expected', 'npxG/Sh')": 0.12,
-        "('Expected', 'G-xG')": -3.2,
-        "('Expected', 'np:G-xG')": -2.7,
-        "('Unnamed: 22_level_0', 'Matches')": null
+        "('Expected', 'xG')": null,
+        "('Expected', 'npxG')": null,
+        "('Expected', 'npxG/Sh')": null,
+        "('Expected', 'G-xG')": null,
+        "('Expected', 'np:G-xG')": null
     }
 ]

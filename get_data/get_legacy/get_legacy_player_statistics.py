@@ -51,6 +51,22 @@ class LegacyPlayerStatistics:
 							print("Timeout occurred. Trying again in 15 minutes...")
 							print("Current Time:", time.strftime("%H:%M:%S", time.localtime()))
 
+					# Use list comprehension to iterate over the tables
+					try:
+						# Initialize BeautifulSoup
+						soup_team_list = BeautifulSoup(html.text, features="lxml")
+
+						tables = [
+							pd.read_html(io.StringIO(str(data)))[0]
+							for data in soup_team_list.select('table.stats_table')
+						]
+					except IndexError:
+						print("IndexError occurred. Trying to get the html again...")
+						html = requests.get(item[0], timeout=30)
+
+						# Initialize BeautifulSoup
+						soup_team_list = BeautifulSoup(html.text, features="lxml")
+
 					# Initialize BeautifulSoup
 					soup_team_list = BeautifulSoup(html.text, features="lxml")
 
@@ -58,12 +74,6 @@ class LegacyPlayerStatistics:
 					folder_name = os.path.join(f"raw_data/{league}/{season}/player_data", item[1])
 					os.makedirs(folder_name, exist_ok=True)		
 					print(folder_name)
-
-					# Use list comprehension to iterate over the tables
-					tables = [
-						pd.read_html(io.StringIO(str(data)))[0]
-						for data in soup_team_list.select('table.stats_table')
-					]
 
 					for table_name, table in zip(player_statistics_tables, tables):
 						# Create a .JSON file using the strings from squad table
