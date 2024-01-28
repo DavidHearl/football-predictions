@@ -62,13 +62,11 @@ class LegacyPlayerStatistics:
 						]
 					except IndexError:
 						print("IndexError occurred. Trying to get the html again...")
+						time.sleep(900) # Wait 15 minutes before trying again
 						html = requests.get(item[0], timeout=30)
 
 						# Initialize BeautifulSoup
 						soup_team_list = BeautifulSoup(html.text, features="lxml")
-
-					# Initialize BeautifulSoup
-					soup_team_list = BeautifulSoup(html.text, features="lxml")
 
 					# Create a new folder for each team
 					folder_name = os.path.join(f"raw_data/{league}/{season}/player_data", item[1])
