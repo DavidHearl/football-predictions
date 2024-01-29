@@ -6,10 +6,10 @@ It provides a StatsProcessor class that processes the data using timing decorato
 import time
 from functools import wraps
 
-from get_data.get_folder_structure import CreateStructure
-from get_data.get_club_statistics import ClubStatistics
-from get_data.get_player_statistics import PlayerStatistics
-from get_data.get_match_history import MatchHistory
+from get_data.get_current.get_folder_structure import CreateStructure
+from get_data.get_current.get_club_statistics import ClubStatistics
+from get_data.get_current.get_player_statistics import PlayerStatistics
+from get_data.get_current.get_match_history import MatchHistory
 
 # Set the season
 season = '2023-2024'

@@ -47,9 +47,9 @@ class LegacyPlayerStatistics:
 							print(item[0])
 							break
 						except requests.exceptions.Timeout:
-							time.sleep(900) # Wait 15 minutes before trying again
 							print("Timeout occurred. Trying again in 15 minutes...")
 							print("Current Time:", time.strftime("%H:%M:%S", time.localtime()))
+							time.sleep(900) # Wait 15 minutes before trying again
 
 					# Use list comprehension to iterate over the tables
 					try:

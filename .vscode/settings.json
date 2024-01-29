@@ -10,4 +10,7 @@
         "editor.defaultFormatter": "ms-python.autopep8"
     },
     "python.formatting.provider": "none",
+    "workbench.tree.indent": 16,
+    "workbench.colorCustomizations": {
+    "tree.indentGuidesStroke": "#00ff00"}
 }

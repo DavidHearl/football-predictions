@@ -16,12 +16,11 @@ class LegacyClubStatistics:
         self.legacy_seasons = legacy_seasons
 
     def get_club_data(self):
+        print("Getting club data...")
+
         # Open the urls.json file and load the data
         with open('get_data/keys.json', 'r') as f:
             data = json.load(f)
-
-        # Print a blank line to separate the output
-        print()
         
         # Get the list of table names, used for json file names
         overall_statistics_tables = data['overall_statistics_tables']
@@ -38,8 +37,15 @@ class LegacyClubStatistics:
                 elif league == 'ligue_1':
                     url = f"https://fbref.com/en/comps/13/{season}/{season}-Ligue-1-Stats"
 
-                # Add delay to prevent server from blocking the request
-                time.sleep(4)
+                # Print a blank line to separate the output
+                print()
+                print("Current Time:", time.strftime("%H:%M:%S", time.localtime()))
+
+                # Add a delay to stop the server from blocking the request
+                random_number = random.uniform(3, 5)
+                print(f"Waiting {random_number} seconds...")
+                time.sleep(random_number)
+                print()
 
                 folder_name = f"raw_data/{league}/{season}/club_data"
 
@@ -50,9 +56,10 @@ class LegacyClubStatistics:
                         html = requests.get(url, timeout=20)
                         break
                     except requests.exceptions.Timeout:
-                        time.sleep(900) # Wait 15 minutes before trying again
                         print("Timeout occurred. Trying again in 15 minutes...")
                         print("Current Time:", time.strftime("%H:%M:%S", time.localtime()))
+                        print()
+                        time.sleep(900) # Wait 15 minutes before trying again
 
                 # Initialize BeautifulSoup
                 soup_team_list = BeautifulSoup(html.text, features="lxml")

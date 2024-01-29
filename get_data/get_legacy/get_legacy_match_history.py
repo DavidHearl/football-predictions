@@ -19,6 +19,8 @@ class LegacyMatchHistory:
 
 	# Download all the player tables from the club url
 	def get_fixtures(self):
+		print("Getting fixtures...")
+
 		# Open the urls.json file and load the data
 		with open('get_data/keys.json', 'r') as f:
 			data = json.load(f)
@@ -28,8 +30,14 @@ class LegacyMatchHistory:
 		for league in club_urls:
 			for season in self.legacy_seasons:
 				for item in club_urls[league][season]:
-					# Add a delay to prevent the server from blocking the request
-					time.sleep(4)
+					print()
+					print("Current Time:", time.strftime("%H:%M:%S", time.localtime()))
+
+					# Add a delay to stop the server from blocking the request
+					random_number = random.uniform(3, 5)
+					print(f"Waiting {random_number} seconds...")
+					time.sleep(random_number)
+					print()
 
 					# Add a delay to try again if the request fails
 					while True:
@@ -38,10 +46,10 @@ class LegacyMatchHistory:
 							html = requests.get(item[0], timeout=20)
 							break
 						except requests.exceptions.Timeout:
-							time.sleep(900) # Wait 15 minutes before trying again
 							print("Timeout occurred. Trying again in 15 minutes...")
 							print("Current Time:", time.strftime("%H:%M:%S", time.localtime()))
-
+							time.sleep(900) # Wait 15 minutes before trying again
+							
 					# Initialize BeautifulSoup
 					soup_team_list = BeautifulSoup(html.text, features="lxml")
 
@@ -94,6 +102,8 @@ class LegacyMatchHistory:
 
 
 	def clean_fixtures(self):
+		print("Cleaning fixtures...")
+
 		# Open the keys.json file and load the data
 		with open('get_data/keys.json', 'r') as f:
 			data = json.load(f)
@@ -164,6 +174,8 @@ class LegacyMatchHistory:
 
 
 	def create_match_folders(self):
+		print("Creating match folders...")
+
 		location = f"raw_data/{season}/match_data"
 		base_url = 'https://fbref.com'
 
@@ -209,9 +221,10 @@ class LegacyMatchHistory:
 									html = requests.get(item[0], timeout=20)
 									break
 								except requests.exceptions.Timeout:
-									time.sleep(900) # Wait 15 minutes before trying again
 									print("Timeout occurred. Trying again in 15 minutes...")
 									print("Current Time:", time.strftime("%H:%M:%S", time.localtime()))
+									time.sleep(900) # Wait 15 minutes before trying again
+									
 
 							# Initialize BeautifulSoup
 							soup_match_report = BeautifulSoup(html.text, features="lxml")
@@ -315,8 +328,11 @@ class LegacyMatchHistory:
 							print(f"Number of Tables: {table_length}")
 
 							for i in range(8):
-								# Add a delay to prevent the server from blocking the request
-								time.sleep(3)
+								# Add a delay to stop the server from blocking the request
+								random_number = random.uniform(3, 5)
+								print(f"Waiting {random_number} seconds...")
+								time.sleep(random_number)
+								print()
 
 								# Selects different table set for home and away teams
 								if home_away == 'Home':

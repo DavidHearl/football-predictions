@@ -22,6 +22,7 @@ class CreateStructure:
 
     def folder_structure(self):
         print("Creating folder structure...")
+        print("Current Time:", time.strftime("%H:%M:%S", time.localtime()))
 
         # Open the urls.json file and load the data
         with open('get_data/keys.json', 'r') as f:
@@ -51,8 +52,11 @@ class CreateStructure:
                 elif league == 'ligue_1':
                     url = f"https://fbref.com/en/comps/13/{season}/{season}-Ligue-1-Stats"
 
-                # Add delay to prevent server from blocking the request
-                time.sleep(4)
+                # Add a delay to stop the server from blocking the request
+                random_number = random.uniform(3, 5)
+                print(f"Waiting {random_number} seconds...")
+                time.sleep(random_number)
+                print()
                 
                 # Add a delay to try again if the request fails
                 while True:
