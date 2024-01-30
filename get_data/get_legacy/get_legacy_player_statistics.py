@@ -17,7 +17,9 @@ class LegacyPlayerStatistics:
 
 	# Download all the player tables from the club url
 	def get_player_data(self):
-		print("Getting player data...")
+		print("-------------------------------------------")
+		print("----------- Getting player data -----------")
+		print("-------------------------------------------")
 
 		# Open the urls.json file and load the data
 		with open('get_data/keys.json', 'r') as f:
@@ -33,13 +35,11 @@ class LegacyPlayerStatistics:
 			for season in self.legacy_seasons:
 				for item in club_urls[league][season]:
 					print()
-					print("Current Time:", time.strftime("%H:%M:%S", time.localtime()))
-
 					# Add a delay to stop the server from blocking the request
-					random_number = random.uniform(3, 5)
-					print(f"Waiting {random_number} seconds...")
+					random_number = round(random.uniform(3, 5), 1)
+					print(f"Current Time: {time.strftime('%H:%M:%S', time.localtime())}, Waiting {random_number} seconds...")
+					print(f"Getting Player data for {item[1]} in {league}, {season} season\n")
 					time.sleep(random_number)
-					print()
 					
 					# Add a delay to try again if the request fails
 					while True:

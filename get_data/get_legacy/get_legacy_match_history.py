@@ -20,7 +20,9 @@ class LegacyMatchHistory:
 
 	# Download all the player tables from the club url
 	def get_fixtures(self):
-		print("Getting fixtures...")
+		print("-------------------------------------------")
+		print("------------- Getting fixtures ------------")
+		print("-------------------------------------------\n")
 
 		# Open the urls.json file and load the data
 		with open('get_data/keys.json', 'r') as f:
@@ -31,14 +33,11 @@ class LegacyMatchHistory:
 		for league in club_urls:
 			for season in self.legacy_seasons:
 				for item in club_urls[league][season]:
-					print()
-					print("Current Time:", time.strftime("%H:%M:%S", time.localtime()))
-
 					# Add a delay to stop the server from blocking the request
-					random_number = random.uniform(3, 5)
-					print(f"Waiting {random_number} seconds...")
+					random_number = round(random.uniform(3, 5), 1)
+					print(f"Current Time: {time.strftime('%H:%M:%S', time.localtime())}, Waiting {random_number} seconds...")
+					print(f"Getting Fixtures for {item[1]} in {league}, {season} season\nurl: {item[0]}")
 					time.sleep(random_number)
-					print()
 
 					# Add a delay to try again if the request fails
 					while True:
@@ -64,11 +63,17 @@ class LegacyMatchHistory:
 					# Read the table using Pandas
 					table_data = pd.read_html(io.StringIO(str(data)))[0]
 
-					# Extract content from 'td' elements in the 17th column
-					td_17_content = [
-						td.contents[0] if td.contents else None
-						for td in data.select('td:nth-of-type(17)')
-					]
+					if table_data.shape[1] == 19:
+						# Extract content from 'td' elements in the 17th column
+						td_17_content = [
+							td.contents[0] if td.contents else None
+							for td in data.select('td:nth-of-type(17)')
+						]
+					else:
+						td_17_content = [
+							td.contents[0] if td.contents else None
+							for td in data.select('td:nth-of-type(15)')
+						]
 
 					# Generate href_values based on the content of 'td' elements
 					href_values = []
@@ -78,32 +83,30 @@ class LegacyMatchHistory:
 						else:
 							href_values.append("Match Postponed")
 
-					# Ensure the lengths match
-					if len(href_values) == len(table_data):
-						# Replace the "Match Report" values with href values
-						table_data["Match Report"] = href_values
+					print(f"Links: {len(href_values)}, Rows: {len(table_data)}")
 
-						# Create a .JSON file using the strings from player table
-						json_filename = os.path.join(folder_name, "Scores & Fixtures.json")
-						print(json_filename)
+					# Replace the "Match Report" values with href values
+					table_data["Match Report"] = href_values
 
-						# Create the directory if it doesn't exist
-						os.makedirs(os.path.dirname(json_filename), exist_ok=True)
+					# Create a .JSON file using the strings from player table
+					json_filename = os.path.join(folder_name, "Scores & Fixtures.json")
+					print(f"File: {json_filename}\n")
 
-						# Open each .JSON file and convert tables to JSON data
-						try:
-							with open(json_filename, "w") as json_file:
-								json.dump(json.loads(table_data.to_json(orient="records")), json_file, indent=4)
-						except Exception as e:
-							print(f"Error while writing JSON file: {e}")
-					else:
-						print("Error: Length mismatch between href_values and table_data")
-						print(f"Length of href_values: {len(href_values)}")
-						print(f"Number of rows in table_data: {len(table_data)}")
+					# Create the directory if it doesn't exist
+					os.makedirs(os.path.dirname(json_filename), exist_ok=True)
+
+					# Open each .JSON file and convert tables to JSON data
+					try:
+						with open(json_filename, "w") as json_file:
+							json.dump(json.loads(table_data.to_json(orient="records")), json_file, indent=4)
+					except Exception as e:
+						print(f"Error while writing JSON file: {e}")
 
 
 	def clean_fixtures(self):
-		print("Cleaning fixtures...")
+		print("-------------------------------------------")
+		print("------------ Cleaning fixtures ------------")
+		print("-------------------------------------------\n")
 
 		# Open the keys.json file and load the data
 		with open('get_data/keys.json', 'r') as f:
@@ -175,7 +178,9 @@ class LegacyMatchHistory:
 
 
 	def create_match_folders(self):
-		print("Creating match folders...")
+		print("-------------------------------------------")
+		print("---------- Creating match folders ---------")
+		print("-------------------------------------------\n")
 
 		location = f"raw_data/{season}/match_data"
 		base_url = 'https://fbref.com'

@@ -1,7 +1,6 @@
 """
 Create the folder structure for all the leagues, the seasons, the clubs, and the player data
 """
-
 import os
 import json
 import time
@@ -14,12 +13,16 @@ import json
 from urllib.parse import urljoin
 
 
+# The server will block the request if frequency exceeds 1 request per 3 seconds (20 requests per minute)
+# Therefore, we need to add a delay to prevent the server from blocking the request, use 4 seconds for safety.
 class CreateStructure:
     def __init__(self, season):
         self.season = season
 
     def folder_structure(self):
-        print("Creating folder structure...")
+        print("-------------------------------------------")
+		print("-------- Creating folder structure --------")
+		print("-------------------------------------------\n")
 
         # Open the urls.json file and load the data
         with open('get_data/keys.json', 'r') as f:
