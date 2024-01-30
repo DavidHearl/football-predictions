@@ -1,0 +1,107 @@
+{
+    "goals": [
+        "1",
+        "0"
+    ],
+    "expected_goals": [
+        "2.0",
+        "0.3"
+    ],
+    "home_team": [
+        "Antonio Sivera",
+        "Andoni Gorosabel",
+        "Rub\u00e9n Duarte",
+        "Ander Guevara",
+        "Antonio Blanco",
+        "Luis Rioja",
+        "Kik\u00e9",
+        "Rafa Mar\u00edn ",
+        "Jon Guridi",
+        "Carlos Vicente",
+        "Javi L\u00f3pez",
+        "Adrian Rodriguez",
+        "Alex Sola",
+        "Ianis Hagi",
+        "Nahuel Tenaglia",
+        "Xeber",
+        "Nikola Mara\u0161",
+        "Giuliano Simeone",
+        "Abderrahman Rebbach",
+        "Carlos Benav\u00eddez",
+        "Samuel Omorodion",
+        "Selu Diallo",
+        "Victor Parada"
+    ],
+    "away_team": [
+        "Jerem\u00edas Ledesma",
+        "Joseba Zald\u00faa",
+        "Fali",
+        "Rub\u00e9n Alcaraz",
+        "V\u00edctor Chust",
+        "Iv\u00e1n Alejo",
+        "Chris Ramos",
+        "Gonzalo Escalante",
+        "Sergi Guardiola",
+        "Roberto Navarro",
+        "Lucas",
+        "David Gil",
+        "Jos\u00e9 Mari",
+        "\u00c1lex Fern\u00e1ndez",
+        "\u00c1lvaro Negredo",
+        "Brian Ocampo",
+        "Rominigue Kouam\u00e9",
+        "Mamadou Mbaye",
+        "Isaac Carcelen",
+        "Jorge Mer\u00e9",
+        "Maxi G\u00f3mez",
+        "Karl Etta"
+    ],
+    "fouls": [
+        15,
+        18
+    ],
+    "corners": [
+        4,
+        4
+    ],
+    "crosses": [
+        29,
+        23
+    ],
+    "touches": [
+        470,
+        514
+    ],
+    "tackles": [
+        12,
+        18
+    ],
+    "interceptions": [
+        1,
+        7
+    ],
+    "aerials_won": [
+        18,
+        25
+    ],
+    "clearances": [
+        24,
+        30
+    ],
+    "offsides": [
+        1,
+        1
+    ],
+    "goal_kicks": [
+        9,
+        9
+    ],
+    "throw_ins": [
+        31,
+        19
+    ],
+    "long_balls": [
+        77,
+        89
+    ]
+}

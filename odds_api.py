@@ -2,11 +2,10 @@ import requests
 import json
 import os
 
-load_dotenv()
 
 # An api key is emailed to you when you sign up to a plan
 # Get a free API key at https://api.the-odds-api.com/
-API_KEY = os.getenv('ODDS_API_KEY')
+API_KEY = '3e060ba8da33e79c1cbb4ab7d551c61a'
 
 SPORT = 'soccer_epl' # use the sport_key from the /sports endpoint below, or use 'upcoming' to see the next 8 games across all sports
 

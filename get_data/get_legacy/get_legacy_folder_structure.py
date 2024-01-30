@@ -12,6 +12,7 @@ import pandas as pd
 from bs4 import BeautifulSoup
 import json
 from urllib.parse import urljoin
+import random
 
 
 # The server will block the request if frequency exceeds 1 request per 3 seconds (20 requests per minute)

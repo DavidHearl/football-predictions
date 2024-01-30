@@ -19,10 +19,10 @@
         "('Team Success', 'onGA')": 20,
         "('Team Success', '+/-')": 22,
         "('Team Success', '+/-90')": 1.05,
-        "('Team Success (xG)', 'onxG')": 39.6,
+        "('Team Success (xG)', 'onxG')": 39.4,
         "('Team Success (xG)', 'onxGA')": 16.7,
-        "('Team Success (xG)', 'xG+/-')": 22.9,
-        "('Team Success (xG)', 'xG+/-90')": 1.09
+        "('Team Success (xG)', 'xG+/-')": 22.7,
+        "('Team Success (xG)', 'xG+/-90')": 1.08
     },
     {
         "('Unnamed: 0_level_0', 'Squad')": "Aston Villa",
@@ -152,7 +152,7 @@
     {
         "('Unnamed: 0_level_0', 'Squad')": "Chelsea",
         "('Unnamed: 1_level_0', '# Pl')": 28,
-        "('Unnamed: 2_level_0', 'Age')": 25.0,
+        "('Unnamed: 2_level_0', 'Age')": 25.1,
         "('Playing Time', 'MP')": 21,
         "('Playing Time', 'Min')": 1890,
         "('Playing Time', 'Mn/MP')": 90,
@@ -195,9 +195,9 @@
         "('Team Success', '+/-')": -12,
         "('Team Success', '+/-90')": -0.57,
         "('Team Success (xG)', 'onxG')": 24.9,
-        "('Team Success (xG)', 'onxGA')": 31.8,
-        "('Team Success (xG)', 'xG+/-')": -6.8,
-        "('Team Success (xG)', 'xG+/-90')": -0.33
+        "('Team Success (xG)', 'onxGA')": 31.6,
+        "('Team Success (xG)', 'xG+/-')": -6.7,
+        "('Team Success (xG)', 'xG+/-90')": -0.32
     },
     {
         "('Unnamed: 0_level_0', 'Squad')": "Everton",
@@ -452,7 +452,7 @@
     {
         "('Unnamed: 0_level_0', 'Squad')": "West Ham",
         "('Unnamed: 1_level_0', '# Pl')": 23,
-        "('Unnamed: 2_level_0', 'Age')": 28.8,
+        "('Unnamed: 2_level_0', 'Age')": 28.9,
         "('Playing Time', 'MP')": 21,
         "('Playing Time', 'Min')": 1890,
         "('Playing Time', 'Mn/MP')": 90,

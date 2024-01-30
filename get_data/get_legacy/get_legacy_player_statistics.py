@@ -6,6 +6,7 @@ import time
 from bs4 import BeautifulSoup
 from urllib.parse import urljoin
 import io
+import random
 
 
 # The server will block the request if frequency exceeds 1 request per 3 seconds (20 requests per minute)
@@ -35,8 +36,9 @@ class LegacyPlayerStatistics:
 					print("Current Time:", time.strftime("%H:%M:%S", time.localtime()))
 
 					# Add a delay to stop the server from blocking the request
-					print("Waiting 5 seconds...")
-					time.sleep(5)
+					random_number = random.uniform(3, 5)
+					print(f"Waiting {random_number} seconds...")
+					time.sleep(random_number)
 					print()
 					
 					# Add a delay to try again if the request fails

@@ -8,6 +8,7 @@ import requests
 import pandas as pd
 from bs4 import BeautifulSoup
 from urllib.parse import urljoin
+import random
 
 
 # The server will block the request if frequency exceeds 1 request per 3 seconds (20 requests per minute)
@@ -18,12 +19,11 @@ class PlayerStatistics:
 
 	# Download all the player tables from the club url
 	def get_player_data(self):
+		print("Getting player data...")
+
 		# Open the urls.json file and load the data
 		with open('get_data/keys.json', 'r') as f:
 			data = json.load(f)
-
-		# Print a blank line to separate the output
-		print()
 
 		# Assign the player statistics tables to a variable
 		player_statistics_tables = data['player_statistics_tables']
@@ -32,9 +32,16 @@ class PlayerStatistics:
 		club_urls = data['club_urls']
 
 		for league in club_urls:
-			for item in club_urls[league]["2023-2024"]:
-				# Add delay to prevent server from blocking the request
-				time.sleep(4)
+			for item in club_urls[league][self.season]:
+				# Print a blank line to separate the output
+				print()
+				print("Current Time:", time.strftime("%H:%M:%S", time.localtime()))
+
+				# Add a delay to stop the server from blocking the request
+				random_number = round(random.uniform(3, 5), 1)
+				print(f"Waiting {random_number} seconds...")
+				time.sleep(random_number)
+				print()
 
 				# Create the base folder
 				base_folder = f"raw_data/{league}/{self.season}/player_data/"

@@ -19,6 +19,8 @@ class CreateStructure:
         self.season = season
 
     def folder_structure(self):
+        print("Creating folder structure...")
+
         # Open the urls.json file and load the data
         with open('get_data/keys.json', 'r') as f:
             data = json.load(f)

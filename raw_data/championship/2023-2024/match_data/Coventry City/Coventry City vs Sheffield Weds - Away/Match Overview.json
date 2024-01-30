@@ -1,0 +1,102 @@
+{
+    "goals": [
+        "1",
+        "2"
+    ],
+    "expected_goals": [
+        "1.5",
+        "1.1"
+    ],
+    "home_team": [
+        "James Beadle",
+        "Liam Palmer",
+        "Will Vaulks",
+        "Barry Bannan",
+        "Josh Windass",
+        "Pol Valent\u00edn",
+        "Di'Shon Bernard",
+        "Marvin Johnson",
+        "Michael Ihiekwe",
+        "Ashley Fletcher",
+        "Djeidi Gassama",
+        "Cameron Dawson",
+        "Bambo Diaby",
+        "Mallik Wilks",
+        "George Byers",
+        "Ike Ugbo",
+        "Akin Famewo",
+        "Bailey-Tye Cadamarteri",
+        "Lamine Diaby",
+        "Anthony Musaba"
+    ],
+    "away_team": [
+        "Bradley Collins",
+        "Bobby Thomas",
+        "Tatsuhiro Sakamoto",
+        "Callum O'Hare",
+        "Ben Sheaf",
+        "Liam Kitching",
+        "Jake Bidwell",
+        "Matthew Godden",
+        "Milan van Ewijk",
+        "Josh Eccles",
+        "Kasey Palmer",
+        "Ben Wilson",
+        "Luis Binks",
+        "Jay Dasilva",
+        "Kyle McFadzean",
+        "Jamie Allen",
+        "Ellis Simms",
+        "Jo\u00ebl Latibeaudi\u00e8re",
+        "Victor Torp",
+        "Fabio Tavares"
+    ],
+    "fouls": [
+        14,
+        11
+    ],
+    "corners": [
+        6,
+        7
+    ],
+    "crosses": [
+        20,
+        14
+    ],
+    "touches": [
+        540,
+        634
+    ],
+    "tackles": [
+        14,
+        15
+    ],
+    "interceptions": [
+        11,
+        11
+    ],
+    "aerials_won": [
+        13,
+        12
+    ],
+    "clearances": [
+        16,
+        33
+    ],
+    "offsides": [
+        5,
+        0
+    ],
+    "goal_kicks": [
+        6,
+        8
+    ],
+    "throw_ins": [
+        28,
+        22
+    ],
+    "long_balls": [
+        64,
+        78
+    ]
+}

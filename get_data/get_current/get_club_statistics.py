@@ -8,6 +8,7 @@ import pandas as pd
 from bs4 import BeautifulSoup
 import json
 from urllib.parse import urljoin
+import random
 
 
 # The server will block the request if frequency exceeds 1 request per 3 seconds (20 requests per minute)
@@ -22,16 +23,17 @@ class ClubStatistics:
 		# Open the urls.json file and load the data
 		with open('get_data/keys.json', 'r') as f:
 			data = json.load(f)
-
-		# Print a blank line to separate the output
-		print()
 	
 		# Get the overall statistics table list
 		overall_statistics_tables = data['overall_statistics_tables']
 
 		for league, url in zip(data['leagues'], data['overall_urls']):
+			# Print a blank line to separate the output
+			print()
+			print("Current Time:", time.strftime("%H:%M:%S", time.localtime()))
+
 			# Add a delay to stop the server from blocking the request
-			random_number = random.uniform(3, 5)
+			random_number = round(random.uniform(3, 5), 1)
 			print(f"Waiting {random_number} seconds...")
 			time.sleep(random_number)
 			print()
@@ -71,6 +73,3 @@ class ClubStatistics:
 						json.dump(json.loads(table.to_json(orient="records")), json_file, indent=4)
 				except (FileNotFoundError, IOError) as e:
 					print(f"Error: {e}")
-
-			# Print a blank line to separate the output 
-			print()
