@@ -231,9 +231,9 @@ class MatchHistory:
 								html = requests.get(match_url, timeout=20)
 								break
 							except requests.exceptions.Timeout:
-								time.sleep(900) # Wait 15 minutes before trying again
 								print("Timeout occurred. Trying again in 15 minutes...")
 								print("Current Time:", time.strftime("%H:%M:%S", time.localtime()))
+								time.sleep(900) # Wait 15 minutes before trying again
 
 						# Initialize BeautifulSoup
 						soup_match_report = BeautifulSoup(html.text, features="lxml")
