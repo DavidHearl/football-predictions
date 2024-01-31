@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "2",
+        "3"
+    ],
+    "expected_goals": [
+        "0.6",
+        "1.4"
+    ],
+    "home_team": [
+        "Jack Bonham",
+        "Tommy Smith",
+        "Joe Allen",
+        "James Chester",
+        "Sam Clucas",
+        "Josh Tymon",
+        "Jacob Brown",
+        "Phil Jagielka",
+        "Taylor Harwood-Bellis",
+        "D'Margio Wright-Phillips",
+        "Lewis Baker",
+        "Frank Fielding",
+        "Morgan Fox",
+        "Mario Vran\u010di\u0107",
+        "Steven Fletcher",
+        "Tyrese Campbell",
+        "Tom Ince",
+        "Jaden Philogene Bidace"
+    ],
+    "away_team": [
+        "Marek Rod\u00e1k",
+        "Kenny Tete",
+        "Harrison Reed",
+        "Neeskens Kebano",
+        "Tom Cairney",
+        "Tim Ream",
+        "Bobby Reid",
+        "Tosin Adarabioyo",
+        "Rodrigo Muniz",
+        "Fabio Carvalho",
+        "Antonee Robinson",
+        "Paulo Gazzaniga",
+        "Michael Hector",
+        "Denis Odoi",
+        "Anthony Knockaert",
+        "Nathaniel Chalobah",
+        "Josh Onomah",
+        "Jay Stansfield"
+    ],
+    "fouls": [
+        7,
+        11
+    ],
+    "corners": [
+        3,
+        5
+    ],
+    "crosses": [
+        14,
+        13
+    ],
+    "touches": [
+        555,
+        585
+    ],
+    "tackles": [
+        18,
+        17
+    ],
+    "interceptions": [
+        13,
+        13
+    ],
+    "aerials_won": [
+        17,
+        22
+    ],
+    "clearances": [
+        13,
+        12
+    ],
+    "offsides": [
+        5,
+        1
+    ],
+    "goal_kicks": [
+        7,
+        5
+    ],
+    "throw_ins": [
+        29,
+        25
+    ],
+    "long_balls": [
+        72,
+        72
+    ]
+}

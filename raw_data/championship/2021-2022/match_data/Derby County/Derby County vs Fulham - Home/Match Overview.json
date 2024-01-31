@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "2",
+        "1"
+    ],
+    "expected_goals": [
+        "0.6",
+        "2.5"
+    ],
+    "home_team": [
+        "Ryan Allsop",
+        "Nathan Byrne",
+        "Krystian Bielik",
+        "Tom Lawrence",
+        "Lee Buchanan",
+        "Malcolm Ebiowei",
+        "Curtis Davies",
+        "Jason Knight",
+        "Eiran Joe Cashin",
+        "Liam Thompson",
+        "Luke Plange",
+        "Kelle Roos",
+        "Craig Forsyth",
+        "Richard Stearman",
+        "Louie Sibley",
+        "Festy Ebosele",
+        "Carlos Richards",
+        "Bartosz Cybulski"
+    ],
+    "away_team": [
+        "Marek Rod\u00e1k",
+        "Harrison Reed",
+        "Harry Wilson",
+        "Aleksandar Mitrovi\u0107",
+        "Tom Cairney",
+        "Tim Ream",
+        "Bobby Reid",
+        "Tosin Adarabioyo",
+        "Neco Williams",
+        "Joe Bryan",
+        "Fabio Carvalho",
+        "Paulo Gazzaniga",
+        "Michael Hector",
+        "Neeskens Kebano",
+        "Nathaniel Chalobah",
+        "Rodrigo Muniz",
+        "Jean Seri",
+        "Antonee Robinson"
+    ],
+    "fouls": [
+        8,
+        11
+    ],
+    "corners": [
+        3,
+        8
+    ],
+    "crosses": [
+        11,
+        22
+    ],
+    "touches": [
+        548,
+        585
+    ],
+    "tackles": [
+        11,
+        19
+    ],
+    "interceptions": [
+        9,
+        1
+    ],
+    "aerials_won": [
+        10,
+        16
+    ],
+    "clearances": [
+        17,
+        11
+    ],
+    "offsides": [
+        2,
+        3
+    ],
+    "goal_kicks": [
+        11,
+        6
+    ],
+    "throw_ins": [
+        18,
+        19
+    ],
+    "long_balls": [
+        69,
+        69
+    ]
+}

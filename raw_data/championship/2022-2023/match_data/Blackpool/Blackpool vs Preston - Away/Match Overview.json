@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "3",
+        "1"
+    ],
+    "expected_goals": [
+        "1.0",
+        "1.8"
+    ],
+    "home_team": [
+        "Freddie Woodman",
+        "\u00c1lvaro Carreras",
+        "Ben Whiteman",
+        "Liam Lindsay",
+        "Alan Browne",
+        "Daniel Johnson",
+        "Jordan Storey",
+        "Troy Parrott",
+        "Andrew Hughes",
+        "Thomas Cannon",
+        "Brad Potts",
+        "David Cornell",
+        "Patrick Bauer",
+        "Liam Delap",
+        "Robbie Brady",
+        "Josh Onomah",
+        "Ryan Ledson",
+        "Ben Woodburn"
+    ],
+    "away_team": [
+        "Chris Maxwell",
+        "Callum Connolly",
+        "James Husband",
+        "Jordan Gabriel",
+        "Jerry Yates",
+        "Keshi Anderson",
+        "Kenneth Dougall",
+        "CJ Hamilton",
+        "Andy Lyons",
+        "Morgan Rogers",
+        "Curtis Nelson",
+        "Daniel Grimshaw",
+        "Josh Bowler",
+        "Sonny Carey",
+        "Dominic Thompson",
+        "Ian Carlo Poveda",
+        "Charlie Patino",
+        "Luke Garbutt"
+    ],
+    "fouls": [
+        10,
+        13
+    ],
+    "corners": [
+        6,
+        8
+    ],
+    "crosses": [
+        11,
+        22
+    ],
+    "touches": [
+        535,
+        527
+    ],
+    "tackles": [
+        28,
+        13
+    ],
+    "interceptions": [
+        9,
+        7
+    ],
+    "aerials_won": [
+        26,
+        17
+    ],
+    "clearances": [
+        31,
+        11
+    ],
+    "offsides": [
+        3,
+        2
+    ],
+    "goal_kicks": [
+        7,
+        4
+    ],
+    "throw_ins": [
+        30,
+        34
+    ],
+    "long_balls": [
+        74,
+        78
+    ]
+}

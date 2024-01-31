@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "0",
+        "2"
+    ],
+    "expected_goals": [
+        "1.2",
+        "0.6"
+    ],
+    "home_team": [
+        "Dean Bouzanis",
+        "Andy Carroll",
+        "Tom Holmes",
+        "Tom McIntyre",
+        "Jeff Hendrick",
+        "Lucas Jo\u00e3o",
+        "Tom Ince",
+        "Andy Yiadom",
+        "Nesta Guinness-Walker",
+        "Mamadou N'Diaye",
+        "Junior Hoilett",
+        "Coniah Boyce-Clarke",
+        "Shane Long",
+        "Yakou M\u00e9\u00efte",
+        "Tyrese Fornah",
+        "Amadou Mbengue",
+        "Nelson Abbey",
+        "Jack Senga-Ngoyi"
+    ],
+    "away_team": [
+        "Alex Palmer",
+        "Conor Townsend",
+        "Dara O'Shea",
+        "Jake Livermore",
+        "Matt Phillips",
+        "Grady Diangana",
+        "Erik Pieters",
+        "Martin Kelly",
+        "Jed Wallace",
+        "Brandon Thomas-Asante",
+        "Taylor Gardner-Hickman",
+        "David Button",
+        "Darnell Furlong",
+        "Jayson Molumby",
+        "Karlan Grant",
+        "John Swift",
+        "Reyes Cleary",
+        "Okay Yoku\u015flu"
+    ],
+    "fouls": [
+        10,
+        11
+    ],
+    "corners": [
+        4,
+        7
+    ],
+    "crosses": [
+        19,
+        15
+    ],
+    "touches": [
+        560,
+        514
+    ],
+    "tackles": [
+        15,
+        16
+    ],
+    "interceptions": [
+        12,
+        21
+    ],
+    "aerials_won": [
+        30,
+        14
+    ],
+    "clearances": [
+        11,
+        25
+    ],
+    "offsides": [
+        4,
+        3
+    ],
+    "goal_kicks": [
+        7,
+        10
+    ],
+    "throw_ins": [
+        28,
+        25
+    ],
+    "long_balls": [
+        78,
+        90
+    ]
+}

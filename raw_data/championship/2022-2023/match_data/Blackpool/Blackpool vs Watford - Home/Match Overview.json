@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "3",
+        "1"
+    ],
+    "expected_goals": [
+        "1.4",
+        "0.4"
+    ],
+    "home_team": [
+        "Chris Maxwell",
+        "Callum Connolly",
+        "Jerry Yates",
+        "Gary Madine",
+        "Sonny Carey",
+        "Marvin Ekpiteta",
+        "Dominic Thompson",
+        "Callum Wright",
+        "Theo Corbeanu",
+        "Charlie Patino",
+        "Jordan Thorniley",
+        "Daniel Grimshaw",
+        "Shayne Lavery",
+        "CJ Hamilton",
+        "Ian Carlo Poveda",
+        "Luke Garbutt",
+        "Liam Bridcutt",
+        "Tayt Trusty"
+    ],
+    "away_team": [
+        "Daniel Bachmann",
+        "Hamza Choudhury",
+        "William Troost-Ekong",
+        "Imran Louza",
+        "Ken Sema",
+        "Hassane Kamara",
+        "Dan Gosling",
+        "Vakoun Issouf Bayo",
+        "Ismaila Sarr",
+        "Christian Kabasele",
+        "Edo Kayembe",
+        "Maduka Okoye",
+        "Keinan Davis",
+        "Yaser Asprilla",
+        "Tom Dele-Bashiru",
+        "Francisco Sierralta",
+        "Joseph Hungbo",
+        "James Morris"
+    ],
+    "fouls": [
+        10,
+        9
+    ],
+    "corners": [
+        5,
+        7
+    ],
+    "crosses": [
+        11,
+        24
+    ],
+    "touches": [
+        392,
+        789
+    ],
+    "tackles": [
+        19,
+        23
+    ],
+    "interceptions": [
+        4,
+        4
+    ],
+    "aerials_won": [
+        17,
+        13
+    ],
+    "clearances": [
+        27,
+        7
+    ],
+    "offsides": [
+        1,
+        1
+    ],
+    "goal_kicks": [
+        12,
+        6
+    ],
+    "throw_ins": [
+        19,
+        25
+    ],
+    "long_balls": [
+        68,
+        67
+    ]
+}

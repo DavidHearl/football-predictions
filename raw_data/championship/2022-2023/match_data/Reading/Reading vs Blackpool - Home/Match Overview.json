@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "3",
+        "1"
+    ],
+    "expected_goals": [
+        "1.4",
+        "0.8"
+    ],
+    "home_team": [
+        "Joe Lumley",
+        "Andy Carroll",
+        "Tom McIntyre",
+        "Scott Dann",
+        "Jeff Hendrick",
+        "Tom Ince",
+        "Yakou M\u00e9\u00efte",
+        "Cesare Casadei",
+        "Junior Hoilett",
+        "Mouhamadou-Naby Sarr",
+        "Amadou Mbengue",
+        "Dean Bouzanis",
+        "Shane Long",
+        "Femi Azeez",
+        "Nesta Guinness-Walker",
+        "Tyrese Fornah",
+        "Mamadou N'Diaye",
+        "Nelson Abbey"
+    ],
+    "away_team": [
+        "Chris Maxwell",
+        "Callum Connolly",
+        "James Husband",
+        "Josh Bowler",
+        "Gary Madine",
+        "Sonny Carey",
+        "Shayne Lavery",
+        "Andy Lyons",
+        "Luke Garbutt",
+        "Curtis Nelson",
+        "Jordan Thorniley",
+        "Daniel Grimshaw",
+        "Jordan Gabriel",
+        "Kenneth Dougall",
+        "CJ Hamilton",
+        "Morgan Rogers",
+        "Ian Carlo Poveda",
+        "Charlie Patino"
+    ],
+    "fouls": [
+        11,
+        10
+    ],
+    "corners": [
+        3,
+        8
+    ],
+    "crosses": [
+        14,
+        18
+    ],
+    "touches": [
+        452,
+        568
+    ],
+    "tackles": [
+        21,
+        14
+    ],
+    "interceptions": [
+        6,
+        11
+    ],
+    "aerials_won": [
+        28,
+        23
+    ],
+    "clearances": [
+        22,
+        16
+    ],
+    "offsides": [
+        0,
+        1
+    ],
+    "goal_kicks": [
+        8,
+        8
+    ],
+    "throw_ins": [
+        21,
+        30
+    ],
+    "long_balls": [
+        73,
+        64
+    ]
+}

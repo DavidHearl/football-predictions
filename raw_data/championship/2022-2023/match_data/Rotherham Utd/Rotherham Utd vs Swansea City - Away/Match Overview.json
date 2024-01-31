@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "1",
+        "1"
+    ],
+    "expected_goals": [
+        "0.7",
+        "1.8"
+    ],
+    "home_team": [
+        "Andy Fisher",
+        "Ryan Manning",
+        "Ben Cabango",
+        "Joe Allen",
+        "Matt Grimes",
+        "Jo\u00ebl Piroe",
+        "Morgan Whittaker",
+        "Jo\u00ebl Latibeaudi\u00e8re",
+        "Nathan Wood-Gordon",
+        "Matthew Sorinola",
+        "Oliver Cooper",
+        "Andreas S\u00f8ndergaard",
+        "Jay Fulton",
+        "Harry Darling",
+        "Olivier Ntcham",
+        "Luke Cundle",
+        "Liam Cullen",
+        "Liam Walsh"
+    ],
+    "away_team": [
+        "Viktor Johansson",
+        "Conor Coventry",
+        "Tariqe Fosu",
+        "Jordan Hugill",
+        "Chiedozie Ogbene",
+        "Shane Ferguson",
+        "Oliver Rathbone",
+        "Lee Peltier",
+        "Cameron Humphreys",
+        "Bailey Wright",
+        "Leo Fuhr Hjelde",
+        "Josh Vickers",
+        "Wes Harding",
+        "Cohen Bramall",
+        "Georgie Kelly",
+        "Conor Washington",
+        "Jamie Lindsay",
+        "Hakeem Odoffin"
+    ],
+    "fouls": [
+        18,
+        11
+    ],
+    "corners": [
+        3,
+        6
+    ],
+    "crosses": [
+        18,
+        17
+    ],
+    "touches": [
+        735,
+        465
+    ],
+    "tackles": [
+        20,
+        15
+    ],
+    "interceptions": [
+        7,
+        5
+    ],
+    "aerials_won": [
+        13,
+        13
+    ],
+    "clearances": [
+        26,
+        18
+    ],
+    "offsides": [
+        1,
+        2
+    ],
+    "goal_kicks": [
+        4,
+        6
+    ],
+    "throw_ins": [
+        16,
+        24
+    ],
+    "long_balls": [
+        48,
+        77
+    ]
+}

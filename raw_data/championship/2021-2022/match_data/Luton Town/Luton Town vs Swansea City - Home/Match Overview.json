@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "3",
+        "3"
+    ],
+    "expected_goals": [
+        "3.4",
+        "1.3"
+    ],
+    "home_team": [
+        "Simon Sluga",
+        "James Bree",
+        "Kal Naismith",
+        "Harry Cornick",
+        "Luke Berry",
+        "Elijah Adebayo",
+        "Tom Lockyer",
+        "Reece Burke",
+        "Pelly Ruddock Mpanzu",
+        "Henri Lansbury",
+        "Gabriel Osho",
+        "James Shea",
+        "Glen Rea",
+        "Carlos Mendes Gomes",
+        "Jordan Clark",
+        "Dion Pereira",
+        "Cameron Jerome",
+        "Aidan Francis"
+    ],
+    "away_team": [
+        "Ben Hamer",
+        "Ryan Bennett",
+        "Ryan Manning",
+        "Flynn Downes",
+        "Matt Grimes",
+        "Michael Obafemi",
+        "Jamie Paterson",
+        "Kyle Naughton",
+        "Ethan Laird",
+        "Liam Walsh",
+        "Rhys Williams",
+        "Steven Benda",
+        "Ben Cabango",
+        "Jay Fulton",
+        "Korey Smith",
+        "Olivier Ntcham",
+        "Jo\u00ebl Piroe",
+        "Jo\u00ebl Latibeaudi\u00e8re"
+    ],
+    "fouls": [
+        18,
+        10
+    ],
+    "corners": [
+        5,
+        7
+    ],
+    "crosses": [
+        12,
+        20
+    ],
+    "touches": [
+        340,
+        654
+    ],
+    "tackles": [
+        14,
+        6
+    ],
+    "interceptions": [
+        6,
+        2
+    ],
+    "aerials_won": [
+        23,
+        17
+    ],
+    "clearances": [
+        31,
+        8
+    ],
+    "offsides": [
+        4,
+        1
+    ],
+    "goal_kicks": [
+        16,
+        12
+    ],
+    "throw_ins": [
+        18,
+        21
+    ],
+    "long_balls": [
+        81,
+        73
+    ]
+}

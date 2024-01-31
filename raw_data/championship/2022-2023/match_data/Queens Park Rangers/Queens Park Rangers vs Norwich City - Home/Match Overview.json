@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "1",
+        "1"
+    ],
+    "expected_goals": [
+        "1.6",
+        "2.1"
+    ],
+    "home_team": [
+        "Seny Dieng",
+        "Jimmy Dunne",
+        "Jake Clarke-Salter",
+        "Lyndon Dykes",
+        "Ilias Chair",
+        "Chris Martin",
+        "Sam Field",
+        "Jamal Lowe",
+        "Kenneth Paal",
+        "Aaron Drewe",
+        "Tim Iroegbunam",
+        "Jordan Archer",
+        "Robert Dickie",
+        "Chris Willock",
+        "Luke Amos",
+        "Elijah Dixon-Bonner",
+        "Taylor Richards",
+        "Albert Adomah"
+    ],
+    "away_team": [
+        "Angus Gunn",
+        "Max Aarons",
+        "Andrew Omobamidele",
+        "Isaac Hayden",
+        "Marquinhos",
+        "Gabriel",
+        "Jakob S\u00f8rensen",
+        "Josh Sargent",
+        "Onel Hern\u00e1ndez",
+        "Dimitris Giannoulis",
+        "Liam Gibbs",
+        "Tim Krul",
+        "Sam Byram",
+        "Adam Idah",
+        "Sam McCallum",
+        "Christos Tzolis",
+        "Teemu Pukki",
+        "Marcelino N\u00fa\u00f1ez"
+    ],
+    "fouls": [
+        11,
+        9
+    ],
+    "corners": [
+        7,
+        11
+    ],
+    "crosses": [
+        19,
+        24
+    ],
+    "touches": [
+        415,
+        698
+    ],
+    "tackles": [
+        23,
+        11
+    ],
+    "interceptions": [
+        14,
+        13
+    ],
+    "aerials_won": [
+        23,
+        28
+    ],
+    "clearances": [
+        37,
+        21
+    ],
+    "offsides": [
+        2,
+        0
+    ],
+    "goal_kicks": [
+        6,
+        8
+    ],
+    "throw_ins": [
+        24,
+        41
+    ],
+    "long_balls": [
+        89,
+        95
+    ]
+}

@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "0",
+        "2"
+    ],
+    "expected_goals": [
+        "2.3",
+        "1.3"
+    ],
+    "home_team": [
+        "Chris Maxwell",
+        "Callum Connolly",
+        "James Husband",
+        "Keshi Anderson",
+        "Kenneth Dougall",
+        "Gary Madine",
+        "Shayne Lavery",
+        "CJ Hamilton",
+        "Richard Keogh",
+        "Charlie Kirk",
+        "Jordan Thorniley",
+        "Daniel Grimshaw",
+        "Kevin Stewart",
+        "Owen Dale",
+        "Jerry Yates",
+        "Sonny Carey",
+        "Oliver Casey",
+        "Luke Garbutt"
+    ],
+    "away_team": [
+        "Kelle Roos",
+        "Craig Forsyth",
+        "Max Bird",
+        "Ravel Morrison",
+        "Malcolm Ebiowei",
+        "Curtis Davies",
+        "Louie Watson",
+        "Festy Ebosele",
+        "Jason Knight",
+        "Eiran Joe Cashin",
+        "Luke Plange",
+        "Ryan Allsop",
+        "Nathan Byrne",
+        "Richard Stearman",
+        "Louie Sibley",
+        "Liam Thompson",
+        "Osazee Aghatiste",
+        "Bartosz Cybulski"
+    ],
+    "fouls": [
+        5,
+        11
+    ],
+    "corners": [
+        5,
+        1
+    ],
+    "crosses": [
+        22,
+        5
+    ],
+    "touches": [
+        605,
+        550
+    ],
+    "tackles": [
+        27,
+        22
+    ],
+    "interceptions": [
+        7,
+        8
+    ],
+    "aerials_won": [
+        28,
+        19
+    ],
+    "clearances": [
+        8,
+        21
+    ],
+    "offsides": [
+        2,
+        1
+    ],
+    "goal_kicks": [
+        6,
+        8
+    ],
+    "throw_ins": [
+        28,
+        26
+    ],
+    "long_balls": [
+        88,
+        76
+    ]
+}

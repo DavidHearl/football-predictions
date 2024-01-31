@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "2",
+        "4"
+    ],
+    "expected_goals": [
+        "1.5",
+        "2.7"
+    ],
+    "home_team": [
+        "Zach Jeacock",
+        "Maxime Colin",
+        "Kristian Pedersen",
+        "Marc Roberts",
+        "Ryan Woods",
+        "Scott Hogan",
+        "Gary Gardner",
+        "Juninho Bacuna",
+        "Onel Hern\u00e1ndez",
+        "Lyle Taylor",
+        "Nico Gordon",
+        "Connal Trueman",
+        "Taylor Richards",
+        "Lukas Jutkiewicz",
+        "J\u00e9r\u00e9mie Bela",
+        "Jordan Graham",
+        "Ivan \u0160unji\u0107",
+        "Troy Deeney"
+    ],
+    "away_team": [
+        "Simon Moore",
+        "Michael Rose",
+        "Jamie Allen",
+        "Callum O'Hare",
+        "Ben Sheaf",
+        "Dominic Hyam",
+        "Viktor Gy\u00f6keres",
+        "Ian Maatsen",
+        "Fankaty Dabo",
+        "Jake Bidwell",
+        "Gustavo Hamer",
+        "Ben Wilson",
+        "Kyle McFadzean",
+        "Liam Kelly",
+        "Jodi Jones",
+        "Martyn Waghorn",
+        "Todd Kane",
+        "Fabio Tavares"
+    ],
+    "fouls": [
+        6,
+        5
+    ],
+    "corners": [
+        8,
+        7
+    ],
+    "crosses": [
+        18,
+        16
+    ],
+    "touches": [
+        542,
+        576
+    ],
+    "tackles": [
+        10,
+        19
+    ],
+    "interceptions": [
+        13,
+        4
+    ],
+    "aerials_won": [
+        19,
+        23
+    ],
+    "clearances": [
+        18,
+        24
+    ],
+    "offsides": [
+        2,
+        1
+    ],
+    "goal_kicks": [
+        6,
+        11
+    ],
+    "throw_ins": [
+        28,
+        31
+    ],
+    "long_balls": [
+        105,
+        76
+    ]
+}

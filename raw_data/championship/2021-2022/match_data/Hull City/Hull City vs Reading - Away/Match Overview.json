@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "1",
+        "1"
+    ],
+    "expected_goals": [
+        "1.4",
+        "1.2"
+    ],
+    "home_team": [
+        "Luke Southwood",
+        "Tom Holmes",
+        "Alen Halilovi\u0107",
+        "Andy Carroll",
+        "John Swift",
+        "Danny Drinkwater",
+        "Andy Yiadom",
+        "Tom Dele-Bashiru",
+        "Baba Rahman",
+        "Scott Dann",
+        "Josh Laurent",
+        "Rafael Cabral",
+        "Dejan Tetek",
+        "Femi Azeez",
+        "Mamadi Camar\u00e1",
+        "George Pu\u0219ca\u0219",
+        "Tyrell Ashcroft",
+        "Kelvin Abrefa"
+    ],
+    "away_team": [
+        "Nathan Baxter",
+        "Jacob Greaves",
+        "Richard Smallwood",
+        "Mallik Wilks",
+        "Greg Docherty",
+        "George Honeyman",
+        "Keane Lewis-Potter",
+        "Ryan Longman",
+        "Sean McLoughlin",
+        "Di'Shon Bernard",
+        "Josh Magennis",
+        "Matt Ingram",
+        "Callum Elder",
+        "Andy Cannon",
+        "George Moncur",
+        "Randell Williams",
+        "Tyler Smith",
+        "Tom Huddlestone"
+    ],
+    "fouls": [
+        10,
+        9
+    ],
+    "corners": [
+        4,
+        6
+    ],
+    "crosses": [
+        14,
+        27
+    ],
+    "touches": [
+        686,
+        548
+    ],
+    "tackles": [
+        12,
+        18
+    ],
+    "interceptions": [
+        10,
+        9
+    ],
+    "aerials_won": [
+        13,
+        11
+    ],
+    "clearances": [
+        18,
+        14
+    ],
+    "offsides": [
+        0,
+        5
+    ],
+    "goal_kicks": [
+        9,
+        11
+    ],
+    "throw_ins": [
+        22,
+        18
+    ],
+    "long_balls": [
+        70,
+        77
+    ]
+}

@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "3",
+        "1"
+    ],
+    "expected_goals": [
+        "2.9",
+        "1.6"
+    ],
+    "home_team": [
+        "Dillon Phillips",
+        "Joel Bagan",
+        "Sean Morrison",
+        "Aden Flint",
+        "Joe Ralls",
+        "Kieffer Moore",
+        "Curtis Nelson",
+        "Marlon Pack",
+        "Rubin Colwill",
+        "Thomas Sang",
+        "Mark Harris",
+        "Alex Smithies",
+        "Will Vaulks",
+        "Leandro Bacuna",
+        "Josh Murphy",
+        "James Collins",
+        "Ryan John Giles",
+        "Perry Ng"
+    ],
+    "away_team": [
+        "Bartosz Bia\u0142kowski",
+        "Murray Wallace",
+        "Jake Cooper",
+        "Maikel Kieftenbeld",
+        "Jed Wallace",
+        "Scott Malone",
+        "Mahlon Romeo",
+        "George Saville",
+        "Benik Afobe",
+        "Daniel Ballard",
+        "George Evans",
+        "George Long",
+        "Ben Thompson",
+        "Tom Bradshaw",
+        "Matt Smith",
+        "Alex Pearce",
+        "Connor Mahoney",
+        "Billy Mitchell"
+    ],
+    "fouls": [
+        15,
+        14
+    ],
+    "corners": [
+        2,
+        3
+    ],
+    "crosses": [
+        16,
+        15
+    ],
+    "touches": [
+        534,
+        520
+    ],
+    "tackles": [
+        9,
+        13
+    ],
+    "interceptions": [
+        8,
+        12
+    ],
+    "aerials_won": [
+        55,
+        52
+    ],
+    "clearances": [
+        25,
+        25
+    ],
+    "offsides": [
+        0,
+        1
+    ],
+    "goal_kicks": [
+        4,
+        13
+    ],
+    "throw_ins": [
+        27,
+        28
+    ],
+    "long_balls": [
+        98,
+        109
+    ]
+}

@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "2",
+        "3"
+    ],
+    "expected_goals": [
+        "1.1",
+        "1.1"
+    ],
+    "home_team": [
+        "Daniel Bachmann",
+        "Mario Gaspar",
+        "Hamza Choudhury",
+        "Rey Manaj",
+        "Jo\u00e3o Pedro",
+        "Ken Sema",
+        "Hassane Kamara",
+        "Ismaila Sarr",
+        "Christian Kabasele",
+        "Francisco Sierralta",
+        "Edo Kayembe",
+        "Ben Hamer",
+        "Craig Cathcart",
+        "Dan Gosling",
+        "Yaser Asprilla",
+        "Vakoun Issouf Bayo",
+        "Kortney Hause",
+        "Joseph Hungbo"
+    ],
+    "away_team": [
+        "Seny Dieng",
+        "Jimmy Dunne",
+        "Robert Dickie",
+        "Stefan Johansen",
+        "Chris Willock",
+        "Lyndon Dykes",
+        "Ilias Chair",
+        "Sam Field",
+        "Andre Dozzell",
+        "Kenneth Paal",
+        "Ethan Laird",
+        "Jordan Archer",
+        "Osman Kakay",
+        "Macauley Bonne",
+        "Conor Masterson",
+        "Olamide Shodipo",
+        "Sinclair Armstrong",
+        "Albert Adomah"
+    ],
+    "fouls": [
+        9,
+        9
+    ],
+    "corners": [
+        1,
+        4
+    ],
+    "crosses": [
+        17,
+        16
+    ],
+    "touches": [
+        652,
+        521
+    ],
+    "tackles": [
+        19,
+        21
+    ],
+    "interceptions": [
+        9,
+        18
+    ],
+    "aerials_won": [
+        10,
+        14
+    ],
+    "clearances": [
+        15,
+        21
+    ],
+    "offsides": [
+        6,
+        1
+    ],
+    "goal_kicks": [
+        4,
+        12
+    ],
+    "throw_ins": [
+        34,
+        30
+    ],
+    "long_balls": [
+        76,
+        69
+    ]
+}

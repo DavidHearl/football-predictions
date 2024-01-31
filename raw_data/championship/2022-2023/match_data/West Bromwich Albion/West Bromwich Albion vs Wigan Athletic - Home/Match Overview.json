@@ -1,0 +1,99 @@
+{
+    "goals": [
+        "1",
+        "0"
+    ],
+    "expected_goals": [
+        "2.5",
+        "0.5"
+    ],
+    "home_team": [
+        "Joshua Griffiths",
+        "Darnell Furlong",
+        "Conor Townsend",
+        "Dara O'Shea",
+        "Daryl Dike",
+        "Jayson Molumby",
+        "Erik Pieters",
+        "Jed Wallace",
+        "John Swift",
+        "Marc Albrighton",
+        "Okay Yoku\u015flu",
+        "David Button",
+        "Semi Ajayi",
+        "Adam Reach",
+        "Nathaniel Chalobah",
+        "Taylor Gardner-Hickman",
+        "Jovan Malcolm",
+        "Mo Faal"
+    ],
+    "away_team": [
+        "Ben Amos",
+        "Ryan Nyambe",
+        "Max Power",
+        "Will Keane",
+        "James McClean",
+        "Christ Ti\u00e9hi",
+        "Ashley Fletcher",
+        "Omar Rekik",
+        "Danel Sinani",
+        "Tendayi Darikwa",
+        "Charlie Hughes",
+        "Jamie Jones",
+        "Tom Pearce",
+        "Tom Naylor",
+        "Jack Whatmough",
+        "Joe Bennett",
+        "Josh Magennis",
+        "Steven Caulker",
+        "Thelo Aasgaard"
+    ],
+    "fouls": [
+        6,
+        9
+    ],
+    "corners": [
+        1,
+        2
+    ],
+    "crosses": [
+        15,
+        15
+    ],
+    "touches": [
+        705,
+        594
+    ],
+    "tackles": [
+        11,
+        12
+    ],
+    "interceptions": [
+        8,
+        6
+    ],
+    "aerials_won": [
+        20,
+        22
+    ],
+    "clearances": [
+        17,
+        14
+    ],
+    "offsides": [
+        2,
+        1
+    ],
+    "goal_kicks": [
+        5,
+        10
+    ],
+    "throw_ins": [
+        17,
+        21
+    ],
+    "long_balls": [
+        57,
+        87
+    ]
+}

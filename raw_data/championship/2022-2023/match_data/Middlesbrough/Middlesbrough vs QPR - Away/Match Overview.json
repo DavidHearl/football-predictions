@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "3",
+        "2"
+    ],
+    "expected_goals": [
+        "1.4",
+        "1.3"
+    ],
+    "home_team": [
+        "Seny Dieng",
+        "Osman Kakay",
+        "Jimmy Dunne",
+        "Robert Dickie",
+        "Stefan Johansen",
+        "Chris Willock",
+        "Luke Amos",
+        "Lyndon Dykes",
+        "Ilias Chair",
+        "Sam Field",
+        "Kenneth Paal",
+        "Joe Walsh",
+        "Niko H\u00e4m\u00e4l\u00e4inen",
+        "Andre Dozzell",
+        "Macauley Bonne",
+        "Conor Masterson",
+        "Olamide Shodipo",
+        "Albert Adomah"
+    ],
+    "away_team": [
+        "Zack Steffen",
+        "Isaiah Jones",
+        "Ryan John Giles",
+        "Riley McGree",
+        "Anfernee Dijksteel",
+        "Jonny Howson",
+        "Duncan Watmore",
+        "Marcus Forss",
+        "Matt Crooks",
+        "Darragh Lenihan",
+        "Marc Bola",
+        "Liam Roberts",
+        "Dael Fry",
+        "Tommy Smith",
+        "Paddy McNair",
+        "Caolan Boyd-Munce",
+        "Chuba Akpom",
+        "Sonny Finch"
+    ],
+    "fouls": [
+        12,
+        12
+    ],
+    "corners": [
+        5,
+        5
+    ],
+    "crosses": [
+        14,
+        24
+    ],
+    "touches": [
+        524,
+        673
+    ],
+    "tackles": [
+        15,
+        18
+    ],
+    "interceptions": [
+        5,
+        9
+    ],
+    "aerials_won": [
+        21,
+        14
+    ],
+    "clearances": [
+        28,
+        15
+    ],
+    "offsides": [
+        1,
+        3
+    ],
+    "goal_kicks": [
+        7,
+        9
+    ],
+    "throw_ins": [
+        27,
+        27
+    ],
+    "long_balls": [
+        64,
+        88
+    ]
+}

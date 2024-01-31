@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "1",
+        "1"
+    ],
+    "expected_goals": [
+        "0.5",
+        "2.7"
+    ],
+    "home_team": [
+        "Chris Maxwell",
+        "Callum Connolly",
+        "James Husband",
+        "Gary Madine",
+        "Sonny Carey",
+        "Shayne Lavery",
+        "Marvin Ekpiteta",
+        "CJ Hamilton",
+        "Ian Carlo Poveda",
+        "Charlie Patino",
+        "Jordan Thorniley",
+        "Daniel Grimshaw",
+        "Jerry Yates",
+        "Kenneth Dougall",
+        "Rhys Williams",
+        "Jake Beesley",
+        "Dominic Thompson",
+        "Callum Wright"
+    ],
+    "away_team": [
+        "Anthony Patterson",
+        "Daniel Ballard",
+        "Patrick Roberts",
+        "Luke O'Nien",
+        "Ross Stewart",
+        "Amad Diallo",
+        "Jack Clarke",
+        "Daniel Neil",
+        "Edouard Michut",
+        "Bailey Wright",
+        "Trai Hume",
+        "Alex Bass",
+        "Corry Evans",
+        "Leon Dajaku",
+        "Abdoullah Ba",
+        "Jewison Bennette",
+        "Jay Matete",
+        "Chris Rigg"
+    ],
+    "fouls": [
+        14,
+        10
+    ],
+    "corners": [
+        1,
+        5
+    ],
+    "crosses": [
+        11,
+        19
+    ],
+    "touches": [
+        428,
+        657
+    ],
+    "tackles": [
+        22,
+        24
+    ],
+    "interceptions": [
+        9,
+        7
+    ],
+    "aerials_won": [
+        29,
+        22
+    ],
+    "clearances": [
+        28,
+        12
+    ],
+    "offsides": [
+        1,
+        1
+    ],
+    "goal_kicks": [
+        9,
+        8
+    ],
+    "throw_ins": [
+        32,
+        30
+    ],
+    "long_balls": [
+        70,
+        65
+    ]
+}

@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "1",
+        "5"
+    ],
+    "expected_goals": [
+        "1.8",
+        "0.9"
+    ],
+    "home_team": [
+        "Jamie Jones",
+        "Tom Naylor",
+        "Jack Whatmough",
+        "Max Power",
+        "Will Keane",
+        "James McClean",
+        "Jason Kerr",
+        "Curtis Tilt",
+        "Graeme Shinnie",
+        "Callum Lang",
+        "Tendayi Darikwa",
+        "Ben Amos",
+        "Ryan Nyambe",
+        "Charlie Wyke",
+        "Nathan Broadhead",
+        "Josh Magennis",
+        "Thelo Aasgaard",
+        "Stephen Humphrys"
+    ],
+    "away_team": [
+        "Arijanet Muric",
+        "Charlie Taylor",
+        "Jack Cork",
+        "Taylor Harwood-Bellis",
+        "J\u00f3hann Berg Gu\u00f0mundsson",
+        "Josh Brownhill",
+        "Jay Rodriguez",
+        "Connor Roberts",
+        "Vitinho",
+        "Nathan Tella",
+        "Josh Cullen",
+        "Bailey Peacock-Farrell",
+        "Matthew Lowton",
+        "CJ Egan-Riley",
+        "Ashley Barnes",
+        "Benson Manuel",
+        "Samuel Bastien",
+        "Darko Churlinov"
+    ],
+    "fouls": [
+        8,
+        8
+    ],
+    "corners": [
+        6,
+        1
+    ],
+    "crosses": [
+        16,
+        7
+    ],
+    "touches": [
+        500,
+        590
+    ],
+    "tackles": [
+        17,
+        11
+    ],
+    "interceptions": [
+        7,
+        11
+    ],
+    "aerials_won": [
+        24,
+        10
+    ],
+    "clearances": [
+        6,
+        12
+    ],
+    "offsides": [
+        4,
+        1
+    ],
+    "goal_kicks": [
+        4,
+        9
+    ],
+    "throw_ins": [
+        25,
+        22
+    ],
+    "long_balls": [
+        96,
+        86
+    ]
+}

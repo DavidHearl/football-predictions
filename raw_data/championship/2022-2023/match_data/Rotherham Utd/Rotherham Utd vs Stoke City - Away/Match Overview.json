@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "0",
+        "1"
+    ],
+    "expected_goals": [
+        "2.2",
+        "0.1"
+    ],
+    "home_team": [
+        "Josef Bursik",
+        "Morgan Fox",
+        "Phil Jagielka",
+        "Lewis Baker",
+        "Tyrese Campbell",
+        "Dwight Gayle",
+        "Ben Wilmot",
+        "Liam Delap",
+        "Dujon Sterling",
+        "Tariqe Fosu",
+        "Josh Laurent",
+        "Jack Bonham",
+        "Harry Clarke",
+        "Aden Flint",
+        "Jacob Brown",
+        "Jordan Thompson",
+        "Nick Powell",
+        "D'Margio Wright-Phillips"
+    ],
+    "away_team": [
+        "Viktor Johansson",
+        "Wes Harding",
+        "Daniel Barlaser",
+        "Ben Wiles",
+        "Brooke Norton-Cuffy",
+        "Georgie Kelly",
+        "Shane Ferguson",
+        "Oliver Rathbone",
+        "Grant Hall",
+        "Hakeem Odoffin",
+        "Cameron Humphreys",
+        "Josh Vickers",
+        "Cohen Bramall",
+        "Richard Wood",
+        "Scott High",
+        "Tom Eaves",
+        "Conor Washington",
+        "Lee Peltier"
+    ],
+    "fouls": [
+        7,
+        14
+    ],
+    "corners": [
+        8,
+        3
+    ],
+    "crosses": [
+        40,
+        7
+    ],
+    "touches": [
+        689,
+        417
+    ],
+    "tackles": [
+        14,
+        19
+    ],
+    "interceptions": [
+        8,
+        13
+    ],
+    "aerials_won": [
+        22,
+        19
+    ],
+    "clearances": [
+        7,
+        48
+    ],
+    "offsides": [
+        3,
+        0
+    ],
+    "goal_kicks": [
+        5,
+        14
+    ],
+    "throw_ins": [
+        38,
+        21
+    ],
+    "long_balls": [
+        107,
+        87
+    ]
+}

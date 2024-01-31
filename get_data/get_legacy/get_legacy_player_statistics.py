@@ -34,7 +34,34 @@ class LegacyPlayerStatistics:
 		for league in club_urls:
 			for season in self.legacy_seasons:
 				for item in club_urls[league][season]:
-					print()
+					# Initialize a counter to track progress
+					team_count = 0
+
+					# Create a counter to track progress
+					for league in club_urls:
+						for season in self.legacy_seasons:
+							location = f"raw_data/{league}/{season}/player_data"
+
+							# Initialize a counter
+							folder_count = 0
+
+							# Iterate over the items in the directory
+							for folder in os.listdir(location):
+								# Check if the item is a directory
+								if os.path.isdir(os.path.join(location, folder)):
+									# If it is, increment the counter
+									folder_count += 1
+
+							# Match count = number of teams * number of matches per team
+							team_count += folder_count
+
+					current_count = 0
+
+					# Print the current count and the total number of matches
+					percentage = round((current_count / team_count) * 100, 4)
+					time_remaining = round(((team_count - current_count) * 4) / 60)
+					print(f"\nMatch {current_count} / {team_count} : Percentage: {percentage} % ETA: {time_remaining} minutes")
+
 					# Add a delay to stop the server from blocking the request
 					random_number = round(random.uniform(3, 5), 1)
 					print(f"Current Time: {time.strftime('%H:%M:%S', time.localtime())}, Waiting {random_number} seconds...")

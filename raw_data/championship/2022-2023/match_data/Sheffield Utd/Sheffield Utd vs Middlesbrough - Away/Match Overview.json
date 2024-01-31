@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "2",
+        "2"
+    ],
+    "expected_goals": [
+        "1.7",
+        "0.5"
+    ],
+    "home_team": [
+        "Zack Steffen",
+        "Isaiah Jones",
+        "Ryan John Giles",
+        "Dael Fry",
+        "Riley McGree",
+        "Anfernee Dijksteel",
+        "Jonny Howson",
+        "Paddy McNair",
+        "Marcus Forss",
+        "Darragh Lenihan",
+        "Chuba Akpom",
+        "Liam Roberts",
+        "Alex Mowatt",
+        "Matthew Hoppe",
+        "Tommy Smith",
+        "Duncan Watmore",
+        "Marc Bola",
+        "Hayden Hackney"
+    ],
+    "away_team": [
+        "Wes Foderingham",
+        "George Baldock",
+        "John Fleck",
+        "Sander Berge",
+        "Billy Sharp",
+        "John Egan",
+        "Max Lowe",
+        "Anel Ahmedhod\u017ei\u0107",
+        "Oliver Norwood",
+        "Iliman Ndiaye",
+        "Rhys Norrington-Davies",
+        "Jordan Amissah",
+        "Rhian Brewster",
+        "Oliver McBurnie",
+        "Reda Khadra",
+        "Tommy Doyle",
+        "James Mcatee",
+        "Kyron Gordon"
+    ],
+    "fouls": [
+        6,
+        13
+    ],
+    "corners": [
+        5,
+        4
+    ],
+    "crosses": [
+        17,
+        16
+    ],
+    "touches": [
+        555,
+        462
+    ],
+    "tackles": [
+        10,
+        24
+    ],
+    "interceptions": [
+        8,
+        8
+    ],
+    "aerials_won": [
+        21,
+        17
+    ],
+    "clearances": [
+        18,
+        16
+    ],
+    "offsides": [
+        1,
+        3
+    ],
+    "goal_kicks": [
+        6,
+        5
+    ],
+    "throw_ins": [
+        36,
+        22
+    ],
+    "long_balls": [
+        67,
+        87
+    ]
+}

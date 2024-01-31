@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "0",
+        "4"
+    ],
+    "expected_goals": [
+        "1.1",
+        "2.8"
+    ],
+    "home_team": [
+        "Josef Bursik",
+        "Morgan Fox",
+        "Aden Flint",
+        "Lewis Baker",
+        "Dwight Gayle",
+        "Ben Wilmot",
+        "Liam Delap",
+        "William Smallbone",
+        "Dujon Sterling",
+        "Tariqe Fosu",
+        "Josh Laurent",
+        "Jack Bonham",
+        "Harry Clarke",
+        "Phil Jagielka",
+        "Tyrese Campbell",
+        "D'Margio Wright-Phillips",
+        "Connor Taylor",
+        "Tom Sparrow"
+    ],
+    "away_team": [
+        "Daniel Bachmann",
+        "Mario Gaspar",
+        "Hamza Choudhury",
+        "Keinan Davis",
+        "Ken Sema",
+        "Hassane Kamara",
+        "Yaser Asprilla",
+        "Ismaila Sarr",
+        "Christian Kabasele",
+        "Francisco Sierralta",
+        "Edo Kayembe",
+        "Maduka Okoye",
+        "Imran Louza",
+        "Dan Gosling",
+        "Vakoun Issouf Bayo",
+        "Kortney Hause",
+        "Joseph Hungbo",
+        "James Morris"
+    ],
+    "fouls": [
+        10,
+        15
+    ],
+    "corners": [
+        6,
+        6
+    ],
+    "crosses": [
+        24,
+        21
+    ],
+    "touches": [
+        538,
+        554
+    ],
+    "tackles": [
+        28,
+        20
+    ],
+    "interceptions": [
+        10,
+        11
+    ],
+    "aerials_won": [
+        18,
+        13
+    ],
+    "clearances": [
+        13,
+        23
+    ],
+    "offsides": [
+        0,
+        4
+    ],
+    "goal_kicks": [
+        6,
+        12
+    ],
+    "throw_ins": [
+        30,
+        24
+    ],
+    "long_balls": [
+        85,
+        80
+    ]
+}

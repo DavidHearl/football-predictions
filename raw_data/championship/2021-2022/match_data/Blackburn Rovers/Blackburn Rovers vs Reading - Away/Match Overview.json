@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "1",
+        "0"
+    ],
+    "expected_goals": [
+        "1.0",
+        "1.1"
+    ],
+    "home_team": [
+        "\u00d8rjan Nyland",
+        "Tom Holmes",
+        "Michael Morrison",
+        "Tom McIntyre",
+        "Andy Rinomhota",
+        "Tom Ince",
+        "Ovie Ejaria",
+        "Danny Drinkwater",
+        "Andy Yiadom",
+        "Lucas Jo\u00e3o",
+        "Josh Laurent",
+        "Luke Southwood",
+        "John Swift",
+        "Yakou M\u00e9\u00efte",
+        "Tom Dele-Bashiru",
+        "Junior Hoilett",
+        "Scott Dann",
+        "Brandon Barker"
+    ],
+    "away_team": [
+        "Thomas Kaminski",
+        "Reda Khadra",
+        "Joe Rothwell",
+        "Sam Gallagher",
+        "Tyrhys Dolan",
+        "Scott Wharton",
+        "John Buckley",
+        "Jan Paul van Hecke",
+        "Darragh Lenihan",
+        "Lewis Travis",
+        "Ryan John Giles",
+        "Aynsley Pears",
+        "Harry Pickering",
+        "Bradley Johnson",
+        "Joe Rankin-Costello",
+        "James Brown",
+        "Ryan Hedges",
+        "Bradley Dack"
+    ],
+    "fouls": [
+        9,
+        10
+    ],
+    "corners": [
+        3,
+        4
+    ],
+    "crosses": [
+        8,
+        21
+    ],
+    "touches": [
+        489,
+        629
+    ],
+    "tackles": [
+        18,
+        16
+    ],
+    "interceptions": [
+        8,
+        6
+    ],
+    "aerials_won": [
+        28,
+        24
+    ],
+    "clearances": [
+        28,
+        11
+    ],
+    "offsides": [
+        1,
+        2
+    ],
+    "goal_kicks": [
+        14,
+        7
+    ],
+    "throw_ins": [
+        21,
+        33
+    ],
+    "long_balls": [
+        90,
+        99
+    ]
+}

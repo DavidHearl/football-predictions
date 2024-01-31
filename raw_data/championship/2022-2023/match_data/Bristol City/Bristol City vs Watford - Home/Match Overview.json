@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "0",
+        "0"
+    ],
+    "expected_goals": [
+        "1.2",
+        "0.1"
+    ],
+    "home_team": [
+        "Max O'Leary",
+        "Jay Dasilva",
+        "Matty James",
+        "Alex Scott",
+        "Joe Williams",
+        "Andy King",
+        "Andreas Weimann",
+        "Tommy Conway",
+        "Cameron Pring",
+        "Nahki Wells",
+        "Zak Vyner",
+        "Daniel Bentley",
+        "Robert Atkinson",
+        "Chris Martin",
+        "Antoine Semenyo",
+        "Mark Sykes",
+        "Sam Bell",
+        "Han-Noah Massengo"
+    ],
+    "away_team": [
+        "Daniel Bachmann",
+        "Mario Gaspar",
+        "Hamza Choudhury",
+        "William Troost-Ekong",
+        "Keinan Davis",
+        "Ken Sema",
+        "Hassane Kamara",
+        "Dan Gosling",
+        "Christian Kabasele",
+        "Samuel Kalu",
+        "Edo Kayembe",
+        "Maduka Okoye",
+        "Jo\u00e3o Pedro",
+        "Craig Cathcart",
+        "Vakoun Issouf Bayo",
+        "Ismaila Sarr",
+        "Tom Dele-Bashiru",
+        "Francisco Sierralta"
+    ],
+    "fouls": [
+        15,
+        10
+    ],
+    "corners": [
+        4,
+        3
+    ],
+    "crosses": [
+        21,
+        11
+    ],
+    "touches": [
+        542,
+        521
+    ],
+    "tackles": [
+        18,
+        12
+    ],
+    "interceptions": [
+        9,
+        12
+    ],
+    "aerials_won": [
+        23,
+        20
+    ],
+    "clearances": [
+        15,
+        27
+    ],
+    "offsides": [
+        2,
+        2
+    ],
+    "goal_kicks": [
+        7,
+        8
+    ],
+    "throw_ins": [
+        25,
+        30
+    ],
+    "long_balls": [
+        76,
+        93
+    ]
+}

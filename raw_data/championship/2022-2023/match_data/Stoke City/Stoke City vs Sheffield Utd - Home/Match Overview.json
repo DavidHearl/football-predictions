@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "3",
+        "1"
+    ],
+    "expected_goals": [
+        "1.4",
+        "0.8"
+    ],
+    "home_team": [
+        "Josef Bursik",
+        "Morgan Fox",
+        "Phil Jagielka",
+        "Lewis Baker",
+        "Tyrese Campbell",
+        "Dwight Gayle",
+        "Ben Wilmot",
+        "William Smallbone",
+        "Dujon Sterling",
+        "Tariqe Fosu",
+        "Josh Laurent",
+        "Jack Bonham",
+        "Harry Clarke",
+        "Aden Flint",
+        "Sam Clucas",
+        "Jordan Thompson",
+        "Liam Delap",
+        "D'Margio Wright-Phillips"
+    ],
+    "away_team": [
+        "Wes Foderingham",
+        "Chris Basham",
+        "Rhian Brewster",
+        "Reda Khadra",
+        "John Egan",
+        "Oliver Norwood",
+        "Tommy Doyle",
+        "James Mcatee",
+        "Iliman Ndiaye",
+        "Rhys Norrington-Davies",
+        "Kyron Gordon",
+        "Adam Davies",
+        "Billy Sharp",
+        "Ben Osborn",
+        "Oliver Arblaster",
+        "Andre Brooks",
+        "Daniel Jebbison",
+        "Sai Sachdev"
+    ],
+    "fouls": [
+        12,
+        6
+    ],
+    "corners": [
+        6,
+        5
+    ],
+    "crosses": [
+        20,
+        24
+    ],
+    "touches": [
+        573,
+        548
+    ],
+    "tackles": [
+        16,
+        18
+    ],
+    "interceptions": [
+        10,
+        17
+    ],
+    "aerials_won": [
+        24,
+        17
+    ],
+    "clearances": [
+        20,
+        22
+    ],
+    "offsides": [
+        1,
+        0
+    ],
+    "goal_kicks": [
+        8,
+        9
+    ],
+    "throw_ins": [
+        45,
+        33
+    ],
+    "long_balls": [
+        96,
+        87
+    ]
+}

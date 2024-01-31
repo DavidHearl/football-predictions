@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "4",
+        "1"
+    ],
+    "expected_goals": [
+        "3.0",
+        "1.6"
+    ],
+    "home_team": [
+        "Adam Davies",
+        "George Baldock",
+        "Sander Berge",
+        "Oliver McBurnie",
+        "John Egan",
+        "Max Lowe",
+        "Jack Robinson",
+        "Jayden Bogle",
+        "Tommy Doyle",
+        "James Mcatee",
+        "Iliman Ndiaye",
+        "Marcus Dewhurst",
+        "John Fleck",
+        "Billy Sharp",
+        "Oliver Norwood",
+        "Ciaran Clark",
+        "Oliver Arblaster",
+        "Daniel Jebbison"
+    ],
+    "away_team": [
+        "Ryan Allsop",
+        "Mark McGuinness",
+        "Ryan Wintle",
+        "Joe Ralls",
+        "Kion Etete",
+        "C\u00e9dric Kipr\u00e9",
+        "Jaden Philogene Bidace",
+        "Jack Simpson",
+        "Andy Rinomhota",
+        "Perry Ng",
+        "Sory Kaba",
+        "Jak Alnwick",
+        "Mahlon Romeo",
+        "Sheyi Ojo",
+        "Callum O'Dowda",
+        "Romaine Sawyers",
+        "Connor Wickham",
+        "Isaak Davies"
+    ],
+    "fouls": [
+        8,
+        10
+    ],
+    "corners": [
+        5,
+        5
+    ],
+    "crosses": [
+        15,
+        17
+    ],
+    "touches": [
+        606,
+        504
+    ],
+    "tackles": [
+        19,
+        15
+    ],
+    "interceptions": [
+        10,
+        12
+    ],
+    "aerials_won": [
+        17,
+        28
+    ],
+    "clearances": [
+        33,
+        20
+    ],
+    "offsides": [
+        4,
+        0
+    ],
+    "goal_kicks": [
+        4,
+        9
+    ],
+    "throw_ins": [
+        20,
+        28
+    ],
+    "long_balls": [
+        68,
+        80
+    ]
+}

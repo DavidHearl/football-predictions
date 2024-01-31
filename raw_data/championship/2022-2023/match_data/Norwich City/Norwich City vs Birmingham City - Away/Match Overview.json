@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "1",
+        "2"
+    ],
+    "expected_goals": [
+        "0.7",
+        "1.5"
+    ],
+    "home_team": [
+        "John Ruddy",
+        "Marc Roberts",
+        "Auston Trusty",
+        "Juninho Bacuna",
+        "Troy Deeney",
+        "Scott Hogan",
+        "Jordan Graham",
+        "Gary Gardner",
+        "Dion Sanderson",
+        "Alfie Chang",
+        "Josh Williams",
+        "Neil Etheridge",
+        "Hannibal Mejbri",
+        "Jonathan Leko",
+        "Jordan James",
+        "Jobe Bellingham",
+        "Tate Campbell",
+        "George Hall"
+    ],
+    "away_team": [
+        "Tim Krul",
+        "Max Aarons",
+        "Sam Byram",
+        "Andrew Omobamidele",
+        "Grant Hanley",
+        "Kieran Dowell",
+        "Aaron Ramsey",
+        "Danel Sinani",
+        "Kenny McLean",
+        "Josh Sargent",
+        "Marcelino N\u00fa\u00f1ez",
+        "Angus Gunn",
+        "Ben Gibson",
+        "Adam Idah",
+        "Todd Cantwell",
+        "Gabriel",
+        "Teemu Pukki",
+        "Onel Hern\u00e1ndez"
+    ],
+    "fouls": [
+        15,
+        5
+    ],
+    "corners": [
+        6,
+        8
+    ],
+    "crosses": [
+        14,
+        17
+    ],
+    "touches": [
+        426,
+        690
+    ],
+    "tackles": [
+        22,
+        16
+    ],
+    "interceptions": [
+        13,
+        8
+    ],
+    "aerials_won": [
+        11,
+        11
+    ],
+    "clearances": [
+        20,
+        12
+    ],
+    "offsides": [
+        1,
+        0
+    ],
+    "goal_kicks": [
+        6,
+        12
+    ],
+    "throw_ins": [
+        20,
+        22
+    ],
+    "long_balls": [
+        81,
+        82
+    ]
+}

@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "2",
+        "1"
+    ],
+    "expected_goals": [
+        "0.5",
+        "0.9"
+    ],
+    "home_team": [
+        "Anthony Patterson",
+        "Patrick Roberts",
+        "Lynden Gooch",
+        "Luke O'Nien",
+        "Amad Diallo",
+        "Jack Clarke",
+        "Alex Pritchard",
+        "Daniel Neil",
+        "Joe Gelhardt",
+        "Trai Hume",
+        "Pierre Ekwah Elimby",
+        "Alex Bass",
+        "Niall Huggins",
+        "Abdoullah Ba",
+        "Ellis Taylor",
+        "Isaac Lihadji",
+        "Edouard Michut",
+        "Joe Anderson"
+    ],
+    "away_team": [
+        "Ethan Horvath",
+        "Cody Drameh",
+        "Tom Lockyer",
+        "Carlton Morris",
+        "Elijah Adebayo",
+        "Marvelous Nakamba",
+        "Pelly Ruddock Mpanzu",
+        "Jordan Clark",
+        "Amari'i Bell",
+        "Gabriel Osho",
+        "Alfie Doughty",
+        "James Shea",
+        "Dan Potts",
+        "Luke Berry",
+        "Reece Burke",
+        "Allan Campbell",
+        "Fred Onyedinma",
+        "Luke Freeman"
+    ],
+    "fouls": [
+        9,
+        20
+    ],
+    "corners": [
+        6,
+        2
+    ],
+    "crosses": [
+        7,
+        8
+    ],
+    "touches": [
+        594,
+        457
+    ],
+    "tackles": [
+        13,
+        30
+    ],
+    "interceptions": [
+        11,
+        15
+    ],
+    "aerials_won": [
+        11,
+        14
+    ],
+    "clearances": [
+        7,
+        7
+    ],
+    "offsides": [
+        0,
+        0
+    ],
+    "goal_kicks": [
+        6,
+        8
+    ],
+    "throw_ins": [
+        29,
+        14
+    ],
+    "long_balls": [
+        54,
+        61
+    ]
+}

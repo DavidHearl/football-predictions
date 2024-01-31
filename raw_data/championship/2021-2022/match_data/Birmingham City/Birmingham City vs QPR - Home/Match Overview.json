@@ -1,0 +1,97 @@
+{
+    "goals": [
+        "1",
+        "2"
+    ],
+    "expected_goals": [
+        "1.1",
+        "0.7"
+    ],
+    "home_team": [
+        "Matija \u0160arki\u0107",
+        "Maxime Colin",
+        "Kristian Pedersen",
+        "George Friend",
+        "Jordan James",
+        "Gary Gardner",
+        "Dion Sanderson",
+        "Juan Familio-Castillo",
+        "Ivan \u0160unji\u0107",
+        "George Hall",
+        "Troy Deeney",
+        "Neil Etheridge",
+        "Ryan Woods",
+        "Scott Hogan",
+        "Chuks Aneke",
+        "Jobe Bellingham",
+        "Remi Walker",
+        "Tate Campbell"
+    ],
+    "away_team": [
+        "Seny Dieng",
+        "Lee Wallace",
+        "Robert Dickie",
+        "Yoann Barbet",
+        "Luke Amos",
+        "Lyndon Dykes",
+        "Sam Field",
+        "Andre Gray",
+        "Jimmy Dunne",
+        "Chris Willock",
+        "Albert Adomah",
+        "Jordan Archer",
+        "Osman Kakay",
+        "Stefan Johansen",
+        "Charlie Austin",
+        "Dominic Ball",
+        "George Thomas"
+    ],
+    "fouls": [
+        11,
+        9
+    ],
+    "corners": [
+        1,
+        3
+    ],
+    "crosses": [
+        25,
+        7
+    ],
+    "touches": [
+        693,
+        533
+    ],
+    "tackles": [
+        26,
+        22
+    ],
+    "interceptions": [
+        18,
+        15
+    ],
+    "aerials_won": [
+        16,
+        29
+    ],
+    "clearances": [
+        10,
+        27
+    ],
+    "offsides": [
+        0,
+        0
+    ],
+    "goal_kicks": [
+        1,
+        10
+    ],
+    "throw_ins": [
+        36,
+        31
+    ],
+    "long_balls": [
+        86,
+        77
+    ]
+}

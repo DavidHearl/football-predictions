@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "1",
+        "2"
+    ],
+    "expected_goals": [
+        "1.4",
+        "0.6"
+    ],
+    "home_team": [
+        "Daniel Bachmann",
+        "Mario Gaspar",
+        "Hamza Choudhury",
+        "Keinan Davis",
+        "Ken Sema",
+        "Hassane Kamara",
+        "Yaser Asprilla",
+        "Ismaila Sarr",
+        "Christian Kabasele",
+        "Francisco Sierralta",
+        "Edo Kayembe",
+        "Maduka Okoye",
+        "Imran Louza",
+        "Dan Gosling",
+        "Vakoun Issouf Bayo",
+        "Matthew Pollock",
+        "Joseph Hungbo",
+        "James Morris"
+    ],
+    "away_team": [
+        "Steven Benda",
+        "Ryan Manning",
+        "Jay Fulton",
+        "Ben Cabango",
+        "Matt Grimes",
+        "Michael Obafemi",
+        "Olivier Ntcham",
+        "Jo\u00ebl Piroe",
+        "Nathan Wood-Gordon",
+        "Kyle Naughton",
+        "Matthew Sorinola",
+        "Andy Fisher",
+        "Harry Darling",
+        "Luke Cundle",
+        "Armstrong Okoflex",
+        "Jo\u00ebl Latibeaudi\u00e8re",
+        "Finley Stevens",
+        "Oliver Cooper"
+    ],
+    "fouls": [
+        18,
+        12
+    ],
+    "corners": [
+        1,
+        6
+    ],
+    "crosses": [
+        21,
+        15
+    ],
+    "touches": [
+        588,
+        609
+    ],
+    "tackles": [
+        15,
+        10
+    ],
+    "interceptions": [
+        13,
+        8
+    ],
+    "aerials_won": [
+        14,
+        8
+    ],
+    "clearances": [
+        21,
+        24
+    ],
+    "offsides": [
+        1,
+        4
+    ],
+    "goal_kicks": [
+        3,
+        4
+    ],
+    "throw_ins": [
+        22,
+        27
+    ],
+    "long_balls": [
+        59,
+        54
+    ]
+}

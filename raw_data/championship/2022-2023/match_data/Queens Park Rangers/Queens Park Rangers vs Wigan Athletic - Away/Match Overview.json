@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "1",
+        "0"
+    ],
+    "expected_goals": [
+        "1.2",
+        "0.8"
+    ],
+    "home_team": [
+        "Ben Amos",
+        "Jack Whatmough",
+        "Max Power",
+        "James McClean",
+        "Callum Lang",
+        "Christ Ti\u00e9hi",
+        "Ashley Fletcher",
+        "Omar Rekik",
+        "Danel Sinani",
+        "Tendayi Darikwa",
+        "Charlie Hughes",
+        "Jamie Jones",
+        "Ryan Nyambe",
+        "Tom Pearce",
+        "Tom Naylor",
+        "Will Keane",
+        "Steven Caulker",
+        "Thelo Aasgaard"
+    ],
+    "away_team": [
+        "Seny Dieng",
+        "Jimmy Dunne",
+        "Robert Dickie",
+        "Stefan Johansen",
+        "Chris Willock",
+        "Lyndon Dykes",
+        "Chris Martin",
+        "Sam Field",
+        "Kenneth Paal",
+        "Leon Balogun",
+        "Ethan Laird",
+        "Jordan Archer",
+        "Luke Amos",
+        "Ilias Chair",
+        "Andre Dozzell",
+        "Jamal Lowe",
+        "Aaron Drewe",
+        "Albert Adomah"
+    ],
+    "fouls": [
+        12,
+        14
+    ],
+    "corners": [
+        2,
+        5
+    ],
+    "crosses": [
+        16,
+        25
+    ],
+    "touches": [
+        540,
+        510
+    ],
+    "tackles": [
+        19,
+        11
+    ],
+    "interceptions": [
+        5,
+        4
+    ],
+    "aerials_won": [
+        24,
+        24
+    ],
+    "clearances": [
+        23,
+        20
+    ],
+    "offsides": [
+        1,
+        3
+    ],
+    "goal_kicks": [
+        8,
+        5
+    ],
+    "throw_ins": [
+        28,
+        24
+    ],
+    "long_balls": [
+        90,
+        78
+    ]
+}

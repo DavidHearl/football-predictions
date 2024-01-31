@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "1",
+        "1"
+    ],
+    "expected_goals": [
+        "0.8",
+        "1.9"
+    ],
+    "home_team": [
+        "George Long",
+        "Dan McNamara",
+        "Murray Wallace",
+        "Jake Cooper",
+        "Zian Flemming",
+        "Charlie Cresswell",
+        "Jamie Shackleton",
+        "Duncan Watmore",
+        "Andreas Voglsammer",
+        "George Saville",
+        "George Honeyman",
+        "Bartosz Bia\u0142kowski",
+        "George Evans",
+        "Tom Bradshaw",
+        "Scott Malone",
+        "Ryan Leonard",
+        "Aidomo Emakhu",
+        "Romain Esse"
+    ],
+    "away_team": [
+        "Arijanet Muric",
+        "Josh Brownhill",
+        "Ashley Barnes",
+        "Scott Twine",
+        "Connor Roberts",
+        "Hjalmar Ekdal",
+        "Anass Zaroury",
+        "Vitinho",
+        "Josh Cullen",
+        "Ameen Al-Dakhil",
+        "Ian Maatsen",
+        "Bailey Peacock-Farrell",
+        "Charlie Taylor",
+        "Jack Cork",
+        "J\u00f3hann Berg Gu\u00f0mundsson",
+        "Lyle Foster",
+        "Nathan Tella",
+        "Michael Obafemi"
+    ],
+    "fouls": [
+        7,
+        11
+    ],
+    "corners": [
+        3,
+        6
+    ],
+    "crosses": [
+        9,
+        25
+    ],
+    "touches": [
+        378,
+        702
+    ],
+    "tackles": [
+        16,
+        11
+    ],
+    "interceptions": [
+        13,
+        3
+    ],
+    "aerials_won": [
+        32,
+        22
+    ],
+    "clearances": [
+        22,
+        13
+    ],
+    "offsides": [
+        4,
+        1
+    ],
+    "goal_kicks": [
+        11,
+        5
+    ],
+    "throw_ins": [
+        12,
+        20
+    ],
+    "long_balls": [
+        79,
+        79
+    ]
+}

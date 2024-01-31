@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "1",
+        "2"
+    ],
+    "expected_goals": [
+        "1.5",
+        "3.4"
+    ],
+    "home_team": [
+        "Thomas Kaminski",
+        "Harry Pickering",
+        "Daniel Ayala",
+        "Joe Rothwell",
+        "Sam Gallagher",
+        "Leighton Clarkson",
+        "John Buckley",
+        "Ben Brereton",
+        "Hayden Carter",
+        "Darragh Lenihan",
+        "Lewis Travis",
+        "Antonis Stergiakis",
+        "Jacob Davenport",
+        "Tyrhys Dolan",
+        "Daniel Butterworth",
+        "Harry Chapman",
+        "Lenni Cirino",
+        "Tyler Magloire"
+    ],
+    "away_team": [
+        "Sam Johnstone",
+        "Darnell Furlong",
+        "Conor Townsend",
+        "Dara O'Shea",
+        "Kyle Bartley",
+        "Callum Robinson",
+        "Jake Livermore",
+        "Matt Phillips",
+        "Matthew Clarke",
+        "Karlan Grant",
+        "Alex Mowatt",
+        "David Button",
+        "Semi Ajayi",
+        "Grady Diangana",
+        "Adam Reach",
+        "C\u00e9dric Kipr\u00e9",
+        "Rayhaan Tulloch",
+        "Quevin Castro"
+    ],
+    "fouls": [
+        11,
+        12
+    ],
+    "corners": [
+        5,
+        6
+    ],
+    "crosses": [
+        12,
+        23
+    ],
+    "touches": [
+        471,
+        453
+    ],
+    "tackles": [
+        11,
+        9
+    ],
+    "interceptions": [
+        5,
+        18
+    ],
+    "aerials_won": [
+        35,
+        44
+    ],
+    "clearances": [
+        20,
+        19
+    ],
+    "offsides": [
+        5,
+        0
+    ],
+    "goal_kicks": [
+        14,
+        3
+    ],
+    "throw_ins": [
+        35,
+        32
+    ],
+    "long_balls": [
+        123,
+        116
+    ]
+}

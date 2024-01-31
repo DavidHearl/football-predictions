@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "2",
+        "3"
+    ],
+    "expected_goals": [
+        "0.9",
+        "0.8"
+    ],
+    "home_team": [
+        "Liam Roberts",
+        "Isaiah Jones",
+        "Ryan John Giles",
+        "Alex Mowatt",
+        "Matthew Clarke",
+        "Dael Fry",
+        "Riley McGree",
+        "Rodrigo Muniz",
+        "Jonny Howson",
+        "Paddy McNair",
+        "Matt Crooks",
+        "Luke Daniels",
+        "Tommy Smith",
+        "Anfernee Dijksteel",
+        "Duncan Watmore",
+        "Marcus Forss",
+        "Massimo Luongo",
+        "Marc Bola"
+    ],
+    "away_team": [
+        "Ryan Allsop",
+        "Mahlon Romeo",
+        "Ryan Wintle",
+        "Joe Ralls",
+        "Callum O'Dowda",
+        "C\u00e9dric Kipr\u00e9",
+        "Jack Simpson",
+        "Mark Harris",
+        "Andy Rinomhota",
+        "Perry Ng",
+        "Callum Robinson",
+        "Jak Alnwick",
+        "Sheyi Ojo",
+        "Curtis Nelson",
+        "Romaine Sawyers",
+        "Jaden Philogene Bidace",
+        "Rubin Colwill",
+        "Niels Nkounkou"
+    ],
+    "fouls": [
+        6,
+        6
+    ],
+    "corners": [
+        9,
+        3
+    ],
+    "crosses": [
+        40,
+        8
+    ],
+    "touches": [
+        713,
+        445
+    ],
+    "tackles": [
+        15,
+        25
+    ],
+    "interceptions": [
+        9,
+        14
+    ],
+    "aerials_won": [
+        24,
+        16
+    ],
+    "clearances": [
+        10,
+        32
+    ],
+    "offsides": [
+        2,
+        5
+    ],
+    "goal_kicks": [
+        2,
+        13
+    ],
+    "throw_ins": [
+        31,
+        21
+    ],
+    "long_balls": [
+        82,
+        82
+    ]
+}
