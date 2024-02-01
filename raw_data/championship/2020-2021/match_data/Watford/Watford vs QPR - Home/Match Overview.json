@@ -1,0 +1,101 @@
+{
+    "goals": [
+        "1",
+        "2"
+    ],
+    "expected_goals": [
+        "1.4",
+        "2.0"
+    ],
+    "home_team": [
+        "Daniel Bachmann",
+        "Jeremy Ngakia",
+        "William Troost-Ekong",
+        "Tom Cleverley",
+        "Troy Deeney",
+        "Jo\u00e3o Pedro",
+        "Nathaniel Chalobah",
+        "Will Hughes",
+        "Ismaila Sarr",
+        "Francisco Sierralta",
+        "Marc Navarro",
+        "Rob Elliot",
+        "Ben Wilmot",
+        "Philip Zinckernagel",
+        "Ken Sema",
+        "Craig Cathcart",
+        "Andre Gray",
+        "Sam Dalby",
+        "Mason Barrett",
+        "Joseph Hungbo"
+    ],
+    "away_team": [
+        "Seny Dieng",
+        "Todd Kane",
+        "Lee Wallace",
+        "Robert Dickie",
+        "Yoann Barbet",
+        "Macauley Bonne",
+        "Ilias Chair",
+        "Dominic Ball",
+        "Stefan Johansen",
+        "Geoff Cameron",
+        "Charlie Austin",
+        "Joe Lumley",
+        "George Thomas",
+        "Chris Willock",
+        "Osman Kakay",
+        "Niko H\u00e4m\u00e4l\u00e4inen",
+        "Faysal Bettache",
+        "Charlie Kelman",
+        "Albert Adomah"
+    ],
+    "fouls": [
+        9,
+        12
+    ],
+    "corners": [
+        7,
+        5
+    ],
+    "crosses": [
+        22,
+        27
+    ],
+    "touches": [
+        527,
+        629
+    ],
+    "tackles": [
+        21,
+        12
+    ],
+    "interceptions": [
+        10,
+        14
+    ],
+    "aerials_won": [
+        30,
+        21
+    ],
+    "clearances": [
+        27,
+        22
+    ],
+    "offsides": [
+        3,
+        3
+    ],
+    "goal_kicks": [
+        5,
+        7
+    ],
+    "throw_ins": [
+        21,
+        21
+    ],
+    "long_balls": [
+        67,
+        88
+    ]
+}

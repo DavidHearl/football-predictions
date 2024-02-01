@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "2",
+        "1"
+    ],
+    "expected_goals": [
+        "1.9",
+        "1.1"
+    ],
+    "home_team": [
+        "David Marshall",
+        "Nathan Byrne",
+        "Antonee Robinson",
+        "Sam Morsy",
+        "Lee Evans",
+        "Jamal Lowe",
+        "Kieffer Moore",
+        "C\u00e9dric Kipr\u00e9",
+        "Kieran Dowell",
+        "Kal Naismith",
+        "Joe Gelhardt",
+        "Jamie Jones",
+        "Gavin Massey",
+        "Joe Garner",
+        "Michael Jacobs",
+        "Gary Roberts",
+        "Joe Williams",
+        "Chey Dunkley"
+    ],
+    "away_team": [
+        "Cameron Dawson",
+        "Morgan Fox",
+        "Kadeem Harris",
+        "Joey Pelupessy",
+        "Barry Bannan",
+        "Sam Winnall",
+        "Julian B\u00f6rner",
+        "Jacob Murphy",
+        "Atdhe Nuhiu",
+        "Moses Odubajo",
+        "Dominic Iorfa",
+        "Joe Wildsmith",
+        "Jordan Rhodes",
+        "Tom Lees",
+        "Adam Reach",
+        "Preslav Borukov",
+        "Alex Hunt",
+        "Osaze Urhoghide"
+    ],
+    "fouls": [
+        8,
+        15
+    ],
+    "corners": [
+        7,
+        3
+    ],
+    "crosses": [
+        24,
+        16
+    ],
+    "touches": [
+        564,
+        443
+    ],
+    "tackles": [
+        19,
+        21
+    ],
+    "interceptions": [
+        12,
+        12
+    ],
+    "aerials_won": [
+        28,
+        29
+    ],
+    "clearances": [
+        12,
+        21
+    ],
+    "offsides": [
+        0,
+        0
+    ],
+    "goal_kicks": [
+        9,
+        12
+    ],
+    "throw_ins": [
+        27,
+        29
+    ],
+    "long_balls": [
+        97,
+        90
+    ]
+}

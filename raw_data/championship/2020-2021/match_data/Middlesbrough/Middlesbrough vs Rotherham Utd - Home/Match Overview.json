@@ -1,0 +1,100 @@
+{
+    "goals": [
+        "0",
+        "3"
+    ],
+    "expected_goals": [
+        "1.1",
+        "1.6"
+    ],
+    "home_team": [
+        "Marcus Bettinelli",
+        "Sam Morsy",
+        "Britt Assombalonga",
+        "Nathan Wood-Gordon",
+        "Jonny Howson",
+        "Paddy McNair",
+        "Duncan Watmore",
+        "Patrick Roberts",
+        "George Saville",
+        "Marc Bola",
+        "Djed Spence",
+        "Jordan Archer",
+        "Marvin Johnson",
+        "Grant Hall",
+        "Lewis Wing",
+        "Chuba Akpom",
+        "Ashley Fletcher",
+        "Hayden Coulson",
+        "Hayden Hackney"
+    ],
+    "away_team": [
+        "Jamal Blackman",
+        "Shaun MacDonald",
+        "Richard Wood",
+        "Ben Wiles",
+        "Jamie Lindsay",
+        "Wes Harding",
+        "Michael Ihiekwe",
+        "Angus MacDonald",
+        "Matthew Olosunde",
+        "Michael Smith",
+        "Matt Crooks",
+        "Viktor Johansson",
+        "Adam Thompson",
+        "George Hirst",
+        "Freddie Ladapo",
+        "Clark Robertson",
+        "Trevor Clarke",
+        "Curtis Tilt",
+        "Ryan John Giles"
+    ],
+    "fouls": [
+        13,
+        14
+    ],
+    "corners": [
+        7,
+        2
+    ],
+    "crosses": [
+        19,
+        11
+    ],
+    "touches": [
+        585,
+        443
+    ],
+    "tackles": [
+        14,
+        23
+    ],
+    "interceptions": [
+        19,
+        20
+    ],
+    "aerials_won": [
+        12,
+        29
+    ],
+    "clearances": [
+        14,
+        35
+    ],
+    "offsides": [
+        2,
+        1
+    ],
+    "goal_kicks": [
+        6,
+        6
+    ],
+    "throw_ins": [
+        46,
+        26
+    ],
+    "long_balls": [
+        104,
+        80
+    ]
+}

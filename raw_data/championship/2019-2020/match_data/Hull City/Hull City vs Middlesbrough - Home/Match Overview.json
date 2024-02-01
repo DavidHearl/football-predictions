@@ -1,0 +1,102 @@
+{
+    "goals": [
+        "2",
+        "1"
+    ],
+    "expected_goals": [
+        "0.8",
+        "1.6"
+    ],
+    "home_team": [
+        "George Long",
+        "Jordy de Wijs",
+        "Reece Burke",
+        "Daniel Batty",
+        "Matthew Pennington",
+        "Callum Elder",
+        "Josh Magennis",
+        "Leonardo da Silva Lopes",
+        "Herbie Kane",
+        "Mallik Wilks",
+        "James Scott",
+        "Matt Ingram",
+        "Ryan Tafazolli",
+        "Kevin Stewart",
+        "Tom Eaves",
+        "Jon Toral",
+        "Angus MacDonald",
+        "George Honeyman",
+        "Keane Lewis-Potter",
+        "Martin Samuelsen"
+    ],
+    "away_team": [
+        "Dejan Stojanovi\u0107",
+        "George Friend",
+        "Dael Fry",
+        "Britt Assombalonga",
+        "Jonny Howson",
+        "Paddy McNair",
+        "Patrick Roberts",
+        "Marvin Johnson",
+        "George Saville",
+        "Djed Spence",
+        "Hayden Coulson",
+        "Aynsley Pears",
+        "Ryan Shotton",
+        "Marcus Tavernier",
+        "Adam Clayton",
+        "Ashley Fletcher",
+        "Ravel Morrison",
+        "Harold Moukoudi",
+        "Lukas Nmecha",
+        "Lewis Wing"
+    ],
+    "fouls": [
+        18,
+        21
+    ],
+    "corners": [
+        0,
+        5
+    ],
+    "crosses": [
+        8,
+        21
+    ],
+    "touches": [
+        448,
+        472
+    ],
+    "tackles": [
+        19,
+        16
+    ],
+    "interceptions": [
+        16,
+        6
+    ],
+    "aerials_won": [
+        42,
+        41
+    ],
+    "clearances": [
+        21,
+        18
+    ],
+    "offsides": [
+        2,
+        3
+    ],
+    "goal_kicks": [
+        7,
+        6
+    ],
+    "throw_ins": [
+        21,
+        32
+    ],
+    "long_balls": [
+        97,
+        109
+    ]
+}

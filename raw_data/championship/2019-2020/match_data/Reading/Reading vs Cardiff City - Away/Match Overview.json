@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "1",
+        "1"
+    ],
+    "expected_goals": [
+        "1.8",
+        "0.7"
+    ],
+    "home_team": [
+        "Alex Smithies",
+        "Joe Bennett",
+        "Sean Morrison",
+        "Will Vaulks",
+        "Callum Paterson",
+        "Marlon Pack",
+        "Curtis Nelson",
+        "Lee Tomlin",
+        "Gavin Whyte",
+        "Jazz Richards",
+        "Junior Hoilett",
+        "Neil Etheridge",
+        "Aden Flint",
+        "Leandro Bacuna",
+        "Robert Glatzel",
+        "Josh Murphy",
+        "Sol Bamba",
+        "Danny Ward"
+    ],
+    "away_team": [
+        "Rafael Cabral",
+        "Chris Gunter",
+        "Michael Morrison",
+        "Liam Moore",
+        "Sam Baldock",
+        "John Swift",
+        "Jordan Obita",
+        "Ovie Ejaria",
+        "Tom McIntyre",
+        "Yakou M\u00e9\u00efte",
+        "Pel\u00e9",
+        "Sam Walker",
+        "Andy Rinomhota",
+        "Garath McCleary",
+        "Tyler Blackett",
+        "Charlie Adam",
+        "Omar Richards",
+        "George Pu\u0219ca\u0219"
+    ],
+    "fouls": [
+        17,
+        13
+    ],
+    "corners": [
+        8,
+        5
+    ],
+    "crosses": [
+        27,
+        16
+    ],
+    "touches": [
+        551,
+        471
+    ],
+    "tackles": [
+        10,
+        12
+    ],
+    "interceptions": [
+        11,
+        7
+    ],
+    "aerials_won": [
+        43,
+        29
+    ],
+    "clearances": [
+        23,
+        39
+    ],
+    "offsides": [
+        1,
+        1
+    ],
+    "goal_kicks": [
+        5,
+        8
+    ],
+    "throw_ins": [
+        28,
+        16
+    ],
+    "long_balls": [
+        126,
+        91
+    ]
+}

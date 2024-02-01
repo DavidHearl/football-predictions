@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "0",
+        "3"
+    ],
+    "expected_goals": [
+        "0.2",
+        "2.5"
+    ],
+    "home_team": [
+        "Simon Sluga",
+        "Martin Cranie",
+        "Sonny Bradley",
+        "Matty Pearson",
+        "Danny Hylton",
+        "Tom Lockyer",
+        "Glen Rea",
+        "Pelly Ruddock Mpanzu",
+        "Jordan Clark",
+        "Kiernan Dewsbury-Hall",
+        "Rhys Norrington-Davies",
+        "James Shea",
+        "Ryan Tunnicliffe",
+        "Luke Berry",
+        "Elliot Lee",
+        "James Collins",
+        "Kazenga LuaLua",
+        "Joe Morrell"
+    ],
+    "away_team": [
+        "David Raya",
+        "Rico Henry",
+        "Ethan Pinnock",
+        "Sergi Can\u00f3s",
+        "Emiliano Marcondes",
+        "Josh Dasilva",
+        "Ivan Toney",
+        "Bryan Mbeumo",
+        "Henrik Dalsgaard",
+        "Vitaly Janelt",
+        "Mads Bech S\u00f8rensen",
+        "Luke Daniels",
+        "Dominic Thompson",
+        "Charlie Goode",
+        "Mathias Jensen",
+        "Marcus Forss",
+        "Saman Ghoddos",
+        "Tariqe Fosu"
+    ],
+    "fouls": [
+        10,
+        12
+    ],
+    "corners": [
+        5,
+        4
+    ],
+    "crosses": [
+        21,
+        16
+    ],
+    "touches": [
+        544,
+        579
+    ],
+    "tackles": [
+        11,
+        14
+    ],
+    "interceptions": [
+        12,
+        13
+    ],
+    "aerials_won": [
+        20,
+        16
+    ],
+    "clearances": [
+        29,
+        27
+    ],
+    "offsides": [
+        1,
+        0
+    ],
+    "goal_kicks": [
+        7,
+        4
+    ],
+    "throw_ins": [
+        31,
+        30
+    ],
+    "long_balls": [
+        94,
+        80
+    ]
+}

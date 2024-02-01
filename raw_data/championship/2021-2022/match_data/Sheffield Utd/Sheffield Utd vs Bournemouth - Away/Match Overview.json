@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "2",
+        "1"
+    ],
+    "expected_goals": [
+        "1.9",
+        "1.2"
+    ],
+    "home_team": [
+        "Mark Travers",
+        "Lloyd Kelly",
+        "Jefferson Lerma",
+        "Dominic Solanke",
+        "Ryan Christie",
+        "Adam Smith",
+        "Ben Pearson",
+        "Gary Cahill",
+        "Philip Billing",
+        "Jaidon Anthony",
+        "Jordan Zemura",
+        "\u00d8rjan Nyland",
+        "Chris Mepham",
+        "David Brooks",
+        "Emiliano Marcondes",
+        "Jack Stacey",
+        "Jamal Lowe",
+        "Morgan Rogers"
+    ],
+    "away_team": [
+        "Robin Olsen",
+        "George Baldock",
+        "Enda Stevens",
+        "John Fleck",
+        "Billy Sharp",
+        "John Egan",
+        "Oliver Norwood",
+        "Ben Davies",
+        "Ben Osborn",
+        "Morgan Gibbs-White",
+        "Iliman Ndiaye",
+        "Wes Foderingham",
+        "Chris Basham",
+        "Rhian Brewster",
+        "Oliver McBurnie",
+        "Lys Mousset",
+        "David McGoldrick",
+        "Conor Hourihane"
+    ],
+    "fouls": [
+        13,
+        9
+    ],
+    "corners": [
+        4,
+        7
+    ],
+    "crosses": [
+        6,
+        22
+    ],
+    "touches": [
+        468,
+        600
+    ],
+    "tackles": [
+        18,
+        14
+    ],
+    "interceptions": [
+        22,
+        10
+    ],
+    "aerials_won": [
+        19,
+        20
+    ],
+    "clearances": [
+        28,
+        13
+    ],
+    "offsides": [
+        2,
+        3
+    ],
+    "goal_kicks": [
+        12,
+        6
+    ],
+    "throw_ins": [
+        21,
+        50
+    ],
+    "long_balls": [
+        80,
+        97
+    ]
+}

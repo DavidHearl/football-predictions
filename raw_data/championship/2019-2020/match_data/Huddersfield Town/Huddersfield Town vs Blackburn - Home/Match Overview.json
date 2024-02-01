@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "2",
+        "1"
+    ],
+    "expected_goals": [
+        "1.2",
+        "1.5"
+    ],
+    "home_team": [
+        "Kamil Grabara",
+        "Juninho Bacuna",
+        "Trevoh Chalobah",
+        "Elias Kachunga",
+        "Karlan Grant",
+        "Danny Simpson",
+        "Steve Mouni\u00e9",
+        "Christopher Schindler",
+        "Jon Gorenc Stankovi\u0107",
+        "Jaden Brown",
+        "Lewis O'Brien",
+        "Joel Coleman",
+        "Josh Koroma",
+        "Fraizer Campbell",
+        "Florent Hadergjonaj",
+        "Rarmani Edmonds-Green",
+        "Demeaco Duhaney",
+        "Matty Daly"
+    ],
+    "away_team": [
+        "Christian Walton",
+        "Bradley Johnson",
+        "Joe Rothwell",
+        "Sam Gallagher",
+        "Danny Graham",
+        "Stewart Downing",
+        "Tosin Adarabioyo",
+        "Darragh Lenihan",
+        "Lewis Travis",
+        "Elliott Bennett",
+        "John Buckley",
+        "Jayson Leutwiler",
+        "Adam Armstrong",
+        "Harry Chapman",
+        "Dominic Samuel",
+        "Amari'i Bell",
+        "Jacob Davenport",
+        "Ben Brereton"
+    ],
+    "fouls": [
+        15,
+        13
+    ],
+    "corners": [
+        7,
+        3
+    ],
+    "crosses": [
+        18,
+        14
+    ],
+    "touches": [
+        456,
+        560
+    ],
+    "tackles": [
+        17,
+        15
+    ],
+    "interceptions": [
+        10,
+        11
+    ],
+    "aerials_won": [
+        16,
+        29
+    ],
+    "clearances": [
+        12,
+        20
+    ],
+    "offsides": [
+        3,
+        3
+    ],
+    "goal_kicks": [
+        7,
+        11
+    ],
+    "throw_ins": [
+        24,
+        26
+    ],
+    "long_balls": [
+        87,
+        74
+    ]
+}

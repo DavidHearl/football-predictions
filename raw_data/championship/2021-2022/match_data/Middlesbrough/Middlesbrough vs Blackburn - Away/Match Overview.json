@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "1",
+        "0"
+    ],
+    "expected_goals": [
+        "1.1",
+        "0.9"
+    ],
+    "home_team": [
+        "Thomas Kaminski",
+        "Ryan Nyambe",
+        "Bradley Johnson",
+        "Reda Khadra",
+        "Sam Gallagher",
+        "Scott Wharton",
+        "Tayo Edun",
+        "John Buckley",
+        "Jan Paul van Hecke",
+        "Darragh Lenihan",
+        "Lewis Travis",
+        "Aynsley Pears",
+        "Daniel Ayala",
+        "Jacob Davenport",
+        "Joe Rankin-Costello",
+        "Daniel Butterworth",
+        "Jake Garrett",
+        "Deyovaisio Zeefuik"
+    ],
+    "away_team": [
+        "Joe Lumley",
+        "Anfernee Dijksteel",
+        "Neil Taylor",
+        "Dael Fry",
+        "Marcus Tavernier",
+        "Andra\u017e \u0160porar",
+        "Jonny Howson",
+        "Paddy McNair",
+        "Matt Crooks",
+        "Aaron Connolly",
+        "Isaiah Jones",
+        "Luke Daniels",
+        "Mart\u00edn Payero",
+        "Lee Peltier",
+        "Duncan Watmore",
+        "Sol Bamba",
+        "Josh Coburn",
+        "Folarin Balogun"
+    ],
+    "fouls": [
+        14,
+        14
+    ],
+    "corners": [
+        6,
+        7
+    ],
+    "crosses": [
+        11,
+        17
+    ],
+    "touches": [
+        368,
+        632
+    ],
+    "tackles": [
+        12,
+        9
+    ],
+    "interceptions": [
+        11,
+        8
+    ],
+    "aerials_won": [
+        34,
+        23
+    ],
+    "clearances": [
+        22,
+        12
+    ],
+    "offsides": [
+        2,
+        1
+    ],
+    "goal_kicks": [
+        6,
+        8
+    ],
+    "throw_ins": [
+        20,
+        22
+    ],
+    "long_balls": [
+        77,
+        79
+    ]
+}

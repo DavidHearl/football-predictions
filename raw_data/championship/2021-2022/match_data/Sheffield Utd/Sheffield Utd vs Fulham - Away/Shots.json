@@ -1,0 +1,32 @@
+[
+    {
+        "('Unnamed: 0_level_0', 'Minute')": "3",
+        "('Unnamed: 1_level_0', 'Player')": "Iliman Ndiaye",
+        "('Unnamed: 2_level_0', 'Squad')": "Sheffield Utd",
+        "('Unnamed: 3_level_0', 'xG')": 0.07,
+        "('Unnamed: 4_level_0', 'PSxG')": 0.44,
+        "('Unnamed: 5_level_0', 'Outcome')": "Goal",
+        "('Unnamed: 6_level_0', 'Distance')": 24,
+        "('Unnamed: 7_level_0', 'Body Part')": "Left Foot",
+        "('Unnamed: 8_level_0', 'Notes')": null,
+        "('SCA 1', 'Player')": "Iliman Ndiaye",
+        "('SCA 1', 'Event')": "Take-On",
+        "('SCA 2', 'Player')": null,
+        "('SCA 2', 'Event')": null
+    },
+    {
+        "('Unnamed: 0_level_0', 'Minute')": "45+1",
+        "('Unnamed: 1_level_0', 'Player')": "Oliver Norwood",
+        "('Unnamed: 2_level_0', 'Squad')": "Sheffield Utd",
+        "('Unnamed: 3_level_0', 'xG')": 0.04,
+        "('Unnamed: 4_level_0', 'PSxG')": 0.17,
+        "('Unnamed: 5_level_0', 'Outcome')": "Saved",
+        "('Unnamed: 6_level_0', 'Distance')": 29,
+        "('Unnamed: 7_level_0', 'Body Part')": "Right Foot",
+        "('Unnamed: 8_level_0', 'Notes')": "Volley",
+        "('SCA 1', 'Player')": "Iliman Ndiaye",
+        "('SCA 1', 'Event')": "Pass (Live)",
+        "('SCA 2', 'Player')": "Enda Stevens",
+        "('SCA 2', 'Event')": "Pass (Dead)"
+    }
+]

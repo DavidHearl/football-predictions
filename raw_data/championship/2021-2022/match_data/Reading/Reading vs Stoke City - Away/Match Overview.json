@@ -1,0 +1,96 @@
+{
+    "goals": [
+        "3",
+        "2"
+    ],
+    "expected_goals": [
+        "2.0",
+        "1.0"
+    ],
+    "home_team": [
+        "Josef Bursik",
+        "Tommy Smith",
+        "Morgan Fox",
+        "Joe Allen",
+        "Danny Batth",
+        "Mario Vran\u010di\u0107",
+        "Steven Fletcher",
+        "Josh Tymon",
+        "Ben Wilmot",
+        "Jacob Brown",
+        "Nick Powell",
+        "Adam Davies",
+        "Sam Clucas",
+        "Alfie Doughty",
+        "Jordan Thompson",
+        "Sam Surridge",
+        "Tom Ince",
+        "Harry Souttar"
+    ],
+    "away_team": [
+        "Rafael Cabral",
+        "Michael Morrison",
+        "Tom McIntyre",
+        "Liam Moore",
+        "Andy Rinomhota",
+        "John Swift",
+        "Andy Yiadom",
+        "Lucas Jo\u00e3o",
+        "Josh Laurent",
+        "Femi Azeez",
+        "Ethan Bristow",
+        "Luke Southwood",
+        "Tom Holmes",
+        "Dejan Tetek",
+        "Mamadi Camar\u00e1",
+        "George Pu\u0219ca\u0219"
+    ],
+    "fouls": [
+        16,
+        7
+    ],
+    "corners": [
+        6,
+        9
+    ],
+    "crosses": [
+        23,
+        22
+    ],
+    "touches": [
+        493,
+        538
+    ],
+    "tackles": [
+        18,
+        7
+    ],
+    "interceptions": [
+        12,
+        7
+    ],
+    "aerials_won": [
+        38,
+        27
+    ],
+    "clearances": [
+        24,
+        22
+    ],
+    "offsides": [
+        2,
+        1
+    ],
+    "goal_kicks": [
+        7,
+        11
+    ],
+    "throw_ins": [
+        16,
+        25
+    ],
+    "long_balls": [
+        66,
+        100
+    ]
+}

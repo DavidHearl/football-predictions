@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "2",
+        "1"
+    ],
+    "expected_goals": [
+        "2.1",
+        "0.6"
+    ],
+    "home_team": [
+        "Alex Smithies",
+        "Lee Peltier",
+        "Joe Bennett",
+        "Sean Morrison",
+        "Aden Flint",
+        "Joe Ralls",
+        "Robert Glatzel",
+        "Josh Murphy",
+        "Callum Paterson",
+        "Marlon Pack",
+        "Gavin Whyte",
+        "Joe Day",
+        "Will Vaulks",
+        "Leandro Bacuna",
+        "Isaac Vassell",
+        "Curtis Nelson",
+        "Omar Bogle",
+        "Junior Hoilett"
+    ],
+    "away_team": [
+        "Simon Sluga",
+        "Martin Cranie",
+        "Dan Potts",
+        "Ryan Tunnicliffe",
+        "Sonny Bradley",
+        "Matty Pearson",
+        "Callum McManaman",
+        "Pelly Ruddock Mpanzu",
+        "James Collins",
+        "George Moncur",
+        "Jacob Butterfield",
+        "James Shea",
+        "Luke Berry",
+        "Elliot Lee",
+        "Andrew Shinnie",
+        "Harry Cornick",
+        "Brendan Galloway",
+        "James Bree"
+    ],
+    "fouls": [
+        13,
+        11
+    ],
+    "corners": [
+        3,
+        3
+    ],
+    "crosses": [
+        15,
+        12
+    ],
+    "touches": [
+        421,
+        620
+    ],
+    "tackles": [
+        29,
+        12
+    ],
+    "interceptions": [
+        8,
+        5
+    ],
+    "aerials_won": [
+        44,
+        23
+    ],
+    "clearances": [
+        13,
+        23
+    ],
+    "offsides": [
+        2,
+        2
+    ],
+    "goal_kicks": [
+        7,
+        13
+    ],
+    "throw_ins": [
+        26,
+        21
+    ],
+    "long_balls": [
+        96,
+        102
+    ]
+}

@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "1",
+        "0"
+    ],
+    "expected_goals": [
+        "3.1",
+        "0.5"
+    ],
+    "home_team": [
+        "Sam Johnstone",
+        "Darnell Furlong",
+        "Kyle Bartley",
+        "Callum Robinson",
+        "Jake Livermore",
+        "Jayson Molumby",
+        "Jordan Hugill",
+        "Karlan Grant",
+        "Adam Reach",
+        "Alex Mowatt",
+        "Taylor Gardner-Hickman",
+        "David Button",
+        "Rayhaan Tulloch",
+        "Caleb Taylor",
+        "Ethan Ingram",
+        "Zachary Ashworth",
+        "Tom Fellows",
+        "Reyes Cleary"
+    ],
+    "away_team": [
+        "Luke Southwood",
+        "Tom Holmes",
+        "Liam Moore",
+        "Alen Halilovi\u0107",
+        "Andy Carroll",
+        "Dejan Tetek",
+        "Tom Dele-Bashiru",
+        "Baba Rahman",
+        "Scott Dann",
+        "Josh Laurent",
+        "Tyrell Ashcroft",
+        "Rafael Cabral",
+        "Felipe Araruna",
+        "Junior Hoilett",
+        "Mamadi Camar\u00e1",
+        "Claudio Osorio",
+        "Ethan Bristow",
+        "George Pu\u0219ca\u0219"
+    ],
+    "fouls": [
+        9,
+        8
+    ],
+    "corners": [
+        6,
+        1
+    ],
+    "crosses": [
+        32,
+        8
+    ],
+    "touches": [
+        619,
+        509
+    ],
+    "tackles": [
+        16,
+        3
+    ],
+    "interceptions": [
+        10,
+        12
+    ],
+    "aerials_won": [
+        16,
+        14
+    ],
+    "clearances": [
+        12,
+        26
+    ],
+    "offsides": [
+        0,
+        2
+    ],
+    "goal_kicks": [
+        4,
+        16
+    ],
+    "throw_ins": [
+        24,
+        20
+    ],
+    "long_balls": [
+        80,
+        82
+    ]
+}

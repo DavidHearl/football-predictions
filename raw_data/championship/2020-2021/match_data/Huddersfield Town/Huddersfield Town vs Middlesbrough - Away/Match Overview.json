@@ -1,0 +1,101 @@
+{
+    "goals": [
+        "2",
+        "1"
+    ],
+    "expected_goals": [
+        "1.2",
+        "1.3"
+    ],
+    "home_team": [
+        "Marcus Bettinelli",
+        "Anfernee Dijksteel",
+        "Grant Hall",
+        "Sam Morsy",
+        "Ashley Fletcher",
+        "Jonny Howson",
+        "Paddy McNair",
+        "Duncan Watmore",
+        "Darnell Fisher",
+        "Neeskens Kebano",
+        "Marc Bola",
+        "Jordan Archer",
+        "Marvin Johnson",
+        "Britt Assombalonga",
+        "Chuba Akpom",
+        "Nathaniel Mendez-Laing",
+        "George Saville",
+        "Djed Spence",
+        "Hayden Coulson"
+    ],
+    "away_team": [
+        "Ryan Schofield",
+        "Pipa",
+        "Jonathan Hogg",
+        "Juninho Bacuna",
+        "Lewis O'Brien",
+        "Duane Holmes",
+        "Alex Pritchard",
+        "Richard Keogh",
+        "Isaac Mbenza",
+        "Fraizer Campbell",
+        "Mouhamadou-Naby Sarr",
+        "Jayson Leutwiler",
+        "\u00c1lex Vallejo",
+        "Richard Stearman",
+        "Demeaco Duhaney",
+        "Romoney Crichlow-Noble",
+        "Aaron Rowe",
+        "Matty Daly",
+        "Kieran Phillips",
+        "Scott High"
+    ],
+    "fouls": [
+        14,
+        17
+    ],
+    "corners": [
+        9,
+        4
+    ],
+    "crosses": [
+        33,
+        19
+    ],
+    "touches": [
+        447,
+        547
+    ],
+    "tackles": [
+        11,
+        14
+    ],
+    "interceptions": [
+        9,
+        6
+    ],
+    "aerials_won": [
+        23,
+        28
+    ],
+    "clearances": [
+        22,
+        32
+    ],
+    "offsides": [
+        1,
+        0
+    ],
+    "goal_kicks": [
+        10,
+        6
+    ],
+    "throw_ins": [
+        20,
+        20
+    ],
+    "long_balls": [
+        72,
+        63
+    ]
+}

@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "2",
+        "1"
+    ],
+    "expected_goals": [
+        "1.2",
+        "2.2"
+    ],
+    "home_team": [
+        "Dillon Phillips",
+        "Adam Matthews",
+        "Tom Lockyer",
+        "Jason Pearce",
+        "Jonny Williams",
+        "Lyle Taylor",
+        "Darren Pratley",
+        "Andr\u00e9 Green",
+        "Mouhamadou-Naby Sarr",
+        "Josh Cullen",
+        "Alfie Doughty",
+        "Ben Amos",
+        "Ben Purrington",
+        "Jake Forster-Caskey",
+        "Aiden McGeady",
+        "Tomer Hemed",
+        "Sam Field",
+        "Erhun Oztumer"
+    ],
+    "away_team": [
+        "Samuel \u015eahin-Radlinger",
+        "Jordan Williams",
+        "Mads Juel Andersen",
+        "Jacob Brown",
+        "Cauley Woodrow",
+        "Conor Chaplin",
+        "Luke Thomas",
+        "Michael Sollbauer",
+        "Clarke Oduor",
+        "Aapo Halme",
+        "Alex Mowatt",
+        "Jack Walton",
+        "Ben Williams",
+        "Kenneth Dougall",
+        "Kilian Ludewig",
+        "Patrick Schmidt",
+        "Callum Styles",
+        "Elliot Simoes"
+    ],
+    "fouls": [
+        9,
+        15
+    ],
+    "corners": [
+        6,
+        6
+    ],
+    "crosses": [
+        18,
+        20
+    ],
+    "touches": [
+        416,
+        573
+    ],
+    "tackles": [
+        12,
+        21
+    ],
+    "interceptions": [
+        11,
+        12
+    ],
+    "aerials_won": [
+        28,
+        41
+    ],
+    "clearances": [
+        26,
+        34
+    ],
+    "offsides": [
+        1,
+        1
+    ],
+    "goal_kicks": [
+        10,
+        5
+    ],
+    "throw_ins": [
+        36,
+        29
+    ],
+    "long_balls": [
+        113,
+        70
+    ]
+}

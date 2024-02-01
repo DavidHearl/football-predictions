@@ -1,0 +1,102 @@
+{
+    "goals": [
+        "0",
+        "1"
+    ],
+    "expected_goals": [
+        "0.5",
+        "1.9"
+    ],
+    "home_team": [
+        "Thomas Kaminski",
+        "Ryan Nyambe",
+        "Sam Gallagher",
+        "Barry Douglas",
+        "Tom Trybull",
+        "Ben Brereton",
+        "John Buckley",
+        "Taylor Harwood-Bellis",
+        "Bradley Dack",
+        "Darragh Lenihan",
+        "Tyrhys Dolan",
+        "Aynsley Pears",
+        "Bradley Johnson",
+        "Joe Rothwell",
+        "Harvey Elliott",
+        "Amari'i Bell",
+        "Lewis Travis",
+        "Corry Evans",
+        "Jarrad Branthwaite",
+        "Elliott Bennett"
+    ],
+    "away_team": [
+        "David Raya",
+        "Ethan Pinnock",
+        "Christian N\u00f8rgaard",
+        "Mathias Jensen",
+        "Ivan Toney",
+        "Bryan Mbeumo",
+        "Henrik Dalsgaard",
+        "Winston Reid",
+        "Tariqe Fosu",
+        "Vitaly Janelt",
+        "Mads Bech S\u00f8rensen",
+        "Luke Daniels",
+        "Sergi Can\u00f3s",
+        "Emiliano Marcondes",
+        "Marcus Forss",
+        "Saman Ghoddos",
+        "Mads Roerslev",
+        "Jan \u017damb\u016frek",
+        "Finley Stevens",
+        "Mads Bidstrup"
+    ],
+    "fouls": [
+        19,
+        15
+    ],
+    "corners": [
+        2,
+        3
+    ],
+    "crosses": [
+        11,
+        16
+    ],
+    "touches": [
+        633,
+        485
+    ],
+    "tackles": [
+        13,
+        21
+    ],
+    "interceptions": [
+        6,
+        14
+    ],
+    "aerials_won": [
+        17,
+        21
+    ],
+    "clearances": [
+        12,
+        11
+    ],
+    "offsides": [
+        3,
+        3
+    ],
+    "goal_kicks": [
+        8,
+        4
+    ],
+    "throw_ins": [
+        26,
+        26
+    ],
+    "long_balls": [
+        98,
+        101
+    ]
+}

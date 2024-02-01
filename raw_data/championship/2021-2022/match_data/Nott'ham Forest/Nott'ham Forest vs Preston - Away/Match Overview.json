@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "0",
+        "0"
+    ],
+    "expected_goals": [
+        "1.5",
+        "0.6"
+    ],
+    "home_team": [
+        "Daniel Iversen",
+        "Sepp van den Berg",
+        "Ben Whiteman",
+        "Patrick Bauer",
+        "Liam Lindsay",
+        "Alan Browne",
+        "Ched Evans",
+        "Daniel Johnson",
+        "Andrew Hughes",
+        "Cameron Archer",
+        "Brad Potts",
+        "Connor Ripley",
+        "Alistair McCann",
+        "Joe Rafferty",
+        "Ryan Ledson",
+        "Emil Riis Jakobsen",
+        "Scott Sinclair",
+        "Josh Earl"
+    ],
+    "away_team": [
+        "Ethan Horvath",
+        "Djed Spence",
+        "Joe Worrall",
+        "Jack Colback",
+        "Keinan Davis",
+        "Max Lowe",
+        "Brennan Johnson",
+        "Ryan Yates",
+        "Scott McKenna",
+        "Steve Cook",
+        "James Garner",
+        "Jordan Smith",
+        "Tobias Figueiredo",
+        "Philip Zinckernagel",
+        "Sam Surridge",
+        "Alex Mighten",
+        "Caf\u00fa",
+        "Joe Lolley"
+    ],
+    "fouls": [
+        10,
+        8
+    ],
+    "corners": [
+        11,
+        3
+    ],
+    "crosses": [
+        25,
+        5
+    ],
+    "touches": [
+        550,
+        532
+    ],
+    "tackles": [
+        16,
+        17
+    ],
+    "interceptions": [
+        18,
+        15
+    ],
+    "aerials_won": [
+        24,
+        20
+    ],
+    "clearances": [
+        10,
+        20
+    ],
+    "offsides": [
+        6,
+        1
+    ],
+    "goal_kicks": [
+        3,
+        13
+    ],
+    "throw_ins": [
+        33,
+        34
+    ],
+    "long_balls": [
+        83,
+        78
+    ]
+}

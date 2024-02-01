@@ -1,0 +1,97 @@
+{
+    "goals": [
+        "2",
+        "2"
+    ],
+    "expected_goals": [
+        "0.7",
+        "2.1"
+    ],
+    "home_team": [
+        "Mark Travers",
+        "Lloyd Kelly",
+        "Chris Mepham",
+        "David Brooks",
+        "Dominic Solanke",
+        "Emiliano Marcondes",
+        "Adam Smith",
+        "Gavin Kilkenny",
+        "Philip Billing",
+        "Jaidon Anthony",
+        "Jordan Zemura",
+        "Will Dennis",
+        "Kyle Taylor",
+        "Zeno Ibsen Rossi",
+        "Ryan Glover",
+        "Christian Saydee",
+        "Nathan Moriah-Welsh",
+        "Brennan Camp"
+    ],
+    "away_team": [
+        "David Button",
+        "Darnell Furlong",
+        "Conor Townsend",
+        "Dara O'Shea",
+        "Kyle Bartley",
+        "Callum Robinson",
+        "Jake Livermore",
+        "Grady Diangana",
+        "Karlan Grant",
+        "C\u00e9dric Kipr\u00e9",
+        "Alex Mowatt",
+        "Sam Johnstone",
+        "Semi Ajayi",
+        "Kenneth Zohore",
+        "Matt Phillips",
+        "Rayhaan Tulloch",
+        "Ethan Ingram"
+    ],
+    "fouls": [
+        11,
+        13
+    ],
+    "corners": [
+        4,
+        8
+    ],
+    "crosses": [
+        9,
+        26
+    ],
+    "touches": [
+        500,
+        412
+    ],
+    "tackles": [
+        9,
+        18
+    ],
+    "interceptions": [
+        7,
+        10
+    ],
+    "aerials_won": [
+        19,
+        34
+    ],
+    "clearances": [
+        38,
+        20
+    ],
+    "offsides": [
+        3,
+        1
+    ],
+    "goal_kicks": [
+        12,
+        3
+    ],
+    "throw_ins": [
+        29,
+        28
+    ],
+    "long_balls": [
+        105,
+        100
+    ]
+}

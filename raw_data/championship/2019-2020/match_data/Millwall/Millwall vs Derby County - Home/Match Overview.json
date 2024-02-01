@@ -1,0 +1,102 @@
+{
+    "goals": [
+        "2",
+        "3"
+    ],
+    "expected_goals": [
+        "1.7",
+        "1.4"
+    ],
+    "home_team": [
+        "Bartosz Bia\u0142kowski",
+        "Murray Wallace",
+        "Shaun Hutchinson",
+        "Jake Cooper",
+        "Jed Wallace",
+        "Matt Smith",
+        "Shane Ferguson",
+        "Mahlon Romeo",
+        "Jayson Molumby",
+        "Ryan Leonard",
+        "Ryan Woods",
+        "Luke Steele",
+        "Shaun Williams",
+        "Tom Bradshaw",
+        "James Brown",
+        "Connor Mahoney",
+        "J\u00f3n Da\u00f0i B\u00f6\u00f0varsson",
+        "Ji\u0159\u00ed Skal\u00e1k",
+        "Billy Mitchell",
+        "Hayden Muller"
+    ],
+    "away_team": [
+        "Ben Hamer",
+        "Andre Wisdom",
+        "Craig Forsyth",
+        "Martyn Waghorn",
+        "Tom Lawrence",
+        "Matthew Clarke",
+        "Duane Holmes",
+        "Wayne Rooney",
+        "Jayden Bogle",
+        "Louie Sibley",
+        "Max Bird",
+        "Kelle Roos",
+        "Graeme Shinnie",
+        "Florian Jozefzoon",
+        "George Evans",
+        "Chris Martin",
+        "Max Lowe",
+        "Curtis Davies",
+        "Jason Knight",
+        "Morgan Whittaker"
+    ],
+    "fouls": [
+        10,
+        8
+    ],
+    "corners": [
+        6,
+        3
+    ],
+    "crosses": [
+        25,
+        10
+    ],
+    "touches": [
+        476,
+        719
+    ],
+    "tackles": [
+        25,
+        16
+    ],
+    "interceptions": [
+        4,
+        6
+    ],
+    "aerials_won": [
+        17,
+        19
+    ],
+    "clearances": [
+        10,
+        23
+    ],
+    "offsides": [
+        3,
+        0
+    ],
+    "goal_kicks": [
+        7,
+        10
+    ],
+    "throw_ins": [
+        32,
+        19
+    ],
+    "long_balls": [
+        85,
+        73
+    ]
+}

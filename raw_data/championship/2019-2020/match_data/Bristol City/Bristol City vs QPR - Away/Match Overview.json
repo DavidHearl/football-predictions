@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "0",
+        "1"
+    ],
+    "expected_goals": [
+        "1.2",
+        "1.0"
+    ],
+    "home_team": [
+        "Liam Kelly",
+        "Todd Kane",
+        "Lee Wallace",
+        "Grant Hall",
+        "Luke Amos",
+        "Jordan Hugill",
+        "Eberechi Eze",
+        "Dominic Ball",
+        "Ilias Chair",
+        "Bright Osayi-Samuel",
+        "Conor Masterson",
+        "Joe Lumley",
+        "Marc Pugh",
+        "Ryan Manning",
+        "Olamide Shodipo",
+        "\u00c0ngel Rangel",
+        "Yoann Barbet",
+        "Jack Clarke"
+    ],
+    "away_team": [
+        "Daniel Bentley",
+        "Jack Hunt",
+        "Jay Dasilva",
+        "Nathan Baker",
+        "Korey Smith",
+        "Famara Diedhiou",
+        "Andreas Weimann",
+        "Niclas Eliasson",
+        "Jamie Paterson",
+        "Ashley Williams",
+        "Han-Noah Massengo",
+        "Jojo Wollacott",
+        "\u00c1d\u00e1m Nagy",
+        "Callum O'Dowda",
+        "Nahki Wells",
+        "Tommy Rowe",
+        "Pedro Pereira",
+        "Kasey Palmer"
+    ],
+    "fouls": [
+        11,
+        12
+    ],
+    "corners": [
+        10,
+        5
+    ],
+    "crosses": [
+        31,
+        14
+    ],
+    "touches": [
+        720,
+        396
+    ],
+    "tackles": [
+        10,
+        20
+    ],
+    "interceptions": [
+        3,
+        14
+    ],
+    "aerials_won": [
+        20,
+        22
+    ],
+    "clearances": [
+        23,
+        37
+    ],
+    "offsides": [
+        1,
+        2
+    ],
+    "goal_kicks": [
+        5,
+        10
+    ],
+    "throw_ins": [
+        28,
+        28
+    ],
+    "long_balls": [
+        96,
+        83
+    ]
+}

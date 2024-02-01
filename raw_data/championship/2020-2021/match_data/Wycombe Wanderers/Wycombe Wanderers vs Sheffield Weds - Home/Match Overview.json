@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "1",
+        "0"
+    ],
+    "expected_goals": [
+        "0.7",
+        "0.6"
+    ],
+    "home_team": [
+        "Ryan Allsop",
+        "Jack Grimmer",
+        "Joe Jacobson",
+        "Anthony Stewart",
+        "David Wheeler",
+        "Scott Kashket",
+        "Josh Knight",
+        "Daryl Horgan",
+        "Curtis Thompson",
+        "Adebayo Akinfenwa",
+        "Dennis Adeniran",
+        "David Stockdale",
+        "Ryan Tafazolli",
+        "Uche Ikpeazu",
+        "Matt Bloomfield",
+        "Fred Onyedinma",
+        "Alex Samuel",
+        "Anis Mehmeti"
+    ],
+    "away_team": [
+        "Joe Wildsmith",
+        "Liam Palmer",
+        "Callum Paterson",
+        "Kadeem Harris",
+        "Joey Pelupessy",
+        "Jack Marriott",
+        "Barry Bannan",
+        "Adam Reach",
+        "Julian B\u00f6rner",
+        "Josh Windass",
+        "Dominic Iorfa",
+        "Cameron Dawson",
+        "Fisayo Dele-Bashiru",
+        "Jordan Rhodes",
+        "Moses Odubajo",
+        "Izzy Brown",
+        "Alex Hunt",
+        "Elias Kachunga"
+    ],
+    "fouls": [
+        17,
+        10
+    ],
+    "corners": [
+        7,
+        9
+    ],
+    "crosses": [
+        13,
+        44
+    ],
+    "touches": [
+        334,
+        623
+    ],
+    "tackles": [
+        17,
+        12
+    ],
+    "interceptions": [
+        12,
+        8
+    ],
+    "aerials_won": [
+        28,
+        19
+    ],
+    "clearances": [
+        33,
+        20
+    ],
+    "offsides": [
+        1,
+        2
+    ],
+    "goal_kicks": [
+        15,
+        11
+    ],
+    "throw_ins": [
+        19,
+        17
+    ],
+    "long_balls": [
+        100,
+        117
+    ]
+}

@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "1",
+        "2"
+    ],
+    "expected_goals": [
+        "1.6",
+        "0.5"
+    ],
+    "home_team": [
+        "Brice Samba",
+        "Cyrus Christie",
+        "Lo\u00efc Mbe Soh",
+        "Lewis Grabban",
+        "Jack Colback",
+        "Sammy Ameobi",
+        "Luke Freeman",
+        "Alex Mighten",
+        "Tyler Blackett",
+        "Harry Arter",
+        "Nicholas Ioannou",
+        "Jordan Smith",
+        "Nuno da Costa",
+        "Michael Dawson",
+        "Samba Sow",
+        "Ryan Yates",
+        "Tendayi Darikwa",
+        "Lyle Taylor"
+    ],
+    "away_team": [
+        "Daniel Bentley",
+        "Jack Hunt",
+        "Alfie Mawson",
+        "Chris Martin",
+        "Jamie Paterson",
+        "Andreas Weimann",
+        "Nahki Wells",
+        "Taylor Moore",
+        "Tommy Rowe",
+        "Zak Vyner",
+        "Tyreeq Bakinson",
+        "Max O'Leary",
+        "Jay Dasilva",
+        "Famara Diedhiou",
+        "Callum O'Dowda",
+        "Antoine Semenyo",
+        "Chris Brunt",
+        "Steven Sessegnon"
+    ],
+    "fouls": [
+        13,
+        9
+    ],
+    "corners": [
+        11,
+        5
+    ],
+    "crosses": [
+        42,
+        12
+    ],
+    "touches": [
+        582,
+        568
+    ],
+    "tackles": [
+        18,
+        8
+    ],
+    "interceptions": [
+        18,
+        10
+    ],
+    "aerials_won": [
+        16,
+        18
+    ],
+    "clearances": [
+        6,
+        37
+    ],
+    "offsides": [
+        0,
+        2
+    ],
+    "goal_kicks": [
+        4,
+        10
+    ],
+    "throw_ins": [
+        25,
+        16
+    ],
+    "long_balls": [
+        94,
+        92
+    ]
+}

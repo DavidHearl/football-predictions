@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "1",
+        "4"
+    ],
+    "expected_goals": [
+        "1.6",
+        "1.7"
+    ],
+    "home_team": [
+        "Daniel Grimshaw",
+        "James Husband",
+        "Kevin Stewart",
+        "Jerry Yates",
+        "Josh Bowler",
+        "Kenneth Dougall",
+        "Gary Madine",
+        "Marvin Ekpiteta",
+        "CJ Hamilton",
+        "Jordan Thorniley",
+        "Dujon Sterling",
+        "Chris Maxwell",
+        "Callum Connolly",
+        "Reece James",
+        "Keshi Anderson",
+        "Shayne Lavery",
+        "Richard Keogh",
+        "Jake Beesley"
+    ],
+    "away_team": [
+        "Brice Samba",
+        "Djed Spence",
+        "Tobias Figueiredo",
+        "Joe Worrall",
+        "Jack Colback",
+        "Keinan Davis",
+        "Philip Zinckernagel",
+        "Brennan Johnson",
+        "Ryan Yates",
+        "Scott McKenna",
+        "James Garner",
+        "Ethan Horvath",
+        "Lo\u00efc Mbe Soh",
+        "Lewis Grabban",
+        "Sam Surridge",
+        "Alex Mighten",
+        "Caf\u00fa",
+        "Joe Lolley"
+    ],
+    "fouls": [
+        9,
+        8
+    ],
+    "corners": [
+        8,
+        4
+    ],
+    "crosses": [
+        31,
+        7
+    ],
+    "touches": [
+        556,
+        577
+    ],
+    "tackles": [
+        15,
+        18
+    ],
+    "interceptions": [
+        15,
+        19
+    ],
+    "aerials_won": [
+        19,
+        18
+    ],
+    "clearances": [
+        9,
+        30
+    ],
+    "offsides": [
+        2,
+        3
+    ],
+    "goal_kicks": [
+        2,
+        8
+    ],
+    "throw_ins": [
+        26,
+        31
+    ],
+    "long_balls": [
+        80,
+        72
+    ]
+}

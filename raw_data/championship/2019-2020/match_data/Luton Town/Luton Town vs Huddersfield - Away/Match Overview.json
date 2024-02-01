@@ -1,0 +1,102 @@
+{
+    "goals": [
+        "0",
+        "2"
+    ],
+    "expected_goals": [
+        "0.6",
+        "0.5"
+    ],
+    "home_team": [
+        "Jonas L\u00f6ssl",
+        "Harry Toffolo",
+        "Jonathan Hogg",
+        "Trevoh Chalobah",
+        "Chris Willock",
+        "Karlan Grant",
+        "Fraizer Campbell",
+        "Christopher Schindler",
+        "Jon Gorenc Stankovi\u0107",
+        "Emile Smith Rowe",
+        "Lewis O'Brien",
+        "Joel Coleman",
+        "Juninho Bacuna",
+        "Elias Kachunga",
+        "Richard Stearman",
+        "Alex Pritchard",
+        "Steve Mouni\u00e9",
+        "Jaden Brown",
+        "Andy King",
+        "Demeaco Duhaney"
+    ],
+    "away_team": [
+        "Simon Sluga",
+        "Dan Potts",
+        "Sonny Bradley",
+        "Luke Berry",
+        "Elliot Lee",
+        "Andrew Shinnie",
+        "Harry Cornick",
+        "Pelly Ruddock Mpanzu",
+        "Cameron Carter-Vickers",
+        "James Collins",
+        "James Bree",
+        "James Shea",
+        "Martin Cranie",
+        "Ryan Tunnicliffe",
+        "Callum McManaman",
+        "Danny Hylton",
+        "George Moncur",
+        "Kazenga LuaLua",
+        "Jacob Butterfield",
+        "Peter Kioso"
+    ],
+    "fouls": [
+        19,
+        11
+    ],
+    "corners": [
+        6,
+        2
+    ],
+    "crosses": [
+        32,
+        8
+    ],
+    "touches": [
+        662,
+        489
+    ],
+    "tackles": [
+        13,
+        18
+    ],
+    "interceptions": [
+        18,
+        8
+    ],
+    "aerials_won": [
+        31,
+        14
+    ],
+    "clearances": [
+        8,
+        38
+    ],
+    "offsides": [
+        1,
+        0
+    ],
+    "goal_kicks": [
+        3,
+        11
+    ],
+    "throw_ins": [
+        36,
+        21
+    ],
+    "long_balls": [
+        63,
+        68
+    ]
+}

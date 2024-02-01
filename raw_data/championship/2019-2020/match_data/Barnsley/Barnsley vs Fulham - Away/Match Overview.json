@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "0",
+        "3"
+    ],
+    "expected_goals": [
+        "1.4",
+        "2.2"
+    ],
+    "home_team": [
+        "Marek Rod\u00e1k",
+        "Michael Hector",
+        "Kevin McDonald",
+        "Aleksandar Mitrovi\u0107",
+        "Tom Cairney",
+        "Tim Ream",
+        "Ivan Cavaleiro",
+        "Joe Bryan",
+        "Anthony Knockaert",
+        "Josh Onomah",
+        "Steven Sessegnon",
+        "Marcus Bettinelli",
+        "Denis Odoi",
+        "Stefan Johansen",
+        "Bobby Reid",
+        "Harry Arter",
+        "Cyrus Christie",
+        "Aboubakar Kamara"
+    ],
+    "away_team": [
+        "Bradley Collins",
+        "Jordan Williams",
+        "Jacob Brown",
+        "Cauley Woodrow",
+        "Mike-Steven B\u00e4hre",
+        "Conor Chaplin",
+        "Kilian Ludewig",
+        "Luke Thomas",
+        "Michael Sollbauer",
+        "Aapo Halme",
+        "Alex Mowatt",
+        "Jack Walton",
+        "Ben Williams",
+        "Kenneth Dougall",
+        "Patrick Schmidt",
+        "Clarke Oduor",
+        "Elliot Simoes",
+        "Aiden Marsh"
+    ],
+    "fouls": [
+        9,
+        17
+    ],
+    "corners": [
+        10,
+        3
+    ],
+    "crosses": [
+        23,
+        19
+    ],
+    "touches": [
+        612,
+        499
+    ],
+    "tackles": [
+        7,
+        22
+    ],
+    "interceptions": [
+        9,
+        6
+    ],
+    "aerials_won": [
+        28,
+        25
+    ],
+    "clearances": [
+        16,
+        35
+    ],
+    "offsides": [
+        1,
+        4
+    ],
+    "goal_kicks": [
+        8,
+        10
+    ],
+    "throw_ins": [
+        36,
+        29
+    ],
+    "long_balls": [
+        117,
+        89
+    ]
+}

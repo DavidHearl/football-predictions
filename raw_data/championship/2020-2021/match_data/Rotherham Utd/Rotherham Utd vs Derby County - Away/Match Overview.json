@@ -1,0 +1,101 @@
+{
+    "goals": [
+        "0",
+        "1"
+    ],
+    "expected_goals": [
+        "0.5",
+        "1.9"
+    ],
+    "home_team": [
+        "Kelle Roos",
+        "Andre Wisdom",
+        "Graeme Shinnie",
+        "Krystian Bielik",
+        "Kamil J\u00f3\u017awiak",
+        "Martyn Waghorn",
+        "Nathan Byrne",
+        "Colin Kazim-Richards",
+        "Matthew Clarke",
+        "Lee Buchanan",
+        "Jason Knight",
+        "Bradley Foster-Theniger",
+        "Craig Forsyth",
+        "Max Bird",
+        "Louie Sibley",
+        "Morgan Whittaker",
+        "George Evans",
+        "Cornell MacDonald",
+        "Kaide Gordon",
+        "Jayden Mitchell-Lawson"
+    ],
+    "away_team": [
+        "Jamal Blackman",
+        "Richard Wood",
+        "Ben Wiles",
+        "Jamie Lindsay",
+        "Wes Harding",
+        "Michael Ihiekwe",
+        "Angus MacDonald",
+        "Matthew Olosunde",
+        "Michael Smith",
+        "Matt Crooks",
+        "Daniel Barlaser",
+        "Viktor Johansson",
+        "Billy Jones",
+        "Shaun MacDonald",
+        "George Hirst",
+        "Freddie Ladapo",
+        "Clark Robertson",
+        "Trevor Clarke",
+        "Curtis Tilt"
+    ],
+    "fouls": [
+        15,
+        13
+    ],
+    "corners": [
+        7,
+        2
+    ],
+    "crosses": [
+        19,
+        16
+    ],
+    "touches": [
+        563,
+        373
+    ],
+    "tackles": [
+        13,
+        13
+    ],
+    "interceptions": [
+        8,
+        16
+    ],
+    "aerials_won": [
+        25,
+        28
+    ],
+    "clearances": [
+        18,
+        16
+    ],
+    "offsides": [
+        0,
+        2
+    ],
+    "goal_kicks": [
+        8,
+        5
+    ],
+    "throw_ins": [
+        23,
+        27
+    ],
+    "long_balls": [
+        85,
+        89
+    ]
+}

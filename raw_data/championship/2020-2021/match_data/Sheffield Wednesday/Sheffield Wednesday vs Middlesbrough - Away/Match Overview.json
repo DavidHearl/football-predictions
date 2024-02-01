@@ -1,0 +1,100 @@
+{
+    "goals": [
+        "3",
+        "1"
+    ],
+    "expected_goals": [
+        "1.4",
+        "2.4"
+    ],
+    "home_team": [
+        "Jordan Archer",
+        "Marvin Johnson",
+        "Grant Hall",
+        "Chuba Akpom",
+        "Yannick Bolasie",
+        "Jonny Howson",
+        "Paddy McNair",
+        "Duncan Watmore",
+        "Neeskens Kebano",
+        "George Saville",
+        "Marc Bola",
+        "Marcus Bettinelli",
+        "Djed Spence",
+        "Hayden Hackney",
+        "Williams Kokolo",
+        "Josh Coburn",
+        "Connor Malley",
+        "Jack Robinson"
+    ],
+    "away_team": [
+        "Keiren Westwood",
+        "Liam Palmer",
+        "Callum Paterson",
+        "Sam Hutchinson",
+        "Joey Pelupessy",
+        "Barry Bannan",
+        "Adam Reach",
+        "Julian B\u00f6rner",
+        "Tom Lees",
+        "Andr\u00e9 Green",
+        "Josh Windass",
+        "Joe Wildsmith",
+        "Kadeem Harris",
+        "Matt Penney",
+        "Fisayo Dele-Bashiru",
+        "Osaze Urhoghide",
+        "Jordan Rhodes",
+        "Liam Shaw",
+        "Alex Hunt",
+        "Elias Kachunga"
+    ],
+    "fouls": [
+        12,
+        9
+    ],
+    "corners": [
+        8,
+        7
+    ],
+    "crosses": [
+        18,
+        23
+    ],
+    "touches": [
+        495,
+        567
+    ],
+    "tackles": [
+        11,
+        18
+    ],
+    "interceptions": [
+        18,
+        12
+    ],
+    "aerials_won": [
+        28,
+        22
+    ],
+    "clearances": [
+        23,
+        17
+    ],
+    "offsides": [
+        0,
+        3
+    ],
+    "goal_kicks": [
+        7,
+        7
+    ],
+    "throw_ins": [
+        21,
+        34
+    ],
+    "long_balls": [
+        96,
+        101
+    ]
+}

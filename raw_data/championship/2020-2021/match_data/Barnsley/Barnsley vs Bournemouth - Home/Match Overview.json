@@ -1,0 +1,102 @@
+{
+    "goals": [
+        "0",
+        "4"
+    ],
+    "expected_goals": [
+        "0.5",
+        "1.5"
+    ],
+    "home_team": [
+        "Jack Walton",
+        "Callum Styles",
+        "Mads Juel Andersen",
+        "Callum Brittain",
+        "Herbie Kane",
+        "Cauley Woodrow",
+        "Conor Chaplin",
+        "Michael Sollbauer",
+        "Alex Mowatt",
+        "Victor Adeboyejo",
+        "Micha\u0142 Helik",
+        "Bradley Collins",
+        "Luke Thomas",
+        "Patrick Schmidt",
+        "Romal Palmer",
+        "Clarke Oduor",
+        "Aapo Halme",
+        "George Miller",
+        "Dominik Frieser",
+        "Matty James"
+    ],
+    "away_team": [
+        "Asmir Begovi\u0107",
+        "Steve Cook",
+        "Lloyd Kelly",
+        "Chris Mepham",
+        "David Brooks",
+        "Dominic Solanke",
+        "Sam Surridge",
+        "Adam Smith",
+        "Lewis Cook",
+        "Diego Rico",
+        "Philip Billing",
+        "Mark Travers",
+        "Dan Gosling",
+        "Junior Stanislas",
+        "Rodrigo Riquelme",
+        "Nnamdi Ofoborh",
+        "Jack Simpson",
+        "Gavin Kilkenny",
+        "Jaidon Anthony",
+        "Jordan Zemura"
+    ],
+    "fouls": [
+        14,
+        13
+    ],
+    "corners": [
+        3,
+        4
+    ],
+    "crosses": [
+        13,
+        9
+    ],
+    "touches": [
+        532,
+        579
+    ],
+    "tackles": [
+        21,
+        15
+    ],
+    "interceptions": [
+        13,
+        14
+    ],
+    "aerials_won": [
+        10,
+        24
+    ],
+    "clearances": [
+        17,
+        24
+    ],
+    "offsides": [
+        1,
+        2
+    ],
+    "goal_kicks": [
+        8,
+        11
+    ],
+    "throw_ins": [
+        29,
+        38
+    ],
+    "long_balls": [
+        81,
+        105
+    ]
+}

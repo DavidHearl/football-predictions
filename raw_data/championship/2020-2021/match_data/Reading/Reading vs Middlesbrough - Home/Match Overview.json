@@ -1,0 +1,102 @@
+{
+    "goals": [
+        "0",
+        "2"
+    ],
+    "expected_goals": [
+        "0.7",
+        "0.9"
+    ],
+    "home_team": [
+        "Rafael Cabral",
+        "Omar Richards",
+        "Michael Morrison",
+        "Tom McIntyre",
+        "Michael Olise",
+        "Andy Rinomhota",
+        "Ovie Ejaria",
+        "Andy Yiadom",
+        "Lucas Jo\u00e3o",
+        "Josh Laurent",
+        "Alfa Semedo",
+        "Luke Southwood",
+        "Tom\u00e1s Esteves",
+        "Liam Moore",
+        "Sam Baldock",
+        "Lewis Gibson",
+        "Sone Aluko",
+        "Tom Holmes",
+        "Dejan Tetek",
+        "George Pu\u0219ca\u0219"
+    ],
+    "away_team": [
+        "Marcus Bettinelli",
+        "Anfernee Dijksteel",
+        "Sam Morsy",
+        "Dael Fry",
+        "Ashley Fletcher",
+        "Jonny Howson",
+        "Paddy McNair",
+        "Duncan Watmore",
+        "Darnell Fisher",
+        "Neeskens Kebano",
+        "Marc Bola",
+        "Jordan Archer",
+        "Marvin Johnson",
+        "Grant Hall",
+        "Britt Assombalonga",
+        "Chuba Akpom",
+        "Nathaniel Mendez-Laing",
+        "George Saville",
+        "Djed Spence",
+        "Hayden Coulson"
+    ],
+    "fouls": [
+        8,
+        17
+    ],
+    "corners": [
+        5,
+        4
+    ],
+    "crosses": [
+        20,
+        14
+    ],
+    "touches": [
+        649,
+        426
+    ],
+    "tackles": [
+        7,
+        21
+    ],
+    "interceptions": [
+        12,
+        14
+    ],
+    "aerials_won": [
+        20,
+        17
+    ],
+    "clearances": [
+        19,
+        27
+    ],
+    "offsides": [
+        2,
+        4
+    ],
+    "goal_kicks": [
+        7,
+        9
+    ],
+    "throw_ins": [
+        29,
+        22
+    ],
+    "long_balls": [
+        77,
+        103
+    ]
+}

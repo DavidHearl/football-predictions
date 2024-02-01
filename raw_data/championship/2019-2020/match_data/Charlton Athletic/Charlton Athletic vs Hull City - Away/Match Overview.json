@@ -1,0 +1,102 @@
+{
+    "goals": [
+        "0",
+        "1"
+    ],
+    "expected_goals": [
+        "0.8",
+        "2.3"
+    ],
+    "home_team": [
+        "George Long",
+        "Jordy de Wijs",
+        "Daniel Batty",
+        "Tom Eaves",
+        "Jon Toral",
+        "Angus MacDonald",
+        "Josh Bowler",
+        "Matthew Pennington",
+        "Callum Elder",
+        "Herbie Kane",
+        "Mallik Wilks",
+        "Matt Ingram",
+        "Ryan Tafazolli",
+        "Reece Burke",
+        "Kevin Stewart",
+        "George Honeyman",
+        "Josh Magennis",
+        "Keane Lewis-Potter",
+        "Martin Samuelsen",
+        "James Scott"
+    ],
+    "away_team": [
+        "Dillon Phillips",
+        "Adam Matthews",
+        "Deji Oshilaja",
+        "Tom Lockyer",
+        "Jason Pearce",
+        "Aiden McGeady",
+        "Darren Pratley",
+        "Macauley Bonne",
+        "Albie Morgan",
+        "Josh Cullen",
+        "Tomer Hemed",
+        "Ben Amos",
+        "Ben Purrington",
+        "Jonny Williams",
+        "Chuks Aneke",
+        "Mouhamadou-Naby Sarr",
+        "Sam Field",
+        "Erhun Oztumer",
+        "Josh Davison",
+        "Alfie Doughty"
+    ],
+    "fouls": [
+        13,
+        20
+    ],
+    "corners": [
+        9,
+        3
+    ],
+    "crosses": [
+        33,
+        13
+    ],
+    "touches": [
+        549,
+        408
+    ],
+    "tackles": [
+        5,
+        17
+    ],
+    "interceptions": [
+        6,
+        11
+    ],
+    "aerials_won": [
+        38,
+        23
+    ],
+    "clearances": [
+        12,
+        37
+    ],
+    "offsides": [
+        1,
+        0
+    ],
+    "goal_kicks": [
+        8,
+        10
+    ],
+    "throw_ins": [
+        28,
+        26
+    ],
+    "long_balls": [
+        90,
+        71
+    ]
+}

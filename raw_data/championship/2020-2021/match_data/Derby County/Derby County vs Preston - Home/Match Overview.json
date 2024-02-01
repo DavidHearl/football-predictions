@@ -1,0 +1,102 @@
+{
+    "goals": [
+        "0",
+        "1"
+    ],
+    "expected_goals": [
+        "0.2",
+        "0.7"
+    ],
+    "home_team": [
+        "David Marshall",
+        "Andre Wisdom",
+        "Graeme Shinnie",
+        "Krystian Bielik",
+        "Kamil J\u00f3\u017awiak",
+        "Martyn Waghorn",
+        "Nathan Byrne",
+        "Colin Kazim-Richards",
+        "Matthew Clarke",
+        "Lee Buchanan",
+        "Jason Knight",
+        "Kelle Roos",
+        "Craig Forsyth",
+        "Max Bird",
+        "Jordon Ibe",
+        "Louie Sibley",
+        "George Evans",
+        "Duane Holmes",
+        "Louie Watson",
+        "Jahmal Hector-Ingram"
+    ],
+    "away_team": [
+        "Declan Rudd",
+        "Darnell Fisher",
+        "Josh Earl",
+        "Ben Davies",
+        "Alan Browne",
+        "Daniel Johnson",
+        "Paul Gallagher",
+        "Paul Huntington",
+        "Se\u00e1n Maguire",
+        "Tom Barkhuizen",
+        "Scott Sinclair",
+        "Connor Ripley",
+        "Tom Bayliss",
+        "Josh Harrop",
+        "Jordan Storey",
+        "Joe Rafferty",
+        "Ryan Ledson",
+        "Emil Riis Jakobsen",
+        "Jayden Stockley",
+        "Adam O'Reilly"
+    ],
+    "fouls": [
+        11,
+        10
+    ],
+    "corners": [
+        2,
+        7
+    ],
+    "crosses": [
+        24,
+        31
+    ],
+    "touches": [
+        420,
+        620
+    ],
+    "tackles": [
+        15,
+        14
+    ],
+    "interceptions": [
+        9,
+        12
+    ],
+    "aerials_won": [
+        23,
+        21
+    ],
+    "clearances": [
+        33,
+        15
+    ],
+    "offsides": [
+        1,
+        4
+    ],
+    "goal_kicks": [
+        9,
+        6
+    ],
+    "throw_ins": [
+        27,
+        18
+    ],
+    "long_balls": [
+        74,
+        85
+    ]
+}

@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "1",
+        "0"
+    ],
+    "expected_goals": [
+        "0.9",
+        "1.0"
+    ],
+    "home_team": [
+        "Ben Hamer",
+        "Andre Wisdom",
+        "Martyn Waghorn",
+        "Tom Lawrence",
+        "Matthew Clarke",
+        "Duane Holmes",
+        "Max Lowe",
+        "Wayne Rooney",
+        "Jayden Bogle",
+        "Jason Knight",
+        "Tom Huddlestone",
+        "Kelle Roos",
+        "Craig Forsyth",
+        "Chris Martin",
+        "Curtis Davies",
+        "Louie Sibley",
+        "Max Bird",
+        "Morgan Whittaker"
+    ],
+    "away_team": [
+        "George Long",
+        "Eric Lichaj",
+        "Ryan Tafazolli",
+        "Reece Burke",
+        "Josh Bowler",
+        "Jarrod Bowen",
+        "Callum Elder",
+        "Josh Magennis",
+        "Jackson Irvine",
+        "Leonardo da Silva Lopes",
+        "Herbie Kane",
+        "Matt Ingram",
+        "Daniel Batty",
+        "Tom Eaves",
+        "George Honeyman",
+        "Matthew Pennington",
+        "Martin Samuelsen",
+        "Mallik Wilks"
+    ],
+    "fouls": [
+        12,
+        11
+    ],
+    "corners": [
+        5,
+        5
+    ],
+    "crosses": [
+        22,
+        22
+    ],
+    "touches": [
+        699,
+        464
+    ],
+    "tackles": [
+        17,
+        16
+    ],
+    "interceptions": [
+        12,
+        9
+    ],
+    "aerials_won": [
+        19,
+        20
+    ],
+    "clearances": [
+        17,
+        38
+    ],
+    "offsides": [
+        3,
+        4
+    ],
+    "goal_kicks": [
+        9,
+        6
+    ],
+    "throw_ins": [
+        31,
+        20
+    ],
+    "long_balls": [
+        78,
+        72
+    ]
+}

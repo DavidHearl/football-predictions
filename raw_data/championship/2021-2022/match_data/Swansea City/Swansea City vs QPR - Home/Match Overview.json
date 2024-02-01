@@ -1,0 +1,96 @@
+{
+    "goals": [
+        "0",
+        "1"
+    ],
+    "expected_goals": [
+        "1.2",
+        "1.2"
+    ],
+    "home_team": [
+        "Andy Fisher",
+        "Ryan Manning",
+        "Flynn Downes",
+        "Matt Grimes",
+        "Michael Obafemi",
+        "Hannes Wolf",
+        "Jo\u00ebl Piroe",
+        "Jo\u00ebl Latibeaudi\u00e8re",
+        "Cyrus Christie",
+        "Kyle Naughton",
+        "Cameron Congreve",
+        "Ben Hamer",
+        "Jay Fulton",
+        "Korey Smith",
+        "Olivier Ntcham",
+        "Jamie Paterson",
+        "Azeem Abdullah",
+        "Joel Cotterill"
+    ],
+    "away_team": [
+        "Seny Dieng",
+        "Yoann Barbet",
+        "Luke Amos",
+        "Lyndon Dykes",
+        "Ilias Chair",
+        "Dominic Ball",
+        "George Thomas",
+        "Sam Field",
+        "Sam McCallum",
+        "Dion Sanderson",
+        "Albert Adomah",
+        "Joe Walsh",
+        "Murphy Mahoney",
+        "Osman Kakay",
+        "Andre Dozzell",
+        "Andre Gray"
+    ],
+    "fouls": [
+        9,
+        11
+    ],
+    "corners": [
+        0,
+        5
+    ],
+    "crosses": [
+        4,
+        18
+    ],
+    "touches": [
+        748,
+        533
+    ],
+    "tackles": [
+        12,
+        19
+    ],
+    "interceptions": [
+        5,
+        10
+    ],
+    "aerials_won": [
+        2,
+        8
+    ],
+    "clearances": [
+        16,
+        8
+    ],
+    "offsides": [
+        2,
+        0
+    ],
+    "goal_kicks": [
+        10,
+        4
+    ],
+    "throw_ins": [
+        19,
+        17
+    ],
+    "long_balls": [
+        67,
+        69
+    ]
+}

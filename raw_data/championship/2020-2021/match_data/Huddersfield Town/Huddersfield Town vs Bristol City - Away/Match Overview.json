@@ -1,0 +1,102 @@
+{
+    "goals": [
+        "2",
+        "1"
+    ],
+    "expected_goals": [
+        "1.2",
+        "2.6"
+    ],
+    "home_team": [
+        "Daniel Bentley",
+        "Alfie Mawson",
+        "Famara Diedhiou",
+        "Antoine Semenyo",
+        "Adrian Mariappa",
+        "Nahki Wells",
+        "Tom\u00e1\u0161 Kalas",
+        "Tommy Rowe",
+        "Zak Vyner",
+        "Tyreeq Bakinson",
+        "Kasey Palmer",
+        "Max O'Leary",
+        "Jack Hunt",
+        "\u00c1d\u00e1m Nagy",
+        "Chris Martin",
+        "Taylor Moore",
+        "James Morton",
+        "Sam Bell",
+        "Owura Edwards",
+        "Han-Noah Massengo"
+    ],
+    "away_team": [
+        "Ryan Schofield",
+        "Pipa",
+        "Harry Toffolo",
+        "\u00c1lex Vallejo",
+        "Juninho Bacuna",
+        "Lewis O'Brien",
+        "Richard Keogh",
+        "Rolando Aarons",
+        "Isaac Mbenza",
+        "Fraizer Campbell",
+        "Mouhamadou-Naby Sarr",
+        "Joel Castro Pereira",
+        "Alex Pritchard",
+        "Demeaco Duhaney",
+        "Sorba Thomas",
+        "Romoney Crichlow-Noble",
+        "Aaron Rowe",
+        "Kieran Phillips",
+        "Patrick Jones",
+        "Scott High"
+    ],
+    "fouls": [
+        12,
+        8
+    ],
+    "corners": [
+        0,
+        13
+    ],
+    "crosses": [
+        4,
+        43
+    ],
+    "touches": [
+        440,
+        652
+    ],
+    "tackles": [
+        19,
+        19
+    ],
+    "interceptions": [
+        9,
+        13
+    ],
+    "aerials_won": [
+        14,
+        16
+    ],
+    "clearances": [
+        37,
+        2
+    ],
+    "offsides": [
+        0,
+        1
+    ],
+    "goal_kicks": [
+        16,
+        4
+    ],
+    "throw_ins": [
+        18,
+        21
+    ],
+    "long_balls": [
+        76,
+        60
+    ]
+}

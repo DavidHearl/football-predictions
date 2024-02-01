@@ -1,0 +1,102 @@
+{
+    "goals": [
+        "2",
+        "1"
+    ],
+    "expected_goals": [
+        "1.7",
+        "0.8"
+    ],
+    "home_team": [
+        "David Raya",
+        "Rico Henry",
+        "Ethan Pinnock",
+        "Christian N\u00f8rgaard",
+        "Mathias Jensen",
+        "Sa\u00efd Benrahma",
+        "Ollie Watkins",
+        "Josh Dasilva",
+        "Pontus Jansson",
+        "Bryan Mbeumo",
+        "Mads Roerslev",
+        "Luke Daniels",
+        "Dominic Thompson",
+        "Joel Valencia",
+        "Emiliano Marcondes",
+        "Halil Dervi\u015fo\u011flu",
+        "Henrik Dalsgaard",
+        "Julian Jeanvier",
+        "Tariqe Fosu",
+        "Jan \u017damb\u016frek"
+    ],
+    "away_team": [
+        "Dillon Phillips",
+        "Adam Matthews",
+        "Tom Lockyer",
+        "Jason Pearce",
+        "Jonny Williams",
+        "Jake Forster-Caskey",
+        "Macauley Bonne",
+        "Mouhamadou-Naby Sarr",
+        "Josh Cullen",
+        "Sam Field",
+        "Alfie Doughty",
+        "Ben Amos",
+        "Ben Purrington",
+        "Deji Oshilaja",
+        "Chuks Aneke",
+        "Aiden McGeady",
+        "Darren Pratley",
+        "Albie Morgan",
+        "George Lapslie",
+        "Josh Davison"
+    ],
+    "fouls": [
+        10,
+        9
+    ],
+    "corners": [
+        7,
+        1
+    ],
+    "crosses": [
+        28,
+        11
+    ],
+    "touches": [
+        771,
+        412
+    ],
+    "tackles": [
+        5,
+        17
+    ],
+    "interceptions": [
+        9,
+        21
+    ],
+    "aerials_won": [
+        31,
+        24
+    ],
+    "clearances": [
+        4,
+        32
+    ],
+    "offsides": [
+        1,
+        4
+    ],
+    "goal_kicks": [
+        3,
+        14
+    ],
+    "throw_ins": [
+        25,
+        17
+    ],
+    "long_balls": [
+        77,
+        95
+    ]
+}

@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "1",
+        "0"
+    ],
+    "expected_goals": [
+        "2.0",
+        "0.8"
+    ],
+    "home_team": [
+        "Ben Hamer",
+        "Pipa",
+        "Harry Toffolo",
+        "Jonathan Hogg",
+        "Juninho Bacuna",
+        "Richard Stearman",
+        "Carel Eiting",
+        "Isaac Mbenza",
+        "Josh Koroma",
+        "Fraizer Campbell",
+        "Mouhamadou-Naby Sarr",
+        "Joel Castro Pereira",
+        "Lewis O'Brien",
+        "Alex Pritchard",
+        "Adama Diakhaby",
+        "Demeaco Duhaney",
+        "Christopher Schindler",
+        "Jaden Brown"
+    ],
+    "away_team": [
+        "David Marshall",
+        "Andre Wisdom",
+        "Graeme Shinnie",
+        "Kamil J\u00f3\u017awiak",
+        "Max Bird",
+        "Tom Lawrence",
+        "Nathan Byrne",
+        "Matthew Clarke",
+        "Lee Buchanan",
+        "Curtis Davies",
+        "Jason Knight",
+        "Kelle Roos",
+        "Craig Forsyth",
+        "Mike te Wierik",
+        "Martyn Waghorn",
+        "Colin Kazim-Richards",
+        "Duane Holmes",
+        "Jahmal Hector-Ingram"
+    ],
+    "fouls": [
+        15,
+        11
+    ],
+    "corners": [
+        6,
+        5
+    ],
+    "crosses": [
+        18,
+        22
+    ],
+    "touches": [
+        565,
+        495
+    ],
+    "tackles": [
+        12,
+        15
+    ],
+    "interceptions": [
+        9,
+        9
+    ],
+    "aerials_won": [
+        15,
+        14
+    ],
+    "clearances": [
+        16,
+        25
+    ],
+    "offsides": [
+        0,
+        1
+    ],
+    "goal_kicks": [
+        11,
+        7
+    ],
+    "throw_ins": [
+        32,
+        18
+    ],
+    "long_balls": [
+        77,
+        67
+    ]
+}

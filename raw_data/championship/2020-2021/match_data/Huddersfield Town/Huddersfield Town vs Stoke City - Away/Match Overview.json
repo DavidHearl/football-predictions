@@ -1,0 +1,102 @@
+{
+    "goals": [
+        "4",
+        "3"
+    ],
+    "expected_goals": [
+        "0.9",
+        "1.2"
+    ],
+    "home_team": [
+        "Josef Bursik",
+        "Morgan Fox",
+        "Danny Batth",
+        "John Obi Mikel",
+        "Tommy Smith",
+        "Jacob Brown",
+        "Steven Fletcher",
+        "Sam Clucas",
+        "Nick Powell",
+        "Tyrese Campbell",
+        "Harry Souttar",
+        "Blondy Noukeu",
+        "Tom Ince",
+        "Sam Vokes",
+        "James Chester",
+        "Lee Gregory",
+        "Tashan Oakley-Boothe",
+        "Jordan Cousins",
+        "Josh Tymon",
+        "Nathan Collins"
+    ],
+    "away_team": [
+        "Joel Castro Pereira",
+        "Harry Toffolo",
+        "Jonathan Hogg",
+        "Lewis O'Brien",
+        "Richard Stearman",
+        "Carel Eiting",
+        "Demeaco Duhaney",
+        "Isaac Mbenza",
+        "Josh Koroma",
+        "Fraizer Campbell",
+        "Mouhamadou-Naby Sarr",
+        "Ryan Schofield",
+        "Juninho Bacuna",
+        "Adama Diakhaby",
+        "Danny Ward",
+        "Christopher Schindler",
+        "Jaden Brown",
+        "Aaron Rowe",
+        "Matty Daly",
+        "Rarmani Edmonds-Green"
+    ],
+    "fouls": [
+        16,
+        14
+    ],
+    "corners": [
+        4,
+        2
+    ],
+    "crosses": [
+        16,
+        17
+    ],
+    "touches": [
+        424,
+        696
+    ],
+    "tackles": [
+        21,
+        15
+    ],
+    "interceptions": [
+        17,
+        6
+    ],
+    "aerials_won": [
+        27,
+        21
+    ],
+    "clearances": [
+        27,
+        16
+    ],
+    "offsides": [
+        3,
+        4
+    ],
+    "goal_kicks": [
+        8,
+        7
+    ],
+    "throw_ins": [
+        33,
+        27
+    ],
+    "long_balls": [
+        72,
+        64
+    ]
+}

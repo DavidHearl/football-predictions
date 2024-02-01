@@ -1,0 +1,102 @@
+{
+    "goals": [
+        "0",
+        "1"
+    ],
+    "expected_goals": [
+        "0.3",
+        "2.1"
+    ],
+    "home_team": [
+        "Ryan Schofield",
+        "Jonathan Hogg",
+        "Juninho Bacuna",
+        "Lewis O'Brien",
+        "Duane Holmes",
+        "Richard Keogh",
+        "Josh Koroma",
+        "Mouhamadou-Naby Sarr",
+        "Aaron Rowe",
+        "Rarmani Edmonds-Green",
+        "Yaya Sanogo",
+        "Joel Castro Pereira",
+        "Richard Stearman",
+        "Carel Eiting",
+        "Rolando Aarons",
+        "Demeaco Duhaney",
+        "Sorba Thomas",
+        "Danny Ward",
+        "Jaden Brown",
+        "Scott High"
+    ],
+    "away_team": [
+        "Bradley Collins",
+        "Callum Styles",
+        "Mads Juel Andersen",
+        "Callum Brittain",
+        "Cauley Woodrow",
+        "Carlton Morris",
+        "Romal Palmer",
+        "Michael Sollbauer",
+        "Alex Mowatt",
+        "Dominik Frieser",
+        "Micha\u0142 Helik",
+        "Jack Walton",
+        "Jordan Williams",
+        "Daryl Dike",
+        "Conor Chaplin",
+        "Toby Sibbick",
+        "Clarke Oduor",
+        "Aapo Halme",
+        "Victor Adeboyejo",
+        "Jasper Moon"
+    ],
+    "fouls": [
+        11,
+        15
+    ],
+    "corners": [
+        4,
+        6
+    ],
+    "crosses": [
+        6,
+        21
+    ],
+    "touches": [
+        555,
+        502
+    ],
+    "tackles": [
+        8,
+        23
+    ],
+    "interceptions": [
+        6,
+        12
+    ],
+    "aerials_won": [
+        27,
+        30
+    ],
+    "clearances": [
+        26,
+        19
+    ],
+    "offsides": [
+        4,
+        1
+    ],
+    "goal_kicks": [
+        9,
+        0
+    ],
+    "throw_ins": [
+        33,
+        22
+    ],
+    "long_balls": [
+        84,
+        88
+    ]
+}

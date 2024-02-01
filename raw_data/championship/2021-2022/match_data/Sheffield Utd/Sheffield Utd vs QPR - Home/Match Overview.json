@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "1",
+        "0"
+    ],
+    "expected_goals": [
+        "0.9",
+        "1.0"
+    ],
+    "home_team": [
+        "Wes Foderingham",
+        "George Baldock",
+        "Enda Stevens",
+        "John Fleck",
+        "Sander Berge",
+        "Oliver McBurnie",
+        "John Egan",
+        "Oliver Norwood",
+        "Ben Davies",
+        "Filip Uremovi\u0107",
+        "Morgan Gibbs-White",
+        "Adam Davies",
+        "Jack Robinson",
+        "Ben Osborn",
+        "Conor Hourihane",
+        "Iliman Ndiaye",
+        "Rhys Norrington-Davies",
+        "Daniel Jebbison"
+    ],
+    "away_team": [
+        "Keiren Westwood",
+        "Lee Wallace",
+        "Robert Dickie",
+        "Yoann Barbet",
+        "Lyndon Dykes",
+        "Ilias Chair",
+        "Sam Field",
+        "Andre Gray",
+        "Jimmy Dunne",
+        "Jeff Hendrick",
+        "Albert Adomah",
+        "Murphy Mahoney",
+        "Luke Amos",
+        "Charlie Austin",
+        "George Thomas",
+        "Sam McCallum",
+        "Andre Dozzell",
+        "Dion Sanderson"
+    ],
+    "fouls": [
+        14,
+        9
+    ],
+    "corners": [
+        5,
+        5
+    ],
+    "crosses": [
+        15,
+        21
+    ],
+    "touches": [
+        508,
+        606
+    ],
+    "tackles": [
+        8,
+        12
+    ],
+    "interceptions": [
+        12,
+        12
+    ],
+    "aerials_won": [
+        30,
+        28
+    ],
+    "clearances": [
+        18,
+        17
+    ],
+    "offsides": [
+        6,
+        1
+    ],
+    "goal_kicks": [
+        9,
+        10
+    ],
+    "throw_ins": [
+        22,
+        21
+    ],
+    "long_balls": [
+        88,
+        89
+    ]
+}

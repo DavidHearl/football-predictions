@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "0",
+        "2"
+    ],
+    "expected_goals": [
+        "2.2",
+        "1.1"
+    ],
+    "home_team": [
+        "Jack Walton",
+        "Callum Styles",
+        "Liam Kitching",
+        "Mads Juel Andersen",
+        "Callum Brittain",
+        "Carlton Morris",
+        "Claudio Gomes",
+        "Romal Palmer",
+        "R\u00e9my Vita",
+        "Amine Bassi",
+        "Domingos Quina",
+        "Daniel Jinadu",
+        "Cauley Woodrow",
+        "Aaron Leya Iseka",
+        "Jasper Moon",
+        "William Hondermarck",
+        "Victor Adeboyejo",
+        "Matthew Wolfe"
+    ],
+    "away_team": [
+        "David Cornell",
+        "Ronnie Edwards",
+        "Frankie Kent",
+        "Sammie Szmodics",
+        "Jack Taylor",
+        "Jonson Clarke-Harris",
+        "Josh Knight",
+        "Jack Marriott",
+        "Harrison Burrows",
+        "Joe Ward",
+        "Jeando Fuchs",
+        "Will Blackmore",
+        "Mark Beevers",
+        "Reece Brown",
+        "Kwame Poku",
+        "Ricky Jade-Jones",
+        "Bali Mumba",
+        "Joel Randall"
+    ],
+    "fouls": [
+        15,
+        13
+    ],
+    "corners": [
+        9,
+        3
+    ],
+    "crosses": [
+        23,
+        14
+    ],
+    "touches": [
+        677,
+        510
+    ],
+    "tackles": [
+        18,
+        23
+    ],
+    "interceptions": [
+        11,
+        13
+    ],
+    "aerials_won": [
+        20,
+        15
+    ],
+    "clearances": [
+        14,
+        26
+    ],
+    "offsides": [
+        0,
+        2
+    ],
+    "goal_kicks": [
+        7,
+        9
+    ],
+    "throw_ins": [
+        26,
+        14
+    ],
+    "long_balls": [
+        98,
+        97
+    ]
+}

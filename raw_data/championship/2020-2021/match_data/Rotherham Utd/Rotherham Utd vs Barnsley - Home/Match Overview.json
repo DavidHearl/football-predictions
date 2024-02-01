@@ -1,0 +1,99 @@
+{
+    "goals": [
+        "1",
+        "2"
+    ],
+    "expected_goals": [
+        "1.6",
+        "1.4"
+    ],
+    "home_team": [
+        "Viktor Johansson",
+        "Richard Wood",
+        "Kyle Vassell",
+        "Ben Wiles",
+        "Freddie Ladapo",
+        "Jamie Lindsay",
+        "Wes Harding",
+        "Michael Ihiekwe",
+        "Matthew Olosunde",
+        "Daniel Barlaser",
+        "Florian Jozefzoon",
+        "Jamal Blackman",
+        "Adam Thompson",
+        "George Hirst",
+        "Mickel Miller",
+        "Trevor Clarke",
+        "Michael Smith"
+    ],
+    "away_team": [
+        "Jack Walton",
+        "Callum Styles",
+        "Mads Juel Andersen",
+        "Callum Brittain",
+        "Cauley Woodrow",
+        "Michael Sollbauer",
+        "Alex Mowatt",
+        "Dominik Frieser",
+        "Victor Adeboyejo",
+        "Micha\u0142 Helik",
+        "Matty James",
+        "Henry Kendrick",
+        "Herbie Kane",
+        "Luke Thomas",
+        "Isaac Christie-Davies",
+        "Patrick Schmidt",
+        "Romal Palmer",
+        "Clarke Oduor",
+        "George Miller",
+        "Jasper Moon"
+    ],
+    "fouls": [
+        14,
+        13
+    ],
+    "corners": [
+        5,
+        1
+    ],
+    "crosses": [
+        18,
+        10
+    ],
+    "touches": [
+        487,
+        483
+    ],
+    "tackles": [
+        12,
+        15
+    ],
+    "interceptions": [
+        17,
+        15
+    ],
+    "aerials_won": [
+        51,
+        39
+    ],
+    "clearances": [
+        17,
+        29
+    ],
+    "offsides": [
+        4,
+        5
+    ],
+    "goal_kicks": [
+        7,
+        12
+    ],
+    "throw_ins": [
+        34,
+        42
+    ],
+    "long_balls": [
+        128,
+        116
+    ]
+}

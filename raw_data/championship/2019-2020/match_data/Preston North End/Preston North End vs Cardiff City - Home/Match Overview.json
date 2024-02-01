@@ -1,0 +1,102 @@
+{
+    "goals": [
+        "1",
+        "3"
+    ],
+    "expected_goals": [
+        "1.4",
+        "1.3"
+    ],
+    "home_team": [
+        "Declan Rudd",
+        "Darnell Fisher",
+        "Ben Pearson",
+        "Ben Davies",
+        "Alan Browne",
+        "Daniel Johnson",
+        "Andrew Hughes",
+        "Jayden Stockley",
+        "Patrick Bauer",
+        "Tom Barkhuizen",
+        "Scott Sinclair",
+        "Connor Ripley",
+        "Josh Harrop",
+        "Paul Gallagher",
+        "Ryan Ledson",
+        "Paul Huntington",
+        "Se\u00e1n Maguire",
+        "David Nugent",
+        "Billy Bodin",
+        "Brad Potts"
+    ],
+    "away_team": [
+        "Alex Smithies",
+        "Dion Sanderson",
+        "Joe Bennett",
+        "Sean Morrison",
+        "Will Vaulks",
+        "Leandro Bacuna",
+        "Joe Ralls",
+        "Callum Paterson",
+        "Albert Adomah",
+        "Curtis Nelson",
+        "Junior Hoilett",
+        "Neil Etheridge",
+        "Aden Flint",
+        "Robert Glatzel",
+        "Marlon Pack",
+        "Lee Tomlin",
+        "Nathaniel Mendez-Laing",
+        "Gavin Whyte",
+        "Danny Ward",
+        "Brad Smith"
+    ],
+    "fouls": [
+        11,
+        10
+    ],
+    "corners": [
+        3,
+        5
+    ],
+    "crosses": [
+        21,
+        23
+    ],
+    "touches": [
+        515,
+        514
+    ],
+    "tackles": [
+        14,
+        19
+    ],
+    "interceptions": [
+        4,
+        6
+    ],
+    "aerials_won": [
+        40,
+        35
+    ],
+    "clearances": [
+        29,
+        29
+    ],
+    "offsides": [
+        0,
+        2
+    ],
+    "goal_kicks": [
+        6,
+        8
+    ],
+    "throw_ins": [
+        22,
+        33
+    ],
+    "long_balls": [
+        93,
+        99
+    ]
+}

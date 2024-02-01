@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "1",
+        "3"
+    ],
+    "expected_goals": [
+        "0.6",
+        "1.7"
+    ],
+    "home_team": [
+        "Steven Benda",
+        "Ryan Manning",
+        "Flynn Downes",
+        "Ben Cabango",
+        "Jay Fulton",
+        "Matt Grimes",
+        "Jamal Lowe",
+        "Brandon Cooper",
+        "Yan Dhanda",
+        "Jo\u00ebl Latibeaudi\u00e8re",
+        "Jake Bidwell",
+        "Lewis Webb",
+        "Morgan Whittaker",
+        "Jamie Paterson",
+        "Jo\u00ebl Piroe",
+        "Liam Cullen",
+        "Ethan Laird",
+        "Dan Williams"
+    ],
+    "away_team": [
+        "Josef Bursik",
+        "Tommy Smith",
+        "Joe Allen",
+        "Sam Clucas",
+        "Josh Tymon",
+        "Ben Wilmot",
+        "Jacob Brown",
+        "Leo Skiri \u00d8stig\u00e5rd",
+        "Sam Surridge",
+        "Nick Powell",
+        "Harry Souttar",
+        "Adam Davies",
+        "Morgan Fox",
+        "Danny Batth",
+        "Steven Fletcher",
+        "Alfie Doughty",
+        "Jordan Thompson",
+        "Tom Ince"
+    ],
+    "fouls": [
+        6,
+        14
+    ],
+    "corners": [
+        5,
+        5
+    ],
+    "crosses": [
+        18,
+        18
+    ],
+    "touches": [
+        793,
+        515
+    ],
+    "tackles": [
+        6,
+        13
+    ],
+    "interceptions": [
+        8,
+        12
+    ],
+    "aerials_won": [
+        12,
+        24
+    ],
+    "clearances": [
+        9,
+        28
+    ],
+    "offsides": [
+        4,
+        1
+    ],
+    "goal_kicks": [
+        5,
+        4
+    ],
+    "throw_ins": [
+        26,
+        15
+    ],
+    "long_balls": [
+        65,
+        63
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "goals": [
+        "0",
+        "1"
+    ],
+    "expected_goals": [
+        "1.0",
+        "1.0"
+    ],
+    "home_team": [
+        "Seny Dieng",
+        "Todd Kane",
+        "Robert Dickie",
+        "Yoann Barbet",
+        "Lyndon Dykes",
+        "Ilias Chair",
+        "Dominic Ball",
+        "Geoff Cameron",
+        "Chris Willock",
+        "Niko H\u00e4m\u00e4l\u00e4inen",
+        "Charlie Austin",
+        "Joe Lumley",
+        "Macauley Bonne",
+        "George Thomas",
+        "Osman Kakay",
+        "Faysal Bettache",
+        "Charlie Kelman",
+        "Albert Adomah",
+        "Stephen Duke-McKenna"
+    ],
+    "away_team": [
+        "Kelle Roos",
+        "Andre Wisdom",
+        "Graeme Shinnie",
+        "Krystian Bielik",
+        "Kamil J\u00f3\u017awiak",
+        "Nathan Byrne",
+        "Colin Kazim-Richards",
+        "Matthew Clarke",
+        "George Evans",
+        "Lee Buchanan",
+        "Jason Knight",
+        "Bradley Foster-Theniger",
+        "Craig Forsyth",
+        "Max Bird",
+        "Martyn Waghorn",
+        "Louie Sibley",
+        "Morgan Whittaker",
+        "Cornell MacDonald",
+        "Louie Watson",
+        "Jayden Mitchell-Lawson"
+    ],
+    "fouls": [
+        15,
+        11
+    ],
+    "corners": [
+        8,
+        5
+    ],
+    "crosses": [
+        36,
+        25
+    ],
+    "touches": [
+        664,
+        557
+    ],
+    "tackles": [
+        12,
+        14
+    ],
+    "interceptions": [
+        9,
+        11
+    ],
+    "aerials_won": [
+        22,
+        17
+    ],
+    "clearances": [
+        22,
+        41
+    ],
+    "offsides": [
+        2,
+        1
+    ],
+    "goal_kicks": [
+        7,
+        13
+    ],
+    "throw_ins": [
+        28,
+        21
+    ],
+    "long_balls": [
+        80,
+        88
+    ]
+}

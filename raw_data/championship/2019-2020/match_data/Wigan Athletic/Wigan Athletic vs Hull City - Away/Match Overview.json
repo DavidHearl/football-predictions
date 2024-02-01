@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "2",
+        "2"
+    ],
+    "expected_goals": [
+        "2.1",
+        "1.3"
+    ],
+    "home_team": [
+        "George Long",
+        "Eric Lichaj",
+        "Ryan Tafazolli",
+        "Jordy de Wijs",
+        "Kevin Stewart",
+        "Tom Eaves",
+        "Kamil Grosicki",
+        "George Honeyman",
+        "Jarrod Bowen",
+        "Callum Elder",
+        "Jackson Irvine",
+        "Matt Ingram",
+        "Josh Bowler",
+        "Brandon Fleming",
+        "Matthew Pennington",
+        "Keane Lewis-Potter",
+        "Leonardo da Silva Lopes",
+        "Elliott Bonds"
+    ],
+    "away_team": [
+        "David Marshall",
+        "Nathan Byrne",
+        "Antonee Robinson",
+        "Sam Morsy",
+        "Jamal Lowe",
+        "Gavin Massey",
+        "Charlie Mulgrew",
+        "Michael Jacobs",
+        "Kieffer Moore",
+        "Joe Williams",
+        "Chey Dunkley",
+        "Jamie Jones",
+        "Lewis Macleod",
+        "Danny Fox",
+        "Lee Evans",
+        "Joe Garner",
+        "Kal Naismith",
+        "Joe Gelhardt"
+    ],
+    "fouls": [
+        15,
+        16
+    ],
+    "corners": [
+        7,
+        5
+    ],
+    "crosses": [
+        12,
+        18
+    ],
+    "touches": [
+        477,
+        606
+    ],
+    "tackles": [
+        19,
+        18
+    ],
+    "interceptions": [
+        6,
+        4
+    ],
+    "aerials_won": [
+        27,
+        17
+    ],
+    "clearances": [
+        29,
+        24
+    ],
+    "offsides": [
+        4,
+        1
+    ],
+    "goal_kicks": [
+        7,
+        8
+    ],
+    "throw_ins": [
+        18,
+        34
+    ],
+    "long_balls": [
+        76,
+        86
+    ]
+}

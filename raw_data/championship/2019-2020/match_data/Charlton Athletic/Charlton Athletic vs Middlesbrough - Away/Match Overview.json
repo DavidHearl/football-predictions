@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "1",
+        "0"
+    ],
+    "expected_goals": [
+        "2.5",
+        "0.2"
+    ],
+    "home_team": [
+        "Aynsley Pears",
+        "Daniel Ayala",
+        "Dael Fry",
+        "Marcus Tavernier",
+        "Adam Clayton",
+        "Britt Assombalonga",
+        "Ashley Fletcher",
+        "Jonny Howson",
+        "George Saville",
+        "Djed Spence",
+        "Hayden Coulson",
+        "Tom\u00e1s Mej\u00edas",
+        "Nathan Wood-Gordon",
+        "Marc Bola",
+        "Connor Malley",
+        "Tyrone O'Neill",
+        "Stephen Walker",
+        "Ben Liddle"
+    ],
+    "away_team": [
+        "Dillon Phillips",
+        "Adam Matthews",
+        "Ben Purrington",
+        "Deji Oshilaja",
+        "Jason Pearce",
+        "Conor Gallagher",
+        "Jonathan Leko",
+        "Darren Pratley",
+        "Joe Ledley",
+        "Macauley Bonne",
+        "Alfie Doughty",
+        "Ashley Maynard-Brewer",
+        "Lyle Taylor",
+        "Albie Morgan",
+        "Chris Solly",
+        "Mouhamadou-Naby Sarr",
+        "Josh Davison",
+        "James Vennings"
+    ],
+    "fouls": [
+        15,
+        20
+    ],
+    "corners": [
+        4,
+        5
+    ],
+    "crosses": [
+        26,
+        15
+    ],
+    "touches": [
+        479,
+        536
+    ],
+    "tackles": [
+        16,
+        10
+    ],
+    "interceptions": [
+        10,
+        8
+    ],
+    "aerials_won": [
+        28,
+        22
+    ],
+    "clearances": [
+        13,
+        26
+    ],
+    "offsides": [
+        0,
+        2
+    ],
+    "goal_kicks": [
+        6,
+        14
+    ],
+    "throw_ins": [
+        32,
+        18
+    ],
+    "long_balls": [
+        77,
+        83
+    ]
+}

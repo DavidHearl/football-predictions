@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "0",
+        "1"
+    ],
+    "expected_goals": [
+        "1.2",
+        "0.7"
+    ],
+    "home_team": [
+        "Sam Johnstone",
+        "Darnell Furlong",
+        "Hal Robson-Kanu",
+        "Kyle Bartley",
+        "Jake Livermore",
+        "Matt Phillips",
+        "Matheus Pereira",
+        "Conor Townsend",
+        "Romaine Sawyers",
+        "Ahmed Hegazi",
+        "Grady Diangana",
+        "Jonathan Bond",
+        "Semi Ajayi",
+        "Filip Krovinovi\u0107",
+        "Kenneth Zohore",
+        "Chris Brunt",
+        "Charlie Austin",
+        "Kyle Edwards"
+    ],
+    "away_team": [
+        "Jack Butland",
+        "Joe Allen",
+        "Liam Lindsay",
+        "Danny Batth",
+        "Tom Ince",
+        "James McClean",
+        "Tommy Smith",
+        "Bruno Martins Indi",
+        "Sam Clucas",
+        "Nick Powell",
+        "Tyrese Campbell",
+        "Adam Davies",
+        "Sam Vokes",
+        "Lee Gregory",
+        "Jordan Cousins",
+        "Julien Ngoy",
+        "Jordan Thompson",
+        "Nathan Collins"
+    ],
+    "fouls": [
+        10,
+        18
+    ],
+    "corners": [
+        7,
+        1
+    ],
+    "crosses": [
+        40,
+        5
+    ],
+    "touches": [
+        732,
+        420
+    ],
+    "tackles": [
+        12,
+        22
+    ],
+    "interceptions": [
+        6,
+        11
+    ],
+    "aerials_won": [
+        41,
+        25
+    ],
+    "clearances": [
+        7,
+        43
+    ],
+    "offsides": [
+        3,
+        2
+    ],
+    "goal_kicks": [
+        3,
+        12
+    ],
+    "throw_ins": [
+        25,
+        15
+    ],
+    "long_balls": [
+        86,
+        84
+    ]
+}

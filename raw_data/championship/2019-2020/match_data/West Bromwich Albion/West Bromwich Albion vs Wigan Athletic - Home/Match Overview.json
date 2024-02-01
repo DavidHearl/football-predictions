@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "0",
+        "1"
+    ],
+    "expected_goals": [
+        "0.4",
+        "1.8"
+    ],
+    "home_team": [
+        "Sam Johnstone",
+        "Hal Robson-Kanu",
+        "Semi Ajayi",
+        "Filip Krovinovi\u0107",
+        "Jake Livermore",
+        "Matheus Pereira",
+        "Conor Townsend",
+        "Rekeem Harper",
+        "Ahmed Hegazi",
+        "Dara O'Shea",
+        "Callum Robinson",
+        "Jonathan Bond",
+        "Darnell Furlong",
+        "Kyle Bartley",
+        "Matt Phillips",
+        "Kamil Grosicki",
+        "Charlie Austin",
+        "Gareth Barry"
+    ],
+    "away_team": [
+        "David Marshall",
+        "Nathan Byrne",
+        "Sam Morsy",
+        "Jamal Lowe",
+        "Gavin Massey",
+        "Tom Pearce",
+        "Gary Roberts",
+        "Kieffer Moore",
+        "Joe Williams",
+        "C\u00e9dric Kipr\u00e9",
+        "Leon Balogun",
+        "Jamie Jones",
+        "Anthony Pilkington",
+        "Lee Evans",
+        "Joe Garner",
+        "Michael Jacobs",
+        "Jan Mlakar",
+        "Kal Naismith"
+    ],
+    "fouls": [
+        10,
+        6
+    ],
+    "corners": [
+        6,
+        7
+    ],
+    "crosses": [
+        25,
+        22
+    ],
+    "touches": [
+        564,
+        603
+    ],
+    "tackles": [
+        18,
+        17
+    ],
+    "interceptions": [
+        10,
+        16
+    ],
+    "aerials_won": [
+        26,
+        26
+    ],
+    "clearances": [
+        23,
+        32
+    ],
+    "offsides": [
+        2,
+        1
+    ],
+    "goal_kicks": [
+        8,
+        6
+    ],
+    "throw_ins": [
+        22,
+        27
+    ],
+    "long_balls": [
+        80,
+        98
+    ]
+}

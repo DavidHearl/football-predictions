@@ -1,0 +1,102 @@
+{
+    "goals": [
+        "1",
+        "0"
+    ],
+    "expected_goals": [
+        "1.3",
+        "0.2"
+    ],
+    "home_team": [
+        "Adam Davies",
+        "Joe Allen",
+        "Danny Batth",
+        "James Chester",
+        "John Obi Mikel",
+        "Tommy Smith",
+        "Jacob Brown",
+        "Nick Powell",
+        "Jordan Thompson",
+        "Harry Souttar",
+        "Rhys Norrington-Davies",
+        "Angus Gunn",
+        "Sam Vokes",
+        "Josh Tymon",
+        "William Forrester",
+        "Kieran Coates",
+        "Christian Norton",
+        "Jack Clarke",
+        "Dan Malone",
+        "Rabbi Matondo"
+    ],
+    "away_team": [
+        "Kelle Roos",
+        "Andre Wisdom",
+        "Graeme Shinnie",
+        "Nathan Byrne",
+        "Colin Kazim-Richards",
+        "Teden Mengi",
+        "Matthew Clarke",
+        "Louie Sibley",
+        "Patrick Roberts",
+        "Lee Buchanan",
+        "Jason Knight",
+        "David Marshall",
+        "Craig Forsyth",
+        "George Edmundson",
+        "Kamil J\u00f3\u017awiak",
+        "Max Bird",
+        "Tom Lawrence",
+        "Beni Baningime",
+        "Cameron Cresswell",
+        "Louie Watson"
+    ],
+    "fouls": [
+        9,
+        17
+    ],
+    "corners": [
+        1,
+        2
+    ],
+    "crosses": [
+        23,
+        16
+    ],
+    "touches": [
+        699,
+        494
+    ],
+    "tackles": [
+        13,
+        18
+    ],
+    "interceptions": [
+        8,
+        6
+    ],
+    "aerials_won": [
+        22,
+        18
+    ],
+    "clearances": [
+        17,
+        21
+    ],
+    "offsides": [
+        2,
+        1
+    ],
+    "goal_kicks": [
+        8,
+        7
+    ],
+    "throw_ins": [
+        25,
+        20
+    ],
+    "long_balls": [
+        84,
+        75
+    ]
+}

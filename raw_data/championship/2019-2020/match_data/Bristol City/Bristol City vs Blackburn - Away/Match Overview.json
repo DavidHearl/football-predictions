@@ -1,0 +1,102 @@
+{
+    "goals": [
+        "3",
+        "1"
+    ],
+    "expected_goals": [
+        "0.6",
+        "0.5"
+    ],
+    "home_team": [
+        "Christian Walton",
+        "Sam Gallagher",
+        "Stewart Downing",
+        "Ben Brereton",
+        "Lewis Holtby",
+        "Tosin Adarabioyo",
+        "Darragh Lenihan",
+        "Lewis Travis",
+        "Corry Evans",
+        "Elliott Bennett",
+        "Joe Rankin-Costello",
+        "Jayson Leutwiler",
+        "Bradley Johnson",
+        "Adam Armstrong",
+        "Joe Rothwell",
+        "Danny Graham",
+        "Dominic Samuel",
+        "Charlie Mulgrew",
+        "Jacob Davenport",
+        "Hayden Carter"
+    ],
+    "away_team": [
+        "Daniel Bentley",
+        "Nathan Baker",
+        "Korey Smith",
+        "Famara Diedhiou",
+        "Callum O'Dowda",
+        "Niclas Eliasson",
+        "Jamie Paterson",
+        "Tom\u00e1\u0161 Kalas",
+        "Tommy Rowe",
+        "Pedro Pereira",
+        "Han-Noah Massengo",
+        "Niki M\u00e4enp\u00e4\u00e4",
+        "Jack Hunt",
+        "Jay Dasilva",
+        "Nahki Wells",
+        "Zak Vyner",
+        "Ashley Williams",
+        "Filip Benkovi\u0107",
+        "Benik Afobe",
+        "Kasey Palmer"
+    ],
+    "fouls": [
+        14,
+        21
+    ],
+    "corners": [
+        2,
+        1
+    ],
+    "crosses": [
+        13,
+        10
+    ],
+    "touches": [
+        439,
+        496
+    ],
+    "tackles": [
+        9,
+        15
+    ],
+    "interceptions": [
+        5,
+        6
+    ],
+    "aerials_won": [
+        27,
+        24
+    ],
+    "clearances": [
+        29,
+        13
+    ],
+    "offsides": [
+        3,
+        1
+    ],
+    "goal_kicks": [
+        7,
+        6
+    ],
+    "throw_ins": [
+        25,
+        21
+    ],
+    "long_balls": [
+        85,
+        106
+    ]
+}

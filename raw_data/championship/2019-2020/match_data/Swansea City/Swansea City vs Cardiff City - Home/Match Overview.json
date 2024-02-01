@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "1",
+        "0"
+    ],
+    "expected_goals": [
+        "1.1",
+        "0.8"
+    ],
+    "home_team": [
+        "Freddie Woodman",
+        "Mike van der Hoorn",
+        "Matt Grimes",
+        "Bersant Celina",
+        "Nathan Dyer",
+        "Wayne Routledge",
+        "Ben Wilmot",
+        "Andr\u00e9 Ayew",
+        "Jake Bidwell",
+        "Kyle Naughton",
+        "George Byers",
+        "Kristoffer Nordfeldt",
+        "Jay Fulton",
+        "Borja Bast\u00f3n",
+        "Kristoffer Peterson",
+        "Sam Surridge",
+        "Connor Roberts",
+        "Ben Cabango"
+    ],
+    "away_team": [
+        "Neil Etheridge",
+        "Lee Peltier",
+        "Joe Bennett",
+        "Sean Morrison",
+        "Aden Flint",
+        "Joe Ralls",
+        "Robert Glatzel",
+        "Marlon Pack",
+        "Nathaniel Mendez-Laing",
+        "Gavin Whyte",
+        "Danny Ward",
+        "Alex Smithies",
+        "Will Vaulks",
+        "Leandro Bacuna",
+        "Josh Murphy",
+        "Callum Paterson",
+        "Curtis Nelson",
+        "Omar Bogle"
+    ],
+    "fouls": [
+        12,
+        15
+    ],
+    "corners": [
+        9,
+        3
+    ],
+    "crosses": [
+        19,
+        18
+    ],
+    "touches": [
+        536,
+        465
+    ],
+    "tackles": [
+        16,
+        22
+    ],
+    "interceptions": [
+        9,
+        9
+    ],
+    "aerials_won": [
+        44,
+        47
+    ],
+    "clearances": [
+        28,
+        26
+    ],
+    "offsides": [
+        2,
+        3
+    ],
+    "goal_kicks": [
+        8,
+        5
+    ],
+    "throw_ins": [
+        35,
+        36
+    ],
+    "long_balls": [
+        76,
+        96
+    ]
+}

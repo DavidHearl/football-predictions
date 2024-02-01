@@ -1,0 +1,102 @@
+{
+    "goals": [
+        "2",
+        "3"
+    ],
+    "expected_goals": [
+        "1.0",
+        "1.4"
+    ],
+    "home_team": [
+        "Asmir Begovi\u0107",
+        "Steve Cook",
+        "Chris Mepham",
+        "David Brooks",
+        "Jefferson Lerma",
+        "Dominic Solanke",
+        "Adam Smith",
+        "Lewis Cook",
+        "Junior Stanislas",
+        "Rodrigo Riquelme",
+        "Diego Rico",
+        "Mark Travers",
+        "Dan Gosling",
+        "Lloyd Kelly",
+        "Sam Surridge",
+        "Nnamdi Ofoborh",
+        "Jack Simpson",
+        "Gavin Kilkenny",
+        "Philip Billing",
+        "Jaidon Anthony"
+    ],
+    "away_team": [
+        "Declan Rudd",
+        "Ben Pearson",
+        "Patrick Bauer",
+        "Ben Davies",
+        "Alan Browne",
+        "Daniel Johnson",
+        "Joe Rafferty",
+        "Ryan Ledson",
+        "Se\u00e1n Maguire",
+        "Tom Barkhuizen",
+        "Scott Sinclair",
+        "Connor Ripley",
+        "Tom Bayliss",
+        "Josh Harrop",
+        "Jordan Storey",
+        "Emil Riis Jakobsen",
+        "Jayden Stockley",
+        "Paul Huntington",
+        "Jacob Holland Wilkinson",
+        "Brad Potts"
+    ],
+    "fouls": [
+        11,
+        16
+    ],
+    "corners": [
+        1,
+        4
+    ],
+    "crosses": [
+        23,
+        10
+    ],
+    "touches": [
+        617,
+        530
+    ],
+    "tackles": [
+        6,
+        16
+    ],
+    "interceptions": [
+        13,
+        18
+    ],
+    "aerials_won": [
+        29,
+        18
+    ],
+    "clearances": [
+        14,
+        15
+    ],
+    "offsides": [
+        0,
+        4
+    ],
+    "goal_kicks": [
+        1,
+        15
+    ],
+    "throw_ins": [
+        27,
+        15
+    ],
+    "long_balls": [
+        59,
+        89
+    ]
+}

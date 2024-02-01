@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "2",
+        "1"
+    ],
+    "expected_goals": [
+        "2.5",
+        "0.9"
+    ],
+    "home_team": [
+        "Jack Butland",
+        "Tom Edwards",
+        "Stephen Ward",
+        "Joe Allen",
+        "Danny Batth",
+        "Tom Ince",
+        "James McClean",
+        "Bruno Martins Indi",
+        "Lee Gregory",
+        "Nick Powell",
+        "Ryan Woods",
+        "Adam Federici",
+        "Liam Lindsay",
+        "Sam Vokes",
+        "Tommy Smith",
+        "Mame Biram Diouf",
+        "Tyrese Campbell",
+        "Badou Ndiaye"
+    ],
+    "away_team": [
+        "David Marshall",
+        "Nathan Byrne",
+        "Antonee Robinson",
+        "Lewis Macleod",
+        "Sam Morsy",
+        "Jamal Lowe",
+        "Gavin Massey",
+        "Joe Garner",
+        "Charlie Mulgrew",
+        "Joe Williams",
+        "Chey Dunkley",
+        "Jamie Jones",
+        "Anthony Pilkington",
+        "Dujon Sterling",
+        "Michael Jacobs",
+        "Kieffer Moore",
+        "Christopher Merrie",
+        "Kal Naismith"
+    ],
+    "fouls": [
+        13,
+        20
+    ],
+    "corners": [
+        3,
+        5
+    ],
+    "crosses": [
+        27,
+        18
+    ],
+    "touches": [
+        607,
+        442
+    ],
+    "tackles": [
+        15,
+        18
+    ],
+    "interceptions": [
+        11,
+        10
+    ],
+    "aerials_won": [
+        39,
+        29
+    ],
+    "clearances": [
+        20,
+        32
+    ],
+    "offsides": [
+        2,
+        1
+    ],
+    "goal_kicks": [
+        7,
+        13
+    ],
+    "throw_ins": [
+        23,
+        24
+    ],
+    "long_balls": [
+        102,
+        99
+    ]
+}

@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "1",
+        "1"
+    ],
+    "expected_goals": [
+        "2.1",
+        "0.9"
+    ],
+    "home_team": [
+        "Samuel \u015eahin-Radlinger",
+        "Jordan Williams",
+        "Ben Williams",
+        "Kenneth Dougall",
+        "Bambo Diaby",
+        "Mads Juel Andersen",
+        "Jacob Brown",
+        "Cauley Woodrow",
+        "Mike-Steven B\u00e4hre",
+        "Conor Chaplin",
+        "Alex Mowatt",
+        "Bradley Collins",
+        "Luke Thomas",
+        "Patrick Schmidt",
+        "Toby Sibbick",
+        "Clarke Oduor",
+        "Mamadou Thiam",
+        "Dylan Mottley-Henry"
+    ],
+    "away_team": [
+        "Rafael Cabral",
+        "Chris Gunter",
+        "Michael Morrison",
+        "Matt Miazga",
+        "Liam Moore",
+        "Andy Rinomhota",
+        "Jordan Obita",
+        "Ovie Ejaria",
+        "Charlie Adam",
+        "Lucas Jo\u00e3o",
+        "George Pu\u0219ca\u0219",
+        "Sam Walker",
+        "Sam Baldock",
+        "Garath McCleary",
+        "Yakou M\u00e9\u00efte",
+        "Teddy Howe",
+        "Tyler Blackett",
+        "Pel\u00e9"
+    ],
+    "fouls": [
+        11,
+        17
+    ],
+    "corners": [
+        7,
+        5
+    ],
+    "crosses": [
+        25,
+        15
+    ],
+    "touches": [
+        624,
+        531
+    ],
+    "tackles": [
+        20,
+        13
+    ],
+    "interceptions": [
+        11,
+        10
+    ],
+    "aerials_won": [
+        27,
+        35
+    ],
+    "clearances": [
+        37,
+        27
+    ],
+    "offsides": [
+        1,
+        1
+    ],
+    "goal_kicks": [
+        9,
+        16
+    ],
+    "throw_ins": [
+        25,
+        38
+    ],
+    "long_balls": [
+        76,
+        122
+    ]
+}

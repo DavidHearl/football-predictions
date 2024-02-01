@@ -1,0 +1,101 @@
+{
+    "goals": [
+        "1",
+        "0"
+    ],
+    "expected_goals": [
+        "0.5",
+        "0.6"
+    ],
+    "home_team": [
+        "Daniel Bentley",
+        "Jack Hunt",
+        "Jay Dasilva",
+        "\u00c1d\u00e1m Nagy",
+        "Chris Martin",
+        "Jamie Paterson",
+        "Callum O'Dowda",
+        "Antoine Semenyo",
+        "Nahki Wells",
+        "Tom\u00e1\u0161 Kalas",
+        "Zak Vyner",
+        "Max O'Leary",
+        "Famara Diedhiou",
+        "Adrian Mariappa",
+        "Taylor Moore",
+        "Tommy Rowe",
+        "Opi Edwards",
+        "Chris Brunt",
+        "Ryley Towler"
+    ],
+    "away_team": [
+        "David Marshall",
+        "Andre Wisdom",
+        "Max Bird",
+        "Martyn Waghorn",
+        "Tom Lawrence",
+        "Nathan Byrne",
+        "Matthew Clarke",
+        "Duane Holmes",
+        "Lee Buchanan",
+        "Wayne Rooney",
+        "Jason Knight",
+        "Kelle Roos",
+        "Craig Forsyth",
+        "Graeme Shinnie",
+        "Louie Sibley",
+        "Morgan Whittaker",
+        "George Evans",
+        "Curtis Davies",
+        "Cornell MacDonald",
+        "Jahmal Hector-Ingram"
+    ],
+    "fouls": [
+        7,
+        11
+    ],
+    "corners": [
+        1,
+        6
+    ],
+    "crosses": [
+        8,
+        21
+    ],
+    "touches": [
+        511,
+        765
+    ],
+    "tackles": [
+        13,
+        11
+    ],
+    "interceptions": [
+        13,
+        8
+    ],
+    "aerials_won": [
+        17,
+        21
+    ],
+    "clearances": [
+        12,
+        11
+    ],
+    "offsides": [
+        2,
+        0
+    ],
+    "goal_kicks": [
+        12,
+        7
+    ],
+    "throw_ins": [
+        19,
+        19
+    ],
+    "long_balls": [
+        88,
+        83
+    ]
+}

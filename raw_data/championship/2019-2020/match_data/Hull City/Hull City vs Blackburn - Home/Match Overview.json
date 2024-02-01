@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "0",
+        "1"
+    ],
+    "expected_goals": [
+        "1.6",
+        "1.6"
+    ],
+    "home_team": [
+        "George Long",
+        "Jordy de Wijs",
+        "Reece Burke",
+        "Kevin Stewart",
+        "Daniel Batty",
+        "Tom Eaves",
+        "Kamil Grosicki",
+        "Robbie McKenzie",
+        "Jarrod Bowen",
+        "Stephen Kingsley",
+        "Jackson Irvine",
+        "Matt Ingram",
+        "Ryan Tafazolli",
+        "Jon Toral",
+        "Josh Bowler",
+        "Brandon Fleming",
+        "Josh Magennis",
+        "Leonardo da Silva Lopes"
+    ],
+    "away_team": [
+        "Christian Walton",
+        "Derrick Williams",
+        "Bradley Johnson",
+        "Greg Cunningham",
+        "Adam Armstrong",
+        "Sam Gallagher",
+        "Stewart Downing",
+        "Bradley Dack",
+        "Darragh Lenihan",
+        "Lewis Travis",
+        "Elliott Bennett",
+        "Jayson Leutwiler",
+        "Ryan Nyambe",
+        "Joe Rothwell",
+        "Danny Graham",
+        "Amari'i Bell",
+        "Corry Evans",
+        "John Buckley"
+    ],
+    "fouls": [
+        19,
+        5
+    ],
+    "corners": [
+        1,
+        8
+    ],
+    "crosses": [
+        7,
+        24
+    ],
+    "touches": [
+        529,
+        616
+    ],
+    "tackles": [
+        22,
+        14
+    ],
+    "interceptions": [
+        12,
+        7
+    ],
+    "aerials_won": [
+        18,
+        24
+    ],
+    "clearances": [
+        28,
+        15
+    ],
+    "offsides": [
+        1,
+        7
+    ],
+    "goal_kicks": [
+        12,
+        14
+    ],
+    "throw_ins": [
+        19,
+        26
+    ],
+    "long_balls": [
+        82,
+        89
+    ]
+}

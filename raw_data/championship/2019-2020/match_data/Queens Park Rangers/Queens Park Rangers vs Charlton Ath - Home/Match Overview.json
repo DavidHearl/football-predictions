@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "2",
+        "2"
+    ],
+    "expected_goals": [
+        "2.9",
+        "2.3"
+    ],
+    "home_team": [
+        "Joe Lumley",
+        "Todd Kane",
+        "Grant Hall",
+        "Geoff Cameron",
+        "Marc Pugh",
+        "Luke Amos",
+        "Jordan Hugill",
+        "Eberechi Eze",
+        "Ryan Manning",
+        "Nahki Wells",
+        "Toni Leistner",
+        "Dillon Barnes",
+        "Lee Wallace",
+        "Matthew Smith",
+        "Josh Scowen",
+        "Dominic Ball",
+        "Ilias Chair",
+        "Bright Osayi-Samuel"
+    ],
+    "away_team": [
+        "Dillon Phillips",
+        "Adam Matthews",
+        "Ben Purrington",
+        "Tom Lockyer",
+        "Lyle Taylor",
+        "Conor Gallagher",
+        "Jonathan Leko",
+        "Darren Pratley",
+        "Macauley Bonne",
+        "Mouhamadou-Naby Sarr",
+        "Alfie Doughty",
+        "Ashley Maynard-Brewer",
+        "Deji Oshilaja",
+        "Jason Pearce",
+        "Joe Ledley",
+        "Albie Morgan",
+        "Chris Solly",
+        "Ben Dempsey"
+    ],
+    "fouls": [
+        13,
+        14
+    ],
+    "corners": [
+        9,
+        8
+    ],
+    "crosses": [
+        19,
+        28
+    ],
+    "touches": [
+        608,
+        479
+    ],
+    "tackles": [
+        8,
+        16
+    ],
+    "interceptions": [
+        13,
+        5
+    ],
+    "aerials_won": [
+        27,
+        27
+    ],
+    "clearances": [
+        29,
+        22
+    ],
+    "offsides": [
+        2,
+        1
+    ],
+    "goal_kicks": [
+        14,
+        8
+    ],
+    "throw_ins": [
+        19,
+        23
+    ],
+    "long_balls": [
+        85,
+        99
+    ]
+}

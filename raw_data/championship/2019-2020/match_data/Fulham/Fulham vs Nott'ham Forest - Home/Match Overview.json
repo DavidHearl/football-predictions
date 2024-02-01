@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "1",
+        "2"
+    ],
+    "expected_goals": [
+        "1.2",
+        "1.1"
+    ],
+    "home_team": [
+        "Marcus Bettinelli",
+        "Alfie Mawson",
+        "Stefan Johansen",
+        "Aleksandar Mitrovi\u0107",
+        "Tom Cairney",
+        "Tim Ream",
+        "Harry Arter",
+        "Ivan Cavaleiro",
+        "Joe Bryan",
+        "Anthony Knockaert",
+        "Steven Sessegnon",
+        "Marek Rod\u00e1k",
+        "Kevin McDonald",
+        "Bobby Reid",
+        "Maxime Le Marchand",
+        "Harrison Reed",
+        "Cyrus Christie",
+        "Aboubakar Kamara"
+    ],
+    "away_team": [
+        "Brice Samba",
+        "Joe Worrall",
+        "Lewis Grabban",
+        "Ben Watson",
+        "Carl Jenkinson",
+        "Jack Robinson",
+        "Sammy Ameobi",
+        "Michael Dawson",
+        "Samba Sow",
+        "Joe Lolley",
+        "Tiago Silva",
+        "Arijanet Muric",
+        "Yuri Ribeiro",
+        "Tobias Figueiredo",
+        "Matty Cash",
+        "Rafa Mir",
+        "Alfa Semedo",
+        "Albert Adomah"
+    ],
+    "fouls": [
+        8,
+        11
+    ],
+    "corners": [
+        13,
+        1
+    ],
+    "crosses": [
+        45,
+        8
+    ],
+    "touches": [
+        939,
+        384
+    ],
+    "tackles": [
+        17,
+        14
+    ],
+    "interceptions": [
+        4,
+        10
+    ],
+    "aerials_won": [
+        11,
+        19
+    ],
+    "clearances": [
+        6,
+        33
+    ],
+    "offsides": [
+        1,
+        1
+    ],
+    "goal_kicks": [
+        5,
+        20
+    ],
+    "throw_ins": [
+        24,
+        16
+    ],
+    "long_balls": [
+        78,
+        90
+    ]
+}

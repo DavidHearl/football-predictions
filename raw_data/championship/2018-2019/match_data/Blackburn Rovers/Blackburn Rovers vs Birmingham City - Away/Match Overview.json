@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "2",
+        "2"
+    ],
+    "expected_goals": [
+        "1.0",
+        "1.1"
+    ],
+    "home_team": [
+        "Lee Camp",
+        "Kristian Pedersen",
+        "Maxime Colin",
+        "Maikel Kieftenbeld",
+        "Che Adams",
+        "Lukas Jutkiewicz",
+        "Harlee Dean",
+        "Jacques Maghoma",
+        "Gary Gardner",
+        "Jota",
+        "Michael Morrison",
+        "Connal Trueman",
+        "Connor Mahoney",
+        "Craig Gardner",
+        "Isaac Vassell",
+        "Kerim Mrabti",
+        "David Davis",
+        "Wes Harding"
+    ],
+    "away_team": [
+        "David Raya",
+        "Ryan Nyambe",
+        "Harrison Reed",
+        "Jack Rodwell",
+        "Richard Smallwood",
+        "Danny Graham",
+        "Charlie Mulgrew",
+        "Amari'i Bell",
+        "Bradley Dack",
+        "Lewis Travis",
+        "Elliott Bennett",
+        "Jayson Leutwiler",
+        "Adam Armstrong",
+        "Joe Rothwell",
+        "Ben Brereton",
+        "Joe Nuttall",
+        "Corry Evans",
+        "Craig Conway"
+    ],
+    "fouls": [
+        11,
+        18
+    ],
+    "corners": [
+        8,
+        2
+    ],
+    "crosses": [
+        18,
+        11
+    ],
+    "touches": [
+        527,
+        514
+    ],
+    "tackles": [
+        15,
+        13
+    ],
+    "interceptions": [
+        8,
+        4
+    ],
+    "aerials_won": [
+        45,
+        26
+    ],
+    "clearances": [
+        18,
+        24
+    ],
+    "offsides": [
+        0,
+        0
+    ],
+    "goal_kicks": [
+        9,
+        15
+    ],
+    "throw_ins": [
+        19,
+        28
+    ],
+    "long_balls": [
+        109,
+        118
+    ]
+}

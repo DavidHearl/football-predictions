@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "2",
+        "3"
+    ],
+    "expected_goals": [
+        "2.6",
+        "1.6"
+    ],
+    "home_team": [
+        "Connal Trueman",
+        "Kristian Pedersen",
+        "Maxime Colin",
+        "Lukas Jutkiewicz",
+        "J\u00e9r\u00e9mie Bela",
+        "Harlee Dean",
+        "Jude Bellingham",
+        "\u00c1lvaro Gim\u00e9nez",
+        "David Davis",
+        "Ivan \u0160unji\u0107",
+        "Geraldo Bajrami",
+        "Lee Camp",
+        "Wes Harding",
+        "Jefferson Montero",
+        "Josh McEachran",
+        "Fran Villalba",
+        "Jacques Maghoma",
+        "Gary Gardner"
+    ],
+    "away_team": [
+        "Sam Johnstone",
+        "Hal Robson-Kanu",
+        "Kyle Bartley",
+        "Semi Ajayi",
+        "Jake Livermore",
+        "Matt Phillips",
+        "Matheus Pereira",
+        "Conor Townsend",
+        "Romaine Sawyers",
+        "Grady Diangana",
+        "Nathan Ferguson",
+        "Jonathan Bond",
+        "Darnell Furlong",
+        "Filip Krovinovi\u0107",
+        "Charlie Austin",
+        "Gareth Barry",
+        "Kyle Edwards",
+        "Ahmed Hegazi"
+    ],
+    "fouls": [
+        11,
+        12
+    ],
+    "corners": [
+        7,
+        2
+    ],
+    "crosses": [
+        19,
+        14
+    ],
+    "touches": [
+        443,
+        541
+    ],
+    "tackles": [
+        25,
+        17
+    ],
+    "interceptions": [
+        16,
+        8
+    ],
+    "aerials_won": [
+        23,
+        16
+    ],
+    "clearances": [
+        18,
+        29
+    ],
+    "offsides": [
+        2,
+        1
+    ],
+    "goal_kicks": [
+        9,
+        9
+    ],
+    "throw_ins": [
+        45,
+        28
+    ],
+    "long_balls": [
+        82,
+        77
+    ]
+}

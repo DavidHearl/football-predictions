@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "1",
+        "2"
+    ],
+    "expected_goals": [
+        "1.1",
+        "1.1"
+    ],
+    "home_team": [
+        "Rafael Cabral",
+        "Michael Morrison",
+        "Liam Moore",
+        "John Swift",
+        "Jordan Obita",
+        "Ovie Ejaria",
+        "Tom McIntyre",
+        "Andy Yiadom",
+        "Pel\u00e9",
+        "Lucas Jo\u00e3o",
+        "George Pu\u0219ca\u0219",
+        "Jo\u00e3o Virg\u00ednia",
+        "Andy Rinomhota",
+        "Lucas Boy\u00e9",
+        "Yakou M\u00e9\u00efte",
+        "Tyler Blackett",
+        "Charlie Adam",
+        "Omar Richards"
+    ],
+    "away_team": [
+        "Christian Walton",
+        "Derrick Williams",
+        "Greg Cunningham",
+        "Adam Armstrong",
+        "Sam Gallagher",
+        "Stewart Downing",
+        "Bradley Dack",
+        "Darragh Lenihan",
+        "Lewis Travis",
+        "Corry Evans",
+        "Elliott Bennett",
+        "Jayson Leutwiler",
+        "Ryan Nyambe",
+        "Bradley Johnson",
+        "Danny Graham",
+        "Amari'i Bell",
+        "Lewis Holtby",
+        "John Buckley"
+    ],
+    "fouls": [
+        14,
+        14
+    ],
+    "corners": [
+        3,
+        3
+    ],
+    "crosses": [
+        13,
+        13
+    ],
+    "touches": [
+        589,
+        533
+    ],
+    "tackles": [
+        11,
+        17
+    ],
+    "interceptions": [
+        4,
+        16
+    ],
+    "aerials_won": [
+        23,
+        16
+    ],
+    "clearances": [
+        16,
+        19
+    ],
+    "offsides": [
+        1,
+        0
+    ],
+    "goal_kicks": [
+        10,
+        11
+    ],
+    "throw_ins": [
+        29,
+        25
+    ],
+    "long_balls": [
+        72,
+        93
+    ]
+}

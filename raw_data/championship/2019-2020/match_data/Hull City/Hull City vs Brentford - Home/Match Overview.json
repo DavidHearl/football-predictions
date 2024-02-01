@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "1",
+        "5"
+    ],
+    "expected_goals": [
+        "0.5",
+        "3.0"
+    ],
+    "home_team": [
+        "George Long",
+        "Eric Lichaj",
+        "Ryan Tafazolli",
+        "Reece Burke",
+        "George Honeyman",
+        "Stephen Kingsley",
+        "Josh Magennis",
+        "Keane Lewis-Potter",
+        "Jackson Irvine",
+        "Leonardo da Silva Lopes",
+        "Mallik Wilks",
+        "Matt Ingram",
+        "Daniel Batty",
+        "Tom Eaves",
+        "Marcus Maddison",
+        "Sean McLoughlin",
+        "Norbert Balogh",
+        "Herbie Kane"
+    ],
+    "away_team": [
+        "David Raya",
+        "Rico Henry",
+        "Ethan Pinnock",
+        "Christian N\u00f8rgaard",
+        "Mathias Jensen",
+        "Sa\u00efd Benrahma",
+        "Ollie Watkins",
+        "Josh Dasilva",
+        "Bryan Mbeumo",
+        "Henrik Dalsgaard",
+        "Julian Jeanvier",
+        "Luke Daniels",
+        "Dru Yearwood",
+        "Joel Valencia",
+        "Emiliano Marcondes",
+        "Halil Dervi\u015fo\u011flu",
+        "Luka Racic",
+        "Mads Roerslev"
+    ],
+    "fouls": [
+        7,
+        9
+    ],
+    "corners": [
+        2,
+        5
+    ],
+    "crosses": [
+        22,
+        16
+    ],
+    "touches": [
+        441,
+        717
+    ],
+    "tackles": [
+        14,
+        16
+    ],
+    "interceptions": [
+        12,
+        7
+    ],
+    "aerials_won": [
+        10,
+        10
+    ],
+    "clearances": [
+        16,
+        18
+    ],
+    "offsides": [
+        3,
+        2
+    ],
+    "goal_kicks": [
+        12,
+        10
+    ],
+    "throw_ins": [
+        26,
+        22
+    ],
+    "long_balls": [
+        95,
+        83
+    ]
+}

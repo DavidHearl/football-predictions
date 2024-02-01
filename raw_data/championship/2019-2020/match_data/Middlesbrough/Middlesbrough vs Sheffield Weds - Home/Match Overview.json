@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "1",
+        "4"
+    ],
+    "expected_goals": [
+        "1.5",
+        "2.1"
+    ],
+    "home_team": [
+        "Darren Randolph",
+        "Anfernee Dijksteel",
+        "Ryan Shotton",
+        "Dael Fry",
+        "Adam Clayton",
+        "Britt Assombalonga",
+        "Ashley Fletcher",
+        "Paddy McNair",
+        "Marvin Johnson",
+        "Lewis Wing",
+        "Marc Bola",
+        "Aynsley Pears",
+        "Daniel Ayala",
+        "Marcus Tavernier",
+        "Marcus Browne",
+        "Jonny Howson",
+        "George Saville",
+        "Stephen Walker"
+    ],
+    "away_team": [
+        "Keiren Westwood",
+        "Liam Palmer",
+        "Kadeem Harris",
+        "Steven Fletcher",
+        "Barry Bannan",
+        "Julian B\u00f6rner",
+        "Atdhe Nuhiu",
+        "Adam Reach",
+        "Moses Odubajo",
+        "Sam Hutchinson",
+        "Dominic Iorfa",
+        "Cameron Dawson",
+        "Morgan Fox",
+        "Kieran Lee",
+        "Joey Pelupessy",
+        "Sam Winnall",
+        "Jacob Murphy",
+        "Massimo Luongo"
+    ],
+    "fouls": [
+        10,
+        19
+    ],
+    "corners": [
+        5,
+        6
+    ],
+    "crosses": [
+        18,
+        20
+    ],
+    "touches": [
+        496,
+        453
+    ],
+    "tackles": [
+        15,
+        26
+    ],
+    "interceptions": [
+        4,
+        9
+    ],
+    "aerials_won": [
+        14,
+        33
+    ],
+    "clearances": [
+        13,
+        18
+    ],
+    "offsides": [
+        0,
+        0
+    ],
+    "goal_kicks": [
+        11,
+        9
+    ],
+    "throw_ins": [
+        29,
+        19
+    ],
+    "long_balls": [
+        69,
+        82
+    ]
+}

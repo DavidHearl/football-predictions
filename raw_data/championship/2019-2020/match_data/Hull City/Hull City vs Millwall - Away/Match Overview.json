@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "1",
+        "1"
+    ],
+    "expected_goals": [
+        "1.7",
+        "1.0"
+    ],
+    "home_team": [
+        "Bartosz Bia\u0142kowski",
+        "Murray Wallace",
+        "Jake Cooper",
+        "Jed Wallace",
+        "Ben Thompson",
+        "Tom Bradshaw",
+        "Matt Smith",
+        "Mahlon Romeo",
+        "Alex Pearce",
+        "Ryan Leonard",
+        "Connor Mahoney",
+        "Luke Steele",
+        "Shaun Hutchinson",
+        "Shaun Williams",
+        "Shane Ferguson",
+        "Jayson Molumby",
+        "Aiden O'Brien",
+        "J\u00f3n Da\u00f0i B\u00f6\u00f0varsson"
+    ],
+    "away_team": [
+        "George Long",
+        "Eric Lichaj",
+        "Jordy de Wijs",
+        "Reece Burke",
+        "Kevin Stewart",
+        "Kamil Grosicki",
+        "George Honeyman",
+        "Jarrod Bowen",
+        "Matthew Pennington",
+        "Josh Magennis",
+        "Jackson Irvine",
+        "Matt Ingram",
+        "Ryan Tafazolli",
+        "Tom Eaves",
+        "Jon Toral",
+        "Robbie McKenzie",
+        "Josh Bowler",
+        "Leonardo da Silva Lopes"
+    ],
+    "fouls": [
+        10,
+        14
+    ],
+    "corners": [
+        11,
+        5
+    ],
+    "crosses": [
+        35,
+        13
+    ],
+    "touches": [
+        557,
+        520
+    ],
+    "tackles": [
+        14,
+        17
+    ],
+    "interceptions": [
+        10,
+        8
+    ],
+    "aerials_won": [
+        43,
+        31
+    ],
+    "clearances": [
+        15,
+        45
+    ],
+    "offsides": [
+        0,
+        1
+    ],
+    "goal_kicks": [
+        7,
+        6
+    ],
+    "throw_ins": [
+        35,
+        26
+    ],
+    "long_balls": [
+        112,
+        79
+    ]
+}

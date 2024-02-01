@@ -1,0 +1,62 @@
+[
+    {
+        "('Unnamed: 0_level_0', 'Minute')": 41.0,
+        "('Unnamed: 1_level_0', 'Player')": "Conor Gallagher",
+        "('Unnamed: 2_level_0', 'Squad')": "Charlton Ath",
+        "('Unnamed: 3_level_0', 'xG')": 0.31,
+        "('Unnamed: 4_level_0', 'PSxG')": 0.76,
+        "('Unnamed: 5_level_0', 'Outcome')": "Goal",
+        "('Unnamed: 6_level_0', 'Distance')": 15.0,
+        "('Unnamed: 7_level_0', 'Body Part')": "Right Foot",
+        "('Unnamed: 8_level_0', 'Notes')": null,
+        "('SCA 1', 'Player')": "Jonny Williams",
+        "('SCA 1', 'Event')": "Pass (Live)",
+        "('SCA 2', 'Player')": "Josh Cullen",
+        "('SCA 2', 'Event')": "Tackle"
+    },
+    {
+        "('Unnamed: 0_level_0', 'Minute')": null,
+        "('Unnamed: 1_level_0', 'Player')": null,
+        "('Unnamed: 2_level_0', 'Squad')": null,
+        "('Unnamed: 3_level_0', 'xG')": null,
+        "('Unnamed: 4_level_0', 'PSxG')": null,
+        "('Unnamed: 5_level_0', 'Outcome')": null,
+        "('Unnamed: 6_level_0', 'Distance')": null,
+        "('Unnamed: 7_level_0', 'Body Part')": null,
+        "('Unnamed: 8_level_0', 'Notes')": null,
+        "('SCA 1', 'Player')": null,
+        "('SCA 1', 'Event')": null,
+        "('SCA 2', 'Player')": null,
+        "('SCA 2', 'Event')": null
+    },
+    {
+        "('Unnamed: 0_level_0', 'Minute')": 79.0,
+        "('Unnamed: 1_level_0', 'Player')": "Jonny Williams",
+        "('Unnamed: 2_level_0', 'Squad')": "Charlton Ath",
+        "('Unnamed: 3_level_0', 'xG')": 0.06,
+        "('Unnamed: 4_level_0', 'PSxG')": null,
+        "('Unnamed: 5_level_0', 'Outcome')": "Blocked",
+        "('Unnamed: 6_level_0', 'Distance')": 10.0,
+        "('Unnamed: 7_level_0', 'Body Part')": "Left Foot",
+        "('Unnamed: 8_level_0', 'Notes')": null,
+        "('SCA 1', 'Player')": "Lyle Taylor",
+        "('SCA 1', 'Event')": "Pass (Live)",
+        "('SCA 2', 'Player')": "Ben Purrington",
+        "('SCA 2', 'Event')": "Pass (Live)"
+    },
+    {
+        "('Unnamed: 0_level_0', 'Minute')": 79.0,
+        "('Unnamed: 1_level_0', 'Player')": "Tomer Hemed",
+        "('Unnamed: 2_level_0', 'Squad')": "Charlton Ath",
+        "('Unnamed: 3_level_0', 'xG')": 0.07,
+        "('Unnamed: 4_level_0', 'PSxG')": null,
+        "('Unnamed: 5_level_0', 'Outcome')": "Off Target",
+        "('Unnamed: 6_level_0', 'Distance')": 6.0,
+        "('Unnamed: 7_level_0', 'Body Part')": "Head",
+        "('Unnamed: 8_level_0', 'Notes')": null,
+        "('SCA 1', 'Player')": "Josh Cullen",
+        "('SCA 1', 'Event')": "Pass (Dead)",
+        "('SCA 2', 'Player')": "Jonny Williams",
+        "('SCA 2', 'Event')": "Shot"
+    }
+]

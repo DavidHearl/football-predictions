@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "1",
+        "2"
+    ],
+    "expected_goals": [
+        "1.2",
+        "1.5"
+    ],
+    "home_team": [
+        "Joe Lumley",
+        "Anfernee Dijksteel",
+        "Grant Hall",
+        "Dael Fry",
+        "Marcus Tavernier",
+        "Onel Hern\u00e1ndez",
+        "Andra\u017e \u0160porar",
+        "Lee Peltier",
+        "Jonny Howson",
+        "James Lea Siliki",
+        "Matt Crooks",
+        "Luke Daniels",
+        "Uche Ikpeazu",
+        "Mart\u00edn Payero",
+        "Toyosi Olusanya",
+        "Duncan Watmore",
+        "Sol Bamba",
+        "Isaiah Jones"
+    ],
+    "away_team": [
+        "Chris Maxwell",
+        "Ryan Wintle",
+        "Keshi Anderson",
+        "Josh Bowler",
+        "Kenneth Dougall",
+        "Shayne Lavery",
+        "Marvin Ekpiteta",
+        "Richard Keogh",
+        "Tyreece John-Jules",
+        "Luke Garbutt",
+        "Dujon Sterling",
+        "Daniel Grimshaw",
+        "Callum Connolly",
+        "James Husband",
+        "Jordan Gabriel",
+        "Jerry Yates",
+        "Gary Madine",
+        "Sonny Carey"
+    ],
+    "fouls": [
+        9,
+        7
+    ],
+    "corners": [
+        6,
+        6
+    ],
+    "crosses": [
+        16,
+        12
+    ],
+    "touches": [
+        443,
+        481
+    ],
+    "tackles": [
+        24,
+        20
+    ],
+    "interceptions": [
+        5,
+        15
+    ],
+    "aerials_won": [
+        34,
+        28
+    ],
+    "clearances": [
+        13,
+        23
+    ],
+    "offsides": [
+        4,
+        0
+    ],
+    "goal_kicks": [
+        13,
+        8
+    ],
+    "throw_ins": [
+        21,
+        26
+    ],
+    "long_balls": [
+        76,
+        83
+    ]
+}

@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "2",
+        "1"
+    ],
+    "expected_goals": [
+        "1.9",
+        "0.8"
+    ],
+    "home_team": [
+        "Viktor Johansson",
+        "Richard Wood",
+        "Kyle Vassell",
+        "Ben Wiles",
+        "Freddie Ladapo",
+        "Jamie Lindsay",
+        "Kieran Sadlier",
+        "Wes Harding",
+        "Michael Ihiekwe",
+        "Matthew Olosunde",
+        "Daniel Barlaser",
+        "Josh Vickers",
+        "George Hirst",
+        "Mickel Miller",
+        "Angus MacDonald",
+        "Michael Smith",
+        "Matt Crooks",
+        "Florian Jozefzoon"
+    ],
+    "away_team": [
+        "Declan Rudd",
+        "Darnell Fisher",
+        "Alan Browne",
+        "Daniel Johnson",
+        "Jordan Storey",
+        "Joe Rafferty",
+        "Ryan Ledson",
+        "Emil Riis Jakobsen",
+        "Paul Huntington",
+        "Scott Sinclair",
+        "Brad Potts",
+        "Connor Ripley",
+        "Josh Earl",
+        "Josh Harrop",
+        "Paul Gallagher",
+        "Jayden Stockley",
+        "Se\u00e1n Maguire",
+        "Tom Barkhuizen"
+    ],
+    "fouls": [
+        15,
+        13
+    ],
+    "corners": [
+        3,
+        2
+    ],
+    "crosses": [
+        15,
+        16
+    ],
+    "touches": [
+        474,
+        554
+    ],
+    "tackles": [
+        12,
+        20
+    ],
+    "interceptions": [
+        16,
+        20
+    ],
+    "aerials_won": [
+        28,
+        49
+    ],
+    "clearances": [
+        20,
+        13
+    ],
+    "offsides": [
+        1,
+        4
+    ],
+    "goal_kicks": [
+        9,
+        6
+    ],
+    "throw_ins": [
+        22,
+        30
+    ],
+    "long_balls": [
+        100,
+        130
+    ]
+}

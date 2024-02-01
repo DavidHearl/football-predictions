@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "2",
+        "3"
+    ],
+    "expected_goals": [
+        "1.1",
+        "2.5"
+    ],
+    "home_team": [
+        "Luke Southwood",
+        "Liam Moore",
+        "John Swift",
+        "Ovie Ejaria",
+        "Danny Drinkwater",
+        "Andy Yiadom",
+        "Tom Dele-Bashiru",
+        "Baba Rahman",
+        "Scott Dann",
+        "Josh Laurent",
+        "George Pu\u0219ca\u0219",
+        "Rafael Cabral",
+        "Tom Holmes",
+        "Femi Azeez",
+        "Mamadi Camar\u00e1",
+        "Kelvin Ehibhatiomhan",
+        "Jahmari Clarke",
+        "Tyrell Ashcroft"
+    ],
+    "away_team": [
+        "Daniel Grimshaw",
+        "James Husband",
+        "Jordan Gabriel",
+        "Ryan Wintle",
+        "Jerry Yates",
+        "Keshi Anderson",
+        "Kenneth Dougall",
+        "Demetri Mitchell",
+        "Sonny Carey",
+        "Marvin Ekpiteta",
+        "Richard Keogh",
+        "Stuart Moore",
+        "Callum Connolly",
+        "Owen Dale",
+        "Josh Bowler",
+        "Gary Madine",
+        "Tyreece John-Jules",
+        "Luke Garbutt"
+    ],
+    "fouls": [
+        13,
+        13
+    ],
+    "corners": [
+        0,
+        7
+    ],
+    "crosses": [
+        4,
+        31
+    ],
+    "touches": [
+        594,
+        716
+    ],
+    "tackles": [
+        17,
+        20
+    ],
+    "interceptions": [
+        11,
+        14
+    ],
+    "aerials_won": [
+        15,
+        9
+    ],
+    "clearances": [
+        25,
+        5
+    ],
+    "offsides": [
+        3,
+        0
+    ],
+    "goal_kicks": [
+        6,
+        1
+    ],
+    "throw_ins": [
+        21,
+        19
+    ],
+    "long_balls": [
+        52,
+        56
+    ]
+}

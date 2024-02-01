@@ -1,0 +1,97 @@
+{
+    "goals": [
+        "4",
+        "0"
+    ],
+    "expected_goals": [
+        "2.4",
+        "0.4"
+    ],
+    "home_team": [
+        "Alex Smithies",
+        "Mark McGuinness",
+        "Joel Bagan",
+        "Aden Flint",
+        "Joe Ralls",
+        "Jordan Hugill",
+        "Ryan Wintle",
+        "Cody Drameh",
+        "Tommy Doyle",
+        "Perry Ng",
+        "Isaak Davies",
+        "Dillon Phillips",
+        "Will Vaulks",
+        "Uche Ikpeazu",
+        "Marlon Pack",
+        "Rubin Colwill",
+        "Mark Harris",
+        "Oliver Denham"
+    ],
+    "away_team": [
+        "Steven Benda",
+        "Ronnie Edwards",
+        "Frankie Kent",
+        "Josh Knight",
+        "Jack Marriott",
+        "Kwame Poku",
+        "Oliver Norburn",
+        "Callum Morton",
+        "Bali Mumba",
+        "Jeando Fuchs",
+        "Hayden Coulson",
+        "David Cornell",
+        "Sammie Szmodics",
+        "Jonson Clarke-Harris",
+        "Reece Brown",
+        "Ricky Jade-Jones",
+        "Joe Ward"
+    ],
+    "fouls": [
+        17,
+        10
+    ],
+    "corners": [
+        7,
+        6
+    ],
+    "crosses": [
+        21,
+        13
+    ],
+    "touches": [
+        411,
+        757
+    ],
+    "tackles": [
+        21,
+        17
+    ],
+    "interceptions": [
+        12,
+        13
+    ],
+    "aerials_won": [
+        16,
+        20
+    ],
+    "clearances": [
+        15,
+        13
+    ],
+    "offsides": [
+        0,
+        2
+    ],
+    "goal_kicks": [
+        5,
+        9
+    ],
+    "throw_ins": [
+        17,
+        18
+    ],
+    "long_balls": [
+        69,
+        48
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "goals": [
+        "0",
+        "1"
+    ],
+    "expected_goals": [
+        "1.0",
+        "0.3"
+    ],
+    "home_team": [
+        "Bradley Collins",
+        "Callum Styles",
+        "Mads Juel Andersen",
+        "Callum Brittain",
+        "Cauley Woodrow",
+        "Daryl Dike",
+        "Toby Sibbick",
+        "Romal Palmer",
+        "Alex Mowatt",
+        "Dominik Frieser",
+        "Micha\u0142 Helik",
+        "Jack Walton",
+        "Jordan Williams",
+        "Liam Kitching",
+        "Conor Chaplin",
+        "Carlton Morris",
+        "Aapo Halme",
+        "Michael Sollbauer",
+        "Victor Adeboyejo",
+        "Jasper Moon"
+    ],
+    "away_team": [
+        "Freddie Woodman",
+        "Marc Gu\u00e9hi",
+        "Jay Fulton",
+        "Matt Grimes",
+        "Jamal Lowe",
+        "Andr\u00e9 Ayew",
+        "Conor Hourihane",
+        "Liam Cullen",
+        "Jake Bidwell",
+        "Kyle Naughton",
+        "Ben Cabango",
+        "Ben Hamer",
+        "Ryan Bennett",
+        "Ryan Manning",
+        "Korey Smith",
+        "Wayne Routledge",
+        "Morgan Whittaker",
+        "Yan Dhanda",
+        "Jo\u00ebl Latibeaudi\u00e8re",
+        "Connor Roberts"
+    ],
+    "fouls": [
+        12,
+        8
+    ],
+    "corners": [
+        7,
+        4
+    ],
+    "crosses": [
+        20,
+        11
+    ],
+    "touches": [
+        459,
+        462
+    ],
+    "tackles": [
+        13,
+        18
+    ],
+    "interceptions": [
+        10,
+        6
+    ],
+    "aerials_won": [
+        53,
+        32
+    ],
+    "clearances": [
+        15,
+        33
+    ],
+    "offsides": [
+        1,
+        6
+    ],
+    "goal_kicks": [
+        7,
+        11
+    ],
+    "throw_ins": [
+        34,
+        32
+    ],
+    "long_balls": [
+        117,
+        122
+    ]
+}

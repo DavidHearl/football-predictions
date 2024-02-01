@@ -1,0 +1,102 @@
+{
+    "goals": [
+        "0",
+        "1"
+    ],
+    "expected_goals": [
+        "0.8",
+        "1.2"
+    ],
+    "home_team": [
+        "Declan Rudd",
+        "Darnell Fisher",
+        "Ben Davies",
+        "Tom Bayliss",
+        "Daniel Johnson",
+        "Andrew Hughes",
+        "Ryan Ledson",
+        "Paul Huntington",
+        "Se\u00e1n Maguire",
+        "Tom Barkhuizen",
+        "Brad Potts",
+        "Connor Ripley",
+        "Josh Earl",
+        "Paul Gallagher",
+        "Jordan Storey",
+        "Joe Rafferty",
+        "Emil Riis Jakobsen",
+        "Jayden Stockley",
+        "Jacob Holland Wilkinson",
+        "Adam O'Reilly"
+    ],
+    "away_team": [
+        "Brice Samba",
+        "Cyrus Christie",
+        "Tobias Figueiredo",
+        "Joe Worrall",
+        "Yuri Ribeiro",
+        "Lewis Grabban",
+        "Sammy Ameobi",
+        "Caf\u00fa",
+        "Samba Sow",
+        "Ryan Yates",
+        "Anthony Knockaert",
+        "Jordan Smith",
+        "Ga\u00ebtan Bong",
+        "Carl Jenkinson",
+        "Alex Mighten",
+        "Miguel \u00c1ngel Guerrero",
+        "Joe Lolley",
+        "Scott McKenna",
+        "Harry Arter",
+        "Lyle Taylor"
+    ],
+    "fouls": [
+        7,
+        12
+    ],
+    "corners": [
+        6,
+        7
+    ],
+    "crosses": [
+        14,
+        24
+    ],
+    "touches": [
+        543,
+        575
+    ],
+    "tackles": [
+        16,
+        10
+    ],
+    "interceptions": [
+        13,
+        11
+    ],
+    "aerials_won": [
+        18,
+        13
+    ],
+    "clearances": [
+        18,
+        25
+    ],
+    "offsides": [
+        2,
+        1
+    ],
+    "goal_kicks": [
+        8,
+        8
+    ],
+    "throw_ins": [
+        29,
+        21
+    ],
+    "long_balls": [
+        101,
+        76
+    ]
+}

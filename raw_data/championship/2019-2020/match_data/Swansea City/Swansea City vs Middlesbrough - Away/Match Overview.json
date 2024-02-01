@@ -1,0 +1,102 @@
+{
+    "goals": [
+        "0",
+        "3"
+    ],
+    "expected_goals": [
+        "1.0",
+        "3.6"
+    ],
+    "home_team": [
+        "Dejan Stojanovi\u0107",
+        "George Friend",
+        "Ryan Shotton",
+        "Dael Fry",
+        "Adam Clayton",
+        "Rudy Gestede",
+        "Jonny Howson",
+        "Paddy McNair",
+        "Lukas Nmecha",
+        "Lewis Wing",
+        "Hayden Coulson",
+        "Aynsley Pears",
+        "Marcus Tavernier",
+        "Britt Assombalonga",
+        "Ashley Fletcher",
+        "Ravel Morrison",
+        "Patrick Roberts",
+        "Marvin Johnson",
+        "George Saville",
+        "Djed Spence"
+    ],
+    "away_team": [
+        "Freddie Woodman",
+        "Jay Fulton",
+        "Matt Grimes",
+        "Aldo Kalulu",
+        "Rhian Brewster",
+        "Ben Wilmot",
+        "Andr\u00e9 Ayew",
+        "Connor Roberts",
+        "Jake Bidwell",
+        "Conor Gallagher",
+        "Ben Cabango",
+        "Erwin Mulder",
+        "Marc Gu\u00e9hi",
+        "Bersant Celina",
+        "Nathan Dyer",
+        "Wayne Routledge",
+        "Yan Dhanda",
+        "Kyle Naughton",
+        "George Byers",
+        "Jordan Garrick"
+    ],
+    "fouls": [
+        15,
+        13
+    ],
+    "corners": [
+        10,
+        0
+    ],
+    "crosses": [
+        31,
+        6
+    ],
+    "touches": [
+        607,
+        543
+    ],
+    "tackles": [
+        15,
+        14
+    ],
+    "interceptions": [
+        9,
+        10
+    ],
+    "aerials_won": [
+        20,
+        8
+    ],
+    "clearances": [
+        7,
+        32
+    ],
+    "offsides": [
+        0,
+        3
+    ],
+    "goal_kicks": [
+        4,
+        11
+    ],
+    "throw_ins": [
+        32,
+        20
+    ],
+    "long_balls": [
+        66,
+        70
+    ]
+}

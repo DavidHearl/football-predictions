@@ -1,0 +1,102 @@
+{
+    "goals": [
+        "1",
+        "1"
+    ],
+    "expected_goals": [
+        "0.5",
+        "0.9"
+    ],
+    "home_team": [
+        "Josef Bursik",
+        "Joe Allen",
+        "Sam Vokes",
+        "James McClean",
+        "James Chester",
+        "Tommy Smith",
+        "Jacob Brown",
+        "Nick Powell",
+        "Jordan Thompson",
+        "Harry Souttar",
+        "Nathan Collins",
+        "Andy Lonergan",
+        "Danny Batth",
+        "Tom Ince",
+        "John Obi Mikel",
+        "Ryan Shawcross",
+        "Tashan Oakley-Boothe",
+        "Sam Clucas",
+        "Thibaud Verlinden",
+        "Jordan Cousins"
+    ],
+    "away_team": [
+        "Brice Samba",
+        "Cyrus Christie",
+        "Tobias Figueiredo",
+        "Joe Worrall",
+        "Yuri Ribeiro",
+        "Lewis Grabban",
+        "Sammy Ameobi",
+        "Caf\u00fa",
+        "Samba Sow",
+        "Ryan Yates",
+        "Anthony Knockaert",
+        "Jordan Smith",
+        "Lo\u00efc Mbe Soh",
+        "Ga\u00ebtan Bong",
+        "Carl Jenkinson",
+        "Alex Mighten",
+        "Miguel \u00c1ngel Guerrero",
+        "Joe Lolley",
+        "Harry Arter",
+        "Lyle Taylor"
+    ],
+    "fouls": [
+        11,
+        13
+    ],
+    "corners": [
+        0,
+        9
+    ],
+    "crosses": [
+        14,
+        28
+    ],
+    "touches": [
+        574,
+        617
+    ],
+    "tackles": [
+        17,
+        8
+    ],
+    "interceptions": [
+        5,
+        7
+    ],
+    "aerials_won": [
+        21,
+        20
+    ],
+    "clearances": [
+        35,
+        5
+    ],
+    "offsides": [
+        3,
+        0
+    ],
+    "goal_kicks": [
+        9,
+        3
+    ],
+    "throw_ins": [
+        26,
+        22
+    ],
+    "long_balls": [
+        78,
+        74
+    ]
+}

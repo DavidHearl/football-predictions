@@ -1,0 +1,102 @@
+{
+    "goals": [
+        "1",
+        "1"
+    ],
+    "expected_goals": [
+        "0.3",
+        "0.9"
+    ],
+    "home_team": [
+        "Ryan Schofield",
+        "Harry Toffolo",
+        "Jonathan Hogg",
+        "Juninho Bacuna",
+        "Lewis O'Brien",
+        "Duane Holmes",
+        "Richard Keogh",
+        "Josh Koroma",
+        "Mouhamadou-Naby Sarr",
+        "Aaron Rowe",
+        "Yaya Sanogo",
+        "Joel Castro Pereira",
+        "Pipa",
+        "Richard Stearman",
+        "Carel Eiting",
+        "Rolando Aarons",
+        "Sorba Thomas",
+        "Danny Ward",
+        "Rarmani Edmonds-Green",
+        "Scott High"
+    ],
+    "away_team": [
+        "Ben Wilson",
+        "Michael Rose",
+        "Kyle McFadzean",
+        "Callum O'Hare",
+        "Viktor Gy\u00f6keres",
+        "Dominic Hyam",
+        "Tyler Walker",
+        "Sam McCallum",
+        "Fankaty Dabo",
+        "Matty James",
+        "Gustavo Hamer",
+        "Marko Maro\u0161i",
+        "Jamie Allen",
+        "Maxime Biamou",
+        "Josh Pask",
+        "Amadou Bakayoko",
+        "Jordan Shipley",
+        "Josh Eccles",
+        "Fabio Tavares",
+        "Jack Burroughs"
+    ],
+    "fouls": [
+        10,
+        16
+    ],
+    "corners": [
+        7,
+        4
+    ],
+    "crosses": [
+        21,
+        9
+    ],
+    "touches": [
+        603,
+        505
+    ],
+    "tackles": [
+        10,
+        15
+    ],
+    "interceptions": [
+        12,
+        10
+    ],
+    "aerials_won": [
+        11,
+        9
+    ],
+    "clearances": [
+        9,
+        15
+    ],
+    "offsides": [
+        2,
+        0
+    ],
+    "goal_kicks": [
+        6,
+        4
+    ],
+    "throw_ins": [
+        23,
+        25
+    ],
+    "long_balls": [
+        75,
+        59
+    ]
+}

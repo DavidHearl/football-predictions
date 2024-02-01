@@ -1,0 +1,102 @@
+{
+    "goals": [
+        "1",
+        "4"
+    ],
+    "expected_goals": [
+        "0.6",
+        "1.0"
+    ],
+    "home_team": [
+        "Neil Etheridge",
+        "Maxime Colin",
+        "Kristian Pedersen",
+        "Marc Roberts",
+        "Adam Clayton",
+        "Scott Hogan",
+        "J\u00e9r\u00e9mie Bela",
+        "Harlee Dean",
+        "Iv\u00e1n S\u00e1nchez",
+        "Mikel San Jos\u00e9",
+        "Jon Toral",
+        "Andr\u00e9s Prieto",
+        "Maikel Kieftenbeld",
+        "Lukas Jutkiewicz",
+        "Jonathan Leko",
+        "Jake Clarke-Salter",
+        "Gary Gardner",
+        "Josh Cogley",
+        "Ivan \u0160unji\u0107",
+        "Alen Halilovi\u0107"
+    ],
+    "away_team": [
+        "Marcus Bettinelli",
+        "Anfernee Dijksteel",
+        "Marvin Johnson",
+        "Sam Morsy",
+        "Dael Fry",
+        "Marcus Tavernier",
+        "Lewis Wing",
+        "Britt Assombalonga",
+        "Paddy McNair",
+        "George Saville",
+        "Marc Bola",
+        "Solomon Brynn",
+        "Dejan Stojanovi\u0107",
+        "Chuba Akpom",
+        "Nathan Wood-Gordon",
+        "Duncan Watmore",
+        "Samuel Folarin",
+        "Djed Spence",
+        "Hayden Coulson",
+        "Isaiah Jones"
+    ],
+    "fouls": [
+        17,
+        10
+    ],
+    "corners": [
+        4,
+        1
+    ],
+    "crosses": [
+        15,
+        6
+    ],
+    "touches": [
+        510,
+        467
+    ],
+    "tackles": [
+        13,
+        15
+    ],
+    "interceptions": [
+        9,
+        15
+    ],
+    "aerials_won": [
+        46,
+        34
+    ],
+    "clearances": [
+        9,
+        19
+    ],
+    "offsides": [
+        2,
+        2
+    ],
+    "goal_kicks": [
+        7,
+        12
+    ],
+    "throw_ins": [
+        39,
+        24
+    ],
+    "long_balls": [
+        131,
+        119
+    ]
+}
