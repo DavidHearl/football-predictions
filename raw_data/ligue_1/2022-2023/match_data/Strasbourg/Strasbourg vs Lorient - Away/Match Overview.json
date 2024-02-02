@@ -1,0 +1,101 @@
+{
+    "goals": [
+        "2",
+        "1"
+    ],
+    "expected_goals": [
+        "0.5",
+        "1.0"
+    ],
+    "home_team": [
+        "Yvon Mvogo",
+        "Montassar Talbi",
+        "Ibrahima Kon\u00e9",
+        "Romain Faivre",
+        "Jean-Victor Makengo",
+        "Bamo Me\u00eft\u00e9",
+        "Laurent Abergel",
+        "Gedeon Kalulu",
+        "Vincent Le Goff",
+        "Th\u00e9o Le Bris",
+        "Enzo Le F\u00e9e",
+        "Vito Mannone",
+        "St\u00e9phane Diarra",
+        "Adil Aouchiche",
+        "Julien Laporte",
+        "Julien Ponceau",
+        "Yoann Cathline",
+        "Eli Junior Kroupi",
+        "Ayman Kari"
+    ],
+    "away_team": [
+        "Matz Sels",
+        "Colin Dagba",
+        "Thomas Delaine",
+        "Morgan Sanson",
+        "Jean-Ricner Bellegarde",
+        "Mouhamadou Diarra",
+        "Habib Diallo",
+        "Gerzino Nyamsi",
+        "Ibrahima Sissoko",
+        "Isma\u00ebl Doukour\u00e9",
+        "Frederic Guilbert",
+        "Robin Risser",
+        "Jean-Eudes Aholou",
+        "K\u00e9vin Gameiro",
+        "Dimitri Li\u00e9nard",
+        "Lebo Mothiba",
+        "Sanjin Prci\u0107",
+        "Yuito Suzuki",
+        "Alexander Djiku",
+        "Eduard Sobol"
+    ],
+    "fouls": [
+        9,
+        15
+    ],
+    "corners": [
+        4,
+        4
+    ],
+    "crosses": [
+        8,
+        15
+    ],
+    "touches": [
+        731,
+        661
+    ],
+    "tackles": [
+        20,
+        16
+    ],
+    "interceptions": [
+        7,
+        11
+    ],
+    "aerials_won": [
+        9,
+        7
+    ],
+    "clearances": [
+        17,
+        13
+    ],
+    "offsides": [
+        5,
+        1
+    ],
+    "goal_kicks": [
+        7,
+        1
+    ],
+    "throw_ins": [
+        8,
+        21
+    ],
+    "long_balls": [
+        31,
+        55
+    ]
+}

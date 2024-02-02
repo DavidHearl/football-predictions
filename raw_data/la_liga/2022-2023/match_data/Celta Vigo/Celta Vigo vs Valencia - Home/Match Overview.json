@@ -1,0 +1,108 @@
+{
+    "goals": [
+        "1",
+        "2"
+    ],
+    "expected_goals": [
+        "0.7",
+        "1.2"
+    ],
+    "home_team": [
+        "Iv\u00e1n Villar",
+        "Hugo Mallo",
+        "Unai N\u00fa\u00f1ez",
+        "Carles P\u00e9rez",
+        "Fran Beltr\u00e1n",
+        "Iago Aspas",
+        "Franco Cervi",
+        "Renato Tapia",
+        "Haris Seferovi\u0107",
+        "Luca de la Torre",
+        "Gabriel Veiga",
+        "Coke Carrillo",
+        "Christian Joel",
+        "\u00d3scar Mingueza",
+        "\u00d3scar Rodr\u00edguez Arnaiz",
+        "Gon\u00e7alo Paci\u00eancia",
+        "J\u00f8rgen Strand Larsen",
+        "Williot Swedberg",
+        "Kevin V\u00e1zquez",
+        "Augusto Solari",
+        "Carlos Dominguez",
+        "Miguel Rodr\u00edguez",
+        "Fernando Medrano"
+    ],
+    "away_team": [
+        "Giorgi Mamardashvili",
+        "Gabriel Paulista",
+        "Justin Kluivert",
+        "Mouctar Diakhaby",
+        "Jos\u00e9 Luis Gay\u00e0",
+        "Samuel Lino",
+        "Nicol\u00e1s Gonz\u00e1lez",
+        "Domingos Andr\u00e9 Ribeiro Almeida",
+        "Dimitri Foulquier",
+        "Javier Guerra",
+        "Diego L\u00f3pez",
+        "Jaume Dom\u00e9nech",
+        "Toni Lato",
+        "Yunus Musah",
+        "Hugo Guillam\u00f3n",
+        "Ilaix Moriba",
+        "Samu Castillejo",
+        "Cenk \u00d6zkacar",
+        "Hugo Duro",
+        "Jesus Vazquez",
+        "Eray C\u00f6mert",
+        "Ruben Lendinez",
+        "Alberto Mar\u00ed"
+    ],
+    "fouls": [
+        13,
+        19
+    ],
+    "corners": [
+        5,
+        4
+    ],
+    "crosses": [
+        27,
+        17
+    ],
+    "touches": [
+        653,
+        430
+    ],
+    "tackles": [
+        18,
+        16
+    ],
+    "interceptions": [
+        15,
+        20
+    ],
+    "aerials_won": [
+        19,
+        20
+    ],
+    "clearances": [
+        14,
+        29
+    ],
+    "offsides": [
+        2,
+        1
+    ],
+    "goal_kicks": [
+        5,
+        7
+    ],
+    "throw_ins": [
+        33,
+        16
+    ],
+    "long_balls": [
+        79,
+        67
+    ]
+}

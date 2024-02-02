@@ -1,0 +1,108 @@
+{
+    "goals": [
+        "1",
+        "4"
+    ],
+    "expected_goals": [
+        "1.4",
+        "2.4"
+    ],
+    "home_team": [
+        "Diego L\u00f3pez",
+        "Adri\u00e0 Pedrosa",
+        "Fernando Calero",
+        "Manu Morlanes",
+        "Javi Puado",
+        "Sergi Darder",
+        "Ra\u00fal de Tom\u00e1s",
+        "\u00d3scar Gil",
+        "\u00d3scar Melendo",
+        "Aleix Vidal",
+        "Sergi G\u00f3mez",
+        "Joan Garc\u00eda",
+        "Miguel Juan Llambrich",
+        "Wu Lei",
+        "Fran M\u00e9rida",
+        "David L\u00f3pez",
+        "Loren Mor\u00f3n",
+        "Landry Dimata",
+        "Tonny Vilhena",
+        "Keidi Bare",
+        "Adri Embarba",
+        "Jofre",
+        "Rub\u00e9n"
+    ],
+    "away_team": [
+        "Claudio Bravo",
+        "\u00c9dgar Gonz\u00e1lez",
+        "Juanmi",
+        "Nabil Fekir",
+        "Borja Iglesias",
+        "Sergio Canales",
+        "William Carvalho",
+        "\u00c1lex Moreno",
+        "Germ\u00e1n Pezzella",
+        "Guido Rodr\u00edguez",
+        "Youssouf Sabaly",
+        "Rui Silva",
+        "Marc Bartra",
+        "V\u00edctor Ruiz",
+        "Cristian Tello",
+        "Willian Jos\u00e9",
+        "Andr\u00e9s Guardado",
+        "H\u00e9ctor Beller\u00edn",
+        "Diego Lainez",
+        "V\u00edctor Camarasa",
+        "Aitor Ruibal",
+        "Rodri",
+        "Juan Miranda"
+    ],
+    "fouls": [
+        15,
+        12
+    ],
+    "corners": [
+        6,
+        5
+    ],
+    "crosses": [
+        23,
+        15
+    ],
+    "touches": [
+        498,
+        736
+    ],
+    "tackles": [
+        14,
+        13
+    ],
+    "interceptions": [
+        6,
+        11
+    ],
+    "aerials_won": [
+        10,
+        6
+    ],
+    "clearances": [
+        21,
+        15
+    ],
+    "offsides": [
+        3,
+        1
+    ],
+    "goal_kicks": [
+        6,
+        3
+    ],
+    "throw_ins": [
+        14,
+        18
+    ],
+    "long_balls": [
+        49,
+        62
+    ]
+}

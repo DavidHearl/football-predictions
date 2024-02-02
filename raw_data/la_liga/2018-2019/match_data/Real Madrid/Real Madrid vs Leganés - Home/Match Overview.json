@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "4",
+        "1"
+    ],
+    "expected_goals": [
+        "2.5",
+        "1.1"
+    ],
+    "home_team": [
+        "Thibaut Courtois",
+        "Dani Carvajal",
+        "Sergio Ramos",
+        "Rapha\u00ebl Varane",
+        "Toni Kroos",
+        "Karim Benzema",
+        "Luka Modri\u0107",
+        "Gareth Bale",
+        "Marcelo",
+        "Casemiro",
+        "Marco Asensio",
+        "Keylor Navas",
+        "Nacho",
+        "Mariano",
+        "Lucas V\u00e1zquez",
+        "Marcos Llorente",
+        "Isco",
+        "Dani Ceballos"
+    ],
+    "away_team": [
+        "Iv\u00e1n Cu\u00e9llar",
+        "Juanfran",
+        "Unai Bustinza",
+        "Jonathan Silva",
+        "Gerard Gumbau",
+        "Guido Carrillo",
+        "Nabil El Zhar",
+        "Javier Eraso",
+        "Michael Santos",
+        "Rub\u00e9n P\u00e9rez",
+        "Dimitris Siovas",
+        "Jon Ander Serantes",
+        "Diego Rol\u00e1n",
+        "Dani Ojeda",
+        "Allan Nyom",
+        "Mikel Vesga",
+        "Kenneth Omeruo",
+        "Youssef En-Nesyri"
+    ],
+    "fouls": [
+        11,
+        11
+    ],
+    "corners": [
+        8,
+        1
+    ],
+    "crosses": [
+        27,
+        11
+    ],
+    "touches": [
+        1005,
+        379
+    ],
+    "tackles": [
+        16,
+        11
+    ],
+    "interceptions": [
+        7,
+        11
+    ],
+    "aerials_won": [
+        19,
+        16
+    ],
+    "clearances": [
+        7,
+        24
+    ],
+    "offsides": [
+        1,
+        1
+    ],
+    "goal_kicks": [
+        4,
+        10
+    ],
+    "throw_ins": [
+        20,
+        15
+    ],
+    "long_balls": [
+        107,
+        76
+    ]
+}

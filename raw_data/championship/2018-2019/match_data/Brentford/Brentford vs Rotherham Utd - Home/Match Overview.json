@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "5",
+        "1"
+    ],
+    "expected_goals": [
+        "2.5",
+        "0.6"
+    ],
+    "home_team": [
+        "Daniel Bentley",
+        "Lewis Macleod",
+        "Chris Mepham",
+        "Sergi Can\u00f3s",
+        "Neal Maupay",
+        "Josh McEachran",
+        "Ollie Watkins",
+        "Romaine Sawyers",
+        "Henrik Dalsgaard",
+        "Ezri Konsa",
+        "Yoann Barbet",
+        "Luke Daniels",
+        "Nico Yennaris",
+        "Kamohelo Mokotjo",
+        "Alan Judge",
+        "Josh Clarke",
+        "Sa\u00efd Benrahma",
+        "Julian Jeanvier"
+    ],
+    "away_team": [
+        "Marek Rod\u00e1k",
+        "Zak Vyner",
+        "Joe Mattock",
+        "Will Vaulks",
+        "Semi Ajayi",
+        "Richard Wood",
+        "Matt Palmer",
+        "David Ball",
+        "Jon Taylor",
+        "Joe Newell",
+        "Michael Smith",
+        "Lewis Price",
+        "Clark Robertson",
+        "Kyle Vassell",
+        "Ryan Williams",
+        "Ben Wiles",
+        "Sean Raggett",
+        "Billy Jones"
+    ],
+    "fouls": [
+        15,
+        10
+    ],
+    "corners": [
+        13,
+        3
+    ],
+    "crosses": [
+        25,
+        15
+    ],
+    "touches": [
+        673,
+        374
+    ],
+    "tackles": [
+        10,
+        21
+    ],
+    "interceptions": [
+        16,
+        7
+    ],
+    "aerials_won": [
+        21,
+        17
+    ],
+    "clearances": [
+        26,
+        29
+    ],
+    "offsides": [
+        2,
+        3
+    ],
+    "goal_kicks": [
+        5,
+        6
+    ],
+    "throw_ins": [
+        21,
+        26
+    ],
+    "long_balls": [
+        88,
+        77
+    ]
+}

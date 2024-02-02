@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "1",
+        "1"
+    ],
+    "expected_goals": [
+        "0.8",
+        "1.2"
+    ],
+    "home_team": [
+        "Jordi Masip",
+        "Kiko Olivas",
+        "Enes \u00dcnal",
+        "Pablo Herv\u00edas",
+        "Fede San Emeterio",
+        "Javi Moyano",
+        "Anto\u00f1ito",
+        "Toni Villa",
+        "Sandro Ram\u00edrez",
+        "Joaqu\u00edn Fern\u00e1ndez",
+        "Mohammed Salisu",
+        "Andriy Lunin",
+        "Federico Barba",
+        "Sergi Guardiola",
+        "Anuar",
+        "\u00d3scar Plano",
+        "M\u00edchel",
+        "Miguel"
+    ],
+    "away_team": [
+        "Jaume Dom\u00e9nech",
+        "Gabriel Paulista",
+        "Carlos Soler",
+        "Daniel Parejo",
+        "Jos\u00e9 Luis Gay\u00e0",
+        "Francis Coquelin",
+        "Daniel Wass",
+        "Rodrigo",
+        "Ferr\u00e1n Torres",
+        "Rub\u00e9n Sobrino",
+        "Ezequiel Garay",
+        "Cristian",
+        "Jaume Costa",
+        "Geoffrey Kondogbia",
+        "Denis Cheryshev",
+        "Mouctar Diakhaby",
+        "Manu Vallejo",
+        "Vicente Esquerdo"
+    ],
+    "fouls": [
+        10,
+        12
+    ],
+    "corners": [
+        5,
+        4
+    ],
+    "crosses": [
+        21,
+        21
+    ],
+    "touches": [
+        577,
+        628
+    ],
+    "tackles": [
+        13,
+        20
+    ],
+    "interceptions": [
+        9,
+        11
+    ],
+    "aerials_won": [
+        7,
+        12
+    ],
+    "clearances": [
+        14,
+        19
+    ],
+    "offsides": [
+        4,
+        0
+    ],
+    "goal_kicks": [
+        12,
+        6
+    ],
+    "throw_ins": [
+        15,
+        22
+    ],
+    "long_balls": [
+        73,
+        69
+    ]
+}

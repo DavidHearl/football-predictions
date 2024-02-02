@@ -1,0 +1,105 @@
+{
+    "goals": [
+        "1",
+        "2"
+    ],
+    "expected_goals": [
+        "0.3",
+        "1.1"
+    ],
+    "home_team": [
+        "David Soria",
+        "Djen\u00e9",
+        "Florentino Lu\u00eds",
+        "Jaime Mata",
+        "Jos\u00e9 Juan Mac\u00edas",
+        "Carles Ale\u00f1\u00e1",
+        "Jorge Cuenca",
+        "Math\u00edas Olivera",
+        "Nemanja Maksimovi\u0107",
+        "Iglesias",
+        "Stefan Mitrovi\u0107",
+        "Rub\u00e9n Y\u00e1\u00f1ez",
+        "Diego Conde",
+        "Allan Nyom",
+        "Chema",
+        "Enes \u00dcnal",
+        "Jonathan Silva",
+        "Dar\u00edo Poveda",
+        "Dami\u00e1n Su\u00e1rez",
+        "David Timor",
+        "Emmanuel Amankwaa Akurugu",
+        "John Joe",
+        "Diego L\u00f3pez"
+    ],
+    "away_team": [
+        "Jan Oblak",
+        "Jos\u00e9 Mar\u00eda Gim\u00e9nez",
+        "Antoine Griezmann",
+        "Luis Su\u00e1rez",
+        "\u00c1ngel Correa",
+        "Renan Lodi",
+        "Marcos Llorente",
+        "Stefan Savi\u0107",
+        "H\u00e9ctor Herrera",
+        "Yannick Carrasco",
+        "Kieran Trippier",
+        "Benjamin Lecomte",
+        "Rodrigo De Paul",
+        "Ivan \u0160aponji\u0107",
+        "Felipe",
+        "Matheus Cunha",
+        "Mario Hermoso",
+        "\u0160ime Vrsaljko",
+        "Javier Serrano",
+        "Giuliano Simeone"
+    ],
+    "fouls": [
+        15,
+        11
+    ],
+    "corners": [
+        2,
+        5
+    ],
+    "crosses": [
+        11,
+        28
+    ],
+    "touches": [
+        426,
+        732
+    ],
+    "tackles": [
+        14,
+        15
+    ],
+    "interceptions": [
+        19,
+        15
+    ],
+    "aerials_won": [
+        12,
+        27
+    ],
+    "clearances": [
+        45,
+        13
+    ],
+    "offsides": [
+        3,
+        2
+    ],
+    "goal_kicks": [
+        9,
+        3
+    ],
+    "throw_ins": [
+        20,
+        36
+    ],
+    "long_balls": [
+        81,
+        96
+    ]
+}

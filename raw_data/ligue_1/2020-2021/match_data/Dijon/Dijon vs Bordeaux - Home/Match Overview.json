@@ -1,0 +1,102 @@
+{
+    "goals": [
+        "1",
+        "3"
+    ],
+    "expected_goals": [
+        "1.1",
+        "1.2"
+    ],
+    "home_team": [
+        "Anthony Racioppi",
+        "Sacha Boey",
+        "Muzinga Ngonda",
+        "Senou Coulibaly",
+        "Junior Dina Ebimbe",
+        "Roger Assal\u00e9",
+        "Mama Samba Bald\u00e9",
+        "Didier Ibrahim Ndong",
+        "Wesley Lautoa",
+        "Bruno Ecuele Manga",
+        "Aboubakar Kamara",
+        "Saturnin Allagb\u00e9",
+        "Fr\u00e9d\u00e9ric Sammaritano",
+        "Bersant Celina",
+        "Yassine Benzia",
+        "Moussa Konat\u00e9",
+        "Jordan Mari\u00e9",
+        "Mounir Chouiar",
+        "Fouad Chafik",
+        "Mihai Dobre"
+    ],
+    "away_team": [
+        "Beno\u00eet Costil",
+        "Mexer",
+        "Samuel Kalu",
+        "Jean Seri",
+        "Mehdi Zerkane",
+        "Hwang Ui-jo",
+        "Yacine Adli",
+        "Youssouf Sabaly",
+        "Loris Benito",
+        "Paul Baysse",
+        "Remi Oudin",
+        "Ga\u00ebtan Poussin",
+        "Jimmy Briand",
+        "Nicolas de Pr\u00e9ville",
+        "Enock Kwateng",
+        "Toma Ba\u0161i\u0107",
+        "Tom Lacoux",
+        "Maxime Poundj\u00e9",
+        "Amadou Traore",
+        "Sekou Mara"
+    ],
+    "fouls": [
+        15,
+        7
+    ],
+    "corners": [
+        5,
+        6
+    ],
+    "crosses": [
+        11,
+        21
+    ],
+    "touches": [
+        591,
+        645
+    ],
+    "tackles": [
+        19,
+        18
+    ],
+    "interceptions": [
+        21,
+        20
+    ],
+    "aerials_won": [
+        15,
+        18
+    ],
+    "clearances": [
+        19,
+        17
+    ],
+    "offsides": [
+        1,
+        1
+    ],
+    "goal_kicks": [
+        5,
+        12
+    ],
+    "throw_ins": [
+        32,
+        30
+    ],
+    "long_balls": [
+        75,
+        82
+    ]
+}

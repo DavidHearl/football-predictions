@@ -1,0 +1,102 @@
+{
+    "goals": [
+        "2",
+        "1"
+    ],
+    "expected_goals": [
+        "1.4",
+        "2.4"
+    ],
+    "home_team": [
+        "Walter Ben\u00edtez",
+        "Flavius Daniliuc",
+        "Morgan Schneiderlin",
+        "Myziane Maolida",
+        "Alexis Claude-Maurice",
+        "Amine Gouiri",
+        "Hassane Kamara",
+        "William Saliba",
+        "Youcef Atal",
+        "Jean-Clair Todibo",
+        "Hicham Boudaoui",
+        "Yoan Cardinale",
+        "Stanley N'Soki",
+        "Robson Bambu",
+        "Pierre Lees-Melou",
+        "Kasper Dolberg",
+        "Dan Ndoye",
+        "Kh\u00e9phren Thuram",
+        "Jordan Lotomba",
+        "Malik Sellouki"
+    ],
+    "away_team": [
+        "Baptiste Reynet",
+        "Kelyan Guessoum",
+        "Birger Meling",
+        "Lo\u00efck Landre",
+        "Zinedine Ferhat",
+        "Lamine Fomba",
+        "Andr\u00e9s Cubas",
+        "Renaud Ripart",
+        "Patrick Burner",
+        "Yassine Benrahou",
+        "Moussa Kon\u00e9",
+        "Amjhad Nazih",
+        "Niclas Eliasson",
+        "Matteo Ahlinvi",
+        "Antoine Valerio",
+        "Ga\u00ebtan Paquiez",
+        "Haris Duljevi\u0107",
+        "Sami Ben Amar",
+        "Nolan Roux",
+        "Naomichi Ueda"
+    ],
+    "fouls": [
+        14,
+        8
+    ],
+    "corners": [
+        0,
+        6
+    ],
+    "crosses": [
+        11,
+        23
+    ],
+    "touches": [
+        749,
+        618
+    ],
+    "tackles": [
+        18,
+        8
+    ],
+    "interceptions": [
+        24,
+        17
+    ],
+    "aerials_won": [
+        11,
+        12
+    ],
+    "clearances": [
+        19,
+        10
+    ],
+    "offsides": [
+        2,
+        1
+    ],
+    "goal_kicks": [
+        8,
+        10
+    ],
+    "throw_ins": [
+        19,
+        20
+    ],
+    "long_balls": [
+        58,
+        73
+    ]
+}

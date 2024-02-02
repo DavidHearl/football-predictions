@@ -1,0 +1,102 @@
+{
+    "goals": [
+        "2",
+        "3"
+    ],
+    "expected_goals": [
+        "0.7",
+        "1.8"
+    ],
+    "home_team": [
+        "Predrag Rajkovi\u0107",
+        "Wout Faes",
+        "Maxime Busi",
+        "Yunis Abdelhamid",
+        "El Bilal Tour\u00e9",
+        "Marshall Munetsi",
+        "Azor Matusiwa",
+        "Hugo Ekitike",
+        "Dion Lopy",
+        "Thomas Foket",
+        "Kamory Doumbia",
+        "Yehvann Diouf",
+        "Nicolas Penneteau",
+        "Jens Cajuste",
+        "Arber Zeneli",
+        "Nathanael Mbuku",
+        "Alexis Flips",
+        "Mitchell van Bergen",
+        "Ilan Kebbal",
+        "Samuel Koeberl\u00e9"
+    ],
+    "away_team": [
+        "Walter Ben\u00edtez",
+        "Dante",
+        "Flavius Daniliuc",
+        "Andy Delort",
+        "Pablo Rosario",
+        "Amine Gouiri",
+        "Kh\u00e9phren Thuram",
+        "Justin Kluivert",
+        "Jean-Clair Todibo",
+        "Melvin Bard",
+        "Hicham Boudaoui",
+        "Marcin Bu\u0142ka",
+        "Morgan Schneiderlin",
+        "Kasper Dolberg",
+        "Jordan Amavi",
+        "Bilal Brahimi",
+        "Calvin Stengs",
+        "Jordan Lotomba",
+        "Evann Guessand",
+        "Antoine Mendy"
+    ],
+    "fouls": [
+        8,
+        14
+    ],
+    "corners": [
+        2,
+        7
+    ],
+    "crosses": [
+        10,
+        35
+    ],
+    "touches": [
+        576,
+        655
+    ],
+    "tackles": [
+        17,
+        17
+    ],
+    "interceptions": [
+        9,
+        11
+    ],
+    "aerials_won": [
+        18,
+        11
+    ],
+    "clearances": [
+        23,
+        9
+    ],
+    "offsides": [
+        1,
+        0
+    ],
+    "goal_kicks": [
+        11,
+        6
+    ],
+    "throw_ins": [
+        18,
+        21
+    ],
+    "long_balls": [
+        73,
+        62
+    ]
+}

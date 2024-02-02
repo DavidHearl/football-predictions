@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "0",
+        "1"
+    ],
+    "expected_goals": [
+        "1.9",
+        "0.6"
+    ],
+    "home_team": [
+        "Anthony Lopes",
+        "Rafael",
+        "Jason Denayer",
+        "Marcelo",
+        "Martin Terrier",
+        "Bertrand Traor\u00e9",
+        "Memphis",
+        "Nabil Fekir",
+        "Ferland Mendy",
+        "Tanguy Ndombele",
+        "Lucas Tousart",
+        "Mathieu Gorgelin",
+        "Houssem Aouar",
+        "Jordan Ferri",
+        "J\u00e9r\u00e9my Morel",
+        "Kenny Tete",
+        "Pape Cheikh Diop",
+        "Maxwel Cornet"
+    ],
+    "away_team": [
+        "Walter Ben\u00edtez",
+        "Adrien Tameze",
+        "Allan Saint-Maximin",
+        "Pierre Lees-Melou",
+        "Mario Balotelli",
+        "Malang Sarr",
+        "Christophe Jallet",
+        "Wylan Cyprien",
+        "Olivier Boscagli",
+        "Christophe H\u00e9relle",
+        "Dante",
+        "Yannis Clementia",
+        "R\u00e9mi Walter",
+        "Bassem Srarfi",
+        "Racine Coly",
+        "Patrick Burner",
+        "Myziane Maolida",
+        "Jean-Victor Makengo"
+    ],
+    "fouls": [
+        6,
+        14
+    ],
+    "corners": [
+        10,
+        5
+    ],
+    "crosses": [
+        25,
+        11
+    ],
+    "touches": [
+        734,
+        580
+    ],
+    "tackles": [
+        28,
+        25
+    ],
+    "interceptions": [
+        6,
+        14
+    ],
+    "aerials_won": [
+        9,
+        16
+    ],
+    "clearances": [
+        14,
+        33
+    ],
+    "offsides": [
+        5,
+        1
+    ],
+    "goal_kicks": [
+        4,
+        18
+    ],
+    "throw_ins": [
+        26,
+        17
+    ],
+    "long_balls": [
+        55,
+        64
+    ]
+}

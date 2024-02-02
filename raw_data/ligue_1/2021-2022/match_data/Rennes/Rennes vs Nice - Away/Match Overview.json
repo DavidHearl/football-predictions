@@ -1,0 +1,103 @@
+{
+    "goals": [
+        "1",
+        "1"
+    ],
+    "expected_goals": [
+        "0.8",
+        "1.1"
+    ],
+    "home_team": [
+        "Walter Ben\u00edtez",
+        "Dante",
+        "Andy Delort",
+        "Pablo Rosario",
+        "Kasper Dolberg",
+        "Amine Gouiri",
+        "Kh\u00e9phren Thuram",
+        "Youcef Atal",
+        "Justin Kluivert",
+        "Jean-Clair Todibo",
+        "Melvin Bard",
+        "Marcin Bu\u0142ka",
+        "Flavius Daniliuc",
+        "Jordan Amavi",
+        "Bilal Brahimi",
+        "Danilo Barbosa",
+        "Mario Lemina",
+        "Calvin Stengs",
+        "Jordan Lotomba",
+        "Evann Guessand",
+        "Hicham Boudaoui"
+    ],
+    "away_team": [
+        "Do\u011fan Alemdar",
+        "Adrien Truffert",
+        "Nayef Aguerd",
+        "Martin Terrier",
+        "Baptiste Santamaria",
+        "Benjamin Bourigeaud",
+        "Flavien Tait",
+        "Lovro Majer",
+        "Warmed Omari",
+        "Ga\u00ebtan Laborde",
+        "Hamari Traor\u00e9",
+        "Romain Salin",
+        "Serhou Guirassy",
+        "Loum Tchaouna",
+        "Andy Diouf",
+        "Lorenz Assignon",
+        "Birger Meling",
+        "Lesley Ugochukwu",
+        "Jonas Martin",
+        "Mathys Tel"
+    ],
+    "fouls": [
+        12,
+        12
+    ],
+    "corners": [
+        7,
+        11
+    ],
+    "crosses": [
+        24,
+        28
+    ],
+    "touches": [
+        502,
+        697
+    ],
+    "tackles": [
+        12,
+        18
+    ],
+    "interceptions": [
+        15,
+        9
+    ],
+    "aerials_won": [
+        17,
+        12
+    ],
+    "clearances": [
+        28,
+        20
+    ],
+    "offsides": [
+        0,
+        1
+    ],
+    "goal_kicks": [
+        8,
+        8
+    ],
+    "throw_ins": [
+        16,
+        24
+    ],
+    "long_balls": [
+        59,
+        87
+    ]
+}

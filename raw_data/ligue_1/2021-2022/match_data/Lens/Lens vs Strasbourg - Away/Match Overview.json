@@ -1,0 +1,100 @@
+{
+    "goals": [
+        "1",
+        "0"
+    ],
+    "expected_goals": [
+        "2.5",
+        "0.9"
+    ],
+    "home_team": [
+        "Matz Sels",
+        "Frederic Guilbert",
+        "Jean-Eudes Aholou",
+        "K\u00e9vin Gameiro",
+        "Dimitri Li\u00e9nard",
+        "Jean-Ricner Bellegarde",
+        "Anthony Caci",
+        "Gerzino Nyamsi",
+        "Alexander Djiku",
+        "Ludovic Ajorque",
+        "Ibrahima Sissoko",
+        "Eiji Kawashima",
+        "Karol Fila",
+        "Abdul Majeed Waris",
+        "Dion Moise Sahi",
+        "Habib Diallo",
+        "Marvin Elimbi",
+        "Mouhamadou Diarra"
+    ],
+    "away_team": [
+        "Jean-Louis Leca",
+        "Christopher Wooh",
+        "Seko Fofana",
+        "Ignatius Ganago",
+        "Jonathan Clauss",
+        "Facundo Medina",
+        "Arnaud Kalimuendo",
+        "David Pereira da Costa",
+        "Jonathan Gradit",
+        "Cheick Doucour\u00e9",
+        "Przemys\u0142aw Frankowski",
+        "Wuilker Far\u00ed\u00f1ez",
+        "Deiver Machado",
+        "Patrick Berg",
+        "Ga\u00ebl Kakuta",
+        "Yannick Cahuzac",
+        "Massadio Ha\u00efdara",
+        "Wesley Sa\u00efd",
+        "Ibrahima Bald\u00e9",
+        "Mamadou Camara"
+    ],
+    "fouls": [
+        8,
+        10
+    ],
+    "corners": [
+        2,
+        6
+    ],
+    "crosses": [
+        15,
+        14
+    ],
+    "touches": [
+        606,
+        631
+    ],
+    "tackles": [
+        14,
+        17
+    ],
+    "interceptions": [
+        7,
+        10
+    ],
+    "aerials_won": [
+        16,
+        7
+    ],
+    "clearances": [
+        14,
+        14
+    ],
+    "offsides": [
+        0,
+        1
+    ],
+    "goal_kicks": [
+        11,
+        6
+    ],
+    "throw_ins": [
+        19,
+        15
+    ],
+    "long_balls": [
+        80,
+        38
+    ]
+}

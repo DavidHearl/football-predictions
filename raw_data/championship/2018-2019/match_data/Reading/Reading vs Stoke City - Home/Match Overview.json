@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "2",
+        "2"
+    ],
+    "expected_goals": [
+        "1.6",
+        "2.4"
+    ],
+    "home_team": [
+        "Anssi Jaakkola",
+        "Chris Gunter",
+        "Andy Yiadom",
+        "Leandro Bacuna",
+        "John Swift",
+        "Garath McCleary",
+        "Tiago Ilori",
+        "Tyler Blackett",
+        "Marc McNulty",
+        "Andy Rinomhota",
+        "Danny Loader",
+        "Vito Mannone",
+        "David Meyler",
+        "Sam Baldock",
+        "Modou Barrow",
+        "Josh Sims",
+        "Yakou M\u00e9\u00efte",
+        "Tom McIntyre"
+    ],
+    "away_team": [
+        "Jack Butland",
+        "Erik Pieters",
+        "Joe Allen",
+        "Tom Ince",
+        "Benik Afobe",
+        "James McClean",
+        "Bruno Martins Indi",
+        "Ryan Shawcross",
+        "Sam Clucas",
+        "Cuco Martina",
+        "Ryan Woods",
+        "Adam Federici",
+        "Ashley Williams",
+        "Mame Biram Diouf",
+        "Saido Berahino",
+        "Darren Fletcher",
+        "Peter Crouch",
+        "Tom Edwards"
+    ],
+    "fouls": [
+        7,
+        6
+    ],
+    "corners": [
+        5,
+        5
+    ],
+    "crosses": [
+        24,
+        21
+    ],
+    "touches": [
+        590,
+        638
+    ],
+    "tackles": [
+        16,
+        11
+    ],
+    "interceptions": [
+        9,
+        12
+    ],
+    "aerials_won": [
+        16,
+        15
+    ],
+    "clearances": [
+        26,
+        22
+    ],
+    "offsides": [
+        2,
+        3
+    ],
+    "goal_kicks": [
+        9,
+        11
+    ],
+    "throw_ins": [
+        27,
+        21
+    ],
+    "long_balls": [
+        74,
+        69
+    ]
+}

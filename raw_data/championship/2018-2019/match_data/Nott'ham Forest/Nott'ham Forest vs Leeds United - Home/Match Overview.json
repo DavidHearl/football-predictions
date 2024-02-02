@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "4",
+        "2"
+    ],
+    "expected_goals": [
+        "1.6",
+        "2.1"
+    ],
+    "home_team": [
+        "Costel Pantilimon",
+        "Danny Fox",
+        "Jack Colback",
+        "Daryl Murphy",
+        "Jo\u00e3o Carvalho",
+        "Matty Cash",
+        "Jack Robinson",
+        "Joe Lolley",
+        "Claudio Yacob",
+        "Tendayi Darikwa",
+        "Michael Hefele",
+        "Luke Steele",
+        "Adl\u00e8ne Guedioura",
+        "Ben Osborn",
+        "Saidy Janko",
+        "Ryan Yates",
+        "Gil Basti\u00e3o Dias",
+        "Arvin Appiah"
+    ],
+    "away_team": [
+        "Bailey Peacock-Farrell",
+        "Luke Ayling",
+        "Barry Douglas",
+        "Adam Forshaw",
+        "Kemar Roofe",
+        "Ezgjan Alioski",
+        "Pontus Jansson",
+        "Pablo Hern\u00e1ndez",
+        "Jack Harrison",
+        "Kalvin Phillips",
+        "Mateusz Klich",
+        "Will Huffer",
+        "Tyler Roberts",
+        "Lewis Baker",
+        "Leif Davis",
+        "Jamie Shackleton",
+        "Jack Clarke",
+        "Aapo Halme"
+    ],
+    "fouls": [
+        13,
+        13
+    ],
+    "corners": [
+        6,
+        8
+    ],
+    "crosses": [
+        11,
+        24
+    ],
+    "touches": [
+        446,
+        642
+    ],
+    "tackles": [
+        13,
+        18
+    ],
+    "interceptions": [
+        15,
+        7
+    ],
+    "aerials_won": [
+        22,
+        19
+    ],
+    "clearances": [
+        22,
+        16
+    ],
+    "offsides": [
+        0,
+        1
+    ],
+    "goal_kicks": [
+        16,
+        7
+    ],
+    "throw_ins": [
+        26,
+        31
+    ],
+    "long_balls": [
+        81,
+        88
+    ]
+}

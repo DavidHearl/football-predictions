@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "1",
+        "2"
+    ],
+    "expected_goals": [
+        "1.6",
+        "1.8"
+    ],
+    "home_team": [
+        "\u00c1lex Remiro",
+        "Diego Llorente",
+        "Igor Zubeldia",
+        "Mikel Merino",
+        "Mikel Oyarzabal",
+        "Andoni Gorosabel",
+        "Alexander Isak",
+        "Nacho Monreal",
+        "Martin \u00d8degaard",
+        "Luca Sangalli",
+        "Robin Le Normand",
+        "Miguel \u00c1ngel Moy\u00e1",
+        "Joseba Zald\u00faa",
+        "Portu",
+        "Willian Jos\u00e9",
+        "Adnan Januzaj",
+        "Ander Guevara",
+        "Ander Barrenetxea"
+    ],
+    "away_team": [
+        "Aitor Fern\u00e1ndez",
+        "Nemanja Radoja",
+        "Enis Bardhi",
+        "Jos\u00e9 Luis Morales",
+        "R\u00faben Vezo",
+        "Sergio Postigo",
+        "Carlos Clerc",
+        "Jorge Miram\u00f3n",
+        "Borja Mayoral",
+        "Gonzalo Melero",
+        "Jos\u00e9 Campa\u00f1a",
+        "C\u00e1rdenas",
+        "\u00d3scar Duarte",
+        "Sergio Le\u00f3n",
+        "Hern\u00e2ni Fortes",
+        "Roger Mart\u00ed",
+        "Nikola Vuk\u010devi\u0107",
+        "Coke"
+    ],
+    "fouls": [
+        15,
+        12
+    ],
+    "corners": [
+        9,
+        5
+    ],
+    "crosses": [
+        27,
+        12
+    ],
+    "touches": [
+        668,
+        414
+    ],
+    "tackles": [
+        9,
+        18
+    ],
+    "interceptions": [
+        5,
+        14
+    ],
+    "aerials_won": [
+        12,
+        15
+    ],
+    "clearances": [
+        8,
+        15
+    ],
+    "offsides": [
+        2,
+        4
+    ],
+    "goal_kicks": [
+        7,
+        14
+    ],
+    "throw_ins": [
+        18,
+        13
+    ],
+    "long_balls": [
+        65,
+        71
+    ]
+}

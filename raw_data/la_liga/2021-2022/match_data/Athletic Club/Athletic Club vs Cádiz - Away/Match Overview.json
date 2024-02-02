@@ -1,0 +1,106 @@
+{
+    "goals": [
+        "2",
+        "3"
+    ],
+    "expected_goals": [
+        "3.1",
+        "1.6"
+    ],
+    "home_team": [
+        "Jerem\u00edas Ledesma",
+        "Rub\u00e9n Alcaraz",
+        "Anthony Lozano",
+        "Oussama Idrissi",
+        "Iv\u00e1n Alejo",
+        "Carlos Akapo",
+        "\u00c1lvaro Negredo",
+        "Alfonso Espino",
+        "Luis Hern\u00e1ndez",
+        "Fede San Emeterio",
+        "V\u00edctor Chust",
+        "David Gil",
+        "Jens J\u00f8nsson",
+        "Fali",
+        "Jos\u00e9 Mari",
+        "Salvi",
+        "\u00c1lex Fern\u00e1ndez",
+        "Alberto Perea",
+        "Cala",
+        "Santiago Arzamendia",
+        "Rub\u00e9n Sobrino",
+        "Lucas P\u00e9rez",
+        "Ra\u00fal Parra"
+    ],
+    "away_team": [
+        "Unai Sim\u00f3n",
+        "I\u00f1igo Mart\u00ednez",
+        "Mikel Vesga",
+        "I\u00f1aki Williams",
+        "Iker Muniain",
+        "Daniel Vivian",
+        "Dani Garc\u00eda",
+        "\u00d3scar de Marcos",
+        "Ra\u00fal Garc\u00eda",
+        "Mikel Balenziaga",
+        "Nico Williams",
+        "Julen Agirrezabala",
+        "Alex Petxa",
+        "Unai N\u00fa\u00f1ez",
+        "Yeray \u00c1lvarez",
+        "\u00c1lex Berenguer",
+        "Unai Vencedor Paris",
+        "Yuri Berchiche",
+        "Oier Zarraga",
+        "Ander Capa",
+        "Nicol\u00e1s Serrano"
+    ],
+    "fouls": [
+        9,
+        15
+    ],
+    "corners": [
+        4,
+        1
+    ],
+    "crosses": [
+        49,
+        8
+    ],
+    "touches": [
+        612,
+        491
+    ],
+    "tackles": [
+        10,
+        15
+    ],
+    "interceptions": [
+        4,
+        6
+    ],
+    "aerials_won": [
+        26,
+        18
+    ],
+    "clearances": [
+        8,
+        38
+    ],
+    "offsides": [
+        2,
+        3
+    ],
+    "goal_kicks": [
+        2,
+        15
+    ],
+    "throw_ins": [
+        32,
+        19
+    ],
+    "long_balls": [
+        97,
+        71
+    ]
+}

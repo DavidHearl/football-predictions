@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "1",
+        "2"
+    ],
+    "expected_goals": [
+        "1.3",
+        "1.9"
+    ],
+    "home_team": [
+        "Diego L\u00f3pez",
+        "Adri\u00e0 Pedrosa",
+        "V\u00edctor S\u00e1nchez",
+        "Naldo",
+        "Wu Lei",
+        "Facundo Ferreyra",
+        "Sergi Darder",
+        "David L\u00f3pez",
+        "Bernardo Espinosa",
+        "Marc Roca",
+        "Victor Gomez",
+        "Andr\u00e9s Prieto",
+        "\u00d3scar Melendo",
+        "D\u00eddac Vil\u00e0",
+        "S\u00e9bastien Corchia",
+        "Mat\u00edas Vargas",
+        "Esteban Granero",
+        "V\u00edctor Campuzano"
+    ],
+    "away_team": [
+        "Jasper Cillessen",
+        "Jaume Costa",
+        "Geoffrey Kondogbia",
+        "Daniel Parejo",
+        "Denis Cheryshev",
+        "Mouctar Diakhaby",
+        "Daniel Wass",
+        "Rodrigo",
+        "Ferr\u00e1n Torres",
+        "Maxi G\u00f3mez",
+        "Ezequiel Garay",
+        "Jaume Dom\u00e9nech",
+        "Thierry Correia",
+        "Gabriel Paulista",
+        "Jos\u00e9 Luis Gay\u00e0",
+        "Manu Vallejo",
+        "Lee Kang-in",
+        "Rub\u00e9n Sobrino"
+    ],
+    "fouls": [
+        20,
+        14
+    ],
+    "corners": [
+        5,
+        5
+    ],
+    "crosses": [
+        26,
+        23
+    ],
+    "touches": [
+        490,
+        561
+    ],
+    "tackles": [
+        14,
+        9
+    ],
+    "interceptions": [
+        6,
+        6
+    ],
+    "aerials_won": [
+        24,
+        28
+    ],
+    "clearances": [
+        17,
+        33
+    ],
+    "offsides": [
+        2,
+        2
+    ],
+    "goal_kicks": [
+        12,
+        9
+    ],
+    "throw_ins": [
+        18,
+        11
+    ],
+    "long_balls": [
+        90,
+        74
+    ]
+}

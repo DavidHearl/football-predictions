@@ -1,0 +1,97 @@
+{
+    "goals": [
+        "2",
+        "0"
+    ],
+    "expected_goals": [
+        "2.5",
+        "0.3"
+    ],
+    "home_team": [
+        "Keiren Westwood",
+        "Liam Palmer",
+        "Steven Fletcher",
+        "Barry Bannan",
+        "Tom Lees",
+        "Adam Reach",
+        "Sam Hutchinson",
+        "Michael Hector",
+        "Achraf Lazaar",
+        "Rolando Aarons",
+        "Fernando Forestieri",
+        "Cameron Dawson",
+        "Joey Pelupessy",
+        "Atdhe Nuhiu",
+        "Marco Matias",
+        "George Boyd",
+        "Dominic Iorfa",
+        "Daniel Pudil"
+    ],
+    "away_team": [
+        "Daniel Bentley",
+        "Moses Odubajo",
+        "Sergi Can\u00f3s",
+        "Neal Maupay",
+        "Josh McEachran",
+        "Romaine Sawyers",
+        "Sa\u00efd Benrahma",
+        "Henrik Dalsgaard",
+        "Julian Jeanvier",
+        "Ezri Konsa",
+        "Yoann Barbet",
+        "Ellery Balcombe",
+        "Ollie Watkins",
+        "Josh Dasilva",
+        "Chiedozie Ogbene",
+        "Mads Bech S\u00f8rensen",
+        "Nikolaj Kirk"
+    ],
+    "fouls": [
+        12,
+        9
+    ],
+    "corners": [
+        5,
+        5
+    ],
+    "crosses": [
+        22,
+        12
+    ],
+    "touches": [
+        593,
+        695
+    ],
+    "tackles": [
+        20,
+        17
+    ],
+    "interceptions": [
+        14,
+        11
+    ],
+    "aerials_won": [
+        33,
+        12
+    ],
+    "clearances": [
+        14,
+        17
+    ],
+    "offsides": [
+        2,
+        1
+    ],
+    "goal_kicks": [
+        5,
+        10
+    ],
+    "throw_ins": [
+        25,
+        20
+    ],
+    "long_balls": [
+        76,
+        58
+    ]
+}

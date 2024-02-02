@@ -1,0 +1,101 @@
+{
+    "goals": [
+        "1",
+        "5"
+    ],
+    "expected_goals": [
+        "1.0",
+        "3.9"
+    ],
+    "home_team": [
+        "Ivo Grbi\u0107",
+        "Zeki \u00c7elik",
+        "Sven Botman",
+        "Gabriel Gudmundsson",
+        "Jos\u00e9 Fonte",
+        "Jonathan Bamba",
+        "Jonathan David",
+        "Hatem Ben Arfa",
+        "Benjamin Andr\u00e9",
+        "Timothy Weah",
+        "Amadou Onana",
+        "L\u00e9o Jardim",
+        "Tiago Djal\u00f3",
+        "Xeka",
+        "Angel Gomes",
+        "Edon Zhegrova",
+        "J\u00e9r\u00e9my Pied",
+        "Domagoj Bradari\u0107",
+        "Ugo Raghouber"
+    ],
+    "away_team": [
+        "Gianluigi Donnarumma",
+        "Achraf Hakimi",
+        "Presnel Kimpembe",
+        "Marquinhos",
+        "Marco Verratti",
+        "Kylian Mbapp\u00e9",
+        "Leandro Paredes",
+        "\u00c1ngel Di Mar\u00eda",
+        "Danilo Pereira",
+        "Nuno Mendes",
+        "Lionel Messi",
+        "Keylor Navas",
+        "Juan Bernat",
+        "Colin Dagba",
+        "Layvin Kurzawa",
+        "Julian Draxler",
+        "Thilo Kehrer",
+        "Junior Dina Ebimbe",
+        "Xavi Simons",
+        "Edouard Michut"
+    ],
+    "fouls": [
+        19,
+        9
+    ],
+    "corners": [
+        4,
+        3
+    ],
+    "crosses": [
+        9,
+        5
+    ],
+    "touches": [
+        545,
+        751
+    ],
+    "tackles": [
+        18,
+        17
+    ],
+    "interceptions": [
+        13,
+        6
+    ],
+    "aerials_won": [
+        3,
+        3
+    ],
+    "clearances": [
+        14,
+        7
+    ],
+    "offsides": [
+        3,
+        0
+    ],
+    "goal_kicks": [
+        10,
+        4
+    ],
+    "throw_ins": [
+        14,
+        15
+    ],
+    "long_balls": [
+        39,
+        41
+    ]
+}

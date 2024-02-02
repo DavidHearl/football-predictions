@@ -17,8 +17,7 @@ legacy_seasons = [
 	'2021-2022',
 	'2020-2021',
 	'2019-2020',
-	'2018-2019',
-	'2017-2018'
+	'2018-2019'
 ]
 
 # Get methods and pass through the variables

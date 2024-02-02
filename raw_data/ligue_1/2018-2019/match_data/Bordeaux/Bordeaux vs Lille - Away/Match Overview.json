@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "1",
+        "0"
+    ],
+    "expected_goals": [
+        "1.1",
+        "0.6"
+    ],
+    "home_team": [
+        "Mike Maignan",
+        "Youssouf Kon\u00e9",
+        "Gabriel Dos Santos",
+        "Jos\u00e9 Fonte",
+        "Lo\u00efc R\u00e9my",
+        "Jonathan Ikone",
+        "Jonathan Bamba",
+        "Zeki \u00c7elik",
+        "Nicolas P\u00e9p\u00e9",
+        "Thiago Mendes",
+        "Boubakary Soumar\u00e9",
+        "Adam Jakubech",
+        "Rafael Le\u00e3o",
+        "Rui Fonte",
+        "Luiz Ara\u00fajo",
+        "Thiago Maia",
+        "Kouadio-Yves Dabila",
+        "J\u00e9r\u00e9my Pied"
+    ],
+    "away_team": [
+        "Beno\u00eet Costil",
+        "Jules Kound\u00e9",
+        "Ot\u00e1vio",
+        "Jimmy Briand",
+        "Jaroslav Pla\u0161il",
+        "Yacine Adli",
+        "Youssouf Sabaly",
+        "Pablo",
+        "Toma Ba\u0161i\u0107",
+        "Zaydou Youssouf",
+        "Maxime Poundj\u00e9",
+        "Fran\u00e7ois Kamano",
+        "Ga\u00ebtan Poussin",
+        "Sergi Palencia",
+        "Albert Lottin",
+        "Alexandre Lauray",
+        "Till Cissokho",
+        "Yassine Benrahou"
+    ],
+    "fouls": [
+        7,
+        17
+    ],
+    "corners": [
+        3,
+        4
+    ],
+    "crosses": [
+        13,
+        18
+    ],
+    "touches": [
+        620,
+        657
+    ],
+    "tackles": [
+        24,
+        27
+    ],
+    "interceptions": [
+        4,
+        7
+    ],
+    "aerials_won": [
+        16,
+        14
+    ],
+    "clearances": [
+        23,
+        17
+    ],
+    "offsides": [
+        1,
+        1
+    ],
+    "goal_kicks": [
+        7,
+        8
+    ],
+    "throw_ins": [
+        23,
+        20
+    ],
+    "long_balls": [
+        77,
+        55
+    ]
+}

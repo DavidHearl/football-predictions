@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "1",
+        "1"
+    ],
+    "expected_goals": [
+        "1.2",
+        "1.4"
+    ],
+    "home_team": [
+        "Emiliano Mart\u00ednez",
+        "Andy Yiadom",
+        "Liam Moore",
+        "John Swift",
+        "Garath McCleary",
+        "Lewis Baker",
+        "Ovie Ejaria",
+        "Matt Miazga",
+        "Yakou M\u00e9\u00efte",
+        "N\u00e9lson Oliveira",
+        "Tyler Blackett",
+        "Sam Walker",
+        "Chris Gunter",
+        "John O'Shea",
+        "Paul McShane",
+        "Callum Harriott",
+        "Modou Barrow",
+        "Danny Loader"
+    ],
+    "away_team": [
+        "Marek Rod\u00e1k",
+        "Joe Mattock",
+        "Will Vaulks",
+        "Semi Ajayi",
+        "Anthony Forde",
+        "Jon Taylor",
+        "Richie Towell",
+        "Clark Robertson",
+        "Michael Ihiekwe",
+        "Michael Smith",
+        "Billy Jones",
+        "Lewis Price",
+        "Zak Vyner",
+        "Richard Wood",
+        "Matt Crooks",
+        "Jerry Yates",
+        "Joe Newell",
+        "Ryan Williams"
+    ],
+    "fouls": [
+        10,
+        14
+    ],
+    "corners": [
+        5,
+        6
+    ],
+    "crosses": [
+        12,
+        35
+    ],
+    "touches": [
+        595,
+        492
+    ],
+    "tackles": [
+        11,
+        19
+    ],
+    "interceptions": [
+        5,
+        9
+    ],
+    "aerials_won": [
+        28,
+        26
+    ],
+    "clearances": [
+        51,
+        14
+    ],
+    "offsides": [
+        2,
+        1
+    ],
+    "goal_kicks": [
+        6,
+        11
+    ],
+    "throw_ins": [
+        19,
+        24
+    ],
+    "long_balls": [
+        62,
+        102
+    ]
+}

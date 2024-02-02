@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "3",
+        "1"
+    ],
+    "expected_goals": [
+        "1.6",
+        "1.0"
+    ],
+    "home_team": [
+        "Ludovic Butelle",
+        "Rayan A\u00eft Nouri",
+        "Mateo Pavlovi\u0107",
+        "Thomas Mangani",
+        "Rachid Alioui",
+        "Pierrick Capelle",
+        "Baptiste Santamaria",
+        "Jeff Reine-Ad\u00e9la\u00efde",
+        "Romain Thomas",
+        "Mathias Pereira Lage",
+        "Vincent Manceau",
+        "Danijel Petkovi\u0107",
+        "Ibrahim Ciss\u00e9",
+        "Vincent Pajot",
+        "Wilfried Kanga",
+        "St\u00e9phane Bahoken",
+        "Th\u00e9o Pellenard",
+        "Farid El Melali"
+    ],
+    "away_team": [
+        "Beno\u00eet Costil",
+        "Raoul Bellanova",
+        "Pablo",
+        "Mexer",
+        "Jimmy Briand",
+        "Aur\u00e9lien Tchouam\u00e9ni",
+        "Samuel Kalu",
+        "Nicolas de Pr\u00e9ville",
+        "Hwang Ui-jo",
+        "Loris Benito",
+        "Albert Lottin",
+        "Fran\u00e7ois Kamano",
+        "Ga\u00ebtan Poussin",
+        "Laurent Koscielny",
+        "Josh Maja",
+        "Yassine Benrahou",
+        "Enock Kwateng",
+        "Toma Ba\u0161i\u0107"
+    ],
+    "fouls": [
+        11,
+        15
+    ],
+    "corners": [
+        4,
+        3
+    ],
+    "crosses": [
+        16,
+        6
+    ],
+    "touches": [
+        551,
+        587
+    ],
+    "tackles": [
+        25,
+        12
+    ],
+    "interceptions": [
+        8,
+        10
+    ],
+    "aerials_won": [
+        20,
+        18
+    ],
+    "clearances": [
+        6,
+        11
+    ],
+    "offsides": [
+        2,
+        1
+    ],
+    "goal_kicks": [
+        6,
+        15
+    ],
+    "throw_ins": [
+        25,
+        16
+    ],
+    "long_balls": [
+        80,
+        48
+    ]
+}

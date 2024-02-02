@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "1",
+        "0"
+    ],
+    "expected_goals": [
+        "1.0",
+        "0.6"
+    ],
+    "home_team": [
+        "Yassine Bounou",
+        "Bernardo Espinosa",
+        "\u00c1lex Granell",
+        "Cristhian Stuani",
+        "Pere Pons",
+        "Portu",
+        "Borja Garc\u00eda",
+        "Douglas Luiz",
+        "Juanpe",
+        "Marc Muniesa",
+        "Valery Fern\u00e1ndez",
+        "Gorka Iraizoz",
+        "Pedro Alcal\u00e1",
+        "Ra\u00fal Garc\u00eda",
+        "Anthony Lozano",
+        "Seydou Doumbia",
+        "Aleix Garc\u00eda",
+        "Pedro Porro"
+    ],
+    "away_team": [
+        "Tom\u00e1\u0161 Vacl\u00edk",
+        "Sergi G\u00f3mez",
+        "Daniel Carri\u00e7o",
+        "Roque Mesa",
+        "Wissam Ben Yedder",
+        "\u00c9ver Banega",
+        "Jes\u00fas Navas",
+        "Pablo Sarabia",
+        "Sergio Escudero",
+        "Munir El Haddadi",
+        "Franco V\u00e1zquez",
+        "Juan Soriano",
+        "Ibrahim Amadou",
+        "Aleix Vidal",
+        "Marko Rog",
+        "Quincy Promes",
+        "Joris Gnagnon",
+        "Bryan Gil"
+    ],
+    "fouls": [
+        12,
+        18
+    ],
+    "corners": [
+        3,
+        6
+    ],
+    "crosses": [
+        20,
+        16
+    ],
+    "touches": [
+        540,
+        666
+    ],
+    "tackles": [
+        29,
+        15
+    ],
+    "interceptions": [
+        10,
+        14
+    ],
+    "aerials_won": [
+        28,
+        24
+    ],
+    "clearances": [
+        24,
+        21
+    ],
+    "offsides": [
+        5,
+        0
+    ],
+    "goal_kicks": [
+        3,
+        11
+    ],
+    "throw_ins": [
+        21,
+        29
+    ],
+    "long_balls": [
+        79,
+        83
+    ]
+}

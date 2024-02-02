@@ -1,0 +1,107 @@
+{
+    "goals": [
+        "1",
+        "2"
+    ],
+    "expected_goals": [
+        "1.1",
+        "0.9"
+    ],
+    "home_team": [
+        "Aitor Fern\u00e1ndez",
+        "\u00d3scar Duarte",
+        "Enis Bardhi",
+        "Jos\u00e9 Luis Morales",
+        "R\u00faben Vezo",
+        "Sergio Postigo",
+        "Rub\u00e9n Rochina",
+        "Nikola Vuk\u010devi\u0107",
+        "Carlos Clerc",
+        "Borja Mayoral",
+        "Jos\u00e9 Campa\u00f1a",
+        "Koke Vegas",
+        "To\u00f1o",
+        "Rober",
+        "Nemanja Radoja",
+        "Sergio Le\u00f3n",
+        "Hern\u00e2ni Fortes",
+        "Roger Mart\u00ed",
+        "Gonzalo Melero",
+        "Coke",
+        "Joan Monterde",
+        "Rub\u00e9n Garc\u00eda",
+        "Giorgi Kochorashvili"
+    ],
+    "away_team": [
+        "Unai Sim\u00f3n",
+        "Unai N\u00fa\u00f1ez",
+        "I\u00f1igo Mart\u00ednez",
+        "Unai L\u00f3pez",
+        "I\u00f1aki Williams",
+        "Iker Muniain",
+        "Mikel Vesga",
+        "\u00d3scar de Marcos",
+        "Ra\u00fal Garc\u00eda",
+        "Mikel Balenziaga",
+        "Oihan Sancet",
+        "Iago Herrer\u00edn",
+        "Jokin Ezkieta",
+        "Mikel San Jos\u00e9",
+        "I\u00f1igo C\u00f3rdoba",
+        "Larra",
+        "I\u00f1igo Lekue",
+        "Ibai G\u00f3mez",
+        "Kenan Kodro",
+        "Asier Villalibre",
+        "Unai Vencedor Paris",
+        "Daniel Vivian"
+    ],
+    "fouls": [
+        11,
+        14
+    ],
+    "corners": [
+        2,
+        6
+    ],
+    "crosses": [
+        19,
+        19
+    ],
+    "touches": [
+        586,
+        489
+    ],
+    "tackles": [
+        14,
+        12
+    ],
+    "interceptions": [
+        8,
+        9
+    ],
+    "aerials_won": [
+        10,
+        20
+    ],
+    "clearances": [
+        21,
+        9
+    ],
+    "offsides": [
+        2,
+        1
+    ],
+    "goal_kicks": [
+        7,
+        13
+    ],
+    "throw_ins": [
+        23,
+        22
+    ],
+    "long_balls": [
+        80,
+        85
+    ]
+}

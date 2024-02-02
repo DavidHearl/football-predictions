@@ -1,0 +1,105 @@
+{
+    "goals": [
+        "2",
+        "3"
+    ],
+    "expected_goals": [
+        "1.0",
+        "4.1"
+    ],
+    "home_team": [
+        "\u00c9dgar Bad\u00eda",
+        "Enzo Roco",
+        "Lisandro Magall\u00e1n",
+        "Lucas Boy\u00e9",
+        "Tete Morente",
+        "Helibelton Palacios",
+        "Fidel",
+        "Ezequiel Ponce",
+        "Gerard Gumbau",
+        "Omar Mascarell",
+        "Carlos Clerc",
+        "Axel Werner",
+        "Lautaro Blanco",
+        "Diego Gonz\u00e1lez",
+        "Gonzalo Verd\u00fa",
+        "Pedro Bigas",
+        "Ra\u00fal Guti",
+        "Pape Cheikh Diop",
+        "Josan",
+        "Nicol\u00e1s Ezequiel Fern\u00e1ndez",
+        "Pol Lirola"
+    ],
+    "away_team": [
+        "Claudio Bravo",
+        "Juanmi",
+        "Nabil Fekir",
+        "Luiz Henrique",
+        "William Carvalho",
+        "Germ\u00e1n Pezzella",
+        "Andr\u00e9s Guardado",
+        "Luiz Felipe",
+        "Abner",
+        "Ayoze P\u00e9rez",
+        "Aitor Ruibal",
+        "Daniel Mart\u00edn",
+        "Francisco Barbosa",
+        "Mart\u00edn Montoya",
+        "Paul Akouokou",
+        "V\u00edctor Ruiz",
+        "Borja Iglesias",
+        "Willian Jos\u00e9",
+        "Joaqu\u00edn",
+        "Youssouf Sabaly",
+        "Rodri",
+        "Juan Miranda"
+    ],
+    "fouls": [
+        16,
+        9
+    ],
+    "corners": [
+        3,
+        3
+    ],
+    "crosses": [
+        16,
+        20
+    ],
+    "touches": [
+        436,
+        696
+    ],
+    "tackles": [
+        19,
+        21
+    ],
+    "interceptions": [
+        9,
+        10
+    ],
+    "aerials_won": [
+        13,
+        12
+    ],
+    "clearances": [
+        20,
+        12
+    ],
+    "offsides": [
+        1,
+        2
+    ],
+    "goal_kicks": [
+        11,
+        4
+    ],
+    "throw_ins": [
+        14,
+        21
+    ],
+    "long_balls": [
+        55,
+        47
+    ]
+}

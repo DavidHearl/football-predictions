@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "0",
+        "1"
+    ],
+    "expected_goals": [
+        "1.1",
+        "1.6"
+    ],
+    "home_team": [
+        "Romain Salin",
+        "Raphinha",
+        "Cl\u00e9ment Grenier",
+        "M'Baye Niang",
+        "Benjamin Bourigeaud",
+        "J\u00e9r\u00e9my Morel",
+        "Faitout Maouassa",
+        "Eduardo Camavinga",
+        "Joris Gnagnon",
+        "J\u00e9r\u00e9my G\u00e9lin",
+        "Hamari Traor\u00e9",
+        "P\u00e9p\u00e9 Bonet",
+        "Damien Da Silva",
+        "James Lea Siliki",
+        "Flavien Tait",
+        "Romain Del Castillo",
+        "Adrien Hunou",
+        "Jonas Martin"
+    ],
+    "away_team": [
+        "Predrag Rajkovi\u0107",
+        "Ghislain Konan",
+        "Alaixys Romao",
+        "Yunis Abdelhamid",
+        "Axel Disasi",
+        "Xavier Chavalerin",
+        "Anastasios Donis",
+        "Boulaye Dia",
+        "Remi Oudin",
+        "Moussa Doumbia",
+        "Thomas Foket",
+        "Nicolas Lema\u00eetre",
+        "Dereck Kutesa",
+        "Suk Hyun-jun",
+        "Hassane Kamara",
+        "Marshall Munetsi",
+        "Dario Maresic",
+        "Nathanael Mbuku"
+    ],
+    "fouls": [
+        13,
+        20
+    ],
+    "corners": [
+        5,
+        3
+    ],
+    "crosses": [
+        30,
+        12
+    ],
+    "touches": [
+        704,
+        479
+    ],
+    "tackles": [
+        21,
+        21
+    ],
+    "interceptions": [
+        10,
+        15
+    ],
+    "aerials_won": [
+        20,
+        13
+    ],
+    "clearances": [
+        11,
+        26
+    ],
+    "offsides": [
+        1,
+        1
+    ],
+    "goal_kicks": [
+        8,
+        11
+    ],
+    "throw_ins": [
+        33,
+        20
+    ],
+    "long_balls": [
+        78,
+        68
+    ]
+}

@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "1",
+        "0"
+    ],
+    "expected_goals": [
+        "0.7",
+        "0.6"
+    ],
+    "home_team": [
+        "Tim Krul",
+        "Christoph Zimmermann",
+        "Moritz Leitner",
+        "Jamal Lewis",
+        "Timm Klose",
+        "Emi Buend\u00eda",
+        "Marco Stiepermann",
+        "Teemu Pukki",
+        "Onel Hern\u00e1ndez",
+        "Alexander Tettey",
+        "Max Aarons",
+        "Michael McGovern",
+        "Ben Godfrey",
+        "Ben Marshall",
+        "Mario Vran\u010di\u0107",
+        "Jordan Rhodes",
+        "Tom Trybull",
+        "Todd Cantwell"
+    ],
+    "away_team": [
+        "Darren Randolph",
+        "George Friend",
+        "Daniel Ayala",
+        "Ryan Shotton",
+        "Adam Clayton",
+        "Britt Assombalonga",
+        "Jonny Howson",
+        "Stewart Downing",
+        "Dael Fry",
+        "Aden Flint",
+        "Muhamed Be\u0161i\u0107",
+        "Dimitrios Konstantopoulos",
+        "Danny Batth",
+        "Martin Braithwaite",
+        "Jordan Hugill",
+        "Sam McQueen",
+        "Paddy McNair",
+        "George Saville"
+    ],
+    "fouls": [
+        13,
+        12
+    ],
+    "corners": [
+        0,
+        4
+    ],
+    "crosses": [
+        12,
+        14
+    ],
+    "touches": [
+        747,
+        504
+    ],
+    "tackles": [
+        21,
+        17
+    ],
+    "interceptions": [
+        8,
+        16
+    ],
+    "aerials_won": [
+        14,
+        15
+    ],
+    "clearances": [
+        22,
+        24
+    ],
+    "offsides": [
+        1,
+        2
+    ],
+    "goal_kicks": [
+        6,
+        9
+    ],
+    "throw_ins": [
+        23,
+        24
+    ],
+    "long_balls": [
+        56,
+        87
+    ]
+}

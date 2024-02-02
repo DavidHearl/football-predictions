@@ -1,0 +1,101 @@
+{
+    "goals": [
+        "1",
+        "1"
+    ],
+    "expected_goals": [
+        "0.5",
+        "1.2"
+    ],
+    "home_team": [
+        "Anthony Mandrea",
+        "Batista Mendy",
+        "Souleyman Doumbia",
+        "Enzo Ebosse",
+        "Sofiane Boufal",
+        "Isma\u00ebl Traor\u00e9",
+        "Pierrick Capelle",
+        "St\u00e9phane Bahoken",
+        "Nabil Bentaleb",
+        "Romain Thomas",
+        "Mathias Pereira Lage",
+        "Danijel Petkovi\u0107",
+        "Thomas Mangani",
+        "Casimir Ninga",
+        "Angelo Fulgini",
+        "Azzedine Ounahi",
+        "Mohamed Ali Cho",
+        "Marin Jakoli\u0161",
+        "Abdoulaye Bamba",
+        "Vincent Manceau"
+    ],
+    "away_team": [
+        "L\u00e9o Jardim",
+        "Zeki \u00c7elik",
+        "Tiago Djal\u00f3",
+        "Gabriel Gudmundsson",
+        "Jos\u00e9 Fonte",
+        "Jonathan Bamba",
+        "Xeka",
+        "Jonathan David",
+        "Renato Sanches",
+        "Burak Y\u0131lmaz",
+        "Benjamin Andr\u00e9",
+        "Adam Jakubech",
+        "Isaac Lihadji",
+        "Angel Gomes",
+        "Edon Zhegrova",
+        "Amadou Onana",
+        "J\u00e9r\u00e9my Pied",
+        "Domagoj Bradari\u0107",
+        "Carlos Baleba"
+    ],
+    "fouls": [
+        10,
+        12
+    ],
+    "corners": [
+        6,
+        7
+    ],
+    "crosses": [
+        15,
+        32
+    ],
+    "touches": [
+        453,
+        678
+    ],
+    "tackles": [
+        16,
+        22
+    ],
+    "interceptions": [
+        11,
+        8
+    ],
+    "aerials_won": [
+        10,
+        12
+    ],
+    "clearances": [
+        25,
+        4
+    ],
+    "offsides": [
+        0,
+        6
+    ],
+    "goal_kicks": [
+        9,
+        9
+    ],
+    "throw_ins": [
+        17,
+        29
+    ],
+    "long_balls": [
+        62,
+        86
+    ]
+}

@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "2",
+        "2"
+    ],
+    "expected_goals": [
+        "2.3",
+        "1.9"
+    ],
+    "home_team": [
+        "Mauro Goicoechea",
+        "Kelvin Amian",
+        "Gen Shoji",
+        "Christopher Jullien",
+        "Max Gradel",
+        "Yaya Sanogo",
+        "Issiaga Sylla",
+        "Mathieu Dossevi",
+        "Ibrahim Sangar\u00e9",
+        "Jimmy Durmaz",
+        "Kalidou Sidib\u00e9",
+        "Marc Vidal",
+        "Yannick Cahuzac",
+        "Aaron Leya Iseka",
+        "John Bostock",
+        "Manu Garc\u00eda",
+        "Ndombe Mubele",
+        "Fran\u00e7ois Moubandje"
+    ],
+    "away_team": [
+        "Tom\u00e1\u0161 Koubek",
+        "Damien Da Silva",
+        "Ismaila Sarr",
+        "Cl\u00e9ment Grenier",
+        "M'Baye Niang",
+        "James Lea Siliki",
+        "Ramy Bensebaini",
+        "Gerzino Nyamsi",
+        "Adrien Hunou",
+        "Hamari Traor\u00e9",
+        "Eduardo Camavinga",
+        "Abdoulaye Diallo",
+        "Jakob Johansson",
+        "Benjamin Bourigeaud",
+        "Armand Lauriente",
+        "Romain Del Castillo",
+        "J\u00e9r\u00e9my G\u00e9lin",
+        "Sacha Boey"
+    ],
+    "fouls": [
+        20,
+        15
+    ],
+    "corners": [
+        6,
+        6
+    ],
+    "crosses": [
+        26,
+        23
+    ],
+    "touches": [
+        538,
+        449
+    ],
+    "tackles": [
+        20,
+        18
+    ],
+    "interceptions": [
+        6,
+        11
+    ],
+    "aerials_won": [
+        13,
+        17
+    ],
+    "clearances": [
+        21,
+        16
+    ],
+    "offsides": [
+        2,
+        1
+    ],
+    "goal_kicks": [
+        10,
+        8
+    ],
+    "throw_ins": [
+        16,
+        23
+    ],
+    "long_balls": [
+        80,
+        68
+    ]
+}

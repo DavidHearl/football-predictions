@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "1",
+        "1"
+    ],
+    "expected_goals": [
+        "1.1",
+        "0.9"
+    ],
+    "home_team": [
+        "Scott Carson",
+        "Craig Bryson",
+        "Fikayo Tomori",
+        "Richard Keogh",
+        "Harry Wilson",
+        "Mason Mount",
+        "Bradley Johnson",
+        "Mason Bennett",
+        "David Nugent",
+        "Jayden Bogle",
+        "Scott Malone",
+        "Kelle Roos",
+        "Craig Forsyth",
+        "Martyn Waghorn",
+        "Tom Lawrence",
+        "Jack Marriott",
+        "Alex Pearce",
+        "Tom Huddlestone"
+    ],
+    "away_team": [
+        "Tim Krul",
+        "Christoph Zimmermann",
+        "Moritz Leitner",
+        "Jamal Lewis",
+        "Timm Klose",
+        "Emi Buend\u00eda",
+        "Marco Stiepermann",
+        "Teemu Pukki",
+        "Alexander Tettey",
+        "Todd Cantwell",
+        "Max Aarons",
+        "Michael McGovern",
+        "Ben Godfrey",
+        "Mario Vran\u010di\u0107",
+        "Jordan Rhodes",
+        "Tom Trybull",
+        "Dennis Srbeny",
+        "Louis Thompson"
+    ],
+    "fouls": [
+        12,
+        17
+    ],
+    "corners": [
+        7,
+        8
+    ],
+    "crosses": [
+        30,
+        17
+    ],
+    "touches": [
+        718,
+        576
+    ],
+    "tackles": [
+        25,
+        17
+    ],
+    "interceptions": [
+        7,
+        15
+    ],
+    "aerials_won": [
+        19,
+        18
+    ],
+    "clearances": [
+        13,
+        30
+    ],
+    "offsides": [
+        0,
+        1
+    ],
+    "goal_kicks": [
+        5,
+        11
+    ],
+    "throw_ins": [
+        24,
+        16
+    ],
+    "long_balls": [
+        92,
+        81
+    ]
+}

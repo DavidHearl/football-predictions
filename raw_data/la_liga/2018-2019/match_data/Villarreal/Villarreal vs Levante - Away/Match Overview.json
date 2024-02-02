@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "0",
+        "2"
+    ],
+    "expected_goals": [
+        "1.1",
+        "1.0"
+    ],
+    "home_team": [
+        "Aitor Fern\u00e1ndez",
+        "Rober",
+        "Moses Simon",
+        "Roger Mart\u00ed",
+        "Enis Bardhi",
+        "Jos\u00e9 Luis Morales",
+        "Coke",
+        "Rub\u00e9n Rochina",
+        "Erick Cabaco",
+        "Antonio Luna",
+        "Jos\u00e9 Campa\u00f1a",
+        "Oier Olaz\u00e1bal",
+        "Borja Mayoral",
+        "Chema",
+        "Nikola Vuk\u010devi\u0107",
+        "Pedro L\u00f3pez Mu\u00f1oz",
+        "Raphael Dwamena",
+        "Jason"
+    ],
+    "away_team": [
+        "Sergio Asenjo",
+        "Mario Gaspar",
+        "Ramiro Funes Mori",
+        "Santiago C\u00e1seres",
+        "V\u00edctor Ruiz",
+        "Gerard Moreno",
+        "Vicente Iborra",
+        "Jaume Costa",
+        "Alfonso Pedraza",
+        "Karl Toko Ekambi",
+        "Santi Cazorla",
+        "Andr\u00e9s Fern\u00e1ndez",
+        "Pablo Fornals",
+        "Carlos Bacca",
+        "Miguel Juan Llambrich",
+        "Manu Morlanes",
+        "Samuel Chukwueze",
+        "Xavi Quintill\u00e0"
+    ],
+    "fouls": [
+        8,
+        21
+    ],
+    "corners": [
+        8,
+        2
+    ],
+    "crosses": [
+        29,
+        13
+    ],
+    "touches": [
+        551,
+        533
+    ],
+    "tackles": [
+        11,
+        16
+    ],
+    "interceptions": [
+        15,
+        13
+    ],
+    "aerials_won": [
+        7,
+        25
+    ],
+    "clearances": [
+        9,
+        29
+    ],
+    "offsides": [
+        2,
+        2
+    ],
+    "goal_kicks": [
+        7,
+        9
+    ],
+    "throw_ins": [
+        19,
+        14
+    ],
+    "long_balls": [
+        76,
+        67
+    ]
+}

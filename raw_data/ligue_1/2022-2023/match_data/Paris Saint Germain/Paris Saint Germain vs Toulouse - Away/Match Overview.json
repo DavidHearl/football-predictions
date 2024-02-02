@@ -1,0 +1,101 @@
+{
+    "goals": [
+        "0",
+        "3"
+    ],
+    "expected_goals": [
+        "0.8",
+        "2.8"
+    ],
+    "home_team": [
+        "Maxime Dup\u00e9",
+        "Rasmus Nicolaisen",
+        "Mikkel Desler",
+        "Anthony Rouault",
+        "Zakaria Aboukhlal",
+        "Branco van den Boomen",
+        "Stijn Spierings",
+        "Oliver Zand\u00e9n",
+        "Rafael Rat\u00e3o",
+        "Moussa Diarra",
+        "Thijs Dallinga",
+        "Kjetil Haug",
+        "Denis Genreau",
+        "Ado Onaiwu",
+        "Brecht Dejaegere",
+        "Yanis Begraoui",
+        "Issiaga Sylla",
+        "Logan Costa",
+        "Fares Cha\u00efbi",
+        "K\u00e9vin Keben Biakolo"
+    ],
+    "away_team": [
+        "Gianluigi Donnarumma",
+        "Sergio Ramos",
+        "Marquinhos",
+        "Marco Verratti",
+        "Kylian Mbapp\u00e9",
+        "Neymar",
+        "Danilo Pereira",
+        "Vitinha",
+        "Nuno Mendes",
+        "Nordi Mukiele",
+        "Lionel Messi",
+        "Keylor Navas",
+        "Sergio Rico",
+        "Achraf Hakimi",
+        "Juan Bernat",
+        "Renato Sanches",
+        "El Chadaille Bitshiabu",
+        "Warren Zaire-Emery",
+        "Hugo Ekitike"
+    ],
+    "fouls": [
+        10,
+        7
+    ],
+    "corners": [
+        3,
+        9
+    ],
+    "crosses": [
+        10,
+        11
+    ],
+    "touches": [
+        512,
+        735
+    ],
+    "tackles": [
+        35,
+        14
+    ],
+    "interceptions": [
+        12,
+        12
+    ],
+    "aerials_won": [
+        1,
+        5
+    ],
+    "clearances": [
+        14,
+        3
+    ],
+    "offsides": [
+        1,
+        1
+    ],
+    "goal_kicks": [
+        13,
+        12
+    ],
+    "throw_ins": [
+        12,
+        18
+    ],
+    "long_balls": [
+        43,
+        41
+    ]
+}

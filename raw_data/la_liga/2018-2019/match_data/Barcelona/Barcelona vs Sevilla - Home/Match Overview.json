@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "4",
+        "2"
+    ],
+    "expected_goals": [
+        "2.5",
+        "2.2"
+    ],
+    "home_team": [
+        "Marc-Andr\u00e9 ter Stegen",
+        "N\u00e9lson Semedo",
+        "Gerard Piqu\u00e9",
+        "Ivan Rakiti\u0107",
+        "Sergio Busquets",
+        "Philippe Coutinho",
+        "Arthur Melo",
+        "Luis Su\u00e1rez",
+        "Lionel Messi",
+        "Cl\u00e9ment Lenglet",
+        "Jordi Alba",
+        "Jasper Cillessen",
+        "Ousmane Demb\u00e9l\u00e9",
+        "Rafinha",
+        "Munir El Haddadi",
+        "Sergi Roberto",
+        "Arturo Vidal",
+        "Juan Brand\u00e1riz"
+    ],
+    "away_team": [
+        "Tom\u00e1\u0161 Vacl\u00edk",
+        "Sergi G\u00f3mez",
+        "Simon Kj\u00e6r",
+        "Daniel Carri\u00e7o",
+        "Wissam Ben Yedder",
+        "\u00c9ver Banega",
+        "Andr\u00e9 Silva",
+        "Jes\u00fas Navas",
+        "Pablo Sarabia",
+        "Franco V\u00e1zquez",
+        "Guilherme Arana",
+        "Juan Soriano",
+        "Roque Mesa",
+        "Nolito",
+        "Aleix Vidal",
+        "Luis Muriel",
+        "Quincy Promes",
+        "Gabriel Mercado"
+    ],
+    "fouls": [
+        10,
+        16
+    ],
+    "corners": [
+        5,
+        7
+    ],
+    "crosses": [
+        7,
+        31
+    ],
+    "touches": [
+        637,
+        555
+    ],
+    "tackles": [
+        14,
+        17
+    ],
+    "interceptions": [
+        9,
+        8
+    ],
+    "aerials_won": [
+        15,
+        11
+    ],
+    "clearances": [
+        31,
+        8
+    ],
+    "offsides": [
+        1,
+        4
+    ],
+    "goal_kicks": [
+        9,
+        11
+    ],
+    "throw_ins": [
+        26,
+        14
+    ],
+    "long_balls": [
+        49,
+        57
+    ]
+}

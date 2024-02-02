@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "1",
+        "0"
+    ],
+    "expected_goals": [
+        "2.2",
+        "0.5"
+    ],
+    "home_team": [
+        "Marc-Andr\u00e9 ter Stegen",
+        "N\u00e9lson Semedo",
+        "Gerard Piqu\u00e9",
+        "Ivan Rakiti\u0107",
+        "Sergio Busquets",
+        "Lionel Messi",
+        "Cl\u00e9ment Lenglet",
+        "Antoine Griezmann",
+        "Jordi Alba",
+        "Martin Braithwaite",
+        "Frenkie de Jong",
+        "Neto",
+        "Arturo Vidal",
+        "Samuel Umtiti",
+        "Junior Firpo",
+        "Riqui Puig",
+        "\u00c1lex Collado",
+        "Ansu Fati"
+    ],
+    "away_team": [
+        "\u00c1lex Remiro",
+        "Diego Llorente",
+        "Portu",
+        "Mikel Merino",
+        "Ander Guevara",
+        "Andoni Gorosabel",
+        "Alexander Isak",
+        "Nacho Monreal",
+        "Martin \u00d8degaard",
+        "Ander Barrenetxea",
+        "Robin Le Normand",
+        "Miguel \u00c1ngel Moy\u00e1",
+        "Joseba Zald\u00faa",
+        "Igor Zubeldia",
+        "Willian Jos\u00e9",
+        "Mikel Oyarzabal",
+        "Adnan Januzaj",
+        "Aihen Mu\u00f1oz"
+    ],
+    "fouls": [
+        12,
+        10
+    ],
+    "corners": [
+        4,
+        4
+    ],
+    "crosses": [
+        9,
+        18
+    ],
+    "touches": [
+        650,
+        573
+    ],
+    "tackles": [
+        19,
+        10
+    ],
+    "interceptions": [
+        14,
+        9
+    ],
+    "aerials_won": [
+        17,
+        12
+    ],
+    "clearances": [
+        16,
+        13
+    ],
+    "offsides": [
+        3,
+        2
+    ],
+    "goal_kicks": [
+        10,
+        9
+    ],
+    "throw_ins": [
+        12,
+        20
+    ],
+    "long_balls": [
+        48,
+        58
+    ]
+}

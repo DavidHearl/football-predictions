@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "1",
+        "0"
+    ],
+    "expected_goals": [
+        "1.5",
+        "0.4"
+    ],
+    "home_team": [
+        "Jordan Archer",
+        "James Meredith",
+        "Shaun Hutchinson",
+        "Jake Cooper",
+        "Jed Wallace",
+        "Lee Gregory",
+        "Shane Ferguson",
+        "Mahlon Romeo",
+        "Ryan Tunnicliffe",
+        "Tom Elliott",
+        "Ryan Leonard",
+        "Ben Amos",
+        "Steve Morison",
+        "Jem Karacan",
+        "Aiden O'Brien",
+        "Murray Wallace",
+        "Ji\u0159\u00ed Skal\u00e1k",
+        "James Brown"
+    ],
+    "away_team": [
+        "Anssi Jaakkola",
+        "Andy Yiadom",
+        "Liam Moore",
+        "Leandro Bacuna",
+        "John Swift",
+        "Modou Barrow",
+        "Yakou M\u00e9\u00efte",
+        "Tyler Blackett",
+        "Omar Richards",
+        "Andy Rinomhota",
+        "Danny Loader",
+        "Vito Mannone",
+        "John O'Shea",
+        "David Meyler",
+        "Sam Baldock",
+        "Garath McCleary",
+        "Sone Aluko",
+        "Gabriel Osho"
+    ],
+    "fouls": [
+        18,
+        16
+    ],
+    "corners": [
+        8,
+        4
+    ],
+    "crosses": [
+        29,
+        13
+    ],
+    "touches": [
+        474,
+        576
+    ],
+    "tackles": [
+        22,
+        10
+    ],
+    "interceptions": [
+        12,
+        9
+    ],
+    "aerials_won": [
+        22,
+        15
+    ],
+    "clearances": [
+        20,
+        23
+    ],
+    "offsides": [
+        4,
+        1
+    ],
+    "goal_kicks": [
+        4,
+        11
+    ],
+    "throw_ins": [
+        26,
+        20
+    ],
+    "long_balls": [
+        92,
+        67
+    ]
+}

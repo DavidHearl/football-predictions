@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "1",
+        "0"
+    ],
+    "expected_goals": [
+        "0.5",
+        "0.9"
+    ],
+    "home_team": [
+        "Unai Sim\u00f3n",
+        "Unai N\u00fa\u00f1ez",
+        "Yeray \u00c1lvarez",
+        "Unai L\u00f3pez",
+        "I\u00f1aki Williams",
+        "Iker Muniain",
+        "Dani Garc\u00eda",
+        "Yuri Berchiche",
+        "\u00d3scar de Marcos",
+        "Ander Capa",
+        "Ra\u00fal Garc\u00eda",
+        "Iago Herrer\u00edn",
+        "Be\u00f1at Etxebarria",
+        "Larra",
+        "Aritz Aduriz",
+        "Mikel Balenziaga",
+        "Daniel Vivian",
+        "Oihan Sancet"
+    ],
+    "away_team": [
+        "Marc-Andr\u00e9 ter Stegen",
+        "N\u00e9lson Semedo",
+        "Gerard Piqu\u00e9",
+        "Luis Su\u00e1rez",
+        "Ousmane Demb\u00e9l\u00e9",
+        "Cl\u00e9ment Lenglet",
+        "Antoine Griezmann",
+        "Jordi Alba",
+        "Carles Ale\u00f1\u00e1",
+        "Sergi Roberto",
+        "Frenkie de Jong",
+        "I\u00f1aki Pe\u00f1a ",
+        "Ivan Rakiti\u0107",
+        "Sergio Busquets",
+        "Rafinha",
+        "Samuel Umtiti",
+        "Junior Firpo",
+        "Carles P\u00e9rez"
+    ],
+    "fouls": [
+        14,
+        9
+    ],
+    "corners": [
+        3,
+        8
+    ],
+    "crosses": [
+        13,
+        16
+    ],
+    "touches": [
+        387,
+        786
+    ],
+    "tackles": [
+        9,
+        8
+    ],
+    "interceptions": [
+        11,
+        5
+    ],
+    "aerials_won": [
+        14,
+        12
+    ],
+    "clearances": [
+        18,
+        12
+    ],
+    "offsides": [
+        2,
+        1
+    ],
+    "goal_kicks": [
+        15,
+        10
+    ],
+    "throw_ins": [
+        16,
+        17
+    ],
+    "long_balls": [
+        61,
+        63
+    ]
+}

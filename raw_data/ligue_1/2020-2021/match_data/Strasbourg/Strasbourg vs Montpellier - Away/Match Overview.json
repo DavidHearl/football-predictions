@@ -1,0 +1,102 @@
+{
+    "goals": [
+        "4",
+        "3"
+    ],
+    "expected_goals": [
+        "2.8",
+        "2.9"
+    ],
+    "home_team": [
+        "Jonas Omlin",
+        "Daniel Congr\u00e9",
+        "Pedro Mendes",
+        "Junior Sambia",
+        "Mihailo Risti\u0107",
+        "Andy Delort",
+        "Ga\u00ebtan Laborde",
+        "T\u00e9ji Savanier",
+        "Jordan Ferri",
+        "Stephy Mavididi",
+        "Florent Mollet",
+        "Dimitry Bertaud",
+        "Arnaud Souquet",
+        "Vitorino Hilton",
+        "Joris Chotard",
+        "Keagan Dolly",
+        "Yun Il-lok",
+        "Samy Benchamma",
+        "Nicolas Cozza",
+        "Petar \u0160kuleti\u0107"
+    ],
+    "away_team": [
+        "Eiji Kawashima",
+        "Mohamed Simakan",
+        "Lamine Kon\u00e9",
+        "Jean-Eudes Aholou",
+        "Kenny Lala",
+        "Stefan Mitrovi\u0107",
+        "Jean-Ricner Bellegarde",
+        "Anthony Caci",
+        "Ludovic Ajorque",
+        "Ibrahima Sissoko",
+        "Habib Diallo",
+        "Alexandre Pierre",
+        "Abdul Majeed Waris",
+        "Dimitri Li\u00e9nard",
+        "Sanjin Prci\u0107",
+        "K\u00e9vin Zohi",
+        "Mehdi Chahiri",
+        "Lionel Carole",
+        "Adrien Thomasson",
+        "Ismael Aaneba"
+    ],
+    "fouls": [
+        16,
+        11
+    ],
+    "corners": [
+        11,
+        3
+    ],
+    "crosses": [
+        29,
+        12
+    ],
+    "touches": [
+        640,
+        496
+    ],
+    "tackles": [
+        9,
+        10
+    ],
+    "interceptions": [
+        10,
+        17
+    ],
+    "aerials_won": [
+        20,
+        21
+    ],
+    "clearances": [
+        18,
+        22
+    ],
+    "offsides": [
+        0,
+        1
+    ],
+    "goal_kicks": [
+        5,
+        12
+    ],
+    "throw_ins": [
+        7,
+        18
+    ],
+    "long_balls": [
+        64,
+        80
+    ]
+}

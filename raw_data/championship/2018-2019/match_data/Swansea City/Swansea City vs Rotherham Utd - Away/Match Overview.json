@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "2",
+        "1"
+    ],
+    "expected_goals": [
+        "1.9",
+        "2.0"
+    ],
+    "home_team": [
+        "Marek Rod\u00e1k",
+        "Zak Vyner",
+        "Joe Mattock",
+        "Will Vaulks",
+        "Semi Ajayi",
+        "Jon Taylor",
+        "Richie Towell",
+        "Clark Robertson",
+        "Kyle Vassell",
+        "Ryan Williams",
+        "Michael Smith",
+        "Lewis Price",
+        "Richard Wood",
+        "Anthony Forde",
+        "Jamie Proctor",
+        "Ryan Manning",
+        "Joe Newell",
+        "Ben Wiles"
+    ],
+    "away_team": [
+        "Kristoffer Nordfeldt",
+        "Mike van der Hoorn",
+        "Leroy Fer",
+        "Oliver McBurnie",
+        "Bersant Celina",
+        "Daniel James",
+        "Matt Grimes",
+        "Joe Rodon",
+        "Connor Roberts",
+        "Kyle Naughton",
+        "Jay Fulton",
+        "Erwin Mulder",
+        "Martin Olsson",
+        "Joel Asoro",
+        "Cameron Carter-Vickers",
+        "Barrie McKay",
+        "Yan Dhanda",
+        "Courtney Baker-Richardson"
+    ],
+    "fouls": [
+        17,
+        12
+    ],
+    "corners": [
+        3,
+        2
+    ],
+    "crosses": [
+        12,
+        14
+    ],
+    "touches": [
+        383,
+        776
+    ],
+    "tackles": [
+        18,
+        13
+    ],
+    "interceptions": [
+        15,
+        5
+    ],
+    "aerials_won": [
+        23,
+        15
+    ],
+    "clearances": [
+        17,
+        17
+    ],
+    "offsides": [
+        2,
+        2
+    ],
+    "goal_kicks": [
+        9,
+        9
+    ],
+    "throw_ins": [
+        17,
+        23
+    ],
+    "long_balls": [
+        96,
+        102
+    ]
+}

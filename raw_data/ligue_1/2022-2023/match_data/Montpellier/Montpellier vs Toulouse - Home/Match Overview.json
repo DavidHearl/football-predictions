@@ -1,0 +1,102 @@
+{
+    "goals": [
+        "1",
+        "2"
+    ],
+    "expected_goals": [
+        "1.9",
+        "2.1"
+    ],
+    "home_team": [
+        "Benjamin Lecomte",
+        "Issiaga Sylla",
+        "Christopher Jullien",
+        "Arnaud Nordin",
+        "T\u00e9ji Savanier",
+        "Jordan Ferri",
+        "Joris Chotard",
+        "Elye Wahi",
+        "Mamadou Sakho",
+        "Falaye Sacko",
+        "Wahbi Khazri",
+        "Bingourou Kamara",
+        "Pedro Mendes",
+        "Val\u00e8re Germain",
+        "Stephy Mavididi",
+        "L\u00e9o Leroy",
+        "Thibault Tamas",
+        "Enzo Tchato",
+        "Mat\u00e9o Loubatieres",
+        "Edvin Bongemba"
+    ],
+    "away_team": [
+        "Maxime Dup\u00e9",
+        "Rasmus Nicolaisen",
+        "Mikkel Desler",
+        "Anthony Rouault",
+        "Denis Genreau",
+        "Ado Onaiwu",
+        "Branco van den Boomen",
+        "Brecht Dejaegere",
+        "Vincent Sierro",
+        "Waren Kamanzi",
+        "Fares Cha\u00efbi",
+        "Kjetil Haug",
+        "Zakaria Aboukhlal",
+        "Logan Costa",
+        "Gabriel Suazo",
+        "Stijn Spierings",
+        "Veljko Birman\u010devi\u0107",
+        "Moussa Diarra",
+        "Thijs Dallinga",
+        "Sa\u00efd Hamulic"
+    ],
+    "fouls": [
+        16,
+        19
+    ],
+    "corners": [
+        4,
+        3
+    ],
+    "crosses": [
+        18,
+        11
+    ],
+    "touches": [
+        568,
+        571
+    ],
+    "tackles": [
+        6,
+        21
+    ],
+    "interceptions": [
+        5,
+        8
+    ],
+    "aerials_won": [
+        16,
+        19
+    ],
+    "clearances": [
+        9,
+        18
+    ],
+    "offsides": [
+        1,
+        1
+    ],
+    "goal_kicks": [
+        12,
+        9
+    ],
+    "throw_ins": [
+        23,
+        18
+    ],
+    "long_balls": [
+        83,
+        60
+    ]
+}

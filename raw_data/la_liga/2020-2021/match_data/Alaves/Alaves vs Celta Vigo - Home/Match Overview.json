@@ -1,0 +1,101 @@
+{
+    "goals": [
+        "1",
+        "3"
+    ],
+    "expected_goals": [
+        "2.0",
+        "2.0"
+    ],
+    "home_team": [
+        "Fernando Pacheco",
+        "Rub\u00e9n Duarte",
+        "V\u00edctor Laguardia",
+        "Rodrigo Battaglia",
+        "Tom\u00e1s Pina Isla",
+        "Joselu",
+        "Luis Rioja",
+        "Florian Lejeune",
+        "Ximo Navarro",
+        "Jota",
+        "Facundo Pellistri",
+        "Antonio Sivera",
+        "Tachi",
+        "John Guidetti",
+        "\u00c9dgar M\u00e9ndez",
+        "I\u00f1igo C\u00f3rdoba",
+        "Manu Garc\u00eda",
+        "Pere Pons",
+        "Martin Agirregabiria",
+        "Javi L\u00f3pez",
+        "Borja Sainz"
+    ],
+    "away_team": [
+        "Iv\u00e1n Villar",
+        "Hugo Mallo",
+        "Denis Su\u00e1rez",
+        "Nolito",
+        "Iago Aspas",
+        "Renato Tapia",
+        "Joseph Aidoo",
+        "Aar\u00f3n Mart\u00edn",
+        "Santi Mina",
+        "Brais M\u00e9ndez",
+        "Jeison Murillo",
+        "Patrick Sequeira",
+        "Fran Beltr\u00e1n",
+        "Facundo Ferreyra",
+        "David Junc\u00e0",
+        "Kevin V\u00e1zquez",
+        "Miguel Baeza",
+        "Jos\u00e9 Font\u00e1n"
+    ],
+    "fouls": [
+        9,
+        21
+    ],
+    "corners": [
+        6,
+        2
+    ],
+    "crosses": [
+        31,
+        6
+    ],
+    "touches": [
+        518,
+        462
+    ],
+    "tackles": [
+        11,
+        17
+    ],
+    "interceptions": [
+        5,
+        6
+    ],
+    "aerials_won": [
+        29,
+        16
+    ],
+    "clearances": [
+        5,
+        24
+    ],
+    "offsides": [
+        1,
+        4
+    ],
+    "goal_kicks": [
+        3,
+        8
+    ],
+    "throw_ins": [
+        28,
+        16
+    ],
+    "long_balls": [
+        71,
+        64
+    ]
+}

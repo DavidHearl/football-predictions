@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "1",
+        "2"
+    ],
+    "expected_goals": [
+        "1.1",
+        "2.4"
+    ],
+    "home_team": [
+        "Gautier Larsonneur",
+        "Ibrahima Diallo",
+        "Haris Belkebla",
+        "Yoann Court",
+        "Ga\u00ebtan Charbonnier",
+        "Irvin Cardona",
+        "D\u00e9nys Bain",
+        "Romain Perraud",
+        "Jean-Charles Castelletto",
+        "Julien Faussurier",
+        "Mathias Autret",
+        "Donovan L\u00e9on",
+        "Jean-Kevin Duverne",
+        "Alexandre Mendy",
+        "Ludovic Baal",
+        "Samuel Grandsir",
+        "Hugo Magnetti",
+        "Hianga Mananga Mbock"
+    ],
+    "away_team": [
+        "Sergio Rico",
+        "Thiago Silva",
+        "Marco Verratti",
+        "Edinson Cavani",
+        "\u00c1ngel Di Mar\u00eda",
+        "Pablo Sarabia",
+        "Layvin Kurzawa",
+        "Abdou Diallo",
+        "Julian Draxler",
+        "Idrissa Gana Gueye",
+        "Colin Dagba",
+        "Garissone Innocent",
+        "Presnel Kimpembe",
+        "Marquinhos",
+        "Leandro Paredes",
+        "Juan Bernat",
+        "Eric Maxim Choupo-Moting",
+        "Mauro Icardi"
+    ],
+    "fouls": [
+        10,
+        13
+    ],
+    "corners": [
+        5,
+        4
+    ],
+    "crosses": [
+        27,
+        25
+    ],
+    "touches": [
+        561,
+        766
+    ],
+    "tackles": [
+        23,
+        17
+    ],
+    "interceptions": [
+        14,
+        9
+    ],
+    "aerials_won": [
+        7,
+        8
+    ],
+    "clearances": [
+        19,
+        26
+    ],
+    "offsides": [
+        2,
+        1
+    ],
+    "goal_kicks": [
+        15,
+        10
+    ],
+    "throw_ins": [
+        20,
+        13
+    ],
+    "long_balls": [
+        65,
+        45
+    ]
+}

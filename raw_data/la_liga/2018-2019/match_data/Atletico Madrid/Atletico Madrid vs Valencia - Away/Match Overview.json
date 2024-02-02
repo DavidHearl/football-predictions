@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "1",
+        "1"
+    ],
+    "expected_goals": [
+        "1.1",
+        "0.9"
+    ],
+    "home_team": [
+        "Neto",
+        "Gabriel Paulista",
+        "Geoffrey Kondogbia",
+        "Carlos Soler",
+        "Daniel Parejo",
+        "Jos\u00e9 Luis Gay\u00e0",
+        "Daniel Wass",
+        "Rodrigo",
+        "Cristiano Piccini",
+        "Santi Mina",
+        "Ezequiel Garay",
+        "Jaume Dom\u00e9nech",
+        "K\u00e9vin Gameiro",
+        "Denis Cheryshev",
+        "Mouctar Diakhaby",
+        "Toni Lato",
+        "Ferr\u00e1n Torres",
+        "Michy Batshuayi"
+    ],
+    "away_team": [
+        "Jan Oblak",
+        "Diego God\u00edn",
+        "Filipe Lu\u00eds",
+        "Koke",
+        "Antoine Griezmann",
+        "Sa\u00fal \u00d1\u00edguez",
+        "\u00c1ngel Correa",
+        "Thomas Lemar",
+        "Stefan Savi\u0107",
+        "Diego Costa",
+        "Juanfran",
+        "Antonio Ad\u00e1n",
+        "Thomas Partey",
+        "Nikola Kalini\u0107",
+        "Rodri",
+        "Gelson Martins",
+        "Vitolo",
+        "Jos\u00e9 Mar\u00eda Gim\u00e9nez"
+    ],
+    "fouls": [
+        10,
+        15
+    ],
+    "corners": [
+        4,
+        10
+    ],
+    "crosses": [
+        8,
+        17
+    ],
+    "touches": [
+        658,
+        610
+    ],
+    "tackles": [
+        17,
+        26
+    ],
+    "interceptions": [
+        12,
+        8
+    ],
+    "aerials_won": [
+        18,
+        17
+    ],
+    "clearances": [
+        31,
+        17
+    ],
+    "offsides": [
+        0,
+        6
+    ],
+    "goal_kicks": [
+        6,
+        13
+    ],
+    "throw_ins": [
+        20,
+        19
+    ],
+    "long_balls": [
+        68,
+        64
+    ]
+}

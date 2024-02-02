@@ -1,0 +1,102 @@
+{
+    "goals": [
+        "2",
+        "0"
+    ],
+    "expected_goals": [
+        "1.0",
+        "0.4"
+    ],
+    "home_team": [
+        "Alexandre Oukidja",
+        "Dylan Bronn",
+        "Matthieu Udol",
+        "Victorien Angban",
+        "Farid Boulaya",
+        "Pape Matar Sarr",
+        "Fabien Centonze",
+        "John Boye",
+        "Boubakar Kouyat\u00e9",
+        "Aaron Leya Iseka",
+        "Vagner Gon\u00e7alves",
+        "Marc-Aur\u00e8le Caillard",
+        "Mamadou Fofana",
+        "Boubacar Traor\u00e9",
+        "Thierry Ambrose",
+        "Warren Tchimbemb\u00e9",
+        "Lamine Gueye",
+        "Ernest Boahene",
+        "Youssef Maziz",
+        "Papa Ndiaga Yade"
+    ],
+    "away_team": [
+        "Alban Lafont",
+        "Andrei Girotto",
+        "Nicolas Pallois",
+        "Kalifa Coulibaly",
+        "Mehdi Abeid",
+        "Ludovic Blas",
+        "Marcus Coco",
+        "Charles Traore",
+        "Abdoulaye Tour\u00e9",
+        "Randal Kolo Muani",
+        "S\u00e9bastien Corchia",
+        "Denis Petri\u0107",
+        "F\u00e1bio",
+        "Pedro Chirivella",
+        "Dennis Appiah",
+        "Thomas Basila",
+        "Jean-Charles Castelletto",
+        "Moses Simon",
+        "Renaud Emond",
+        "Abdoul Kader Bamba"
+    ],
+    "fouls": [
+        15,
+        15
+    ],
+    "corners": [
+        4,
+        6
+    ],
+    "crosses": [
+        15,
+        30
+    ],
+    "touches": [
+        518,
+        601
+    ],
+    "tackles": [
+        24,
+        17
+    ],
+    "interceptions": [
+        16,
+        7
+    ],
+    "aerials_won": [
+        20,
+        20
+    ],
+    "clearances": [
+        27,
+        11
+    ],
+    "offsides": [
+        1,
+        4
+    ],
+    "goal_kicks": [
+        13,
+        4
+    ],
+    "throw_ins": [
+        14,
+        24
+    ],
+    "long_balls": [
+        75,
+        52
+    ]
+}

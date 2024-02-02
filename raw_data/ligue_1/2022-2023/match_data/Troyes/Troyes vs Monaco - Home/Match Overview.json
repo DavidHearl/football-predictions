@@ -1,0 +1,102 @@
+{
+    "goals": [
+        "2",
+        "2"
+    ],
+    "expected_goals": [
+        "0.9",
+        "3.0"
+    ],
+    "home_team": [
+        "Gauthier Gallon",
+        "Erik Palmer-Brown",
+        "Rominigue Kouam\u00e9",
+        "Rony Lopes",
+        "Abdu Cont\u00e9",
+        "Yoann Salmier",
+        "Andreas Bruus",
+        "Renaud Ripart",
+        "Adil Rami",
+        "Xavier Chavalerin",
+        "Wilson Odobert",
+        "Mateusz Lis",
+        "Jackson Porozo",
+        "Ike Ugbo",
+        "Jeff Reine-Ad\u00e9la\u00efde",
+        "Thierno Balde",
+        "Tanguy Zoukrou",
+        "Alexis Tibidi",
+        "Jordan Dongmo",
+        "Yasser Larouci"
+    ],
+    "away_team": [
+        "Alexander N\u00fcbel",
+        "Axel Disasi",
+        "Wissam Ben Yedder",
+        "Caio Henrique Oliveira Silva",
+        "Eliot Matazo",
+        "Aleksandr Golovin",
+        "Youssouf Fofana",
+        "Malang Sarr",
+        "Ruben Aguilar",
+        "Kr\u00e9pin Diatta",
+        "Kevin Volland",
+        "Thomas Didillon",
+        "Myron Boadu",
+        "Ismail Jakobs",
+        "Takumi Minamino",
+        "Maghnes Akliouche",
+        "Edan Diop",
+        "Chrislain Matsima",
+        "Breel Embolo",
+        "Soungoutou Magassa"
+    ],
+    "fouls": [
+        8,
+        8
+    ],
+    "corners": [
+        3,
+        4
+    ],
+    "crosses": [
+        13,
+        32
+    ],
+    "touches": [
+        515,
+        708
+    ],
+    "tackles": [
+        18,
+        8
+    ],
+    "interceptions": [
+        11,
+        5
+    ],
+    "aerials_won": [
+        14,
+        25
+    ],
+    "clearances": [
+        35,
+        7
+    ],
+    "offsides": [
+        2,
+        5
+    ],
+    "goal_kicks": [
+        12,
+        4
+    ],
+    "throw_ins": [
+        13,
+        21
+    ],
+    "long_balls": [
+        78,
+        66
+    ]
+}

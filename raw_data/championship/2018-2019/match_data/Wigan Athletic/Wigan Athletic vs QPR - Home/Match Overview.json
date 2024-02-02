@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "2",
+        "1"
+    ],
+    "expected_goals": [
+        "1.5",
+        "1.7"
+    ],
+    "home_team": [
+        "Jamie Jones",
+        "Nathan Byrne",
+        "Danny Fox",
+        "Josh Windass",
+        "Reece James",
+        "Anthony Pilkington",
+        "Michael Jacobs",
+        "Kal Naismith",
+        "C\u00e9dric Kipr\u00e9",
+        "Leon Clarke",
+        "Lee Evans",
+        "Christian Walton",
+        "Darron Gibson",
+        "Beni Baningime",
+        "Callum McManaman",
+        "Gary Roberts",
+        "Chey Dunkley",
+        "Joe Garner"
+    ],
+    "away_team": [
+        "Joe Lumley",
+        "Darnell Furlong",
+        "Jake Bidwell",
+        "Luke Freeman",
+        "Eberechi Eze",
+        "Josh Scowen",
+        "Massimo Luongo",
+        "Pawe\u0142 Wszo\u0142ek",
+        "Nahki Wells",
+        "Joel Lynch",
+        "Toni Leistner",
+        "Matt Ingram",
+        "Grant Hall",
+        "Jordan Cousins",
+        "Ryan Manning",
+        "Matt Smith",
+        "Bright Osayi-Samuel",
+        "Osman Kakay"
+    ],
+    "fouls": [
+        11,
+        12
+    ],
+    "corners": [
+        3,
+        6
+    ],
+    "crosses": [
+        8,
+        26
+    ],
+    "touches": [
+        525,
+        613
+    ],
+    "tackles": [
+        12,
+        5
+    ],
+    "interceptions": [
+        8,
+        6
+    ],
+    "aerials_won": [
+        29,
+        30
+    ],
+    "clearances": [
+        31,
+        10
+    ],
+    "offsides": [
+        2,
+        2
+    ],
+    "goal_kicks": [
+        7,
+        12
+    ],
+    "throw_ins": [
+        22,
+        28
+    ],
+    "long_balls": [
+        98,
+        116
+    ]
+}

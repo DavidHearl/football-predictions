@@ -1,0 +1,102 @@
+{
+    "goals": [
+        "1",
+        "3"
+    ],
+    "expected_goals": [
+        "0.3",
+        "2.7"
+    ],
+    "home_team": [
+        "Predrag Rajkovi\u0107",
+        "Wout Faes",
+        "Yunis Abdelhamid",
+        "Xavier Chavalerin",
+        "Dereck Kutesa",
+        "Kaj Sierhuis",
+        "Nathanael Mbuku",
+        "Moreto Cassam\u00e3",
+        "Mathieu Cafaro",
+        "Thibault De Smet",
+        "Thomas Foket",
+        "Yehvann Diouf",
+        "Boulaye Dia",
+        "Anastasios Donis",
+        "Moussa Doumbia",
+        "Dario Maresic",
+        "Fod\u00e9 Doucour\u00e9",
+        "Hugo Ekitike",
+        "Mo\u00efse Sakava",
+        "Mouhamadou Drammeh"
+    ],
+    "away_team": [
+        "Paul Nardi",
+        "Andrew Gravillon",
+        "Laurent Abergel",
+        "Trevoh Chalobah",
+        "Quentin Boisgard",
+        "Terem Moffi",
+        "Julien Laporte",
+        "Houboulang Mendes",
+        "Yoane Wissa",
+        "J\u00e9r\u00e9my Morel",
+        "Pierre-Yves Hamel",
+        "Matthieu Dreyer",
+        "Thomas Fontaine",
+        "St\u00e9phane Diarra",
+        "Enzo Le F\u00e9e",
+        "Fabien Lemoine",
+        "Jonathan Delaplace",
+        "Thomas Monconduit",
+        "Adrian Grbi\u0107",
+        "Armand Lauriente"
+    ],
+    "fouls": [
+        14,
+        11
+    ],
+    "corners": [
+        3,
+        6
+    ],
+    "crosses": [
+        14,
+        22
+    ],
+    "touches": [
+        505,
+        541
+    ],
+    "tackles": [
+        13,
+        21
+    ],
+    "interceptions": [
+        11,
+        20
+    ],
+    "aerials_won": [
+        18,
+        17
+    ],
+    "clearances": [
+        23,
+        12
+    ],
+    "offsides": [
+        2,
+        2
+    ],
+    "goal_kicks": [
+        9,
+        5
+    ],
+    "throw_ins": [
+        26,
+        23
+    ],
+    "long_balls": [
+        70,
+        88
+    ]
+}

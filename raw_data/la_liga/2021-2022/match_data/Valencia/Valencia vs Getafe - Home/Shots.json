@@ -1,0 +1,62 @@
+[
+    {
+        "('Unnamed: 0_level_0', 'Minute')": 11,
+        "('Unnamed: 1_level_0', 'Player')": "Carlos Soler (pen)",
+        "('Unnamed: 2_level_0', 'Squad')": "Valencia",
+        "('Unnamed: 3_level_0', 'xG')": 0.79,
+        "('Unnamed: 4_level_0', 'PSxG')": 0.98,
+        "('Unnamed: 5_level_0', 'Outcome')": "Goal",
+        "('Unnamed: 6_level_0', 'Distance')": 13,
+        "('Unnamed: 7_level_0', 'Body Part')": "Right Foot",
+        "('Unnamed: 8_level_0', 'Notes')": null,
+        "('SCA 1', 'Player')": "Denis Cheryshev",
+        "('SCA 1', 'Event')": "Fouled",
+        "('SCA 2', 'Player')": "Denis Cheryshev",
+        "('SCA 2', 'Event')": "Take-On"
+    },
+    {
+        "('Unnamed: 0_level_0', 'Minute')": 26,
+        "('Unnamed: 1_level_0', 'Player')": "Carlos Soler",
+        "('Unnamed: 2_level_0', 'Squad')": "Valencia",
+        "('Unnamed: 3_level_0', 'xG')": 0.42,
+        "('Unnamed: 4_level_0', 'PSxG')": null,
+        "('Unnamed: 5_level_0', 'Outcome')": "Off Target",
+        "('Unnamed: 6_level_0', 'Distance')": 13,
+        "('Unnamed: 7_level_0', 'Body Part')": "Left Foot",
+        "('Unnamed: 8_level_0', 'Notes')": null,
+        "('SCA 1', 'Player')": "Thierry Correia",
+        "('SCA 1', 'Event')": "Pass (Live)",
+        "('SCA 2', 'Player')": "Carlos Soler",
+        "('SCA 2', 'Event')": "Pass (Live)"
+    },
+    {
+        "('Unnamed: 0_level_0', 'Minute')": 36,
+        "('Unnamed: 1_level_0', 'Player')": "Denis Cheryshev",
+        "('Unnamed: 2_level_0', 'Squad')": "Valencia",
+        "('Unnamed: 3_level_0', 'xG')": 0.22,
+        "('Unnamed: 4_level_0', 'PSxG')": 0.18,
+        "('Unnamed: 5_level_0', 'Outcome')": "Saved",
+        "('Unnamed: 6_level_0', 'Distance')": 10,
+        "('Unnamed: 7_level_0', 'Body Part')": "Left Foot",
+        "('Unnamed: 8_level_0', 'Notes')": "Volley",
+        "('SCA 1', 'Player')": "Thierry Correia",
+        "('SCA 1', 'Event')": "Pass (Dead)",
+        "('SCA 2', 'Player')": "Gon\u00e7alo Guedes",
+        "('SCA 2', 'Event')": "Pass (Live)"
+    },
+    {
+        "('Unnamed: 0_level_0', 'Minute')": 40,
+        "('Unnamed: 1_level_0', 'Player')": "Maxi G\u00f3mez",
+        "('Unnamed: 2_level_0', 'Squad')": "Valencia",
+        "('Unnamed: 3_level_0', 'xG')": 0.03,
+        "('Unnamed: 4_level_0', 'PSxG')": null,
+        "('Unnamed: 5_level_0', 'Outcome')": "Off Target",
+        "('Unnamed: 6_level_0', 'Distance')": 34,
+        "('Unnamed: 7_level_0', 'Body Part')": "Right Foot",
+        "('Unnamed: 8_level_0', 'Notes')": "Free kick",
+        "('SCA 1', 'Player')": "Gon\u00e7alo Guedes",
+        "('SCA 1', 'Event')": "Fouled",
+        "('SCA 2', 'Player')": "Denis Cheryshev",
+        "('SCA 2', 'Event')": "Pass (Live)"
+    }
+]

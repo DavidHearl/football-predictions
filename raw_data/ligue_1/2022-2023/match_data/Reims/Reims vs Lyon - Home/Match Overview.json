@@ -1,0 +1,101 @@
+{
+    "goals": [
+        "1",
+        "1"
+    ],
+    "expected_goals": [
+        "0.4",
+        "1.1"
+    ],
+    "home_team": [
+        "Patrick Pentz",
+        "Wout Faes",
+        "Kamory Doumbia",
+        "Maxime Busi",
+        "Yunis Abdelhamid",
+        "Andrew Gravillon",
+        "Marshall Munetsi",
+        "Dion Lopy",
+        "Bradley Locko",
+        "Folarin Balogun",
+        "Junya Ito",
+        "Yehvann Diouf",
+        "El Bilal Tour\u00e9",
+        "Jens Cajuste",
+        "Arber Zeneli",
+        "Nathanael Mbuku",
+        "Martin Adeline",
+        "Mitchell van Bergen",
+        "Emmanuel Agbadou",
+        "Alexis Flips"
+    ],
+    "away_team": [
+        "R\u00e9my Riou",
+        "Nicol\u00e1s Tagliafico",
+        "Castello Lukeba",
+        "Karl Toko Ekambi",
+        "Tet\u00ea",
+        "Jeff Reine-Ad\u00e9la\u00efde",
+        "Thiago Mendes",
+        "Johann Lepenant",
+        "Malo Gusto",
+        "Corentin Tolisso",
+        "Alexandre Lacazette",
+        "Kayne Bonnevie",
+        "Maxence Caqueret",
+        "Moussa Demb\u00e9l\u00e9",
+        "Henrique",
+        "Romain Faivre",
+        "Rayan Cherki",
+        "Damien Da Silva",
+        "Bradley Barcola"
+    ],
+    "fouls": [
+        12,
+        12
+    ],
+    "corners": [
+        2,
+        7
+    ],
+    "crosses": [
+        6,
+        38
+    ],
+    "touches": [
+        400,
+        839
+    ],
+    "tackles": [
+        25,
+        17
+    ],
+    "interceptions": [
+        11,
+        11
+    ],
+    "aerials_won": [
+        14,
+        14
+    ],
+    "clearances": [
+        38,
+        6
+    ],
+    "offsides": [
+        0,
+        0
+    ],
+    "goal_kicks": [
+        12,
+        7
+    ],
+    "throw_ins": [
+        9,
+        17
+    ],
+    "long_balls": [
+        66,
+        53
+    ]
+}

@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "0",
+        "1"
+    ],
+    "expected_goals": [
+        "1.5",
+        "2.2"
+    ],
+    "home_team": [
+        "David Soria",
+        "Vitorino Antunes",
+        "Bruno Gonz\u00e1lez",
+        "Leandro Cabrera",
+        "Francisco Portillo",
+        "\u00c1ngel Rodr\u00edguez",
+        "Amath",
+        "Mauro Arambarri",
+        "Jorge Molina",
+        "Nemanja Maksimovi\u0107",
+        "Dami\u00e1n Su\u00e1rez",
+        "Leandro Chichizola",
+        "Jaime Mata",
+        "Sergi Guardiola",
+        "Sebasti\u00e1n Crist\u00f3foro",
+        "Robert Ib\u00e1\u00f1ez",
+        "Ignasi Miquel",
+        "Dimitri Foulquier"
+    ],
+    "away_team": [
+        "Neto",
+        "Gabriel Paulista",
+        "Gon\u00e7alo Guedes",
+        "Carlos Soler",
+        "Daniel Parejo",
+        "Jos\u00e9 Luis Gay\u00e0",
+        "Francis Coquelin",
+        "Daniel Wass",
+        "Rodrigo",
+        "Santi Mina",
+        "Ezequiel Garay",
+        "Jaume Dom\u00e9nech",
+        "R\u00faben Vezo",
+        "Geoffrey Kondogbia",
+        "K\u00e9vin Gameiro",
+        "Mouctar Diakhaby",
+        "Toni Lato",
+        "Ferr\u00e1n Torres"
+    ],
+    "fouls": [
+        23,
+        8
+    ],
+    "corners": [
+        6,
+        4
+    ],
+    "crosses": [
+        21,
+        14
+    ],
+    "touches": [
+        434,
+        657
+    ],
+    "tackles": [
+        8,
+        15
+    ],
+    "interceptions": [
+        7,
+        6
+    ],
+    "aerials_won": [
+        19,
+        17
+    ],
+    "clearances": [
+        19,
+        25
+    ],
+    "offsides": [
+        7,
+        3
+    ],
+    "goal_kicks": [
+        12,
+        12
+    ],
+    "throw_ins": [
+        16,
+        19
+    ],
+    "long_balls": [
+        88,
+        77
+    ]
+}

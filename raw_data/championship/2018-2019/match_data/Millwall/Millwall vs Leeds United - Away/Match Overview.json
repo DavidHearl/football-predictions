@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "3",
+        "2"
+    ],
+    "expected_goals": [
+        "2.9",
+        "1.4"
+    ],
+    "home_team": [
+        "Bailey Peacock-Farrell",
+        "Luke Ayling",
+        "Liam Cooper",
+        "Patrick Bamford",
+        "Ezgjan Alioski",
+        "Tyler Roberts",
+        "Pontus Jansson",
+        "Pablo Hern\u00e1ndez",
+        "Jack Harrison",
+        "Kalvin Phillips",
+        "Mateusz Klich",
+        "Kamil Miazek",
+        "Barry Douglas",
+        "Adam Forshaw",
+        "Stuart Dallas",
+        "Gaetano Berardi",
+        "Jamie Shackleton",
+        "Jack Clarke"
+    ],
+    "away_team": [
+        "David Martin",
+        "James Meredith",
+        "Jake Cooper",
+        "Jed Wallace",
+        "Ben Thompson",
+        "Lee Gregory",
+        "Mahlon Romeo",
+        "Alex Pearce",
+        "Ryan Tunnicliffe",
+        "Ryan Leonard",
+        "Ben Marshall",
+        "Jordan Archer",
+        "Conor McLaughlin",
+        "Shaun Hutchinson",
+        "Shaun Williams",
+        "Tom Elliott",
+        "Steve Morison",
+        "Aiden O'Brien"
+    ],
+    "fouls": [
+        15,
+        11
+    ],
+    "corners": [
+        7,
+        2
+    ],
+    "crosses": [
+        22,
+        12
+    ],
+    "touches": [
+        723,
+        402
+    ],
+    "tackles": [
+        17,
+        15
+    ],
+    "interceptions": [
+        4,
+        13
+    ],
+    "aerials_won": [
+        28,
+        27
+    ],
+    "clearances": [
+        24,
+        25
+    ],
+    "offsides": [
+        4,
+        0
+    ],
+    "goal_kicks": [
+        7,
+        9
+    ],
+    "throw_ins": [
+        26,
+        30
+    ],
+    "long_balls": [
+        74,
+        99
+    ]
+}

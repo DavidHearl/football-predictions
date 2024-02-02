@@ -1,0 +1,102 @@
+{
+    "goals": [
+        "1",
+        "0"
+    ],
+    "expected_goals": [
+        "0.8",
+        "1.0"
+    ],
+    "home_team": [
+        "Steve Mandanda",
+        "Joe Rodon",
+        "Adrien Truffert",
+        "Arthur Theate",
+        "Lesley Ugochukwu",
+        "Arnaud Kalimuendo",
+        "Christopher Wooh",
+        "Amine Gouiri",
+        "Lovro Majer",
+        "Hamari Traor\u00e9",
+        "D\u00e9sir\u00e9 Dou\u00e9",
+        "Do\u011fan Alemdar",
+        "Romain Salin",
+        "Kamaldeen Sulemana",
+        "Jeremy Doku",
+        "Jean\u00f6el Belocian",
+        "Flavien Tait",
+        "Lorenz Assignon",
+        "Birger Meling",
+        "Guela Dou\u00e9"
+    ],
+    "away_team": [
+        "Gianluigi Donnarumma",
+        "Sergio Ramos",
+        "Marquinhos",
+        "Neymar",
+        "Juan Bernat",
+        "Danilo Pereira",
+        "Vitinha",
+        "Nordi Mukiele",
+        "Lionel Messi",
+        "Warren Zaire-Emery",
+        "Hugo Ekitike",
+        "Keylor Navas",
+        "Achraf Hakimi",
+        "Kylian Mbapp\u00e9",
+        "Fabi\u00e1n Ruiz Pe\u00f1a",
+        "Renato Sanches",
+        "Carlos Soler",
+        "El Chadaille Bitshiabu",
+        "Isma\u00ebl Gharbi",
+        "Ilyes Housni"
+    ],
+    "fouls": [
+        8,
+        17
+    ],
+    "corners": [
+        4,
+        5
+    ],
+    "crosses": [
+        10,
+        14
+    ],
+    "touches": [
+        503,
+        789
+    ],
+    "tackles": [
+        17,
+        16
+    ],
+    "interceptions": [
+        10,
+        6
+    ],
+    "aerials_won": [
+        10,
+        5
+    ],
+    "clearances": [
+        25,
+        12
+    ],
+    "offsides": [
+        2,
+        2
+    ],
+    "goal_kicks": [
+        6,
+        1
+    ],
+    "throw_ins": [
+        12,
+        21
+    ],
+    "long_balls": [
+        46,
+        50
+    ]
+}

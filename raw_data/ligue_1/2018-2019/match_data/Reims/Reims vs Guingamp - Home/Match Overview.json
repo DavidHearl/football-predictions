@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "2",
+        "1"
+    ],
+    "expected_goals": [
+        "0.9",
+        "1.4"
+    ],
+    "home_team": [
+        "Edouard Mendy",
+        "Bj\u00f6rn Engels",
+        "Ghislain Konan",
+        "Alaixys Romao",
+        "Yunis Abdelhamid",
+        "Xavier Chavalerin",
+        "Pablo Chavarr\u00eda",
+        "Remi Oudin",
+        "Mathieu Cafaro",
+        "Moussa Doumbia",
+        "Thomas Foket",
+        "Johann Carrasso",
+        "Sheyi Ojo",
+        "Hassane Kamara",
+        "Romain M\u00e9tanire",
+        "Aly Ndom",
+        "Thomas Fontaine",
+        "Boulaye Dia"
+    ],
+    "away_team": [
+        "Karl-Johan Johnsson",
+        "Jordan Ikoko",
+        "Pedro Rebocho",
+        "Lebogang Phiri",
+        "Nicolas Benezet",
+        "Marcus Thuram",
+        "Natha\u00ebl Julan",
+        "J\u00e9r\u00e9my Sorbon",
+        "\u00c9tienne Didot",
+        "Marcus Coco",
+        "Christophe Kerbrat",
+        "Marc-Aur\u00e8le Caillard",
+        "Yeni Ngbakoto",
+        "Guessouma Fofana",
+        "Cheick Traor\u00e9",
+        "Franck Tabanou",
+        "Matthias Phaeton",
+        "Mehdi Boudjemaa"
+    ],
+    "fouls": [
+        12,
+        10
+    ],
+    "corners": [
+        5,
+        2
+    ],
+    "crosses": [
+        18,
+        23
+    ],
+    "touches": [
+        573,
+        613
+    ],
+    "tackles": [
+        21,
+        15
+    ],
+    "interceptions": [
+        6,
+        16
+    ],
+    "aerials_won": [
+        32,
+        29
+    ],
+    "clearances": [
+        41,
+        21
+    ],
+    "offsides": [
+        2,
+        1
+    ],
+    "goal_kicks": [
+        6,
+        11
+    ],
+    "throw_ins": [
+        31,
+        32
+    ],
+    "long_balls": [
+        75,
+        84
+    ]
+}

@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "2",
+        "3"
+    ],
+    "expected_goals": [
+        "1.3",
+        "2.4"
+    ],
+    "home_team": [
+        "Dean Gerken",
+        "Luke Chambers",
+        "Matthew Pennington",
+        "Trevoh Chalobah",
+        "Ellis Harrison",
+        "Jordan Spence",
+        "Teddy Bishop",
+        "Freddie Sears",
+        "Flynn Downes",
+        "Myles Kenlock",
+        "Jack Lankester",
+        "Bartosz Bia\u0142kowski",
+        "Jonas Knudsen",
+        "Gwion Edwards",
+        "Kayden Jackson",
+        "Jordan Roberts",
+        "Aristote Nsiala",
+        "Andre Dozzell"
+    ],
+    "away_team": [
+        "Jordan Archer",
+        "James Meredith",
+        "Jake Cooper",
+        "Jed Wallace",
+        "Shane Ferguson",
+        "Mahlon Romeo",
+        "Ryan Tunnicliffe",
+        "Tom Elliott",
+        "Aiden O'Brien",
+        "Murray Wallace",
+        "Ryan Leonard",
+        "Ben Amos",
+        "Byron Webster",
+        "Steve Morison",
+        "Jem Karacan",
+        "Ji\u0159\u00ed Skal\u00e1k",
+        "James Brown",
+        "Lewis White"
+    ],
+    "fouls": [
+        8,
+        13
+    ],
+    "corners": [
+        6,
+        3
+    ],
+    "crosses": [
+        15,
+        7
+    ],
+    "touches": [
+        622,
+        548
+    ],
+    "tackles": [
+        20,
+        13
+    ],
+    "interceptions": [
+        13,
+        10
+    ],
+    "aerials_won": [
+        39,
+        37
+    ],
+    "clearances": [
+        21,
+        22
+    ],
+    "offsides": [
+        3,
+        1
+    ],
+    "goal_kicks": [
+        9,
+        9
+    ],
+    "throw_ins": [
+        45,
+        36
+    ],
+    "long_balls": [
+        119,
+        130
+    ]
+}

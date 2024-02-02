@@ -1,0 +1,107 @@
+{
+    "goals": [
+        "1",
+        "0"
+    ],
+    "expected_goals": [
+        "1.2",
+        "0.2"
+    ],
+    "home_team": [
+        "\u00c1lex Remiro",
+        "Alex Sola",
+        "Mart\u00edn Zubimendi",
+        "Aritz Elustondo",
+        "Mikel Merino",
+        "Aihen Mu\u00f1oz",
+        "Takefusa Kubo",
+        "Alexander S\u00f8rloth",
+        "Jon Pacheco",
+        "David Silva",
+        "Brais M\u00e9ndez",
+        "Andoni Zubiaurre",
+        "Asier Illarramendi",
+        "Igor Zubeldia",
+        "Carlos Fern\u00e1ndez",
+        "Mohamed Ali Cho",
+        "Diego Rico",
+        "Ander Guevara",
+        "Roberto Navarro",
+        "Be\u00f1at Turrientes",
+        "Robin Le Normand",
+        "Urko Gonz\u00e1lez",
+        "Jon Karrikaburu"
+    ],
+    "away_team": [
+        "Ger\u00f3nimo Rulli",
+        "Kiko Femen\u00eda",
+        "Ra\u00fal Albiol",
+        "Pau Torres",
+        "\u00c9tienne Capoue",
+        "Arnaut Danjuma",
+        "Daniel Parejo",
+        "Giovani Lo Celso",
+        "Francis Coquelin",
+        "Yeremi Pino",
+        "Alfonso Pedraza",
+        "Pepe Reina",
+        "Filip J\u00f8rgensen",
+        "Jorge Cuenca",
+        "Samuel Chukwueze",
+        "Johan Mojica",
+        "Nicolas Jackson",
+        "Alex Baena",
+        "Alberto Moreno",
+        "Manu Morlanes",
+        "Jos\u00e9 Luis Morales",
+        "A\u00efssa Mandi"
+    ],
+    "fouls": [
+        21,
+        18
+    ],
+    "corners": [
+        9,
+        3
+    ],
+    "crosses": [
+        16,
+        8
+    ],
+    "touches": [
+        674,
+        479
+    ],
+    "tackles": [
+        24,
+        20
+    ],
+    "interceptions": [
+        6,
+        4
+    ],
+    "aerials_won": [
+        10,
+        7
+    ],
+    "clearances": [
+        18,
+        17
+    ],
+    "offsides": [
+        5,
+        0
+    ],
+    "goal_kicks": [
+        5,
+        5
+    ],
+    "throw_ins": [
+        14,
+        21
+    ],
+    "long_balls": [
+        54,
+        60
+    ]
+}

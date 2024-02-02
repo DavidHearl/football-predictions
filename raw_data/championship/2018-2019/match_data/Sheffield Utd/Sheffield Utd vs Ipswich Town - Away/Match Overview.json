@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "1",
+        "1"
+    ],
+    "expected_goals": [
+        "0.4",
+        "1.6"
+    ],
+    "home_team": [
+        "Dean Gerken",
+        "Jonas Knudsen",
+        "Luke Chambers",
+        "Matthew Pennington",
+        "Trevoh Chalobah",
+        "Gwion Edwards",
+        "Ellis Harrison",
+        "Jon Nolan",
+        "Jordan Spence",
+        "Freddie Sears",
+        "Andre Dozzell",
+        "Bartosz Bia\u0142kowski",
+        "Kayden Jackson",
+        "Grant Ward",
+        "Jordan Roberts",
+        "Aristote Nsiala",
+        "Myles Kenlock",
+        "Jack Lankester"
+    ],
+    "away_team": [
+        "Dean Henderson",
+        "George Baldock",
+        "Enda Stevens",
+        "John Fleck",
+        "Jack O'Connell",
+        "Chris Basham",
+        "Billy Sharp",
+        "John Egan",
+        "Oliver Norwood",
+        "David McGoldrick",
+        "Mark Duffy",
+        "Simon Moore",
+        "Leon Clarke",
+        "Paul Coutts",
+        "Richard Stearman",
+        "Marvin Johnson",
+        "Martin Cranie",
+        "Conor Washington"
+    ],
+    "fouls": [
+        16,
+        11
+    ],
+    "corners": [
+        6,
+        5
+    ],
+    "crosses": [
+        17,
+        22
+    ],
+    "touches": [
+        455,
+        667
+    ],
+    "tackles": [
+        17,
+        6
+    ],
+    "interceptions": [
+        8,
+        11
+    ],
+    "aerials_won": [
+        34,
+        45
+    ],
+    "clearances": [
+        25,
+        22
+    ],
+    "offsides": [
+        0,
+        3
+    ],
+    "goal_kicks": [
+        16,
+        4
+    ],
+    "throw_ins": [
+        33,
+        33
+    ],
+    "long_balls": [
+        126,
+        93
+    ]
+}

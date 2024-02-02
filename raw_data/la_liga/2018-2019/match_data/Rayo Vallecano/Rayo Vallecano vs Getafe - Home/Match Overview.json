@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "1",
+        "2"
+    ],
+    "expected_goals": [
+        "0.4",
+        "0.5"
+    ],
+    "home_team": [
+        "Alberto Garc\u00eda",
+        "\u00d3scar Trejo",
+        "Ra\u00fal de Tom\u00e1s",
+        "Adri Embarba",
+        "Giannelli Imbula",
+        "Jordi Amat",
+        "Luis Adv\u00edncula",
+        "\u00c1lvaro Garc\u00eda",
+        "\u00c1lex G\u00e1lvez",
+        "Santi Comesa\u00f1a",
+        "Sergio Akieme",
+        "Stole Dimitrievski",
+        "Beb\u00e9",
+        "\u00c1lex Alegr\u00eda",
+        "Emiliano Vel\u00e1zquez",
+        "Abdoulaye Ba",
+        "Jos\u00e9 Pozo",
+        "Javi Guerra"
+    ],
+    "away_team": [
+        "David Soria",
+        "Djen\u00e9",
+        "Vitorino Antunes",
+        "Leandro Cabrera",
+        "\u00c1ngel Rodr\u00edguez",
+        "Amath",
+        "Mauro Arambarri",
+        "Jorge Molina",
+        "Nemanja Maksimovi\u0107",
+        "Dami\u00e1n Su\u00e1rez",
+        "Dimitri Foulquier",
+        "Leandro Chichizola",
+        "Bruno Gonz\u00e1lez",
+        "Jaime Mata",
+        "Gaku Shibasaki",
+        "Robert Ib\u00e1\u00f1ez",
+        "Ignasi Miquel",
+        "Iv\u00e1n Alejo"
+    ],
+    "fouls": [
+        14,
+        25
+    ],
+    "corners": [
+        6,
+        2
+    ],
+    "crosses": [
+        25,
+        8
+    ],
+    "touches": [
+        550,
+        362
+    ],
+    "tackles": [
+        23,
+        24
+    ],
+    "interceptions": [
+        4,
+        8
+    ],
+    "aerials_won": [
+        14,
+        21
+    ],
+    "clearances": [
+        11,
+        22
+    ],
+    "offsides": [
+        2,
+        4
+    ],
+    "goal_kicks": [
+        9,
+        7
+    ],
+    "throw_ins": [
+        15,
+        25
+    ],
+    "long_balls": [
+        86,
+        74
+    ]
+}

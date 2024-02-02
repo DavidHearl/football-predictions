@@ -1,0 +1,105 @@
+{
+    "goals": [
+        "2",
+        "3"
+    ],
+    "expected_goals": [
+        "1.2",
+        "3.8"
+    ],
+    "home_team": [
+        "Joel Robles",
+        "Marc Bartra",
+        "Nabil Fekir",
+        "Sergio Canales",
+        "William Carvalho",
+        "\u00c1lex Moreno",
+        "Joaqu\u00edn",
+        "Antonio Sanabria",
+        "Guido Rodr\u00edguez",
+        "Emerson",
+        "A\u00efssa Mandi",
+        "Rebollo",
+        "Mart\u00edn Montoya",
+        "Paul Akouokou",
+        "V\u00edctor Ruiz",
+        "Juanmi",
+        "Borja Iglesias",
+        "Cristian Tello",
+        "Sidnei",
+        "Loren Mor\u00f3n",
+        "Aitor Ruibal",
+        "Fran Delgado"
+    ],
+    "away_team": [
+        "Thibaut Courtois",
+        "Dani Carvajal",
+        "Sergio Ramos",
+        "Rapha\u00ebl Varane",
+        "Toni Kroos",
+        "Karim Benzema",
+        "Casemiro",
+        "Federico Valverde",
+        "Luka Jovi\u0107",
+        "Martin \u00d8degaard",
+        "Ferland Mendy",
+        "Andriy Lunin",
+        "Altube",
+        "Nacho",
+        "Luka Modri\u0107",
+        "Borja Mayoral",
+        "Lucas V\u00e1zquez",
+        "\u00c1lvaro Odriozola",
+        "Vinicius J\u00fanior",
+        "Isco",
+        "Rodrygo"
+    ],
+    "fouls": [
+        9,
+        10
+    ],
+    "corners": [
+        8,
+        3
+    ],
+    "crosses": [
+        13,
+        16
+    ],
+    "touches": [
+        569,
+        678
+    ],
+    "tackles": [
+        16,
+        14
+    ],
+    "interceptions": [
+        14,
+        10
+    ],
+    "aerials_won": [
+        12,
+        12
+    ],
+    "clearances": [
+        12,
+        11
+    ],
+    "offsides": [
+        1,
+        8
+    ],
+    "goal_kicks": [
+        9,
+        8
+    ],
+    "throw_ins": [
+        18,
+        24
+    ],
+    "long_balls": [
+        56,
+        69
+    ]
+}

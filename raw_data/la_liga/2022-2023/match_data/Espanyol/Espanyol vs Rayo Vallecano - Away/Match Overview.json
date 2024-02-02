@@ -1,0 +1,108 @@
+{
+    "goals": [
+        "1",
+        "2"
+    ],
+    "expected_goals": [
+        "2.0",
+        "1.6"
+    ],
+    "home_team": [
+        "Stole Dimitrievski",
+        "Fran Garcia",
+        "Catena",
+        "Santi Comesa\u00f1a",
+        "Isaac Palaz\u00f3n Camacho",
+        "\u00d3scar Trejo",
+        "\u00c1lvaro Garc\u00eda",
+        "Florian Lejeune",
+        "Iv\u00e1n Balliu",
+        "Path\u00e9 Ciss",
+        "Ra\u00fal de Tom\u00e1s",
+        "Diego L\u00f3pez",
+        "Mario Hern\u00e1ndez",
+        "Radamel Falcao",
+        "Andr\u00e9s Mart\u00edn",
+        "Salvi",
+        "Pep Chavarr\u00eda",
+        "Abdul Mumin",
+        "Unai L\u00f3pez",
+        "Jos\u00e9 Pozo",
+        "Esteban Saveljich",
+        "Diego M\u00e9ndez",
+        "Sergio Camello"
+    ],
+    "away_team": [
+        "Fernando Pacheco",
+        "\u00d3scar Gil",
+        "Leandro Cabrera",
+        "Fernando Calero",
+        "Denis Su\u00e1rez",
+        "Javi Puado",
+        "Joselu",
+        "Sergi Darder",
+        "Brian Oliv\u00e1n",
+        "Nico Ribaudo",
+        "Sergi G\u00f3mez",
+        "Joan Garc\u00eda",
+        "\u00c1lvaro Fern\u00e1ndez",
+        "Adri\u00e0 Pedrosa",
+        "Keidi Bare",
+        "Vinicius Souza",
+        "Jos\u00e9 Carlos Lazo",
+        "Rona\u00ebl Pierre-Gabriel",
+        "Dani G\u00f3mez",
+        "Edu Exp\u00f3sito",
+        "Aleix Vidal",
+        "C\u00e9sar Montes",
+        "Luca Koleosho"
+    ],
+    "fouls": [
+        8,
+        11
+    ],
+    "corners": [
+        4,
+        4
+    ],
+    "crosses": [
+        32,
+        19
+    ],
+    "touches": [
+        676,
+        439
+    ],
+    "tackles": [
+        16,
+        22
+    ],
+    "interceptions": [
+        8,
+        9
+    ],
+    "aerials_won": [
+        13,
+        19
+    ],
+    "clearances": [
+        18,
+        29
+    ],
+    "offsides": [
+        2,
+        1
+    ],
+    "goal_kicks": [
+        7,
+        9
+    ],
+    "throw_ins": [
+        36,
+        21
+    ],
+    "long_balls": [
+        88,
+        75
+    ]
+}

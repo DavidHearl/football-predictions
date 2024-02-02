@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "2",
+        "4"
+    ],
+    "expected_goals": [
+        "1.6",
+        "1.8"
+    ],
+    "home_team": [
+        "Tom\u00e1\u0161 Vacl\u00edk",
+        "Sergi G\u00f3mez",
+        "Simon Kj\u00e6r",
+        "Wissam Ben Yedder",
+        "\u00c9ver Banega",
+        "Maximilian W\u00f6ber",
+        "Jes\u00fas Navas",
+        "Pablo Sarabia",
+        "Marko Rog",
+        "Quincy Promes",
+        "Gabriel Mercado",
+        "Juan Soriano",
+        "Ibrahim Amadou",
+        "Roque Mesa",
+        "Andr\u00e9 Silva",
+        "Munir El Haddadi",
+        "Franco V\u00e1zquez",
+        "Guilherme Arana"
+    ],
+    "away_team": [
+        "Marc-Andr\u00e9 ter Stegen",
+        "N\u00e9lson Semedo",
+        "Gerard Piqu\u00e9",
+        "Ivan Rakiti\u0107",
+        "Sergio Busquets",
+        "Philippe Coutinho",
+        "Luis Su\u00e1rez",
+        "Lionel Messi",
+        "Jordi Alba",
+        "Arturo Vidal",
+        "Samuel Umtiti",
+        "I\u00f1aki Pe\u00f1a ",
+        "Ousmane Demb\u00e9l\u00e9",
+        "Malcom",
+        "Cl\u00e9ment Lenglet",
+        "Jeison Murillo",
+        "Sergi Roberto",
+        "Carles Ale\u00f1\u00e1"
+    ],
+    "fouls": [
+        15,
+        11
+    ],
+    "corners": [
+        3,
+        8
+    ],
+    "crosses": [
+        24,
+        16
+    ],
+    "touches": [
+        497,
+        704
+    ],
+    "tackles": [
+        16,
+        10
+    ],
+    "interceptions": [
+        15,
+        16
+    ],
+    "aerials_won": [
+        12,
+        19
+    ],
+    "clearances": [
+        23,
+        25
+    ],
+    "offsides": [
+        4,
+        3
+    ],
+    "goal_kicks": [
+        5,
+        1
+    ],
+    "throw_ins": [
+        16,
+        23
+    ],
+    "long_balls": [
+        71,
+        51
+    ]
+}

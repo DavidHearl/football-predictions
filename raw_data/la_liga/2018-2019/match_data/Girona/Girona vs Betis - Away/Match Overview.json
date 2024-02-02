@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "3",
+        "2"
+    ],
+    "expected_goals": [
+        "1.4",
+        "0.8"
+    ],
+    "home_team": [
+        "Pau L\u00f3pez",
+        "Javi Garc\u00eda",
+        "Marc Bartra",
+        "Sergio Canales",
+        "Antonio Sanabria",
+        "Cristian Tello",
+        "Loren Mor\u00f3n",
+        "Andr\u00e9s Guardado",
+        "Antonio Barrag\u00e1n",
+        "Giovani Lo Celso",
+        "A\u00efssa Mandi",
+        "Joel Robles",
+        "Zouhair Feddal",
+        "Sergio Le\u00f3n",
+        "Sidnei",
+        "Joaqu\u00edn",
+        "Diego Lainez",
+        "Paul Akouokou"
+    ],
+    "away_team": [
+        "Yassine Bounou",
+        "Bernardo Espinosa",
+        "Pedro Alcal\u00e1",
+        "Pere Pons",
+        "Portu",
+        "Borja Garc\u00eda",
+        "Juanpe",
+        "Seydou Doumbia",
+        "Aleix Garc\u00eda",
+        "Pedro Porro",
+        "Valery Fern\u00e1ndez",
+        "Gorka Iraizoz",
+        "Jon\u00e1s Ramalho",
+        "\u00c1lex Granell",
+        "Douglas Luiz",
+        "Marc Muniesa",
+        "Paik Seung-ho",
+        "Alejandro Pach\u00f3n"
+    ],
+    "fouls": [
+        8,
+        12
+    ],
+    "corners": [
+        7,
+        2
+    ],
+    "crosses": [
+        18,
+        8
+    ],
+    "touches": [
+        740,
+        571
+    ],
+    "tackles": [
+        25,
+        20
+    ],
+    "interceptions": [
+        10,
+        21
+    ],
+    "aerials_won": [
+        15,
+        17
+    ],
+    "clearances": [
+        21,
+        27
+    ],
+    "offsides": [
+        1,
+        3
+    ],
+    "goal_kicks": [
+        4,
+        9
+    ],
+    "throw_ins": [
+        17,
+        20
+    ],
+    "long_balls": [
+        53,
+        68
+    ]
+}

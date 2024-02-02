@@ -1,0 +1,102 @@
+{
+    "goals": [
+        "1",
+        "2"
+    ],
+    "expected_goals": [
+        "0.9",
+        "2.1"
+    ],
+    "home_team": [
+        "Ionu\u021b Radu",
+        "Jubal",
+        "Gauthier Hein",
+        "Nuno da Costa",
+        "Birama Tour\u00e9",
+        "Akim Zedadka",
+        "Gideon Mensah",
+        "Lassine Sinayoko",
+        "Han-Noah Massengo",
+        "Souleymane Tour\u00e9",
+        "Rayan Raveloson",
+        "Donovan L\u00e9on",
+        "Youssouf M'Changama",
+        "Ga\u00ebtan Perrin",
+        "M'Baye Niang",
+        "Matthis Abline",
+        "Hamza Sakhi",
+        "Julian Jeanvier",
+        "Mathias Autret",
+        "Siriki Demb\u00e9l\u00e9"
+    ],
+    "away_team": [
+        "Gianluigi Donnarumma",
+        "Sergio Ramos",
+        "Marquinhos",
+        "Marco Verratti",
+        "Kylian Mbapp\u00e9",
+        "Fabi\u00e1n Ruiz Pe\u00f1a",
+        "Juan Bernat",
+        "Danilo Pereira",
+        "Lionel Messi",
+        "Warren Zaire-Emery",
+        "Hugo Ekitike",
+        "Sergio Rico",
+        "Alexandre Letellier",
+        "Vitinha",
+        "Renato Sanches",
+        "Carlos Soler",
+        "Timothee Pembele",
+        "El Chadaille Bitshiabu",
+        "Serif Nhaga",
+        "Isma\u00ebl Gharbi"
+    ],
+    "fouls": [
+        11,
+        6
+    ],
+    "corners": [
+        4,
+        6
+    ],
+    "crosses": [
+        23,
+        11
+    ],
+    "touches": [
+        555,
+        883
+    ],
+    "tackles": [
+        17,
+        14
+    ],
+    "interceptions": [
+        8,
+        4
+    ],
+    "aerials_won": [
+        7,
+        3
+    ],
+    "clearances": [
+        19,
+        25
+    ],
+    "offsides": [
+        0,
+        5
+    ],
+    "goal_kicks": [
+        6,
+        4
+    ],
+    "throw_ins": [
+        10,
+        15
+    ],
+    "long_balls": [
+        39,
+        48
+    ]
+}

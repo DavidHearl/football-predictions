@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "1",
+        "0"
+    ],
+    "expected_goals": [
+        "0.3",
+        "0.4"
+    ],
+    "home_team": [
+        "Tom\u00e1\u0161 Koubek",
+        "Mexer",
+        "Ismaila Sarr",
+        "Cl\u00e9ment Grenier",
+        "James Lea Siliki",
+        "Benjamin Bourigeaud",
+        "Ramy Bensebaini",
+        "Benjamin Andr\u00e9",
+        "Diafra Sakho",
+        "J\u00e9r\u00e9my G\u00e9lin",
+        "Hamari Traor\u00e9",
+        "Abdoulaye Diallo",
+        "Damien Da Silva",
+        "Romain Del Castillo",
+        "Denis-Will Poha",
+        "Romain Danz\u00e9",
+        "Georginio Rutter",
+        "Yann Gboho"
+    ],
+    "away_team": [
+        "Ludovic Butelle",
+        "Mateo Pavlovi\u0107",
+        "Thomas Mangani",
+        "Vincent Pajot",
+        "Isma\u00ebl Traor\u00e9",
+        "Angelo Fulgini",
+        "Wilfried Kanga",
+        "Pierrick Capelle",
+        "Baptiste Santamaria",
+        "Flavien Tait",
+        "Vincent Manceau",
+        "Mathieu Michel",
+        "Harrison Manzala",
+        "Billy Ketkeophomphone",
+        "Cheikh N'Doye",
+        "Jeff Reine-Ad\u00e9la\u00efde",
+        "Romain Thomas",
+        "Abdoulaye Bamba"
+    ],
+    "fouls": [
+        8,
+        11
+    ],
+    "corners": [
+        3,
+        0
+    ],
+    "crosses": [
+        17,
+        8
+    ],
+    "touches": [
+        639,
+        539
+    ],
+    "tackles": [
+        13,
+        14
+    ],
+    "interceptions": [
+        5,
+        17
+    ],
+    "aerials_won": [
+        24,
+        10
+    ],
+    "clearances": [
+        14,
+        34
+    ],
+    "offsides": [
+        2,
+        1
+    ],
+    "goal_kicks": [
+        7,
+        12
+    ],
+    "throw_ins": [
+        25,
+        26
+    ],
+    "long_balls": [
+        73,
+        65
+    ]
+}

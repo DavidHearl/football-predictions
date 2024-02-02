@@ -1,0 +1,102 @@
+{
+    "goals": [
+        "2",
+        "1"
+    ],
+    "expected_goals": [
+        "1.2",
+        "1.2"
+    ],
+    "home_team": [
+        "Romain Salin",
+        "Damien Da Silva",
+        "Nayef Aguerd",
+        "Martin Terrier",
+        "Cl\u00e9ment Grenier",
+        "Eduardo Camavinga",
+        "M'Baye Niang",
+        "Steven Nzonzi",
+        "Faitout Maouassa",
+        "Jeremy Doku",
+        "Hamari Traor\u00e9",
+        "P\u00e9p\u00e9 Bonet",
+        "Gerzino Nyamsi",
+        "James Lea Siliki",
+        "Benjamin Bourigeaud",
+        "Yann Gboho",
+        "Adrien Hunou",
+        "Adrien Truffert",
+        "Lorenz Assignon",
+        "Georginio Rutter"
+    ],
+    "away_team": [
+        "Steve Mandanda",
+        "Hiroki Sakai",
+        "\u00c1lvaro Gonz\u00e1lez",
+        "Boubacar Kamara",
+        "Leonardo Balerdi",
+        "Dar\u00edo Benedetto",
+        "Dimitri Payet",
+        "Jordan Amavi",
+        "Valentin Rongier",
+        "Pape Gueye",
+        "Florian Thauvin",
+        "Yohann Pel\u00e9",
+        "Kevin Strootman",
+        "Nemanja Radonji\u0107",
+        "Luis Henrique",
+        "Micka\u00ebl Cuisance",
+        "Marley Ak\u00e9",
+        "Sa\u00eef-Eddine Khaoui",
+        "Yuto Nagatomo",
+        "Val\u00e8re Germain"
+    ],
+    "fouls": [
+        19,
+        15
+    ],
+    "corners": [
+        9,
+        1
+    ],
+    "crosses": [
+        33,
+        4
+    ],
+    "touches": [
+        734,
+        424
+    ],
+    "tackles": [
+        14,
+        12
+    ],
+    "interceptions": [
+        5,
+        15
+    ],
+    "aerials_won": [
+        21,
+        13
+    ],
+    "clearances": [
+        7,
+        26
+    ],
+    "offsides": [
+        1,
+        0
+    ],
+    "goal_kicks": [
+        6,
+        6
+    ],
+    "throw_ins": [
+        24,
+        16
+    ],
+    "long_balls": [
+        77,
+        73
+    ]
+}

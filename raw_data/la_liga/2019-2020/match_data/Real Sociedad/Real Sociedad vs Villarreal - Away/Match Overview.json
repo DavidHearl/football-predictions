@@ -1,0 +1,108 @@
+{
+    "goals": [
+        "1",
+        "2"
+    ],
+    "expected_goals": [
+        "0.4",
+        "1.3"
+    ],
+    "home_team": [
+        "Sergio Asenjo",
+        "Ra\u00fal Albiol",
+        "Pau Torres",
+        "Santi Cazorla",
+        "Manu Trigueros",
+        "Alberto Moreno",
+        "Andre-Frank Zambo Anguissa",
+        "Rub\u00e9n Pe\u00f1a",
+        "Moi G\u00f3mez",
+        "Javier Ontiveros",
+        "Fernando Ni\u00f1o",
+        "Andr\u00e9s Fern\u00e1ndez",
+        "Mario Gaspar",
+        "Samuel Chukwueze",
+        "Manu Morlanes",
+        "Xavi Quintill\u00e0",
+        "Paco Alc\u00e1cer",
+        "Bruno Soriano",
+        "Sofian Chakla",
+        "Sergio Lozano",
+        "Iv\u00e1n Mart\u00edn",
+        "Alex Baena",
+        "Miguel"
+    ],
+    "away_team": [
+        "Miguel \u00c1ngel Moy\u00e1",
+        "Diego Llorente",
+        "Mikel Merino",
+        "Mikel Oyarzabal",
+        "Andoni Gorosabel",
+        "Alexander Isak",
+        "Nacho Monreal",
+        "Martin \u00d8degaard",
+        "Ander Barrenetxea",
+        "Robin Le Normand",
+        "Mart\u00edn Zubimendi",
+        "\u00c1lex Remiro",
+        "Joseba Zald\u00faa",
+        "Igor Zubeldia",
+        "Portu",
+        "Willian Jos\u00e9",
+        "Aihen Mu\u00f1oz",
+        "David Zurutuza",
+        "Jon Pacheco",
+        "Roberto L\u00f3pez",
+        "Na\u00efs Djouahra",
+        "Aritz Arambarri",
+        "Julen Lobete"
+    ],
+    "fouls": [
+        12,
+        11
+    ],
+    "corners": [
+        2,
+        10
+    ],
+    "crosses": [
+        13,
+        23
+    ],
+    "touches": [
+        633,
+        573
+    ],
+    "tackles": [
+        12,
+        20
+    ],
+    "interceptions": [
+        9,
+        7
+    ],
+    "aerials_won": [
+        10,
+        17
+    ],
+    "clearances": [
+        23,
+        17
+    ],
+    "offsides": [
+        1,
+        1
+    ],
+    "goal_kicks": [
+        4,
+        6
+    ],
+    "throw_ins": [
+        19,
+        18
+    ],
+    "long_balls": [
+        61,
+        65
+    ]
+}

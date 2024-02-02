@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "2",
+        "1"
+    ],
+    "expected_goals": [
+        "1.0",
+        "1.2"
+    ],
+    "home_team": [
+        "Andr\u00e9s Fern\u00e1ndez",
+        "Mario Gaspar",
+        "\u00c1lvaro Gonz\u00e1lez",
+        "Ramiro Funes Mori",
+        "Pablo Fornals",
+        "Carlos Bacca",
+        "Vicente Iborra",
+        "Karl Toko Ekambi",
+        "Santi Cazorla",
+        "Samuel Chukwueze",
+        "Xavi Quintill\u00e0",
+        "Mariano Barbosa",
+        "Santiago C\u00e1seres",
+        "V\u00edctor Ruiz",
+        "Gerard Moreno",
+        "Jaume Costa",
+        "Manu Trigueros",
+        "Alfonso Pedraza"
+    ],
+    "away_team": [
+        "Iv\u00e1n Cu\u00e9llar",
+        "Unai Bustinza",
+        "Jonathan Silva",
+        "Gerard Gumbau",
+        "Guido Carrillo",
+        "Allan Nyom",
+        "Rub\u00e9n P\u00e9rez",
+        "Dimitris Siovas",
+        "Kenneth Omeruo",
+        "Martin Braithwaite",
+        "\u00d3scar Rodr\u00edguez Arnaiz",
+        "Andriy Lunin",
+        "Juanfran",
+        "Diego Reyes",
+        "Nabil El Zhar",
+        "Javier Eraso",
+        "Sabin Merino",
+        "Youssef En-Nesyri"
+    ],
+    "fouls": [
+        12,
+        15
+    ],
+    "corners": [
+        7,
+        4
+    ],
+    "crosses": [
+        17,
+        19
+    ],
+    "touches": [
+        682,
+        420
+    ],
+    "tackles": [
+        7,
+        18
+    ],
+    "interceptions": [
+        8,
+        19
+    ],
+    "aerials_won": [
+        12,
+        28
+    ],
+    "clearances": [
+        19,
+        30
+    ],
+    "offsides": [
+        4,
+        3
+    ],
+    "goal_kicks": [
+        4,
+        8
+    ],
+    "throw_ins": [
+        21,
+        14
+    ],
+    "long_balls": [
+        89,
+        79
+    ]
+}

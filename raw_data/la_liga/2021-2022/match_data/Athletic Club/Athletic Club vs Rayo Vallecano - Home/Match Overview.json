@@ -1,0 +1,107 @@
+{
+    "goals": [
+        "1",
+        "2"
+    ],
+    "expected_goals": [
+        "0.9",
+        "1.0"
+    ],
+    "home_team": [
+        "Unai Sim\u00f3n",
+        "Unai N\u00fa\u00f1ez",
+        "I\u00f1igo Mart\u00ednez",
+        "Mikel Vesga",
+        "Iker Muniain",
+        "I\u00f1igo Lekue",
+        "\u00d3scar de Marcos",
+        "Oier Zarraga",
+        "Asier Villalibre",
+        "Ra\u00fal Garc\u00eda",
+        "Nico Williams",
+        "Julen Agirrezabala",
+        "Alex Petxa",
+        "\u00c1lex Berenguer",
+        "I\u00f1aki Williams",
+        "Jon Morcillo",
+        "Daniel Vivian",
+        "Dani Garc\u00eda",
+        "Unai Vencedor Paris",
+        "Ander Capa",
+        "Mikel Balenziaga",
+        "Nicol\u00e1s Serrano"
+    ],
+    "away_team": [
+        "Stole Dimitrievski",
+        "Nikola Mara\u0161",
+        "Catena",
+        "Santi Comesa\u00f1a",
+        "Isaac Palaz\u00f3n Camacho",
+        "Unai L\u00f3pez",
+        "Sergi Guardiola",
+        "\u00c1lvaro Garc\u00eda",
+        "Iv\u00e1n Balliu",
+        "Path\u00e9 Ciss",
+        "Fran Garcia",
+        "Luca Zidane",
+        "Radamel Falcao",
+        "Mario Su\u00e1rez",
+        "Randy Ntekja",
+        "Beb\u00e9",
+        "Andr\u00e9s Mart\u00edn",
+        "Yacine Qasmi",
+        "K\u00e9vin Rodrigues",
+        "Jos\u00e9 Pozo",
+        "\u00d3scar Valent\u00edn",
+        "Esteban Saveljich",
+        "Mario Hern\u00e1ndez"
+    ],
+    "fouls": [
+        16,
+        20
+    ],
+    "corners": [
+        2,
+        1
+    ],
+    "crosses": [
+        13,
+        17
+    ],
+    "touches": [
+        511,
+        605
+    ],
+    "tackles": [
+        14,
+        12
+    ],
+    "interceptions": [
+        5,
+        16
+    ],
+    "aerials_won": [
+        21,
+        14
+    ],
+    "clearances": [
+        16,
+        16
+    ],
+    "offsides": [
+        1,
+        2
+    ],
+    "goal_kicks": [
+        5,
+        11
+    ],
+    "throw_ins": [
+        26,
+        32
+    ],
+    "long_balls": [
+        62,
+        114
+    ]
+}

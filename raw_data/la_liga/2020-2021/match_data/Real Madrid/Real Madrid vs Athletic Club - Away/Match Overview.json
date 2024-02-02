@@ -1,0 +1,100 @@
+{
+    "goals": [
+        "0",
+        "1"
+    ],
+    "expected_goals": [
+        "0.7",
+        "1.0"
+    ],
+    "home_team": [
+        "Unai Sim\u00f3n",
+        "Jon Morcillo",
+        "I\u00f1igo Mart\u00ednez",
+        "Yeray \u00c1lvarez",
+        "I\u00f1aki Williams",
+        "\u00c1lex Berenguer",
+        "Dani Garc\u00eda",
+        "Oihan Sancet",
+        "\u00d3scar de Marcos",
+        "Mikel Balenziaga",
+        "Unai Vencedor Paris",
+        "Jokin Ezkieta",
+        "Unai N\u00fa\u00f1ez",
+        "Mikel Vesga",
+        "Ibai G\u00f3mez",
+        "Unai L\u00f3pez",
+        "Asier Villalibre",
+        "Ra\u00fal Garc\u00eda",
+        "I\u00f1igo Vicente"
+    ],
+    "away_team": [
+        "Thibaut Courtois",
+        "\u00c9der Milit\u00e3o",
+        "Nacho",
+        "Karim Benzema",
+        "Luka Modri\u0107",
+        "Casemiro",
+        "Federico Valverde",
+        "\u00c1lvaro Odriozola",
+        "Vinicius J\u00fanior",
+        "Rodrygo",
+        "Miguel Guti\u00e9rrez",
+        "Andriy Lunin",
+        "Altube",
+        "Eden Hazard",
+        "Marco Asensio",
+        "Marcelo",
+        "Isco",
+        "Mariano",
+        "Blanco"
+    ],
+    "fouls": [
+        10,
+        7
+    ],
+    "corners": [
+        4,
+        11
+    ],
+    "crosses": [
+        17,
+        37
+    ],
+    "touches": [
+        482,
+        771
+    ],
+    "tackles": [
+        15,
+        9
+    ],
+    "interceptions": [
+        4,
+        12
+    ],
+    "aerials_won": [
+        7,
+        9
+    ],
+    "clearances": [
+        30,
+        16
+    ],
+    "offsides": [
+        1,
+        1
+    ],
+    "goal_kicks": [
+        5,
+        6
+    ],
+    "throw_ins": [
+        21,
+        24
+    ],
+    "long_balls": [
+        48,
+        89
+    ]
+}

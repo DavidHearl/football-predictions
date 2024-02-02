@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "1",
+        "0"
+    ],
+    "expected_goals": [
+        "1.5",
+        "0.5"
+    ],
+    "home_team": [
+        "Diego L\u00f3pez",
+        "Borja Iglesias",
+        "Sergio Garc\u00eda",
+        "Sergi Darder",
+        "L\u00e9o Baptist\u00e3o",
+        "D\u00eddac Vil\u00e0",
+        "David L\u00f3pez",
+        "Javi L\u00f3pez",
+        "Marc Roca",
+        "Mario Hermoso",
+        "Esteban Granero",
+        "Roberto",
+        "V\u00edctor S\u00e1nchez",
+        "\u00d3scar Duarte",
+        "Roberto Rosales",
+        "\u00d3scar Melendo",
+        "Pablo Piatti",
+        "Javi Puado"
+    ],
+    "away_team": [
+        "Iago Herrer\u00edn",
+        "I\u00f1igo Mart\u00ednez",
+        "Yeray \u00c1lvarez",
+        "Mikel San Jos\u00e9",
+        "I\u00f1aki Williams",
+        "Yuri Berchiche",
+        "Dani Garc\u00eda",
+        "Mikel Rico",
+        "\u00d3scar de Marcos",
+        "Aritz Aduriz",
+        "Ra\u00fal Garc\u00eda",
+        "Unai Sim\u00f3n",
+        "Unai N\u00fa\u00f1ez",
+        "Be\u00f1at Etxebarria",
+        "Iker Muniain",
+        "Markel Susaeta",
+        "Ander Capa",
+        "Mikel Balenziaga"
+    ],
+    "fouls": [
+        15,
+        13
+    ],
+    "corners": [
+        2,
+        1
+    ],
+    "crosses": [
+        10,
+        21
+    ],
+    "touches": [
+        512,
+        645
+    ],
+    "tackles": [
+        17,
+        20
+    ],
+    "interceptions": [
+        16,
+        18
+    ],
+    "aerials_won": [
+        13,
+        16
+    ],
+    "clearances": [
+        25,
+        15
+    ],
+    "offsides": [
+        0,
+        2
+    ],
+    "goal_kicks": [
+        9,
+        7
+    ],
+    "throw_ins": [
+        23,
+        18
+    ],
+    "long_balls": [
+        76,
+        73
+    ]
+}

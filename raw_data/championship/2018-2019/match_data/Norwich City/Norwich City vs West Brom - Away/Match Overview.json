@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "1",
+        "1"
+    ],
+    "expected_goals": [
+        "1.2",
+        "1.1"
+    ],
+    "home_team": [
+        "Sam Johnstone",
+        "Kieran Gibbs",
+        "Hal Robson-Kanu",
+        "Chris Brunt",
+        "Dwight Gayle",
+        "Gareth Barry",
+        "Jay Rodriguez",
+        "Craig Dawson",
+        "Ahmed Hegazi",
+        "Rekeem Harper",
+        "Mason Holgate",
+        "Jonathan Bond",
+        "Kyle Bartley",
+        "Bakary Sako",
+        "Jonathan Leko",
+        "Wes Hoolahan",
+        "Tosin Adarabioyo",
+        "Sam Field"
+    ],
+    "away_team": [
+        "Tim Krul",
+        "Ben Godfrey",
+        "Christoph Zimmermann",
+        "Mario Vran\u010di\u0107",
+        "Jamal Lewis",
+        "Emi Buend\u00eda",
+        "Teemu Pukki",
+        "Onel Hern\u00e1ndez",
+        "Alexander Tettey",
+        "Todd Cantwell",
+        "Max Aarons",
+        "Michael McGovern",
+        "Jordan Rhodes",
+        "Timm Klose",
+        "Tom Trybull",
+        "Kenny McLean",
+        "Dennis Srbeny",
+        "Louis Thompson"
+    ],
+    "fouls": [
+        15,
+        12
+    ],
+    "corners": [
+        6,
+        5
+    ],
+    "crosses": [
+        30,
+        11
+    ],
+    "touches": [
+        535,
+        559
+    ],
+    "tackles": [
+        21,
+        15
+    ],
+    "interceptions": [
+        12,
+        10
+    ],
+    "aerials_won": [
+        17,
+        12
+    ],
+    "clearances": [
+        20,
+        22
+    ],
+    "offsides": [
+        1,
+        0
+    ],
+    "goal_kicks": [
+        11,
+        20
+    ],
+    "throw_ins": [
+        18,
+        19
+    ],
+    "long_balls": [
+        93,
+        85
+    ]
+}

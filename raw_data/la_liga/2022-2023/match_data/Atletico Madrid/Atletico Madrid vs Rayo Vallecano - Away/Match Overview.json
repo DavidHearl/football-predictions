@@ -1,0 +1,105 @@
+{
+    "goals": [
+        "1",
+        "2"
+    ],
+    "expected_goals": [
+        "0.7",
+        "1.9"
+    ],
+    "home_team": [
+        "Stole Dimitrievski",
+        "Fran Garcia",
+        "Catena",
+        "Santi Comesa\u00f1a",
+        "Isaac Palaz\u00f3n Camacho",
+        "Unai L\u00f3pez",
+        "\u00c1lvaro Garc\u00eda",
+        "Florian Lejeune",
+        "Iv\u00e1n Balliu",
+        "\u00d3scar Valent\u00edn",
+        "Ra\u00fal de Tom\u00e1s",
+        "Diego L\u00f3pez",
+        "Mario Hern\u00e1ndez",
+        "Mario Su\u00e1rez",
+        "\u00d3scar Trejo",
+        "Radamel Falcao",
+        "Andr\u00e9s Mart\u00edn",
+        "Salvi",
+        "Pep Chavarr\u00eda",
+        "Abdul Mumin",
+        "Path\u00e9 Ciss",
+        "Esteban Saveljich",
+        "Sergio Camello"
+    ],
+    "away_team": [
+        "Jan Oblak",
+        "Jos\u00e9 Mar\u00eda Gim\u00e9nez",
+        "Rodrigo De Paul",
+        "Koke",
+        "Antoine Griezmann",
+        "Marcos Llorente",
+        "Stefan Savi\u0107",
+        "Nahuel Molina",
+        "\u00c1lvaro Morata",
+        "Yannick Carrasco",
+        "Mario Hermoso",
+        "Ivo Grbi\u0107",
+        "Sergio Reguil\u00f3n",
+        "Geoffrey Kondogbia",
+        "Thomas Lemar",
+        "Matt Doherty",
+        "Sa\u00fal \u00d1\u00edguez",
+        "Axel Witsel",
+        "Pablo Barrios",
+        "Carlos Mart\u00edn"
+    ],
+    "fouls": [
+        8,
+        7
+    ],
+    "corners": [
+        8,
+        2
+    ],
+    "crosses": [
+        26,
+        8
+    ],
+    "touches": [
+        691,
+        693
+    ],
+    "tackles": [
+        13,
+        15
+    ],
+    "interceptions": [
+        6,
+        8
+    ],
+    "aerials_won": [
+        8,
+        13
+    ],
+    "clearances": [
+        8,
+        32
+    ],
+    "offsides": [
+        0,
+        3
+    ],
+    "goal_kicks": [
+        10,
+        16
+    ],
+    "throw_ins": [
+        21,
+        16
+    ],
+    "long_balls": [
+        72,
+        72
+    ]
+}

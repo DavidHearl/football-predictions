@@ -1,0 +1,104 @@
+{
+    "goals": [
+        "1",
+        "2"
+    ],
+    "expected_goals": [
+        "0.7",
+        "2.3"
+    ],
+    "home_team": [
+        "\u00c1lvaro Vall\u00e9s",
+        "Marvin",
+        "Sergi Cardona",
+        "\u00c1lex Su\u00e1rez",
+        "Javier Mu\u00f1oz",
+        "M\u00e1ximo Perrone",
+        "Sandro Ram\u00edrez",
+        "Alberto Moleiro",
+        "Mika M\u00e0rmol",
+        "Munir El Haddadi",
+        "Kirian Rodr\u00edguez",
+        "Aar\u00f3n Escandell",
+        "Ale Gorrin",
+        "Cristian Herrera",
+        "Enzo Loiodice",
+        "Sory Kaba",
+        "Daley Sinkgraven",
+        "Marc Cardona",
+        "Francisco Jes\u00fas Crespo Garc\u00eda",
+        "Fabio Gonz\u00e1lez",
+        "I\u00f1aki Gonz\u00e1lez",
+        "Juan Herzog"
+    ],
+    "away_team": [
+        "Andriy Lunin",
+        "Dani Carvajal",
+        "Nacho",
+        "Vinicius J\u00fanior",
+        "Toni Kroos",
+        "Rodrygo",
+        "Eduardo Camavinga",
+        "Dani Ceballos",
+        "Fran Garcia",
+        "Brahim D\u00edaz",
+        "Antonio R\u00fcdiger",
+        "Kepa Arrizabalaga",
+        "Lucas Ca\u00f1izares",
+        "Luka Modri\u0107",
+        "Joselu",
+        "Federico Valverde",
+        "Lucas V\u00e1zquez",
+        "Aur\u00e9lien Tchouam\u00e9ni",
+        "Ferland Mendy",
+        "Arda G\u00fcler"
+    ],
+    "fouls": [
+        17,
+        14
+    ],
+    "corners": [
+        1,
+        6
+    ],
+    "crosses": [
+        16,
+        17
+    ],
+    "touches": [
+        676,
+        608
+    ],
+    "tackles": [
+        12,
+        20
+    ],
+    "interceptions": [
+        4,
+        6
+    ],
+    "aerials_won": [
+        4,
+        5
+    ],
+    "clearances": [
+        26,
+        7
+    ],
+    "offsides": [
+        0,
+        3
+    ],
+    "goal_kicks": [
+        6,
+        10
+    ],
+    "throw_ins": [
+        14,
+        12
+    ],
+    "long_balls": [
+        44,
+        62
+    ]
+}

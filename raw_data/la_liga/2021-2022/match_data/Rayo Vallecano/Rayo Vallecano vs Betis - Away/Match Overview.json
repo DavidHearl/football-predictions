@@ -1,0 +1,108 @@
+{
+    "goals": [
+        "3",
+        "2"
+    ],
+    "expected_goals": [
+        "1.4",
+        "1.0"
+    ],
+    "home_team": [
+        "Claudio Bravo",
+        "\u00c9dgar Gonz\u00e1lez",
+        "Marc Bartra",
+        "Juanmi",
+        "Nabil Fekir",
+        "Sergio Canales",
+        "Willian Jos\u00e9",
+        "\u00c1lex Moreno",
+        "H\u00e9ctor Beller\u00edn",
+        "Guido Rodr\u00edguez",
+        "Rodri",
+        "Rui Silva",
+        "Mart\u00edn Montoya",
+        "V\u00edctor Ruiz",
+        "Borja Iglesias",
+        "Cristian Tello",
+        "William Carvalho",
+        "Germ\u00e1n Pezzella",
+        "Joaqu\u00edn",
+        "Andr\u00e9s Guardado",
+        "Diego Lainez",
+        "Aitor Ruibal",
+        "Juan Miranda"
+    ],
+    "away_team": [
+        "Stole Dimitrievski",
+        "Nikola Mara\u0161",
+        "Catena",
+        "\u00d3scar Trejo",
+        "Randy Ntekja",
+        "Unai L\u00f3pez",
+        "\u00c1lvaro Garc\u00eda",
+        "Iv\u00e1n Balliu",
+        "Path\u00e9 Ciss",
+        "Mario Hern\u00e1ndez",
+        "Fran Garcia",
+        "Luca Zidane",
+        "Radamel Falcao",
+        "Mario Su\u00e1rez",
+        "Santi Comesa\u00f1a",
+        "Isaac Palaz\u00f3n Camacho",
+        "Beb\u00e9",
+        "Andr\u00e9s Mart\u00edn",
+        "Sergi Guardiola",
+        "K\u00e9vin Rodrigues",
+        "Jos\u00e9 Pozo",
+        "\u00d3scar Valent\u00edn",
+        "Esteban Saveljich"
+    ],
+    "fouls": [
+        12,
+        12
+    ],
+    "corners": [
+        4,
+        4
+    ],
+    "crosses": [
+        17,
+        21
+    ],
+    "touches": [
+        534,
+        593
+    ],
+    "tackles": [
+        20,
+        17
+    ],
+    "interceptions": [
+        11,
+        8
+    ],
+    "aerials_won": [
+        10,
+        16
+    ],
+    "clearances": [
+        19,
+        13
+    ],
+    "offsides": [
+        3,
+        3
+    ],
+    "goal_kicks": [
+        5,
+        6
+    ],
+    "throw_ins": [
+        13,
+        23
+    ],
+    "long_balls": [
+        58,
+        68
+    ]
+}

@@ -1,0 +1,107 @@
+{
+    "goals": [
+        "2",
+        "1"
+    ],
+    "expected_goals": [
+        "2.1",
+        "1.7"
+    ],
+    "home_team": [
+        "Jordi Masip",
+        "Bruno Gonz\u00e1lez",
+        "Sergi Guardiola",
+        "\u00d3scar Plano",
+        "Pablo Herv\u00edas",
+        "Fabi\u00e1n Orellana",
+        "Rub\u00e9n Alcaraz",
+        "Marcos Andr\u00e9",
+        "Fede San Emeterio",
+        "Nacho",
+        "Joaqu\u00edn Fern\u00e1ndez",
+        "Roberto",
+        "Luis P\u00e9rez",
+        "Ra\u00fal Garc\u00eda",
+        "Kike P\u00e9rez",
+        "Shon Weissman",
+        "Jawad El Yamiq",
+        "Roque Mesa",
+        "Toni Villa",
+        "M\u00edchel",
+        "Waldo Rubio",
+        "Jota"
+    ],
+    "away_team": [
+        "Unai Sim\u00f3n",
+        "Jon Morcillo",
+        "I\u00f1igo Mart\u00ednez",
+        "Yeray \u00c1lvarez",
+        "Unai L\u00f3pez",
+        "I\u00f1aki Williams",
+        "Iker Muniain",
+        "Dani Garc\u00eda",
+        "Yuri Berchiche",
+        "Ander Capa",
+        "Ra\u00fal Garc\u00eda",
+        "Jokin Ezkieta",
+        "Iago Herrer\u00edn",
+        "Unai N\u00fa\u00f1ez",
+        "Mikel Vesga",
+        "\u00c1lex Berenguer",
+        "I\u00f1igo Lekue",
+        "Oihan Sancet",
+        "Asier Villalibre",
+        "Mikel Balenziaga",
+        "I\u00f1igo Vicente",
+        "Unai Vencedor Paris",
+        "Oier Zarraga"
+    ],
+    "fouls": [
+        23,
+        11
+    ],
+    "corners": [
+        2,
+        11
+    ],
+    "crosses": [
+        13,
+        37
+    ],
+    "touches": [
+        344,
+        628
+    ],
+    "tackles": [
+        9,
+        9
+    ],
+    "interceptions": [
+        13,
+        3
+    ],
+    "aerials_won": [
+        14,
+        22
+    ],
+    "clearances": [
+        29,
+        12
+    ],
+    "offsides": [
+        3,
+        1
+    ],
+    "goal_kicks": [
+        11,
+        6
+    ],
+    "throw_ins": [
+        12,
+        32
+    ],
+    "long_balls": [
+        66,
+        94
+    ]
+}

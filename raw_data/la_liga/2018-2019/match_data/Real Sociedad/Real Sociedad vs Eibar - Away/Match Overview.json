@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "2",
+        "1"
+    ],
+    "expected_goals": [
+        "1.0",
+        "1.3"
+    ],
+    "home_team": [
+        "Marko Dmitrovi\u0107",
+        "Pedro Bigas",
+        "Sergio \u00c1lvarez",
+        "Marc Cardona",
+        "Papakouli Diop",
+        "Sergi Enrich",
+        "Rub\u00e9n Pe\u00f1a",
+        "Paulo Oliveira",
+        "Fabi\u00e1n Orellana",
+        "Pere Milla",
+        "Anaitz Arbilla",
+        "Asier Riesgo",
+        "Jordi Calavera",
+        "Gonzalo Escalante",
+        "Jos\u00e9 \u00c1ngel",
+        "Pablo Herv\u00edas",
+        "Charles",
+        "Joan Jord\u00e1n"
+    ],
+    "away_team": [
+        "Ger\u00f3nimo Rulli",
+        "Joseba Zald\u00faa",
+        "Asier Illarramendi",
+        "Igor Zubeldia",
+        "H\u00e9ctor Moreno",
+        "Juanmi",
+        "Mikel Oyarzabal",
+        "Willian Jos\u00e9",
+        "Aritz Elustondo",
+        "Theo Hern\u00e1ndez",
+        "Luca Sangalli",
+        "Miguel \u00c1ngel Moy\u00e1",
+        "Rub\u00e9n Pardo",
+        "Mart\u00edn Merquelanz",
+        "David Zurutuza",
+        "K\u00e9vin Rodrigues",
+        "Jon Bautista",
+        "Ra\u00fal Navas"
+    ],
+    "fouls": [
+        17,
+        15
+    ],
+    "corners": [
+        4,
+        2
+    ],
+    "crosses": [
+        23,
+        6
+    ],
+    "touches": [
+        590,
+        485
+    ],
+    "tackles": [
+        11,
+        19
+    ],
+    "interceptions": [
+        6,
+        17
+    ],
+    "aerials_won": [
+        40,
+        34
+    ],
+    "clearances": [
+        17,
+        31
+    ],
+    "offsides": [
+        4,
+        3
+    ],
+    "goal_kicks": [
+        6,
+        9
+    ],
+    "throw_ins": [
+        29,
+        30
+    ],
+    "long_balls": [
+        125,
+        95
+    ]
+}

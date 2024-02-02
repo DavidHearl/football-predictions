@@ -1,0 +1,102 @@
+{
+    "goals": [
+        "1",
+        "1"
+    ],
+    "expected_goals": [
+        "2.0",
+        "2.5"
+    ],
+    "home_team": [
+        "Marco Bizot",
+        "Lilian Brassier",
+        "Achraf Dari",
+        "Haris Belkebla",
+        "Franck Honorat",
+        "Steve Mouni\u00e9",
+        "Pierre Lees-Melou",
+        "J\u00e9r\u00e9my Le Douaron",
+        "Christophe H\u00e9relle",
+        "Kenny Lala",
+        "Mahdi Camara",
+        "Joaqu\u00edn Bl\u00e1zquez",
+        "Jean-Kevin Duverne",
+        "Hugo Magnetti",
+        "Romain Del Castillo",
+        "Alberth Elis",
+        "Karamoko Dembele",
+        "Bradley Locko",
+        "F\u00e9lix Lemar\u00e9chal",
+        "Ta\u00efryk Arconte"
+    ],
+    "away_team": [
+        "Brice Samba",
+        "Deiver Machado",
+        "Kevin Danso",
+        "Florian Sotoca",
+        "Seko Fofana",
+        "David Pereira da Costa",
+        "Lo\u00efs Openda",
+        "Facundo Medina",
+        "Jonathan Gradit",
+        "Julien Le Cardinal",
+        "Salis Abdul Samed",
+        "Jean-Louis Leca",
+        "Jean Onana",
+        "\u0141ukasz Por\u0119ba",
+        "Angelo Fulgini",
+        "Isma\u00eblben Boura",
+        "Adrien Thomasson",
+        "Przemys\u0142aw Frankowski",
+        "Adrien Louveau",
+        "R\u00e9my Labeau Lascary"
+    ],
+    "fouls": [
+        15,
+        9
+    ],
+    "corners": [
+        11,
+        5
+    ],
+    "crosses": [
+        25,
+        43
+    ],
+    "touches": [
+        439,
+        726
+    ],
+    "tackles": [
+        19,
+        15
+    ],
+    "interceptions": [
+        13,
+        7
+    ],
+    "aerials_won": [
+        22,
+        18
+    ],
+    "clearances": [
+        33,
+        20
+    ],
+    "offsides": [
+        1,
+        2
+    ],
+    "goal_kicks": [
+        10,
+        8
+    ],
+    "throw_ins": [
+        11,
+        16
+    ],
+    "long_balls": [
+        79,
+        50
+    ]
+}

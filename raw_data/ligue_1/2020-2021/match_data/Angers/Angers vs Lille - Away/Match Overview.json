@@ -1,0 +1,102 @@
+{
+    "goals": [
+        "1",
+        "2"
+    ],
+    "expected_goals": [
+        "0.4",
+        "0.6"
+    ],
+    "home_team": [
+        "Mike Maignan",
+        "Tiago Djal\u00f3",
+        "Sven Botman",
+        "Jos\u00e9 Fonte",
+        "Jonathan Bamba",
+        "Xeka",
+        "Jonathan David",
+        "Jonathan Ikone",
+        "Burak Y\u0131lmaz",
+        "Benjamin Andr\u00e9",
+        "Reinildo Mandava",
+        "Lucas Chevalier",
+        "Isaac Lihadji",
+        "Timothy Weah",
+        "Boubakary Soumar\u00e9",
+        "Cheikh Niasse",
+        "Domagoj Bradari\u0107",
+        "Ismail Bouleghcha",
+        "Nassim Innocenti",
+        "Usman Simbakoli"
+    ],
+    "away_team": [
+        "Paul Bernardoni",
+        "Lois Diony",
+        "Thomas Mangani",
+        "Isma\u00ebl Traor\u00e9",
+        "Angelo Fulgini",
+        "Lassana Coulibaly",
+        "Pierrick Capelle",
+        "Romain Thomas",
+        "Abdoulaye Bamba",
+        "Mathias Pereira Lage",
+        "Vincent Manceau",
+        "Ludovic Butelle",
+        "Mateo Pavlovi\u0107",
+        "Jimmy Cabot",
+        "Ibrahim Amadou",
+        "St\u00e9phane Bahoken",
+        "Mohamed Ali Cho",
+        "Sada Thioub",
+        "Antonin Bobichon",
+        "Farid El Melali"
+    ],
+    "fouls": [
+        12,
+        10
+    ],
+    "corners": [
+        8,
+        6
+    ],
+    "crosses": [
+        25,
+        18
+    ],
+    "touches": [
+        822,
+        504
+    ],
+    "tackles": [
+        21,
+        23
+    ],
+    "interceptions": [
+        10,
+        16
+    ],
+    "aerials_won": [
+        24,
+        15
+    ],
+    "clearances": [
+        17,
+        29
+    ],
+    "offsides": [
+        2,
+        1
+    ],
+    "goal_kicks": [
+        4,
+        6
+    ],
+    "throw_ins": [
+        27,
+        27
+    ],
+    "long_balls": [
+        69,
+        62
+    ]
+}

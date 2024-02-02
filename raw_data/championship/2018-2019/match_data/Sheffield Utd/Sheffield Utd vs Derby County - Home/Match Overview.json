@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "3",
+        "1"
+    ],
+    "expected_goals": [
+        "1.9",
+        "0.5"
+    ],
+    "home_team": [
+        "Dean Henderson",
+        "George Baldock",
+        "Enda Stevens",
+        "John Fleck",
+        "Jack O'Connell",
+        "Chris Basham",
+        "Billy Sharp",
+        "John Egan",
+        "Oliver Norwood",
+        "David McGoldrick",
+        "Mark Duffy",
+        "Simon Moore",
+        "Leon Clarke",
+        "Paul Coutts",
+        "Richard Stearman",
+        "Marvin Johnson",
+        "Martin Cranie",
+        "Conor Washington"
+    ],
+    "away_team": [
+        "Scott Carson",
+        "Andre Wisdom",
+        "Craig Bryson",
+        "Fikayo Tomori",
+        "Richard Keogh",
+        "Harry Wilson",
+        "Mason Mount",
+        "Florian Jozefzoon",
+        "Jack Marriott",
+        "Jayden Bogle",
+        "Tom Huddlestone",
+        "Kelle Roos",
+        "Martyn Waghorn",
+        "Alex Pearce",
+        "George Evans",
+        "Duane Holmes",
+        "David Nugent",
+        "Max Bird"
+    ],
+    "fouls": [
+        13,
+        10
+    ],
+    "corners": [
+        2,
+        6
+    ],
+    "crosses": [
+        18,
+        8
+    ],
+    "touches": [
+        572,
+        553
+    ],
+    "tackles": [
+        13,
+        18
+    ],
+    "interceptions": [
+        19,
+        13
+    ],
+    "aerials_won": [
+        24,
+        15
+    ],
+    "clearances": [
+        20,
+        16
+    ],
+    "offsides": [
+        2,
+        2
+    ],
+    "goal_kicks": [
+        5,
+        12
+    ],
+    "throw_ins": [
+        23,
+        29
+    ],
+    "long_balls": [
+        78,
+        87
+    ]
+}

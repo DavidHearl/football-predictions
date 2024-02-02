@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "2",
+        "1"
+    ],
+    "expected_goals": [
+        "1.1",
+        "1.0"
+    ],
+    "home_team": [
+        "David Marshall",
+        "Eric Lichaj",
+        "Jordy de Wijs",
+        "Reece Burke",
+        "Marc Pugh",
+        "Kamil Grosicki",
+        "Jackson Irvine",
+        "Todd Kane",
+        "Jarrod Bowen",
+        "Markus Henriksen",
+        "Chris Martin",
+        "George Long",
+        "Evandro Goebel",
+        "Nouha Dicko",
+        "Manuel Milinkovi\u0107",
+        "Robbie McKenzie",
+        "Max Sheaf",
+        "Liam Ridgewell"
+    ],
+    "away_team": [
+        "Jordan Archer",
+        "Shaun Hutchinson",
+        "Jake Cooper",
+        "Jed Wallace",
+        "Ben Thompson",
+        "Lee Gregory",
+        "Shane Ferguson",
+        "Ryan Tunnicliffe",
+        "Murray Wallace",
+        "Ryan Leonard",
+        "Ben Marshall",
+        "David Martin",
+        "Shaun Williams",
+        "Fred Onyedinma",
+        "Alex Pearce",
+        "Tom Elliott",
+        "Steve Morison",
+        "Aiden O'Brien"
+    ],
+    "fouls": [
+        10,
+        10
+    ],
+    "corners": [
+        3,
+        3
+    ],
+    "crosses": [
+        9,
+        18
+    ],
+    "touches": [
+        613,
+        640
+    ],
+    "tackles": [
+        20,
+        11
+    ],
+    "interceptions": [
+        10,
+        10
+    ],
+    "aerials_won": [
+        33,
+        47
+    ],
+    "clearances": [
+        45,
+        21
+    ],
+    "offsides": [
+        0,
+        3
+    ],
+    "goal_kicks": [
+        7,
+        2
+    ],
+    "throw_ins": [
+        24,
+        33
+    ],
+    "long_balls": [
+        101,
+        118
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "goals": [
+        "2",
+        "3"
+    ],
+    "expected_goals": [
+        "1.4",
+        "1.6"
+    ],
+    "home_team": [
+        "Anthony Lopes",
+        "Jason Denayer",
+        "Marcelo",
+        "Karl Toko Ekambi",
+        "Houssem Aouar",
+        "Memphis",
+        "Lucas Paquet\u00e1",
+        "Leo Dubois",
+        "Maxence Caqueret",
+        "Maxwel Cornet",
+        "Bruno Guimar\u00e3es",
+        "Julian Pollersbeck",
+        "Sinaly Diomande",
+        "Malo Gusto",
+        "Rayan Cherki",
+        "Islam Slimani",
+        "Mattia De Sciglio",
+        "Thiago Mendes",
+        "Melvin Bard",
+        "Yaya Soumar\u00e9"
+    ],
+    "away_team": [
+        "Walter Ben\u00edtez",
+        "Pierre Lees-Melou",
+        "Kasper Dolberg",
+        "Amine Gouiri",
+        "Hassane Kamara",
+        "William Saliba",
+        "Kh\u00e9phren Thuram",
+        "Youcef Atal",
+        "Rony Lopes",
+        "Jean-Clair Todibo",
+        "Hicham Boudaoui",
+        "Yoan Cardinale",
+        "Robson Bambu",
+        "Flavius Daniliuc",
+        "Morgan Schneiderlin",
+        "Dan Ndoye",
+        "Jordan Lotomba",
+        "Andy Pelmard",
+        "Malik Sellouki",
+        "Paul Wade"
+    ],
+    "fouls": [
+        8,
+        10
+    ],
+    "corners": [
+        6,
+        6
+    ],
+    "crosses": [
+        20,
+        13
+    ],
+    "touches": [
+        668,
+        583
+    ],
+    "tackles": [
+        19,
+        14
+    ],
+    "interceptions": [
+        7,
+        15
+    ],
+    "aerials_won": [
+        7,
+        7
+    ],
+    "clearances": [
+        8,
+        20
+    ],
+    "offsides": [
+        2,
+        0
+    ],
+    "goal_kicks": [
+        8,
+        9
+    ],
+    "throw_ins": [
+        24,
+        10
+    ],
+    "long_balls": [
+        49,
+        70
+    ]
+}

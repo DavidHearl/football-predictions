@@ -1,0 +1,104 @@
+{
+    "goals": [
+        "1",
+        "0"
+    ],
+    "expected_goals": [
+        "1.1",
+        "0.5"
+    ],
+    "home_team": [
+        "Sergio Rico",
+        "Brian Oliv\u00e1n",
+        "Vedat Muriqi",
+        "Antonio S\u00e1nchez",
+        "Iddrisu Baba",
+        "Dani Rodr\u00edguez",
+        "Pablo Maffeo",
+        "Jaume Costa",
+        "Lee Kang-in",
+        "Antonio Raillo",
+        "Martin Valjent",
+        "Manolo Reina",
+        "Giovanni Gonz\u00e1lez",
+        "Cl\u00e9ment Grenier",
+        "Abd\u00f3n Prats",
+        "Matthew Hoppe",
+        "Rodrigo Battaglia",
+        "Takefusa Kubo",
+        "\u00c1ngel Rodr\u00edguez",
+        "Amath",
+        "Fernando Ni\u00f1o",
+        "Josep Antoni Gay\u00e1"
+    ],
+    "away_team": [
+        "Jan Oblak",
+        "Geoffrey Kondogbia",
+        "Rodrigo De Paul",
+        "Koke",
+        "Antoine Griezmann",
+        "Luis Su\u00e1rez",
+        "Marcos Llorente",
+        "Stefan Savi\u0107",
+        "Felipe",
+        "Yannick Carrasco",
+        "Reinildo Mandava",
+        "Benjamin Lecomte",
+        "Jo\u00e3o F\u00e9lix",
+        "Thomas Lemar",
+        "Renan Lodi",
+        "Daniel Wass",
+        "Matheus Cunha",
+        "Mario Hermoso",
+        "\u0160ime Vrsaljko",
+        "Javier Serrano"
+    ],
+    "fouls": [
+        14,
+        11
+    ],
+    "corners": [
+        1,
+        6
+    ],
+    "crosses": [
+        8,
+        18
+    ],
+    "touches": [
+        469,
+        775
+    ],
+    "tackles": [
+        15,
+        25
+    ],
+    "interceptions": [
+        12,
+        4
+    ],
+    "aerials_won": [
+        19,
+        31
+    ],
+    "clearances": [
+        33,
+        25
+    ],
+    "offsides": [
+        0,
+        1
+    ],
+    "goal_kicks": [
+        4,
+        9
+    ],
+    "throw_ins": [
+        28,
+        33
+    ],
+    "long_balls": [
+        76,
+        69
+    ]
+}

@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "2",
+        "1"
+    ],
+    "expected_goals": [
+        "1.3",
+        "1.1"
+    ],
+    "home_team": [
+        "Paul Bernardoni",
+        "Jordan Ferri",
+        "Rachid Alioui",
+        "Denis Bouanga",
+        "T\u00e9ji Savanier",
+        "Faitout Maouassa",
+        "Antonin Bobichon",
+        "Umut Bozok",
+        "Renaud Ripart",
+        "Florian Miguel",
+        "Herv\u00e9 Lybohy",
+        "Baptiste Valette",
+        "Pierrick Valdivia",
+        "Ga\u00ebtan Paquiez",
+        "Theo Valls",
+        "Sada Thioub",
+        "Baptiste Guillaume",
+        "Sofiane Alakouch"
+    ],
+    "away_team": [
+        "Beno\u00eet Costil",
+        "Fran\u00e7ois Kamano",
+        "Jules Kound\u00e9",
+        "Ot\u00e1vio",
+        "Nicolas de Pr\u00e9ville",
+        "Vuka\u0161in Jovanovi\u0107",
+        "Youssouf Sabaly",
+        "Toma Ba\u0161i\u0107",
+        "Josh Maja",
+        "Zaydou Youssouf",
+        "Alexandre Lauray",
+        "Ga\u00ebtan Poussin",
+        "Jimmy Briand",
+        "Yann Karamoh",
+        "Jaroslav Pla\u0161il",
+        "Yacine Adli",
+        "Albert Lottin",
+        "Maxime Poundj\u00e9"
+    ],
+    "fouls": [
+        14,
+        22
+    ],
+    "corners": [
+        3,
+        6
+    ],
+    "crosses": [
+        20,
+        16
+    ],
+    "touches": [
+        425,
+        598
+    ],
+    "tackles": [
+        16,
+        17
+    ],
+    "interceptions": [
+        10,
+        1
+    ],
+    "aerials_won": [
+        13,
+        16
+    ],
+    "clearances": [
+        11,
+        23
+    ],
+    "offsides": [
+        0,
+        5
+    ],
+    "goal_kicks": [
+        8,
+        8
+    ],
+    "throw_ins": [
+        25,
+        21
+    ],
+    "long_balls": [
+        93,
+        62
+    ]
+}

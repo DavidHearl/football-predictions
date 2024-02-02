@@ -1,0 +1,102 @@
+{
+    "goals": [
+        "2",
+        "3"
+    ],
+    "expected_goals": [
+        "1.7",
+        "1.1"
+    ],
+    "home_team": [
+        "Jean-Louis Leca",
+        "Issiaga Sylla",
+        "Lo\u00efc Bade",
+        "Florian Sotoca",
+        "Seko Fofana",
+        "Ga\u00ebl Kakuta",
+        "Jonathan Clauss",
+        "Steven Fortes",
+        "Yannick Cahuzac",
+        "Massadio Ha\u00efdara",
+        "Arnaud Kalimuendo",
+        "Wuilker Far\u00ed\u00f1ez",
+        "Ignatius Ganago",
+        "Cl\u00e9ment Michelin",
+        "Facundo Medina",
+        "Charles Boli",
+        "Tony Mauricio",
+        "Simon Banza",
+        "Isma\u00eblben Boura",
+        "David Pereira da Costa"
+    ],
+    "away_team": [
+        "Jonas Omlin",
+        "Daniel Congr\u00e9",
+        "Pedro Mendes",
+        "Junior Sambia",
+        "Mihailo Risti\u0107",
+        "Andy Delort",
+        "Ga\u00ebtan Laborde",
+        "T\u00e9ji Savanier",
+        "Jordan Ferri",
+        "Stephy Mavididi",
+        "Florent Mollet",
+        "Dimitry Bertaud",
+        "Arnaud Souquet",
+        "Vitorino Hilton",
+        "Ambroise Oyongo",
+        "Joris Chotard",
+        "Keagan Dolly",
+        "Yun Il-lok",
+        "Nicolas Cozza",
+        "Petar \u0160kuleti\u0107"
+    ],
+    "fouls": [
+        11,
+        14
+    ],
+    "corners": [
+        6,
+        4
+    ],
+    "crosses": [
+        26,
+        20
+    ],
+    "touches": [
+        687,
+        514
+    ],
+    "tackles": [
+        16,
+        13
+    ],
+    "interceptions": [
+        7,
+        18
+    ],
+    "aerials_won": [
+        27,
+        23
+    ],
+    "clearances": [
+        16,
+        26
+    ],
+    "offsides": [
+        1,
+        0
+    ],
+    "goal_kicks": [
+        4,
+        11
+    ],
+    "throw_ins": [
+        29,
+        19
+    ],
+    "long_balls": [
+        62,
+        91
+    ]
+}

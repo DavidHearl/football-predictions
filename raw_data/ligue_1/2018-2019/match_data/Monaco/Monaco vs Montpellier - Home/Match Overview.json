@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "1",
+        "2"
+    ],
+    "expected_goals": [
+        "0.7",
+        "1.6"
+    ],
+    "home_team": [
+        "Diego Benaglio",
+        "Jemerson",
+        "Youri Tielemans",
+        "Radamel Falcao",
+        "Youssef A\u00eft Bennasser",
+        "Aleksandr Golovin",
+        "Rona\u00ebl Pierre-Gabriel",
+        "Nacer Chadli",
+        "Andrea Raggi",
+        "Beno\u00eet Badiashile",
+        "Benjamin Henrichs",
+        "Loic Badiashile",
+        "Jonathan Panzo",
+        "Pel\u00e9",
+        "Giulian Biancone",
+        "Moussa Sylla",
+        "Sofiane Diop",
+        "Han-Noah Massengo"
+    ],
+    "away_team": [
+        "Benjamin Lecomte",
+        "Ruben Aguilar",
+        "Daniel Congr\u00e9",
+        "Vitorino Hilton",
+        "Pedro Mendes",
+        "Ambroise Oyongo",
+        "Ga\u00ebtan Laborde",
+        "Andy Delort",
+        "Ellyes Skhiri",
+        "Damien Le Tallec",
+        "Florent Mollet",
+        "Jonathan Ligali",
+        "Junior Sambia",
+        "Bryan Passi",
+        "Souleymane Camara",
+        "Facundo P\u00edriz",
+        "Nicolas Cozza",
+        "Petar \u0160kuleti\u0107"
+    ],
+    "fouls": [
+        6,
+        20
+    ],
+    "corners": [
+        4,
+        3
+    ],
+    "crosses": [
+        12,
+        29
+    ],
+    "touches": [
+        550,
+        624
+    ],
+    "tackles": [
+        11,
+        13
+    ],
+    "interceptions": [
+        4,
+        13
+    ],
+    "aerials_won": [
+        17,
+        14
+    ],
+    "clearances": [
+        30,
+        19
+    ],
+    "offsides": [
+        1,
+        2
+    ],
+    "goal_kicks": [
+        10,
+        6
+    ],
+    "throw_ins": [
+        17,
+        28
+    ],
+    "long_balls": [
+        57,
+        84
+    ]
+}

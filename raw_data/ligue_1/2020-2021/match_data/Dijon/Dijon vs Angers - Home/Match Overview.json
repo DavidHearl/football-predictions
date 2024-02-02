@@ -1,0 +1,100 @@
+{
+    "goals": [
+        "0",
+        "1"
+    ],
+    "expected_goals": [
+        "0.9",
+        "1.5"
+    ],
+    "home_team": [
+        "Alfred Gomis",
+        "Muzinga Ngonda",
+        "Pape Cheikh Diop",
+        "Junior Dina Ebimbe",
+        "Jordan Mari\u00e9",
+        "Ahmad Ngouyamsa",
+        "Mounir Chouiar",
+        "Didier Ibrahim Ndong",
+        "Wesley Lautoa",
+        "Bruno Ecuele Manga",
+        "Aur\u00e9lien Scheidler",
+        "R\u00fanar Alex R\u00fanarsson",
+        "Fr\u00e9d\u00e9ric Sammaritano",
+        "Romain Amalfitano",
+        "Rayan Philippe",
+        "Mihai Dobre",
+        "Amir Arli",
+        "Bogdan Racovitan"
+    ],
+    "away_team": [
+        "Paul Bernardoni",
+        "Souleyman Doumbia",
+        "Thomas Mangani",
+        "Isma\u00ebl Traor\u00e9",
+        "Angelo Fulgini",
+        "Wilfried Kanga",
+        "Baptiste Santamaria",
+        "Sada Thioub",
+        "Romain Thomas",
+        "Abdoulaye Bamba",
+        "Mathias Pereira Lage",
+        "Ludovic Butelle",
+        "Mateo Pavlovi\u0107",
+        "Enzo Ebosse",
+        "Lassana Coulibaly",
+        "Pierrick Capelle",
+        "Casimir Ninga",
+        "Antonin Bobichon",
+        "Waniss Taibi",
+        "Farid El Melali"
+    ],
+    "fouls": [
+        15,
+        8
+    ],
+    "corners": [
+        3,
+        9
+    ],
+    "crosses": [
+        10,
+        26
+    ],
+    "touches": [
+        685,
+        599
+    ],
+    "tackles": [
+        13,
+        11
+    ],
+    "interceptions": [
+        5,
+        10
+    ],
+    "aerials_won": [
+        20,
+        6
+    ],
+    "clearances": [
+        22,
+        26
+    ],
+    "offsides": [
+        2,
+        1
+    ],
+    "goal_kicks": [
+        9,
+        5
+    ],
+    "throw_ins": [
+        26,
+        19
+    ],
+    "long_balls": [
+        62,
+        70
+    ]
+}

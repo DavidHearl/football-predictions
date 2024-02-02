@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "2",
+        "3"
+    ],
+    "expected_goals": [
+        "1.4",
+        "1.8"
+    ],
+    "home_team": [
+        "Diego Benaglio",
+        "Antonio Barreca",
+        "Jean-Eudes Aholou",
+        "Jemerson",
+        "Rony Lopes",
+        "Youri Tielemans",
+        "Radamel Falcao",
+        "Youssef A\u00eft Bennasser",
+        "Kamil Glik",
+        "Samuel Grandsir",
+        "Benjamin Henrichs",
+        "Seydou Sy",
+        "K\u00e9vin N'Doram",
+        "Adama Traor\u00e9",
+        "Djibril Sidib\u00e9",
+        "Nacer Chadli",
+        "Jordi Mboula",
+        "Pietro Pellegri"
+    ],
+    "away_team": [
+        "Yohann Pel\u00e9",
+        "Hiroki Sakai",
+        "Lucas Ocampos",
+        "Morgan Sanson",
+        "Dimitri Payet",
+        "Kostas Mitroglou",
+        "Kevin Strootman",
+        "Bouna Sarr",
+        "Jordan Amavi",
+        "Luiz Gustavo",
+        "Adil Rami",
+        "Florian Escales",
+        "Boubacar Kamara",
+        "Clinton N'Jie",
+        "Duje \u0106aleta-Car",
+        "Florian Thauvin",
+        "Maxime Lopez",
+        "Val\u00e8re Germain"
+    ],
+    "fouls": [
+        11,
+        16
+    ],
+    "corners": [
+        1,
+        5
+    ],
+    "crosses": [
+        17,
+        22
+    ],
+    "touches": [
+        553,
+        615
+    ],
+    "tackles": [
+        21,
+        21
+    ],
+    "interceptions": [
+        12,
+        13
+    ],
+    "aerials_won": [
+        11,
+        21
+    ],
+    "clearances": [
+        25,
+        21
+    ],
+    "offsides": [
+        1,
+        1
+    ],
+    "goal_kicks": [
+        7,
+        9
+    ],
+    "throw_ins": [
+        43,
+        28
+    ],
+    "long_balls": [
+        73,
+        80
+    ]
+}

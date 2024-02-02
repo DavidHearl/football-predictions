@@ -1,0 +1,101 @@
+{
+    "goals": [
+        "1",
+        "1"
+    ],
+    "expected_goals": [
+        "0.4",
+        "1.4"
+    ],
+    "home_team": [
+        "Gauthier Gallon",
+        "Erik Palmer-Brown",
+        "Rominigue Kouam\u00e9",
+        "Mama Samba Bald\u00e9",
+        "Ike Ugbo",
+        "Rony Lopes",
+        "Yoann Salmier",
+        "Thierno Balde",
+        "Tanguy Zoukrou",
+        "Xavier Chavalerin",
+        "Yasser Larouci",
+        "Jessy Moulin",
+        "Florian Tardieu",
+        "Andreas Bruus",
+        "Papa Ndiaga Yade",
+        "Kyliane Dong",
+        "Derek Mazou-Sacko",
+        "Wilson Odobert",
+        "Rudy Kohon"
+    ],
+    "away_team": [
+        "Lucas Chevalier",
+        "Alexsandro Ribeiro",
+        "Gabriel Gudmundsson",
+        "Jos\u00e9 Fonte",
+        "Jonathan Bamba",
+        "Jonathan David",
+        "R\u00e9my Cabella",
+        "Adam Ounas",
+        "Bafod\u00e9 Diakit\u00e9",
+        "Angel Gomes",
+        "Benjamin Andr\u00e9",
+        "Beno\u00eet Costil",
+        "Jonas Martin",
+        "Leny Yoro",
+        "Timothy Weah",
+        "Edon Zhegrova",
+        "Alan Virginius",
+        "Mohamed Lamine Bayo",
+        "Ismaily",
+        "Carlos Baleba"
+    ],
+    "fouls": [
+        9,
+        15
+    ],
+    "corners": [
+        2,
+        8
+    ],
+    "crosses": [
+        9,
+        29
+    ],
+    "touches": [
+        433,
+        729
+    ],
+    "tackles": [
+        8,
+        15
+    ],
+    "interceptions": [
+        9,
+        6
+    ],
+    "aerials_won": [
+        12,
+        11
+    ],
+    "clearances": [
+        24,
+        9
+    ],
+    "offsides": [
+        4,
+        4
+    ],
+    "goal_kicks": [
+        14,
+        4
+    ],
+    "throw_ins": [
+        10,
+        15
+    ],
+    "long_balls": [
+        68,
+        49
+    ]
+}

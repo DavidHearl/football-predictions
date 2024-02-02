@@ -1,0 +1,102 @@
+{
+    "goals": [
+        "2",
+        "1"
+    ],
+    "expected_goals": [
+        "2.1",
+        "1.0"
+    ],
+    "home_team": [
+        "Steve Mandanda",
+        "Adrien Truffert",
+        "Arthur Theate",
+        "Lesley Ugochukwu",
+        "Martin Terrier",
+        "Arnaud Kalimuendo",
+        "Benjamin Bourigeaud",
+        "Christopher Wooh",
+        "Amine Gouiri",
+        "Lovro Majer",
+        "Hamari Traor\u00e9",
+        "Do\u011fan Alemdar",
+        "Joe Rodon",
+        "Kamaldeen Sulemana",
+        "Jeremy Doku",
+        "Flavien Tait",
+        "Lorenz Assignon",
+        "Matthis Abline",
+        "D\u00e9sir\u00e9 Dou\u00e9",
+        "Xeka"
+    ],
+    "away_team": [
+        "Maxime Dup\u00e9",
+        "Rasmus Nicolaisen",
+        "Anthony Rouault",
+        "Zakaria Aboukhlal",
+        "Branco van den Boomen",
+        "Issiaga Sylla",
+        "Stijn Spierings",
+        "Rafael Rat\u00e3o",
+        "Thijs Dallinga",
+        "Fares Cha\u00efbi",
+        "K\u00e9vin Keben Biakolo",
+        "Kjetil Haug",
+        "Denis Genreau",
+        "Ado Onaiwu",
+        "Brecht Dejaegere",
+        "Yanis Begraoui",
+        "Logan Costa",
+        "Oliver Zand\u00e9n",
+        "Veljko Birman\u010devi\u0107",
+        "Moussa Diarra"
+    ],
+    "fouls": [
+        9,
+        10
+    ],
+    "corners": [
+        4,
+        4
+    ],
+    "crosses": [
+        12,
+        19
+    ],
+    "touches": [
+        579,
+        641
+    ],
+    "tackles": [
+        10,
+        16
+    ],
+    "interceptions": [
+        14,
+        6
+    ],
+    "aerials_won": [
+        16,
+        12
+    ],
+    "clearances": [
+        18,
+        13
+    ],
+    "offsides": [
+        2,
+        4
+    ],
+    "goal_kicks": [
+        4,
+        8
+    ],
+    "throw_ins": [
+        16,
+        22
+    ],
+    "long_balls": [
+        65,
+        70
+    ]
+}

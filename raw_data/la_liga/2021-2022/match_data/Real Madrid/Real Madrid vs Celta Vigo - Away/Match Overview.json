@@ -1,0 +1,107 @@
+{
+    "goals": [
+        "1",
+        "2"
+    ],
+    "expected_goals": [
+        "1.6",
+        "2.9"
+    ],
+    "home_team": [
+        "Mat\u00edas Dituro",
+        "Denis Su\u00e1rez",
+        "Thiago Galhardo",
+        "Fran Beltr\u00e1n",
+        "Nolito",
+        "Iago Aspas",
+        "Joseph Aidoo",
+        "Javi Gal\u00e1n",
+        "Kevin V\u00e1zquez",
+        "Brais M\u00e9ndez",
+        "Jeison Murillo",
+        "Rub\u00e9n Blanco",
+        "Gaizka Campos Bahillo",
+        "C\u00e9sar Fern\u00e1ndez",
+        "N\u00e9stor Araujo",
+        "Franco Cervi",
+        "Renato Tapia",
+        "Orbel\u00edn Pineda",
+        "Jos\u00e9 Font\u00e1n",
+        "Augusto Solari",
+        "Santi Mina",
+        "Carlos Dominguez"
+    ],
+    "away_team": [
+        "Thibaut Courtois",
+        "\u00c9der Milit\u00e3o",
+        "David Alaba",
+        "Toni Kroos",
+        "Karim Benzema",
+        "Luka Modri\u0107",
+        "Marco Asensio",
+        "Casemiro",
+        "Lucas V\u00e1zquez",
+        "Vinicius J\u00fanior",
+        "Ferland Mendy",
+        "Andriy Lunin",
+        "Diego Pi\u00f1eiro",
+        "Dani Carvajal",
+        "Jes\u00fas Vallejo",
+        "Nacho",
+        "Marcelo",
+        "Federico Valverde",
+        "Gareth Bale",
+        "Dani Ceballos",
+        "Rodrygo",
+        "Mariano",
+        "Eduardo Camavinga"
+    ],
+    "fouls": [
+        16,
+        12
+    ],
+    "corners": [
+        9,
+        3
+    ],
+    "crosses": [
+        37,
+        9
+    ],
+    "touches": [
+        674,
+        605
+    ],
+    "tackles": [
+        24,
+        8
+    ],
+    "interceptions": [
+        4,
+        11
+    ],
+    "aerials_won": [
+        6,
+        11
+    ],
+    "clearances": [
+        8,
+        25
+    ],
+    "offsides": [
+        1,
+        2
+    ],
+    "goal_kicks": [
+        6,
+        7
+    ],
+    "throw_ins": [
+        15,
+        16
+    ],
+    "long_balls": [
+        69,
+        48
+    ]
+}

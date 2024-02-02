@@ -1,0 +1,101 @@
+{
+    "goals": [
+        "4",
+        "1"
+    ],
+    "expected_goals": [
+        "4.6",
+        "0.2"
+    ],
+    "home_team": [
+        "Anthony Lopes",
+        "Jason Denayer",
+        "Marcelo",
+        "Karl Toko Ekambi",
+        "Moussa Demb\u00e9l\u00e9",
+        "Memphis",
+        "Leo Dubois",
+        "Fernando Mar\u00e7al",
+        "Maxence Caqueret",
+        "Maxwel Cornet",
+        "Bruno Guimar\u00e3es",
+        "Ciprian T\u0103t\u0103ru\u0219anu",
+        "Joachim Andersen",
+        "Bertrand Traor\u00e9",
+        "Thiago Mendes",
+        "Jeff Reine-Ad\u00e9la\u00efde",
+        "Rayan Cherki",
+        "Jean Lucas",
+        "Kenny Tete",
+        "Melvin Bard"
+    ],
+    "away_team": [
+        "Alfred Gomis",
+        "Junior Dina Ebimbe",
+        "Jordan Mari\u00e9",
+        "Ahmad Ngouyamsa",
+        "Romain Amalfitano",
+        "Mounir Chouiar",
+        "Didier Ibrahim Ndong",
+        "Wesley Lautoa",
+        "Bruno Ecuele Manga",
+        "Fouad Chafik",
+        "Aur\u00e9lien Scheidler",
+        "R\u00fanar Alex R\u00fanarsson",
+        "Jonathan Panzo",
+        "Fr\u00e9d\u00e9ric Sammaritano",
+        "An\u00edbal Chal\u00e1",
+        "Rayan Philippe",
+        "Mihai Dobre",
+        "Amir Arli",
+        "Bogdan Racovitan"
+    ],
+    "fouls": [
+        12,
+        7
+    ],
+    "corners": [
+        13,
+        2
+    ],
+    "crosses": [
+        45,
+        9
+    ],
+    "touches": [
+        715,
+        476
+    ],
+    "tackles": [
+        13,
+        23
+    ],
+    "interceptions": [
+        13,
+        18
+    ],
+    "aerials_won": [
+        24,
+        6
+    ],
+    "clearances": [
+        5,
+        33
+    ],
+    "offsides": [
+        0,
+        4
+    ],
+    "goal_kicks": [
+        3,
+        17
+    ],
+    "throw_ins": [
+        21,
+        20
+    ],
+    "long_balls": [
+        62,
+        72
+    ]
+}

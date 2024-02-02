@@ -1,0 +1,102 @@
+{
+    "goals": [
+        "0",
+        "1"
+    ],
+    "expected_goals": [
+        "0.5",
+        "1.6"
+    ],
+    "home_team": [
+        "Paul Nardi",
+        "Andrew Gravillon",
+        "Laurent Abergel",
+        "Trevoh Chalobah",
+        "Enzo Le F\u00e9e",
+        "Quentin Boisgard",
+        "J\u00e9r\u00f4me Hergault",
+        "Julien Laporte",
+        "Yoane Wissa",
+        "Vincent Le Goff",
+        "Adrian Grbi\u0107",
+        "Matthieu Dreyer",
+        "Thomas Fontaine",
+        "St\u00e9phane Diarra",
+        "Sylvain Marveaux",
+        "Terem Moffi",
+        "Fabien Lemoine",
+        "Franklin Wadja",
+        "Armand Lauriente",
+        "Pierre-Yves Hamel"
+    ],
+    "away_team": [
+        "Jonas Omlin",
+        "Daniel Congr\u00e9",
+        "Pedro Mendes",
+        "Junior Sambia",
+        "Mihailo Risti\u0107",
+        "Andy Delort",
+        "Ga\u00ebtan Laborde",
+        "T\u00e9ji Savanier",
+        "Jordan Ferri",
+        "Stephy Mavididi",
+        "Florent Mollet",
+        "Dimitry Bertaud",
+        "Arnaud Souquet",
+        "Vitorino Hilton",
+        "Ambroise Oyongo",
+        "Joris Chotard",
+        "Keagan Dolly",
+        "Yun Il-lok",
+        "Nicolas Cozza",
+        "Petar \u0160kuleti\u0107"
+    ],
+    "fouls": [
+        13,
+        14
+    ],
+    "corners": [
+        2,
+        4
+    ],
+    "crosses": [
+        14,
+        22
+    ],
+    "touches": [
+        510,
+        642
+    ],
+    "tackles": [
+        15,
+        12
+    ],
+    "interceptions": [
+        13,
+        12
+    ],
+    "aerials_won": [
+        15,
+        25
+    ],
+    "clearances": [
+        25,
+        13
+    ],
+    "offsides": [
+        3,
+        1
+    ],
+    "goal_kicks": [
+        9,
+        10
+    ],
+    "throw_ins": [
+        25,
+        23
+    ],
+    "long_balls": [
+        71,
+        98
+    ]
+}

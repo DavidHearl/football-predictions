@@ -1,0 +1,102 @@
+{
+    "goals": [
+        "3",
+        "2"
+    ],
+    "expected_goals": [
+        "1.8",
+        "1.4"
+    ],
+    "home_team": [
+        "Beno\u00eet Costil",
+        "Stian Rode Gregersen",
+        "Laurent Koscielny",
+        "Ricardo Mangas",
+        "Frans\u00e9rgio",
+        "Yacine Adli",
+        "Javair\u00f4 Dilrosun",
+        "Timothee Pembele",
+        "Tom Lacoux",
+        "Remi Oudin",
+        "Alberth Elis",
+        "Ga\u00ebtan Poussin",
+        "Abdel Jalil Medioub",
+        "Jimmy Briand",
+        "Samuel Kalu",
+        "Sekou Mara",
+        "Gideon Mensah",
+        "Mehdi Zerkane",
+        "M'Baye Niang",
+        "Enock Kwateng"
+    ],
+    "away_team": [
+        "Predrag Rajkovi\u0107",
+        "Wout Faes",
+        "Ghislain Konan",
+        "Yunis Abdelhamid",
+        "El Bilal Tour\u00e9",
+        "Nathanael Mbuku",
+        "Alexis Flips",
+        "Fod\u00e9 Doucour\u00e9",
+        "Azor Matusiwa",
+        "Hugo Ekitike",
+        "Moreto Cassam\u00e3",
+        "Yehvann Diouf",
+        "Anastasios Donis",
+        "Ilan Kebbal",
+        "Dion Lopy",
+        "Philippe Koffi",
+        "Bradley Locko",
+        "Moustapha Mbow",
+        "Sambou Sissoko",
+        "Kamory Doumbia"
+    ],
+    "fouls": [
+        5,
+        10
+    ],
+    "corners": [
+        12,
+        2
+    ],
+    "crosses": [
+        26,
+        9
+    ],
+    "touches": [
+        585,
+        542
+    ],
+    "tackles": [
+        13,
+        25
+    ],
+    "interceptions": [
+        17,
+        14
+    ],
+    "aerials_won": [
+        8,
+        15
+    ],
+    "clearances": [
+        6,
+        22
+    ],
+    "offsides": [
+        1,
+        0
+    ],
+    "goal_kicks": [
+        4,
+        13
+    ],
+    "throw_ins": [
+        26,
+        19
+    ],
+    "long_balls": [
+        70,
+        51
+    ]
+}

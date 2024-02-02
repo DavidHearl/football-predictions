@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "2",
+        "2"
+    ],
+    "expected_goals": [
+        "1.2",
+        "0.6"
+    ],
+    "home_team": [
+        "Declan Rudd",
+        "Ben Pearson",
+        "Tom Clarke",
+        "Ben Davies",
+        "Callum Robinson",
+        "Alan Browne",
+        "Paul Gallagher",
+        "Andrew Hughes",
+        "Graham Burke",
+        "Brandon Barker",
+        "Paul Huntington",
+        "Chris Maxwell",
+        "Darnell Fisher",
+        "Josh Earl",
+        "Louis Moult",
+        "Josh Harrop",
+        "Daniel Johnson",
+        "Tom Barkhuizen"
+    ],
+    "away_team": [
+        "Ben Alnwick",
+        "Andrew Taylor",
+        "Jason Lowe",
+        "Mark Beevers",
+        "Sammy Ameobi",
+        "Pawe\u0142 Olkowski",
+        "Gary O'Neil",
+        "Joe Williams",
+        "Josh Magennis",
+        "Yanic Wildschut",
+        "David Wheater",
+        "Remi Matthews",
+        "Josh Vela",
+        "Erhun Oztumer",
+        "Clayton Donaldson",
+        "Craig Noone",
+        "Jack Hobbs",
+        "Jonathan Grounds"
+    ],
+    "fouls": [
+        8,
+        11
+    ],
+    "corners": [
+        7,
+        4
+    ],
+    "crosses": [
+        17,
+        22
+    ],
+    "touches": [
+        617,
+        507
+    ],
+    "tackles": [
+        22,
+        14
+    ],
+    "interceptions": [
+        4,
+        11
+    ],
+    "aerials_won": [
+        37,
+        40
+    ],
+    "clearances": [
+        30,
+        41
+    ],
+    "offsides": [
+        3,
+        2
+    ],
+    "goal_kicks": [
+        8,
+        12
+    ],
+    "throw_ins": [
+        25,
+        21
+    ],
+    "long_balls": [
+        107,
+        100
+    ]
+}

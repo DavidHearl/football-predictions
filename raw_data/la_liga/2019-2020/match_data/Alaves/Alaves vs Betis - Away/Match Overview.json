@@ -1,0 +1,108 @@
+{
+    "goals": [
+        "1",
+        "2"
+    ],
+    "expected_goals": [
+        "2.1",
+        "1.8"
+    ],
+    "home_team": [
+        "Daniel Mart\u00edn",
+        "Zouhair Feddal",
+        "Alfonso Pedraza",
+        "Nabil Fekir",
+        "Borja Iglesias",
+        "Sergio Canales",
+        "Joaqu\u00edn",
+        "Guido Rodr\u00edguez",
+        "Emerson",
+        "A\u00efssa Mandi",
+        "\u00c9dgar Gonz\u00e1lez",
+        "Joel Robles",
+        "Javi Garc\u00eda",
+        "Marc Bartra",
+        "Juanmi",
+        "Cristian Tello",
+        "Sidnei",
+        "William Carvalho",
+        "\u00c1lex Moreno",
+        "Loren Mor\u00f3n",
+        "Antonio Barrag\u00e1n",
+        "Diego Lainez",
+        "Carles Ale\u00f1\u00e1"
+    ],
+    "away_team": [
+        "Roberto",
+        "Rodrigo Ely",
+        "V\u00edctor Laguardia",
+        "Joselu",
+        "V\u00edctor Camarasa",
+        "Luis Rioja",
+        "Ljubomir Fejsa",
+        "\u00c9dgar M\u00e9ndez",
+        "Adri\u00e1n Mar\u00edn",
+        "Oliver Burke",
+        "Tachi",
+        "Aritz Castro",
+        "Lisandro Magall\u00e1n",
+        "Lucas P\u00e9rez",
+        "Tom\u00e1s Pina Isla",
+        "Rafa Navarro",
+        "Aleix Vidal",
+        "Manu Garc\u00eda",
+        "Pere Pons",
+        "Borja Sainz",
+        "Paulino",
+        "Abdallahi Mahmoud",
+        "Jos\u00e9 Luis Rodr\u00edguez"
+    ],
+    "fouls": [
+        14,
+        18
+    ],
+    "corners": [
+        6,
+        5
+    ],
+    "crosses": [
+        19,
+        13
+    ],
+    "touches": [
+        721,
+        338
+    ],
+    "tackles": [
+        12,
+        13
+    ],
+    "interceptions": [
+        2,
+        3
+    ],
+    "aerials_won": [
+        21,
+        20
+    ],
+    "clearances": [
+        12,
+        24
+    ],
+    "offsides": [
+        2,
+        3
+    ],
+    "goal_kicks": [
+        4,
+        9
+    ],
+    "throw_ins": [
+        17,
+        16
+    ],
+    "long_balls": [
+        84,
+        74
+    ]
+}

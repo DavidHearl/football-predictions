@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "0",
+        "1"
+    ],
+    "expected_goals": [
+        "1.1",
+        "0.4"
+    ],
+    "home_team": [
+        "Costel Pantilimon",
+        "Tobias Figueiredo",
+        "Adl\u00e8ne Guedioura",
+        "Jack Colback",
+        "Lewis Grabban",
+        "Jo\u00e3o Carvalho",
+        "Ben Osborn",
+        "Jack Robinson",
+        "Saidy Janko",
+        "Joe Lolley",
+        "Tendayi Darikwa",
+        "Luke Steele",
+        "Daryl Murphy",
+        "Matty Cash",
+        "Claudio Yacob",
+        "Gil Basti\u00e3o Dias",
+        "Karim Ansarifard",
+        "Michael Hefele"
+    ],
+    "away_team": [
+        "Joe Lumley",
+        "Darnell Furlong",
+        "Jake Bidwell",
+        "Luke Freeman",
+        "Jordan Cousins",
+        "Eberechi Eze",
+        "Josh Scowen",
+        "Massimo Luongo",
+        "Pawe\u0142 Wszo\u0142ek",
+        "Nahki Wells",
+        "Toni Leistner",
+        "Matt Ingram",
+        "Grant Hall",
+        "Matt Smith",
+        "Aramide Oteh",
+        "Ilias Chair",
+        "Bright Osayi-Samuel",
+        "Osman Kakay"
+    ],
+    "fouls": [
+        13,
+        8
+    ],
+    "corners": [
+        4,
+        3
+    ],
+    "crosses": [
+        33,
+        15
+    ],
+    "touches": [
+        707,
+        405
+    ],
+    "tackles": [
+        22,
+        21
+    ],
+    "interceptions": [
+        10,
+        14
+    ],
+    "aerials_won": [
+        11,
+        35
+    ],
+    "clearances": [
+        20,
+        38
+    ],
+    "offsides": [
+        2,
+        2
+    ],
+    "goal_kicks": [
+        9,
+        16
+    ],
+    "throw_ins": [
+        37,
+        20
+    ],
+    "long_balls": [
+        97,
+        88
+    ]
+}

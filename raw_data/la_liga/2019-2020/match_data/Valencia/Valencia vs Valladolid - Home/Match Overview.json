@@ -1,0 +1,106 @@
+{
+    "goals": [
+        "2",
+        "1"
+    ],
+    "expected_goals": [
+        "1.1",
+        "0.5"
+    ],
+    "home_team": [
+        "Jaume Dom\u00e9nech",
+        "Gabriel Paulista",
+        "Geoffrey Kondogbia",
+        "Gon\u00e7alo Guedes",
+        "Carlos Soler",
+        "K\u00e9vin Gameiro",
+        "Daniel Parejo",
+        "Mouctar Diakhaby",
+        "Maxi G\u00f3mez",
+        "Alessandro Florenzi",
+        "Adri\u00e1n Guerrero",
+        "Jasper Cillessen",
+        "Thierry Correia",
+        "Jaume Costa",
+        "Eliaquim Mangala",
+        "Denis Cheryshev",
+        "Manu Vallejo",
+        "Lee Kang-in",
+        "Francis Coquelin",
+        "Daniel Wass",
+        "Ferr\u00e1n Torres",
+        "Rub\u00e9n Sobrino",
+        "Hugo Guillam\u00f3n"
+    ],
+    "away_team": [
+        "Jordi Masip",
+        "Hatem Ben Arfa",
+        "Kiko Olivas",
+        "Enes \u00dcnal",
+        "Fede San Emeterio",
+        "Anto\u00f1ito",
+        "Nacho",
+        "Waldo Rubio",
+        "Joaqu\u00edn Fern\u00e1ndez",
+        "Kike P\u00e9rez",
+        "V\u00edctor Garc\u00eda",
+        "Samu P\u00e9rez",
+        "Javi S\u00e1nchez",
+        "Ra\u00fal Garc\u00eda",
+        "Sergi Guardiola",
+        "Pablo Herv\u00edas",
+        "Rub\u00e9n Alcaraz",
+        "Javi Moyano",
+        "Toni Villa",
+        "Sandro Ram\u00edrez",
+        "Diego Alende"
+    ],
+    "fouls": [
+        9,
+        5
+    ],
+    "corners": [
+        5,
+        2
+    ],
+    "crosses": [
+        20,
+        14
+    ],
+    "touches": [
+        741,
+        554
+    ],
+    "tackles": [
+        10,
+        17
+    ],
+    "interceptions": [
+        8,
+        16
+    ],
+    "aerials_won": [
+        13,
+        4
+    ],
+    "clearances": [
+        11,
+        18
+    ],
+    "offsides": [
+        1,
+        3
+    ],
+    "goal_kicks": [
+        6,
+        6
+    ],
+    "throw_ins": [
+        17,
+        18
+    ],
+    "long_balls": [
+        61,
+        75
+    ]
+}

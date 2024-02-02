@@ -1,0 +1,103 @@
+{
+    "goals": [
+        "1",
+        "0"
+    ],
+    "expected_goals": [
+        "0.9",
+        "0.3"
+    ],
+    "home_team": [
+        "Lu\u00eds Maximiano",
+        "Sergio Escudero",
+        "Maxime Gonalons",
+        "Luis Milla",
+        "Antonio Puertas",
+        "V\u00edctor D\u00edaz",
+        "Quini",
+        "Domingos Duarte",
+        "Jorge Molina",
+        "Myrto Uzuni",
+        "\u00c1lex Collado",
+        "Aar\u00f3n Escandell",
+        "Santiago Arias",
+        "Germ\u00e1n S\u00e1nchez",
+        "Alberto Soro",
+        "Yan Brice Eteki",
+        "Luis Javier Su\u00e1rez",
+        "Darwin Mach\u00eds",
+        "Matias Arezo",
+        "Carlos Bacca",
+        "Isma Ruiz",
+        "Barcia"
+    ],
+    "away_team": [
+        "Unai Sim\u00f3n",
+        "I\u00f1igo Mart\u00ednez",
+        "\u00c1lex Berenguer",
+        "Iker Muniain",
+        "Daniel Vivian",
+        "Dani Garc\u00eda",
+        "I\u00f1igo Lekue",
+        "Unai Vencedor Paris",
+        "Yuri Berchiche",
+        "Asier Villalibre",
+        "Nico Williams",
+        "Julen Agirrezabala",
+        "Alex Petxa",
+        "Mikel Vesga",
+        "I\u00f1aki Williams",
+        "Oier Zarraga",
+        "Ra\u00fal Garc\u00eda",
+        "Mikel Balenziaga",
+        "Nicol\u00e1s Serrano"
+    ],
+    "fouls": [
+        20,
+        11
+    ],
+    "corners": [
+        2,
+        7
+    ],
+    "crosses": [
+        15,
+        27
+    ],
+    "touches": [
+        463,
+        572
+    ],
+    "tackles": [
+        18,
+        20
+    ],
+    "interceptions": [
+        7,
+        6
+    ],
+    "aerials_won": [
+        22,
+        21
+    ],
+    "clearances": [
+        31,
+        16
+    ],
+    "offsides": [
+        3,
+        2
+    ],
+    "goal_kicks": [
+        12,
+        11
+    ],
+    "throw_ins": [
+        24,
+        31
+    ],
+    "long_balls": [
+        92,
+        104
+    ]
+}

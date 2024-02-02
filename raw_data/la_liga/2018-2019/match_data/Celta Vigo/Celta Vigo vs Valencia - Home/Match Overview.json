@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "1",
+        "2"
+    ],
+    "expected_goals": [
+        "0.8",
+        "1.2"
+    ],
+    "home_team": [
+        "Rub\u00e9n Blanco",
+        "Hugo Mallo",
+        "N\u00e9stor Araujo",
+        "Maxi G\u00f3mez",
+        "Pione Sisto",
+        "Stanislav Lobotka",
+        "David Junc\u00e0",
+        "Sofiane Boufal",
+        "Jozabed",
+        "Brais M\u00e9ndez",
+        "Facundo Roncaglia",
+        "Sergio \u00c1lvarez",
+        "Emre Mor",
+        "Fran Beltr\u00e1n",
+        "Andrew Hjulsager",
+        "Kevin V\u00e1zquez",
+        "Gustavo Cabral",
+        "Dennis Eckert"
+    ],
+    "away_team": [
+        "Neto",
+        "Gabriel Paulista",
+        "Carlos Soler",
+        "Daniel Parejo",
+        "Denis Cheryshev",
+        "Jos\u00e9 Luis Gay\u00e0",
+        "Francis Coquelin",
+        "Rodrigo",
+        "Cristiano Piccini",
+        "Santi Mina",
+        "Ezequiel Garay",
+        "Jaume Dom\u00e9nech",
+        "K\u00e9vin Gameiro",
+        "Mouctar Diakhaby",
+        "Toni Lato",
+        "Daniel Wass",
+        "Ferr\u00e1n Torres",
+        "Lee Kang-in"
+    ],
+    "fouls": [
+        18,
+        12
+    ],
+    "corners": [
+        4,
+        6
+    ],
+    "crosses": [
+        11,
+        29
+    ],
+    "touches": [
+        690,
+        545
+    ],
+    "tackles": [
+        14,
+        14
+    ],
+    "interceptions": [
+        13,
+        9
+    ],
+    "aerials_won": [
+        21,
+        17
+    ],
+    "clearances": [
+        33,
+        15
+    ],
+    "offsides": [
+        2,
+        1
+    ],
+    "goal_kicks": [
+        10,
+        6
+    ],
+    "throw_ins": [
+        13,
+        28
+    ],
+    "long_balls": [
+        69,
+        69
+    ]
+}

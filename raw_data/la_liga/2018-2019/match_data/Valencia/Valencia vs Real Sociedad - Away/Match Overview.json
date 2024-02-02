@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "0",
+        "1"
+    ],
+    "expected_goals": [
+        "1.3",
+        "0.9"
+    ],
+    "home_team": [
+        "Miguel \u00c1ngel Moy\u00e1",
+        "Joseba Zald\u00faa",
+        "Asier Illarramendi",
+        "Igor Zubeldia",
+        "Mikel Merino",
+        "Mikel Oyarzabal",
+        "Willian Jos\u00e9",
+        "Aritz Elustondo",
+        "David Zurutuza",
+        "K\u00e9vin Rodrigues",
+        "Ra\u00fal Navas",
+        "Ger\u00f3nimo Rulli",
+        "H\u00e9ctor Moreno",
+        "Rub\u00e9n Pardo",
+        "Andoni Gorosabel",
+        "Jon Bautista",
+        "Luca Sangalli",
+        "Sandro Ram\u00edrez"
+    ],
+    "away_team": [
+        "Neto",
+        "R\u00faben Vezo",
+        "Gabriel Paulista",
+        "Geoffrey Kondogbia",
+        "Carlos Soler",
+        "K\u00e9vin Gameiro",
+        "Daniel Parejo",
+        "Denis Cheryshev",
+        "Mouctar Diakhaby",
+        "Toni Lato",
+        "Michy Batshuayi",
+        "Jaume Dom\u00e9nech",
+        "Jeison Murillo",
+        "Gon\u00e7alo Guedes",
+        "Francis Coquelin",
+        "Daniel Wass",
+        "Rodrigo",
+        "Ferr\u00e1n Torres"
+    ],
+    "fouls": [
+        13,
+        18
+    ],
+    "corners": [
+        3,
+        0
+    ],
+    "crosses": [
+        23,
+        7
+    ],
+    "touches": [
+        650,
+        561
+    ],
+    "tackles": [
+        15,
+        19
+    ],
+    "interceptions": [
+        11,
+        14
+    ],
+    "aerials_won": [
+        14,
+        6
+    ],
+    "clearances": [
+        10,
+        16
+    ],
+    "offsides": [
+        3,
+        1
+    ],
+    "goal_kicks": [
+        7,
+        11
+    ],
+    "throw_ins": [
+        22,
+        18
+    ],
+    "long_balls": [
+        69,
+        63
+    ]
+}

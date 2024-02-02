@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "1",
+        "2"
+    ],
+    "expected_goals": [
+        "1.9",
+        "1.4"
+    ],
+    "home_team": [
+        "Stole Dimitrievski",
+        "Tito",
+        "Uche Henry Agbo",
+        "\u00c1lvaro Medr\u00e1n",
+        "Catena",
+        "\u00c1lex Moreno",
+        "Ra\u00fal de Tom\u00e1s",
+        "Beb\u00e9",
+        "\u00c1lvaro Garc\u00eda",
+        "Abdoulaye Ba",
+        "Jos\u00e9 Pozo",
+        "Alberto Garc\u00eda",
+        "\u00d3scar Trejo",
+        "Jordi Amat",
+        "Luis Adv\u00edncula",
+        "Javi Guerra",
+        "Santi Comesa\u00f1a",
+        "Sergio Akieme"
+    ],
+    "away_team": [
+        "Jordi Masip",
+        "Kiko Olivas",
+        "Fernando Calero",
+        "Waldo Rubio",
+        "Enes \u00dcnal",
+        "\u00d3scar Plano",
+        "Sergi Guardiola",
+        "Rub\u00e9n Alcaraz",
+        "Javi Moyano",
+        "M\u00edchel",
+        "Nacho",
+        "Yoel",
+        "Joaqu\u00edn Fern\u00e1ndez",
+        "Borja Fern\u00e1ndez",
+        "Anto\u00f1ito",
+        "Toni Villa",
+        "Duje \u010cop",
+        "Keko"
+    ],
+    "fouls": [
+        13,
+        9
+    ],
+    "corners": [
+        4,
+        2
+    ],
+    "crosses": [
+        29,
+        6
+    ],
+    "touches": [
+        673,
+        363
+    ],
+    "tackles": [
+        15,
+        16
+    ],
+    "interceptions": [
+        9,
+        7
+    ],
+    "aerials_won": [
+        18,
+        15
+    ],
+    "clearances": [
+        19,
+        21
+    ],
+    "offsides": [
+        3,
+        2
+    ],
+    "goal_kicks": [
+        4,
+        15
+    ],
+    "throw_ins": [
+        24,
+        23
+    ],
+    "long_balls": [
+        64,
+        87
+    ]
+}

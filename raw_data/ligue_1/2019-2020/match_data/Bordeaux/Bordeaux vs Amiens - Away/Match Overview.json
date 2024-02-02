@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "1",
+        "3"
+    ],
+    "expected_goals": [
+        "1.5",
+        "0.7"
+    ],
+    "home_team": [
+        "R\u00e9gis Gurtner",
+        "Arturo Calabresi",
+        "Thomas Monconduit",
+        "Bongani Zungu",
+        "Serhou Guirassy",
+        "Juan Ferney Otero",
+        "Bakaye Dibassy",
+        "Haitam Aleesami",
+        "Stiven Mendoza",
+        "Aur\u00e9lien Chedjou",
+        "Fousseni Diabat\u00e9",
+        "Matthieu Dreyer",
+        "Eddy Gnahor\u00e9",
+        "Ga\u00ebl Kakuta",
+        "Alexis Blin",
+        "Mathieu Bodmer",
+        "Jordan Lefort",
+        "Quentin Cornette"
+    ],
+    "away_team": [
+        "Beno\u00eet Costil",
+        "Fran\u00e7ois Kamano",
+        "Pablo",
+        "Mexer",
+        "Ot\u00e1vio",
+        "Laurent Koscielny",
+        "Jimmy Briand",
+        "Aur\u00e9lien Tchouam\u00e9ni",
+        "Samuel Kalu",
+        "Yacine Adli",
+        "Enock Kwateng",
+        "Ga\u00ebtan Poussin",
+        "Josh Maja",
+        "Vuka\u0161in Jovanovi\u0107",
+        "Youssef A\u00eft Bennasser",
+        "Hwang Ui-jo",
+        "Yassine Benrahou",
+        "Loris Benito"
+    ],
+    "fouls": [
+        15,
+        13
+    ],
+    "corners": [
+        3,
+        3
+    ],
+    "crosses": [
+        25,
+        8
+    ],
+    "touches": [
+        553,
+        654
+    ],
+    "tackles": [
+        21,
+        17
+    ],
+    "interceptions": [
+        5,
+        12
+    ],
+    "aerials_won": [
+        17,
+        18
+    ],
+    "clearances": [
+        9,
+        24
+    ],
+    "offsides": [
+        2,
+        0
+    ],
+    "goal_kicks": [
+        10,
+        12
+    ],
+    "throw_ins": [
+        27,
+        19
+    ],
+    "long_balls": [
+        62,
+        79
+    ]
+}

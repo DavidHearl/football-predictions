@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "1",
+        "1"
+    ],
+    "expected_goals": [
+        "1.1",
+        "0.5"
+    ],
+    "home_team": [
+        "Tom\u00e1\u0161 Koubek",
+        "Mehdi Zeffane",
+        "Damien Da Silva",
+        "Mexer",
+        "Ismaila Sarr",
+        "Cl\u00e9ment Grenier",
+        "M'Baye Niang",
+        "Benjamin Bourigeaud",
+        "Benjamin Andr\u00e9",
+        "Romain Del Castillo",
+        "Hamari Traor\u00e9",
+        "Loic Badiashile",
+        "Jakob Johansson",
+        "Ramy Bensebaini",
+        "Armand Lauriente",
+        "Adrien Hunou",
+        "J\u00e9r\u00e9my G\u00e9lin",
+        "Nicolas Janvier"
+    ],
+    "away_team": [
+        "Steve Mandanda",
+        "Hiroki Sakai",
+        "Boubacar Kamara",
+        "Lucas Ocampos",
+        "Morgan Sanson",
+        "Mario Balotelli",
+        "Duje \u0106aleta-Car",
+        "Jordan Amavi",
+        "Florian Thauvin",
+        "Maxime Lopez",
+        "Val\u00e8re Germain",
+        "Yohann Pel\u00e9",
+        "Rolando",
+        "Dimitri Payet",
+        "Clinton N'Jie",
+        "Bouna Sarr",
+        "Luiz Gustavo",
+        "Adil Rami"
+    ],
+    "fouls": [
+        14,
+        15
+    ],
+    "corners": [
+        7,
+        2
+    ],
+    "crosses": [
+        21,
+        10
+    ],
+    "touches": [
+        579,
+        519
+    ],
+    "tackles": [
+        12,
+        28
+    ],
+    "interceptions": [
+        14,
+        9
+    ],
+    "aerials_won": [
+        22,
+        26
+    ],
+    "clearances": [
+        17,
+        33
+    ],
+    "offsides": [
+        3,
+        0
+    ],
+    "goal_kicks": [
+        8,
+        8
+    ],
+    "throw_ins": [
+        29,
+        19
+    ],
+    "long_balls": [
+        80,
+        73
+    ]
+}

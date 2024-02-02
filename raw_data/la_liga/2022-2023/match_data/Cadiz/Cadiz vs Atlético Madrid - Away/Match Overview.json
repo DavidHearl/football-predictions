@@ -1,0 +1,105 @@
+{
+    "goals": [
+        "5",
+        "1"
+    ],
+    "expected_goals": [
+        "3.0",
+        "0.0"
+    ],
+    "home_team": [
+        "Ivo Grbi\u0107",
+        "Jos\u00e9 Mar\u00eda Gim\u00e9nez",
+        "Rodrigo De Paul",
+        "Koke",
+        "Antoine Griezmann",
+        "Thomas Lemar",
+        "Nahuel Molina",
+        "\u00c1lvaro Morata",
+        "Axel Witsel",
+        "Yannick Carrasco",
+        "Mario Hermoso",
+        "Antonio Gomis",
+        "Alejandro Iturbe",
+        "Sergio Reguil\u00f3n",
+        "Geoffrey Kondogbia",
+        "\u00c1ngel Correa",
+        "Matt Doherty",
+        "Sa\u00fal \u00d1\u00edguez",
+        "Pablo Barrios",
+        "Carlos Mart\u00edn",
+        "Marco Moreno"
+    ],
+    "away_team": [
+        "Jerem\u00edas Ledesma",
+        "Rub\u00e9n Alcaraz",
+        "Mamadou Mbaye",
+        "\u00c1lex Fern\u00e1ndez",
+        "Theo Bongonda",
+        "Iv\u00e1n Alejo",
+        "Youba Diarra",
+        "\u00c1lvaro Negredo",
+        "Isaac Carcelen",
+        "Santiago Arzamendia",
+        "Jorge Mer\u00e9",
+        "David Gil",
+        "Ra\u00fal Parra",
+        "Fali",
+        "Jos\u00e9 Mari",
+        "Anthony Lozano",
+        "Chris Ramos",
+        "Gonzalo Escalante",
+        "Sergi Guardiola",
+        "Alfonso Espino",
+        "Carlos Garc\u00eda",
+        "Jos\u00e9 Antonio"
+    ],
+    "fouls": [
+        12,
+        9
+    ],
+    "corners": [
+        5,
+        2
+    ],
+    "crosses": [
+        18,
+        12
+    ],
+    "touches": [
+        713,
+        502
+    ],
+    "tackles": [
+        10,
+        15
+    ],
+    "interceptions": [
+        1,
+        11
+    ],
+    "aerials_won": [
+        7,
+        6
+    ],
+    "clearances": [
+        4,
+        17
+    ],
+    "offsides": [
+        2,
+        3
+    ],
+    "goal_kicks": [
+        9,
+        8
+    ],
+    "throw_ins": [
+        13,
+        16
+    ],
+    "long_balls": [
+        67,
+        61
+    ]
+}

@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "2",
+        "4"
+    ],
+    "expected_goals": [
+        "1.7",
+        "1.7"
+    ],
+    "home_team": [
+        "Jordi Masip",
+        "Kiko Olivas",
+        "Fernando Calero",
+        "Enes \u00dcnal",
+        "\u00d3scar Plano",
+        "Daniele Verde",
+        "Rub\u00e9n Alcaraz",
+        "Anto\u00f1ito",
+        "Toni Villa",
+        "M\u00edchel",
+        "Nacho",
+        "Yoel",
+        "Joaqu\u00edn Fern\u00e1ndez",
+        "Borja Fern\u00e1ndez",
+        "Duje \u010cop",
+        "Anuar",
+        "Keko",
+        "Leonardo Su\u00e1rez"
+    ],
+    "away_team": [
+        "Iv\u00e1n Cu\u00e9llar",
+        "Jonathan Silva",
+        "Guido Carrillo",
+        "Allan Nyom",
+        "Rub\u00e9n P\u00e9rez",
+        "Dimitris Siovas",
+        "Mikel Vesga",
+        "Kenneth Omeruo",
+        "Youssef En-Nesyri",
+        "\u00d3scar Rodr\u00edguez Arnaiz",
+        "Rodrigo Tar\u00edn",
+        "Jon Ander Serantes",
+        "Juanfran",
+        "Unai Bustinza",
+        "Diego Rol\u00e1n",
+        "Gerard Gumbau",
+        "Nabil El Zhar",
+        "Sabin Merino"
+    ],
+    "fouls": [
+        5,
+        13
+    ],
+    "corners": [
+        6,
+        5
+    ],
+    "crosses": [
+        45,
+        22
+    ],
+    "touches": [
+        777,
+        437
+    ],
+    "tackles": [
+        14,
+        13
+    ],
+    "interceptions": [
+        5,
+        8
+    ],
+    "aerials_won": [
+        10,
+        27
+    ],
+    "clearances": [
+        13,
+        31
+    ],
+    "offsides": [
+        1,
+        1
+    ],
+    "goal_kicks": [
+        5,
+        11
+    ],
+    "throw_ins": [
+        20,
+        16
+    ],
+    "long_balls": [
+        84,
+        77
+    ]
+}

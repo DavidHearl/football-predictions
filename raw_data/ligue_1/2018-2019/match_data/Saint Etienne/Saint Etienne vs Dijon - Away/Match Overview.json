@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "0",
+        "1"
+    ],
+    "expected_goals": [
+        "0.5",
+        "1.1"
+    ],
+    "home_team": [
+        "Bobby Allain",
+        "Nayef Aguerd",
+        "Mehdi Abeid",
+        "Wesley Sa\u00efd",
+        "Na\u00efm Sliti",
+        "J\u00falio Tavares",
+        "Jordan Mari\u00e9",
+        "C\u00e9dric Yamber\u00e9",
+        "Kwon Chang-hoon",
+        "Senou Coulibaly",
+        "Fouad Chafik",
+        "R\u00fanar Alex R\u00fanarsson",
+        "Fr\u00e9d\u00e9ric Sammaritano",
+        "Florent Balmont",
+        "Valentin Rosier",
+        "Romain Amalfitano",
+        "Jules Keita",
+        "Sory Kaba"
+    ],
+    "away_team": [
+        "Lois Diony",
+        "St\u00e9phane Ruffier",
+        "Pierre-Yves Polomat",
+        "Timoth\u00e9e Kolodziejczak",
+        "Yann M'Vila",
+        "R\u00e9my Cabella",
+        "Youssef A\u00eft Bennasser",
+        "Wahbi Khazri",
+        "Gabriel Silva",
+        "Lo\u00efc Perrin",
+        "Neven Suboti\u0107",
+        "Jessy Moulin",
+        "William Saliba",
+        "Makhtar Gueye",
+        "Arnaud Nordin",
+        "Robert Beri\u0107",
+        "Charles Abi",
+        "Kenny Rocha Santos"
+    ],
+    "fouls": [
+        13,
+        6
+    ],
+    "corners": [
+        4,
+        5
+    ],
+    "crosses": [
+        17,
+        19
+    ],
+    "touches": [
+        559,
+        662
+    ],
+    "tackles": [
+        20,
+        25
+    ],
+    "interceptions": [
+        10,
+        7
+    ],
+    "aerials_won": [
+        18,
+        20
+    ],
+    "clearances": [
+        22,
+        27
+    ],
+    "offsides": [
+        2,
+        1
+    ],
+    "goal_kicks": [
+        10,
+        6
+    ],
+    "throw_ins": [
+        18,
+        26
+    ],
+    "long_balls": [
+        71,
+        90
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "goals": [
+        "1",
+        "2"
+    ],
+    "expected_goals": [
+        "1.0",
+        "0.8"
+    ],
+    "home_team": [
+        "Aitor Fern\u00e1ndez",
+        "Nacho Vidal",
+        "Juan Cruz Armada",
+        "Unai Garc\u00eda",
+        "David Garc\u00eda",
+        "Lucas Torr\u00f3",
+        "Jon Moncayola",
+        "Ezequiel \u00c1vila",
+        "Rub\u00e9n Garc\u00eda",
+        "Moi G\u00f3mez",
+        "Aimar Oroz",
+        "Sergio Herrera",
+        "Juan P\u00e9rez",
+        "Darko Bra\u0161anac",
+        "Roberto Torres",
+        "Kike Barja",
+        "Rub\u00e9n Pe\u00f1a",
+        "Ante Budimir",
+        "Kik\u00e9",
+        "Pablo Ib\u00e1\u00f1ez",
+        "Manu S\u00e1nchez",
+        "Aridane Hern\u00e1ndez"
+    ],
+    "away_team": [
+        "Marc-Andr\u00e9 ter Stegen",
+        "Sergio Busquets",
+        "Ousmane Demb\u00e9l\u00e9",
+        "Pedri",
+        "Robert Lewandowski",
+        "Ferr\u00e1n Torres",
+        "Andreas Christensen",
+        "Marcos Alonso",
+        "Jordi Alba",
+        "Frenkie de Jong",
+        "Alejandro Balde",
+        "I\u00f1aki Pe\u00f1a ",
+        "Arnau Tenas",
+        "H\u00e9ctor Beller\u00edn",
+        "Gerard Piqu\u00e9",
+        "Ansu Fati",
+        "Raphinha",
+        "Eric Garc\u00eda",
+        "Marc Casado",
+        "Gavi",
+        "Pablo Torre",
+        "Chadi Riad"
+    ],
+    "fouls": [
+        15,
+        6
+    ],
+    "corners": [
+        3,
+        6
+    ],
+    "crosses": [
+        22,
+        10
+    ],
+    "touches": [
+        559,
+        636
+    ],
+    "tackles": [
+        10,
+        12
+    ],
+    "interceptions": [
+        5,
+        3
+    ],
+    "aerials_won": [
+        12,
+        13
+    ],
+    "clearances": [
+        11,
+        15
+    ],
+    "offsides": [
+        3,
+        2
+    ],
+    "goal_kicks": [
+        9,
+        12
+    ],
+    "throw_ins": [
+        20,
+        19
+    ],
+    "long_balls": [
+        79,
+        67
+    ]
+}

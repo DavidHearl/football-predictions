@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "2",
+        "2"
+    ],
+    "expected_goals": [
+        "1.0",
+        "0.6"
+    ],
+    "home_team": [
+        "Diego Benaglio",
+        "Antonio Barreca",
+        "Jean-Eudes Aholou",
+        "Jemerson",
+        "Youri Tielemans",
+        "Youssef A\u00eft Bennasser",
+        "Aleksandr Golovin",
+        "Kamil Glik",
+        "Moussa Sylla",
+        "Sofiane Diop",
+        "Benjamin Henrichs",
+        "Loic Badiashile",
+        "Adama Traor\u00e9",
+        "Rona\u00ebl Pierre-Gabriel",
+        "Nacer Chadli",
+        "Jordi Mboula",
+        "Pel\u00e9",
+        "Beno\u00eet Badiashile"
+    ],
+    "away_team": [
+        "R\u00fanar Alex R\u00fanarsson",
+        "Micka\u00ebl Alphonse",
+        "Laurent Ciman",
+        "Mehdi Abeid",
+        "Na\u00efm Sliti",
+        "Enzo Loiodice",
+        "Florent Balmont",
+        "Valentin Rosier",
+        "Romain Amalfitano",
+        "Wesley Lautoa",
+        "Benjamin Jeannot",
+        "Bobby Allain",
+        "Oussama Haddadi",
+        "Wesley Sa\u00efd",
+        "J\u00falio Tavares",
+        "Jordan Mari\u00e9",
+        "C\u00e9dric Yamber\u00e9",
+        "Jules Keita"
+    ],
+    "fouls": [
+        15,
+        14
+    ],
+    "corners": [
+        6,
+        4
+    ],
+    "crosses": [
+        23,
+        15
+    ],
+    "touches": [
+        550,
+        621
+    ],
+    "tackles": [
+        15,
+        13
+    ],
+    "interceptions": [
+        8,
+        12
+    ],
+    "aerials_won": [
+        17,
+        17
+    ],
+    "clearances": [
+        18,
+        23
+    ],
+    "offsides": [
+        0,
+        1
+    ],
+    "goal_kicks": [
+        10,
+        8
+    ],
+    "throw_ins": [
+        23,
+        21
+    ],
+    "long_balls": [
+        56,
+        70
+    ]
+}

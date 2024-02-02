@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "1",
+        "4"
+    ],
+    "expected_goals": [
+        "1.2",
+        "3.0"
+    ],
+    "home_team": [
+        "Pau L\u00f3pez",
+        "Marc Bartra",
+        "Sergio Canales",
+        "Jes\u00e9",
+        "Cristian Tello",
+        "Sidnei",
+        "William Carvalho",
+        "Joaqu\u00edn",
+        "Andr\u00e9s Guardado",
+        "Giovani Lo Celso",
+        "A\u00efssa Mandi",
+        "Joel Robles",
+        "Zouhair Feddal",
+        "Sergio Le\u00f3n",
+        "Loren Mor\u00f3n",
+        "Diego Lainez",
+        "Emerson",
+        "Wilfrid Kaptoum"
+    ],
+    "away_team": [
+        "Marc-Andr\u00e9 ter Stegen",
+        "Gerard Piqu\u00e9",
+        "Ivan Rakiti\u0107",
+        "Sergio Busquets",
+        "Arthur Melo",
+        "Luis Su\u00e1rez",
+        "Lionel Messi",
+        "Cl\u00e9ment Lenglet",
+        "Jordi Alba",
+        "Sergi Roberto",
+        "Arturo Vidal",
+        "Jasper Cillessen",
+        "N\u00e9lson Semedo",
+        "Philippe Coutinho",
+        "Malcom",
+        "Kevin-Prince Boateng",
+        "Carles Ale\u00f1\u00e1",
+        "Samuel Umtiti"
+    ],
+    "fouls": [
+        10,
+        11
+    ],
+    "corners": [
+        3,
+        7
+    ],
+    "crosses": [
+        13,
+        8
+    ],
+    "touches": [
+        704,
+        596
+    ],
+    "tackles": [
+        19,
+        14
+    ],
+    "interceptions": [
+        21,
+        16
+    ],
+    "aerials_won": [
+        5,
+        12
+    ],
+    "clearances": [
+        7,
+        15
+    ],
+    "offsides": [
+        1,
+        2
+    ],
+    "goal_kicks": [
+        5,
+        4
+    ],
+    "throw_ins": [
+        13,
+        13
+    ],
+    "long_balls": [
+        37,
+        44
+    ]
+}

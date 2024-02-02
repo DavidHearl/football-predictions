@@ -1,0 +1,107 @@
+{
+    "goals": [
+        "1",
+        "2"
+    ],
+    "expected_goals": [
+        "0.9",
+        "2.8"
+    ],
+    "home_team": [
+        "Sergio Asenjo",
+        "Ra\u00fal Albiol",
+        "Pau Torres",
+        "Daniel Parejo",
+        "Gerard Moreno",
+        "Juan Foyth",
+        "Samuel Chukwueze",
+        "Manu Trigueros",
+        "Paco Alc\u00e1cer",
+        "Alberto Moreno",
+        "\u00c9tienne Capoue",
+        "Ger\u00f3nimo Rulli",
+        "Mario Gaspar",
+        "Ramiro Funes Mori",
+        "Carlos Bacca",
+        "Pervis Estupi\u00f1\u00e1n",
+        "Francis Coquelin",
+        "Jaume Costa",
+        "Moi G\u00f3mez",
+        "Alfonso Pedraza",
+        "Yeremi Pino",
+        "Alex Baena",
+        "Fernando Ni\u00f1o"
+    ],
+    "away_team": [
+        "Marc-Andr\u00e9 ter Stegen",
+        "Sergi\u00f1o Dest",
+        "Gerard Piqu\u00e9",
+        "Sergio Busquets",
+        "Antoine Griezmann",
+        "Lionel Messi",
+        "Cl\u00e9ment Lenglet",
+        "Pedri",
+        "Jordi Alba",
+        "Frenkie de Jong",
+        "\u00d3scar Mingueza",
+        "Neto",
+        "Arnau Tenas",
+        "Ronald Ara\u00fajo",
+        "Ousmane Demb\u00e9l\u00e9",
+        "Riqui Puig",
+        "Francisco Trinc\u00e3o",
+        "Matheus Fernandes",
+        "Sergi Roberto",
+        "Samuel Umtiti",
+        "Junior Firpo",
+        "Ilaix Moriba"
+    ],
+    "fouls": [
+        16,
+        10
+    ],
+    "corners": [
+        6,
+        1
+    ],
+    "crosses": [
+        10,
+        7
+    ],
+    "touches": [
+        571,
+        715
+    ],
+    "tackles": [
+        18,
+        20
+    ],
+    "interceptions": [
+        8,
+        17
+    ],
+    "aerials_won": [
+        4,
+        12
+    ],
+    "clearances": [
+        5,
+        11
+    ],
+    "offsides": [
+        1,
+        6
+    ],
+    "goal_kicks": [
+        7,
+        6
+    ],
+    "throw_ins": [
+        17,
+        13
+    ],
+    "long_balls": [
+        39,
+        48
+    ]
+}

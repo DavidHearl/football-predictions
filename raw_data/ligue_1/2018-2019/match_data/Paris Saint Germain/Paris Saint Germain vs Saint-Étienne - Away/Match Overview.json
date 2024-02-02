@@ -1,0 +1,97 @@
+{
+    "goals": [
+        "0",
+        "1"
+    ],
+    "expected_goals": [
+        "0.6",
+        "1.5"
+    ],
+    "home_team": [
+        "St\u00e9phane Ruffier",
+        "Timoth\u00e9e Kolodziejczak",
+        "Yann M'Vila",
+        "R\u00e9my Cabella",
+        "Youssef A\u00eft Bennasser",
+        "Wahbi Khazri",
+        "Gabriel Silva",
+        "Romain Hamouma",
+        "K\u00e9vin Monnet-Paquet",
+        "Lo\u00efc Perrin",
+        "Mathieu Debuchy",
+        "Lois Diony",
+        "Jessy Moulin",
+        "Pierre-Yves Polomat",
+        "William Saliba",
+        "Arnaud Nordin",
+        "Yannis Salibur",
+        "Robert Beri\u0107"
+    ],
+    "away_team": [
+        "Alphonse Areola",
+        "Thiago Silva",
+        "Thilo Kehrer",
+        "Marquinhos",
+        "Kylian Mbapp\u00e9",
+        "Leandro Paredes",
+        "\u00c1ngel Di Mar\u00eda",
+        "Dani Alves",
+        "Juan Bernat",
+        "Julian Draxler",
+        "Moussa Diaby",
+        "Gianluigi Buffon",
+        "Presnel Kimpembe",
+        "Layvin Kurzawa",
+        "Christopher Nkunku",
+        "Colin Dagba",
+        "Stanley N'Soki"
+    ],
+    "fouls": [
+        8,
+        18
+    ],
+    "corners": [
+        4,
+        5
+    ],
+    "crosses": [
+        16,
+        10
+    ],
+    "touches": [
+        563,
+        716
+    ],
+    "tackles": [
+        21,
+        11
+    ],
+    "interceptions": [
+        15,
+        12
+    ],
+    "aerials_won": [
+        7,
+        11
+    ],
+    "clearances": [
+        15,
+        20
+    ],
+    "offsides": [
+        6,
+        2
+    ],
+    "goal_kicks": [
+        8,
+        8
+    ],
+    "throw_ins": [
+        22,
+        16
+    ],
+    "long_balls": [
+        65,
+        36
+    ]
+}

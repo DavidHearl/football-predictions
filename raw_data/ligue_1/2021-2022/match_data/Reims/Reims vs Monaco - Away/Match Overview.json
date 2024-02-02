@@ -1,0 +1,102 @@
+{
+    "goals": [
+        "1",
+        "2"
+    ],
+    "expected_goals": [
+        "1.2",
+        "1.4"
+    ],
+    "home_team": [
+        "Alexander N\u00fcbel",
+        "Vanderson",
+        "Guillermo Marip\u00e1n",
+        "Axel Disasi",
+        "Gelson Martins",
+        "Wissam Ben Yedder",
+        "Jean Lucas",
+        "Ismail Jakobs",
+        "Youssouf Fofana",
+        "Kevin Volland",
+        "Sofiane Diop",
+        "Vito Mannone",
+        "Djibril Sidib\u00e9",
+        "Ruben Aguilar",
+        "F\u00e9lix Lemar\u00e9chal",
+        "Chrislain Matsima",
+        "Maghnes Akliouche",
+        "Eliot Matazo",
+        "Yllan Okou",
+        "Eric Ayiah"
+    ],
+    "away_team": [
+        "Predrag Rajkovi\u0107",
+        "Wout Faes",
+        "Ghislain Konan",
+        "Maxime Busi",
+        "Alexis Flips",
+        "Marshall Munetsi",
+        "Fraser Hornby",
+        "Mitchell van Bergen",
+        "Azor Matusiwa",
+        "Dion Lopy",
+        "Bradley Locko",
+        "Yehvann Diouf",
+        "Arber Zeneli",
+        "Nathanael Mbuku",
+        "Ilan Kebbal",
+        "Moussa Doumbia",
+        "Sambou Sissoko",
+        "Kamory Doumbia",
+        "Martin Adeline",
+        "Enzo Valentim"
+    ],
+    "fouls": [
+        15,
+        12
+    ],
+    "corners": [
+        10,
+        3
+    ],
+    "crosses": [
+        32,
+        11
+    ],
+    "touches": [
+        738,
+        414
+    ],
+    "tackles": [
+        16,
+        15
+    ],
+    "interceptions": [
+        13,
+        14
+    ],
+    "aerials_won": [
+        13,
+        13
+    ],
+    "clearances": [
+        8,
+        38
+    ],
+    "offsides": [
+        1,
+        0
+    ],
+    "goal_kicks": [
+        5,
+        6
+    ],
+    "throw_ins": [
+        16,
+        15
+    ],
+    "long_balls": [
+        79,
+        66
+    ]
+}

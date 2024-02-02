@@ -1,0 +1,108 @@
+{
+    "goals": [
+        "1",
+        "2"
+    ],
+    "expected_goals": [
+        "0.9",
+        "1.2"
+    ],
+    "home_team": [
+        "Fernando Pacheco",
+        "Rub\u00e9n Duarte",
+        "V\u00edctor Laguardia",
+        "Mamadou N'Diaye",
+        "Joselu",
+        "Luis Rioja",
+        "Toni Moya",
+        "\u00c9dgar M\u00e9ndez",
+        "Pere Pons",
+        "Martin Agirregabiria",
+        "Florian Lejeune",
+        "Antonio Sivera",
+        "Tachi",
+        "Matt Miazga",
+        "Mamadou Sylla",
+        "Tom\u00e1s Pina Isla",
+        "John Guidetti",
+        "Sa\u00fal Garc\u00eda",
+        "Manu Garc\u00eda",
+        "Facundo Pellistri",
+        "Iv\u00e1n Mart\u00edn",
+        "Miguel",
+        "Javi L\u00f3pez"
+    ],
+    "away_team": [
+        "Mat\u00edas Dituro",
+        "N\u00e9stor Araujo",
+        "Denis Su\u00e1rez",
+        "Fran Beltr\u00e1n",
+        "Nolito",
+        "Iago Aspas",
+        "Joseph Aidoo",
+        "Javi Gal\u00e1n",
+        "Kevin V\u00e1zquez",
+        "Santi Mina",
+        "Brais M\u00e9ndez",
+        "Rub\u00e9n Blanco",
+        "Hugo Mallo",
+        "Okay Yoku\u015flu",
+        "Thiago Galhardo",
+        "Franco Cervi",
+        "Renato Tapia",
+        "Miguel Baeza",
+        "Jos\u00e9 Font\u00e1n",
+        "Augusto Solari",
+        "Jeison Murillo",
+        "Carlos Dominguez",
+        "Gabriel Veiga"
+    ],
+    "fouls": [
+        12,
+        15
+    ],
+    "corners": [
+        5,
+        3
+    ],
+    "crosses": [
+        23,
+        23
+    ],
+    "touches": [
+        489,
+        676
+    ],
+    "tackles": [
+        8,
+        9
+    ],
+    "interceptions": [
+        12,
+        17
+    ],
+    "aerials_won": [
+        11,
+        6
+    ],
+    "clearances": [
+        18,
+        24
+    ],
+    "offsides": [
+        0,
+        2
+    ],
+    "goal_kicks": [
+        3,
+        4
+    ],
+    "throw_ins": [
+        22,
+        25
+    ],
+    "long_balls": [
+        65,
+        68
+    ]
+}

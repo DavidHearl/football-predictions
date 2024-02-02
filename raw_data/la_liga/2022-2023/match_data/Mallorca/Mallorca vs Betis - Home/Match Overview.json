@@ -1,0 +1,102 @@
+{
+    "goals": [
+        "1",
+        "2"
+    ],
+    "expected_goals": [
+        "0.6",
+        "2.1"
+    ],
+    "home_team": [
+        "Predrag Rajkovi\u0107",
+        "Copete",
+        "Vedat Muriqi",
+        "Cl\u00e9ment Grenier",
+        "Dani Rodr\u00edguez",
+        "Pablo Maffeo",
+        "Rodrigo Battaglia",
+        "Jaume Costa",
+        "Lee Kang-in",
+        "Antonio Raillo",
+        "Martin Valjent",
+        "Leonardo Rom\u00e1n",
+        "Pere Joan",
+        "Braian Cufr\u00e9",
+        "Franco Russo",
+        "Abd\u00f3n Prats",
+        "Antonio S\u00e1nchez",
+        "Lago Junior",
+        "Iddrisu Baba",
+        "Giovanni Gonz\u00e1lez",
+        "\u00c1ngel Rodr\u00edguez",
+        "Josep Antoni Gay\u00e1",
+        "Javier Llabr\u00e9s"
+    ],
+    "away_team": [
+        "Rui Silva",
+        "\u00c9dgar Gonz\u00e1lez",
+        "Guido Rodr\u00edguez",
+        "Juanmi",
+        "Nabil Fekir",
+        "Borja Iglesias",
+        "William Carvalho",
+        "\u00c1lex Moreno",
+        "Germ\u00e1n Pezzella",
+        "Aitor Ruibal",
+        "Rodri",
+        "Daniel Mart\u00edn",
+        "Paul Akouokou",
+        "Loren Mor\u00f3n",
+        "Roberto Gonz\u00e1lez",
+        "Fran Delgado",
+        "Juan Miranda"
+    ],
+    "fouls": [
+        22,
+        17
+    ],
+    "corners": [
+        5,
+        2
+    ],
+    "crosses": [
+        21,
+        14
+    ],
+    "touches": [
+        504,
+        547
+    ],
+    "tackles": [
+        17,
+        10
+    ],
+    "interceptions": [
+        14,
+        8
+    ],
+    "aerials_won": [
+        17,
+        10
+    ],
+    "clearances": [
+        12,
+        20
+    ],
+    "offsides": [
+        4,
+        0
+    ],
+    "goal_kicks": [
+        9,
+        6
+    ],
+    "throw_ins": [
+        26,
+        17
+    ],
+    "long_balls": [
+        64,
+        66
+    ]
+}

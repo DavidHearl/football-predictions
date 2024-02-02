@@ -1,0 +1,100 @@
+{
+    "goals": [
+        "0",
+        "4"
+    ],
+    "expected_goals": [
+        "0.7",
+        "2.7"
+    ],
+    "home_team": [
+        "Dimitry Bertaud",
+        "Arnaud Souquet",
+        "Mihailo Risti\u0107",
+        "Stephy Mavididi",
+        "Jordan Ferri",
+        "Joris Chotard",
+        "Maxime Est\u00e8ve",
+        "Florent Mollet",
+        "Thuler",
+        "Nicolas Cozza",
+        "Sacha Delaye",
+        "Matis Carvalho",
+        "Pedro Mendes",
+        "Junior Sambia",
+        "Ambroise Oyongo",
+        "Val\u00e8re Germain",
+        "L\u00e9o Leroy",
+        "Nicholas Gioacchini"
+    ],
+    "away_team": [
+        "Gianluigi Donnarumma",
+        "Sergio Ramos",
+        "Marquinhos",
+        "Marco Verratti",
+        "Kylian Mbapp\u00e9",
+        "\u00c1ngel Di Mar\u00eda",
+        "Juan Bernat",
+        "Georginio Wijnaldum",
+        "Ander Herrera",
+        "Thilo Kehrer",
+        "Lionel Messi",
+        "Keylor Navas",
+        "Achraf Hakimi",
+        "Danilo Pereira",
+        "Nuno Mendes",
+        "Junior Dina Ebimbe",
+        "Djeidi Gassama",
+        "Xavi Simons",
+        "Isma\u00ebl Gharbi",
+        "Edouard Michut"
+    ],
+    "fouls": [
+        9,
+        7
+    ],
+    "corners": [
+        0,
+        2
+    ],
+    "crosses": [
+        7,
+        6
+    ],
+    "touches": [
+        428,
+        865
+    ],
+    "tackles": [
+        20,
+        16
+    ],
+    "interceptions": [
+        12,
+        11
+    ],
+    "aerials_won": [
+        4,
+        6
+    ],
+    "clearances": [
+        7,
+        8
+    ],
+    "offsides": [
+        4,
+        4
+    ],
+    "goal_kicks": [
+        10,
+        8
+    ],
+    "throw_ins": [
+        17,
+        18
+    ],
+    "long_balls": [
+        37,
+        72
+    ]
+}

@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "1",
+        "2"
+    ],
+    "expected_goals": [
+        "1.7",
+        "1.1"
+    ],
+    "home_team": [
+        "Karl-Johan Johnsson",
+        "Pedro Rebocho",
+        "Ludovic Blas",
+        "Lucas Deaux",
+        "Nicolas Benezet",
+        "Marcus Thuram",
+        "J\u00e9r\u00e9my Sorbon",
+        "F\u00e9lix Eboa Eboa",
+        "Ronny Rodelin",
+        "Cheick Traor\u00e9",
+        "Nolan Roux",
+        "Denis Petri\u0107",
+        "Dj\u00e9gui Koita",
+        "Yeni Ngbakoto",
+        "Guessouma Fofana",
+        "\u00c9tienne Didot",
+        "Marcus Coco",
+        "Yohan Bilingi"
+    ],
+    "away_team": [
+        "Baptiste Reynet",
+        "Kelvin Amian",
+        "Christopher Jullien",
+        "Max Gradel",
+        "Aaron Leya Iseka",
+        "Issiaga Sylla",
+        "Mathieu Dossevi",
+        "Ibrahim Sangar\u00e9",
+        "Jimmy Durmaz",
+        "Manu Garc\u00eda",
+        "Jean-Clair Todibo",
+        "Mauro Goicoechea",
+        "Yannick Cahuzac",
+        "Steven Moreira",
+        "Corentin Jean",
+        "Yaya Sanogo",
+        "Steven Fortes",
+        "Ndombe Mubele"
+    ],
+    "fouls": [
+        12,
+        13
+    ],
+    "corners": [
+        11,
+        4
+    ],
+    "crosses": [
+        45,
+        10
+    ],
+    "touches": [
+        650,
+        515
+    ],
+    "tackles": [
+        23,
+        20
+    ],
+    "interceptions": [
+        6,
+        9
+    ],
+    "aerials_won": [
+        18,
+        14
+    ],
+    "clearances": [
+        14,
+        49
+    ],
+    "offsides": [
+        1,
+        2
+    ],
+    "goal_kicks": [
+        2,
+        15
+    ],
+    "throw_ins": [
+        31,
+        14
+    ],
+    "long_balls": [
+        70,
+        73
+    ]
+}

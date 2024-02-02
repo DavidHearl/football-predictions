@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "1",
+        "2"
+    ],
+    "expected_goals": [
+        "0.2",
+        "1.0"
+    ],
+    "home_team": [
+        "Rui Silva",
+        "Germ\u00e1n S\u00e1nchez",
+        "\u00c1lvaro Vadillo",
+        "Yan Brice Eteki",
+        "Antonio Puertas",
+        "Ramon Azeez",
+        "Carlos Neva",
+        "V\u00edctor D\u00edaz",
+        "Yangel Herrera",
+        "Domingos Duarte",
+        "Carlos Fern\u00e1ndez",
+        "Aar\u00f3n Escandell",
+        "\u00c1lex Mart\u00ednez",
+        "Jos\u00e9 Mart\u00ednez",
+        "Fede Vico",
+        "Quini",
+        "Adri\u00e1n Ramos",
+        "Darwin Mach\u00eds"
+    ],
+    "away_team": [
+        "\u00c1lex Remiro",
+        "Joseba Zald\u00faa",
+        "Diego Llorente",
+        "Igor Zubeldia",
+        "Portu",
+        "Mikel Merino",
+        "Willian Jos\u00e9",
+        "Mikel Oyarzabal",
+        "Nacho Monreal",
+        "Luca Sangalli",
+        "Robin Le Normand",
+        "Miguel \u00c1ngel Moy\u00e1",
+        "Adnan Januzaj",
+        "Ander Guevara",
+        "David Zurutuza",
+        "Andoni Gorosabel",
+        "Alexander Isak",
+        "Ander Barrenetxea"
+    ],
+    "fouls": [
+        15,
+        19
+    ],
+    "corners": [
+        4,
+        5
+    ],
+    "crosses": [
+        24,
+        28
+    ],
+    "touches": [
+        430,
+        632
+    ],
+    "tackles": [
+        11,
+        16
+    ],
+    "interceptions": [
+        8,
+        8
+    ],
+    "aerials_won": [
+        12,
+        30
+    ],
+    "clearances": [
+        21,
+        26
+    ],
+    "offsides": [
+        4,
+        1
+    ],
+    "goal_kicks": [
+        7,
+        6
+    ],
+    "throw_ins": [
+        24,
+        17
+    ],
+    "long_balls": [
+        88,
+        65
+    ]
+}

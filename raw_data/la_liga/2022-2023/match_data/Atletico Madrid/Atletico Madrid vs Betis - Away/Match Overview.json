@@ -1,0 +1,106 @@
+{
+    "goals": [
+        "1",
+        "2"
+    ],
+    "expected_goals": [
+        "1.4",
+        "0.8"
+    ],
+    "home_team": [
+        "Rui Silva",
+        "Guido Rodr\u00edguez",
+        "Borja Iglesias",
+        "Luiz Henrique",
+        "William Carvalho",
+        "\u00c1lex Moreno",
+        "Germ\u00e1n Pezzella",
+        "Andr\u00e9s Guardado",
+        "Luiz Felipe",
+        "Youssouf Sabaly",
+        "Rodri",
+        "Claudio Bravo",
+        "Mart\u00edn Montoya",
+        "\u00c9dgar Gonz\u00e1lez",
+        "Paul Akouokou",
+        "V\u00edctor Ruiz",
+        "Nabil Fekir",
+        "Willian Jos\u00e9",
+        "Joaqu\u00edn",
+        "Loren Mor\u00f3n",
+        "Aitor Ruibal",
+        "Juan Cruz",
+        "Juan Miranda"
+    ],
+    "away_team": [
+        "Jan Oblak",
+        "Jos\u00e9 Mar\u00eda Gim\u00e9nez",
+        "Geoffrey Kondogbia",
+        "Antoine Griezmann",
+        "\u00c1ngel Correa",
+        "Stefan Savi\u0107",
+        "Nahuel Molina",
+        "Sa\u00fal \u00d1\u00edguez",
+        "\u00c1lvaro Morata",
+        "Axel Witsel",
+        "Reinildo Mandava",
+        "Ivo Grbi\u0107",
+        "Alejandro Iturbe",
+        "Rodrigo De Paul",
+        "Jo\u00e3o F\u00e9lix",
+        "Matheus Cunha",
+        "Felipe",
+        "Yannick Carrasco",
+        "Mario Hermoso",
+        "Sergio Diez Roldan",
+        "Pablo Barrios"
+    ],
+    "fouls": [
+        10,
+        17
+    ],
+    "corners": [
+        7,
+        3
+    ],
+    "crosses": [
+        16,
+        8
+    ],
+    "touches": [
+        725,
+        634
+    ],
+    "tackles": [
+        16,
+        26
+    ],
+    "interceptions": [
+        12,
+        12
+    ],
+    "aerials_won": [
+        10,
+        12
+    ],
+    "clearances": [
+        17,
+        15
+    ],
+    "offsides": [
+        2,
+        0
+    ],
+    "goal_kicks": [
+        2,
+        8
+    ],
+    "throw_ins": [
+        22,
+        27
+    ],
+    "long_balls": [
+        51,
+        53
+    ]
+}

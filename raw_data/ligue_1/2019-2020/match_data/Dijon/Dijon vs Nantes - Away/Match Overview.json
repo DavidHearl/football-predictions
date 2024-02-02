@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "1",
+        "0"
+    ],
+    "expected_goals": [
+        "1.2",
+        "0.5"
+    ],
+    "home_team": [
+        "Alban Lafont",
+        "Nicolas Pallois",
+        "Kalifa Coulibaly",
+        "Dennis Appiah",
+        "Charles Traore",
+        "Ludovic Blas",
+        "Abdoulaye Tour\u00e9",
+        "Andrei Girotto",
+        "Imran Louza",
+        "Moses Simon",
+        "Abdoul Kader Bamba",
+        "Alexandre Olliero",
+        "Cristian Benavente",
+        "Mehdi Abeid",
+        "Molla Wagu\u00e9",
+        "Samuel Moutoussamy",
+        "Thomas Basila",
+        "Elie Youan"
+    ],
+    "away_team": [
+        "R\u00fanar Alex R\u00fanarsson",
+        "Micka\u00ebl Alphonse",
+        "Matheus Pereira da Silva",
+        "Florent Balmont",
+        "Mama Samba Bald\u00e9",
+        "Jhonder C\u00e1diz",
+        "Romain Amalfitano",
+        "Mounir Chouiar",
+        "Didier Ibrahim Ndong",
+        "Bruno Ecuele Manga",
+        "Fouad Chafik",
+        "Ewan Hatfout",
+        "Th\u00e9o Barbet",
+        "Bryan Soumar\u00e9",
+        "Stephy Mavididi",
+        "Enzo Loiodice",
+        "Hamza Mendyl",
+        "Ahmad Ngouyamsa"
+    ],
+    "fouls": [
+        12,
+        14
+    ],
+    "corners": [
+        9,
+        1
+    ],
+    "crosses": [
+        24,
+        9
+    ],
+    "touches": [
+        656,
+        600
+    ],
+    "tackles": [
+        18,
+        26
+    ],
+    "interceptions": [
+        9,
+        13
+    ],
+    "aerials_won": [
+        18,
+        21
+    ],
+    "clearances": [
+        11,
+        21
+    ],
+    "offsides": [
+        1,
+        3
+    ],
+    "goal_kicks": [
+        4,
+        13
+    ],
+    "throw_ins": [
+        23,
+        20
+    ],
+    "long_balls": [
+        60,
+        78
+    ]
+}

@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "1",
+        "2"
+    ],
+    "expected_goals": [
+        "1.0",
+        "1.1"
+    ],
+    "home_team": [
+        "Ciprian T\u0103t\u0103ru\u0219anu",
+        "Kara Mbodji",
+        "Lucas Lima",
+        "Emiliano Sala",
+        "Abdul Majeed Waris",
+        "Gabriel Boschilia",
+        "Matt Miazga",
+        "Rene Krhin",
+        "Anthony Limbombe",
+        "Enock Kwateng",
+        "Valentin Rongier",
+        "Maxime Dup\u00e9",
+        "F\u00e1bio",
+        "Nicolas Pallois",
+        "Kalifa Coulibaly",
+        "Lucas Evangelista",
+        "Samuel Moutoussamy",
+        "Abdoulaye Tour\u00e9"
+    ],
+    "away_team": [
+        "Walter Ben\u00edtez",
+        "Adrien Tameze",
+        "Allan Saint-Maximin",
+        "Pierre Lees-Melou",
+        "Racine Coly",
+        "Malang Sarr",
+        "Christophe Jallet",
+        "Myziane Maolida",
+        "Jean-Victor Makengo",
+        "Christophe H\u00e9relle",
+        "Dante",
+        "Yannis Clementia",
+        "R\u00e9mi Walter",
+        "Bassem Srarfi",
+        "Ihsan Sacko",
+        "Youcef Atal",
+        "Wylan Cyprien",
+        "Olivier Boscagli"
+    ],
+    "fouls": [
+        12,
+        15
+    ],
+    "corners": [
+        8,
+        8
+    ],
+    "crosses": [
+        29,
+        12
+    ],
+    "touches": [
+        636,
+        642
+    ],
+    "tackles": [
+        24,
+        17
+    ],
+    "interceptions": [
+        12,
+        15
+    ],
+    "aerials_won": [
+        19,
+        17
+    ],
+    "clearances": [
+        16,
+        25
+    ],
+    "offsides": [
+        2,
+        1
+    ],
+    "goal_kicks": [
+        7,
+        6
+    ],
+    "throw_ins": [
+        29,
+        20
+    ],
+    "long_balls": [
+        68,
+        71
+    ]
+}

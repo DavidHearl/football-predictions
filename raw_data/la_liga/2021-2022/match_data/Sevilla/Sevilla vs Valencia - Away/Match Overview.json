@@ -1,0 +1,106 @@
+{
+    "goals": [
+        "1",
+        "1"
+    ],
+    "expected_goals": [
+        "0.5",
+        "0.9"
+    ],
+    "home_team": [
+        "Jasper Cillessen",
+        "Thierry Correia",
+        "Yunus Musah",
+        "Hugo Guillam\u00f3n",
+        "Gon\u00e7alo Guedes",
+        "Mouctar Diakhaby",
+        "Jos\u00e9 Luis Gay\u00e0",
+        "Omar Alderete",
+        "Hugo Duro",
+        "Dimitri Foulquier",
+        "Cristhian Mosquera",
+        "Jaume Dom\u00e9nech",
+        "Giorgi Mamardashvili",
+        "Toni Lato",
+        "Uro\u0161 Ra\u010di\u0107",
+        "H\u00e9lder Costa",
+        "Denis Cheryshev",
+        "Manu Vallejo",
+        "Marcos Andr\u00e9",
+        "Javier Guerra",
+        "Jesus Vazquez",
+        "Diego L\u00f3pez",
+        "Ruben Lendinez"
+    ],
+    "away_team": [
+        "Javier D\u00edaz",
+        "Gonzalo Montiel",
+        "Karim Rekik",
+        "Lucas Ocampos",
+        "Ivan Rakiti\u0107",
+        "Rafa Mir",
+        "Marcos Acu\u00f1a",
+        "Diego Carlos",
+        "\u00d3liver Torres",
+        "Papu G\u00f3mez",
+        "Fernando",
+        "Alfonso Pastor",
+        "Alberto L\u00f3pez",
+        "Joan Jord\u00e1n",
+        "Jes\u00fas Corona",
+        "Oussama Idrissi",
+        "Luismi",
+        "Carmona",
+        "Iv\u00e1n Romero",
+        "Zarzana",
+        "Nacho Quintana"
+    ],
+    "fouls": [
+        22,
+        14
+    ],
+    "corners": [
+        4,
+        4
+    ],
+    "crosses": [
+        20,
+        12
+    ],
+    "touches": [
+        337,
+        703
+    ],
+    "tackles": [
+        13,
+        11
+    ],
+    "interceptions": [
+        10,
+        7
+    ],
+    "aerials_won": [
+        14,
+        21
+    ],
+    "clearances": [
+        13,
+        23
+    ],
+    "offsides": [
+        2,
+        1
+    ],
+    "goal_kicks": [
+        8,
+        3
+    ],
+    "throw_ins": [
+        20,
+        21
+    ],
+    "long_balls": [
+        60,
+        93
+    ]
+}

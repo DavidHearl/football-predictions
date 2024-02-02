@@ -1,0 +1,108 @@
+{
+    "goals": [
+        "0",
+        "3"
+    ],
+    "expected_goals": [
+        "1.4",
+        "1.8"
+    ],
+    "home_team": [
+        "Sergio Rico",
+        "Brian Oliv\u00e1n",
+        "Vedat Muriqi",
+        "Antonio S\u00e1nchez",
+        "Iddrisu Baba",
+        "Dani Rodr\u00edguez",
+        "Pablo Maffeo",
+        "Takefusa Kubo",
+        "Antonio Raillo",
+        "\u00c1ngel Rodr\u00edguez",
+        "Martin Valjent",
+        "Leonardo Rom\u00e1n",
+        "Giovanni Gonz\u00e1lez",
+        "Franco Russo",
+        "Cl\u00e9ment Grenier",
+        "Salva Sevilla",
+        "Abd\u00f3n Prats",
+        "Jaume Costa",
+        "Lee Kang-in",
+        "Aleksandar Sedlar",
+        "Amath",
+        "Fernando Ni\u00f1o",
+        "Javier Llabr\u00e9s"
+    ],
+    "away_team": [
+        "Thibaut Courtois",
+        "David Alaba",
+        "Nacho",
+        "Toni Kroos",
+        "Karim Benzema",
+        "Casemiro",
+        "Federico Valverde",
+        "Lucas V\u00e1zquez",
+        "Vinicius J\u00fanior",
+        "Rodrygo",
+        "Ferland Mendy",
+        "Andriy Lunin",
+        "Dani Carvajal",
+        "Jes\u00fas Vallejo",
+        "Eden Hazard",
+        "Luka Modri\u0107",
+        "Marco Asensio",
+        "Marcelo",
+        "Gareth Bale",
+        "Dani Ceballos",
+        "Isco",
+        "Mariano",
+        "Eduardo Camavinga"
+    ],
+    "fouls": [
+        13,
+        15
+    ],
+    "corners": [
+        1,
+        6
+    ],
+    "crosses": [
+        19,
+        10
+    ],
+    "touches": [
+        490,
+        725
+    ],
+    "tackles": [
+        21,
+        19
+    ],
+    "interceptions": [
+        8,
+        10
+    ],
+    "aerials_won": [
+        15,
+        13
+    ],
+    "clearances": [
+        12,
+        12
+    ],
+    "offsides": [
+        0,
+        4
+    ],
+    "goal_kicks": [
+        5,
+        10
+    ],
+    "throw_ins": [
+        20,
+        18
+    ],
+    "long_balls": [
+        66,
+        52
+    ]
+}

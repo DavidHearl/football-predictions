@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "0",
+        "4"
+    ],
+    "expected_goals": [
+        "0.2",
+        "3.2"
+    ],
+    "home_team": [
+        "Paul Bernardoni",
+        "Pablo Martinez",
+        "Romain Philippoteaux",
+        "Zinedine Ferhat",
+        "Lamine Fomba",
+        "Ga\u00ebtan Paquiez",
+        "Theo Valls",
+        "Lucas Buad\u00e9s",
+        "Renaud Ripart",
+        "Anthony Brian\u00e7on",
+        "Florian Miguel",
+        "Lucas Dias",
+        "Th\u00e9o Sainte-Luce",
+        "Antoine Valerio",
+        "Haris Duljevi\u0107",
+        "Sami Ben Amar",
+        "Kevin Denkey",
+        "Luca Valls"
+    ],
+    "away_team": [
+        "Anthony Lopes",
+        "Joachim Andersen",
+        "Rafael",
+        "Jason Denayer",
+        "Houssem Aouar",
+        "Moussa Demb\u00e9l\u00e9",
+        "Bertrand Traor\u00e9",
+        "Memphis",
+        "Thiago Mendes",
+        "Kenny Tete",
+        "Maxence Caqueret",
+        "Anthony Racioppi",
+        "Marcelo",
+        "Martin Terrier",
+        "Jeff Reine-Ad\u00e9la\u00efde",
+        "Jean Lucas",
+        "Lucas Tousart",
+        "Melvin Bard"
+    ],
+    "fouls": [
+        10,
+        15
+    ],
+    "corners": [
+        1,
+        5
+    ],
+    "crosses": [
+        7,
+        21
+    ],
+    "touches": [
+        313,
+        811
+    ],
+    "tackles": [
+        16,
+        13
+    ],
+    "interceptions": [
+        13,
+        9
+    ],
+    "aerials_won": [
+        12,
+        10
+    ],
+    "clearances": [
+        22,
+        12
+    ],
+    "offsides": [
+        1,
+        4
+    ],
+    "goal_kicks": [
+        12,
+        3
+    ],
+    "throw_ins": [
+        16,
+        17
+    ],
+    "long_balls": [
+        52,
+        53
+    ]
+}

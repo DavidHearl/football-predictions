@@ -1,0 +1,108 @@
+{
+    "goals": [
+        "1",
+        "2"
+    ],
+    "expected_goals": [
+        "0.7",
+        "2.0"
+    ],
+    "home_team": [
+        "Jasper Cillessen",
+        "Thierry Correia",
+        "Hugo Guillam\u00f3n",
+        "Gon\u00e7alo Guedes",
+        "Maxi G\u00f3mez",
+        "Carlos Soler",
+        "H\u00e9lder Costa",
+        "Omar Alderete",
+        "Daniel Wass",
+        "Hugo Duro",
+        "Jesus Vazquez",
+        "Jaume Dom\u00e9nech",
+        "Giorgi Mamardashvili",
+        "Yunus Musah",
+        "Alejandro Blanco",
+        "Denis Cheryshev",
+        "Manu Vallejo",
+        "Cristiano Piccini",
+        "Pedro Alema\u00f1",
+        "Koba Koindredi",
+        "Jos\u00e9 Menargues ",
+        "Alessandro Burlamaqui",
+        "Ruben Lendinez"
+    ],
+    "away_team": [
+        "Diego L\u00f3pez",
+        "Adri\u00e0 Pedrosa",
+        "Leandro Cabrera",
+        "Sergi Darder",
+        "Ra\u00fal de Tom\u00e1s",
+        "Loren Mor\u00f3n",
+        "Keidi Bare",
+        "Nico Ribaudo",
+        "Aleix Vidal",
+        "Adri Embarba",
+        "Sergi G\u00f3mez",
+        "Oier Olaz\u00e1bal",
+        "Miguel Juan Llambrich",
+        "Manu Morlanes",
+        "Wu Lei",
+        "Javi Puado",
+        "\u00d3scar Gil",
+        "\u00d3scar Melendo",
+        "D\u00eddac Vil\u00e0",
+        "Landry Dimata",
+        "Aleix Gorjon",
+        "Jofre",
+        "Daniel Villahermosa"
+    ],
+    "fouls": [
+        19,
+        14
+    ],
+    "corners": [
+        7,
+        5
+    ],
+    "crosses": [
+        26,
+        17
+    ],
+    "touches": [
+        375,
+        669
+    ],
+    "tackles": [
+        11,
+        17
+    ],
+    "interceptions": [
+        8,
+        8
+    ],
+    "aerials_won": [
+        9,
+        9
+    ],
+    "clearances": [
+        6,
+        23
+    ],
+    "offsides": [
+        0,
+        3
+    ],
+    "goal_kicks": [
+        5,
+        5
+    ],
+    "throw_ins": [
+        15,
+        10
+    ],
+    "long_balls": [
+        72,
+        73
+    ]
+}

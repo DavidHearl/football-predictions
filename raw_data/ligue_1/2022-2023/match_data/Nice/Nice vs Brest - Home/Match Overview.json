@@ -1,0 +1,102 @@
+{
+    "goals": [
+        "1",
+        "0"
+    ],
+    "expected_goals": [
+        "1.1",
+        "1.1"
+    ],
+    "home_team": [
+        "Kasper Schmeichel",
+        "Dante",
+        "Bilal Brahimi",
+        "Aaron Ramsey",
+        "Youcef Atal",
+        "Jordan Lotomba",
+        "Ga\u00ebtan Laborde",
+        "Jean-Clair Todibo",
+        "Hicham Boudaoui",
+        "Nicolas P\u00e9p\u00e9",
+        "Mario Lemina",
+        "Teddy Boulhendi",
+        "Andy Delort",
+        "Pablo Rosario",
+        "Sofiane Diop",
+        "Ross Barkley",
+        "Joe Bryan",
+        "Kh\u00e9phren Thuram",
+        "Antoine Mendy",
+        "Mattia Viti"
+    ],
+    "away_team": [
+        "Marco Bizot",
+        "Jean-Kevin Duverne",
+        "Lilian Brassier",
+        "Brendan Chardonnet",
+        "Haris Belkebla",
+        "Franck Honorat",
+        "Romain Del Castillo",
+        "Pierre Lees-Melou",
+        "J\u00e9r\u00e9my Le Douaron",
+        "Mahdi Camara",
+        "Noah Fadiga",
+        "Joaqu\u00edn Bl\u00e1zquez",
+        "Achraf Dari",
+        "Hugo Magnetti",
+        "Axel Camblan",
+        "Irvin Cardona",
+        "Karamoko Dembele",
+        "Christophe H\u00e9relle",
+        "Mathias Pereira Lage",
+        "Ta\u00efryk Arconte"
+    ],
+    "fouls": [
+        6,
+        11
+    ],
+    "corners": [
+        2,
+        6
+    ],
+    "crosses": [
+        14,
+        20
+    ],
+    "touches": [
+        733,
+        586
+    ],
+    "tackles": [
+        21,
+        14
+    ],
+    "interceptions": [
+        11,
+        14
+    ],
+    "aerials_won": [
+        10,
+        11
+    ],
+    "clearances": [
+        23,
+        11
+    ],
+    "offsides": [
+        5,
+        2
+    ],
+    "goal_kicks": [
+        7,
+        4
+    ],
+    "throw_ins": [
+        11,
+        19
+    ],
+    "long_balls": [
+        53,
+        83
+    ]
+}

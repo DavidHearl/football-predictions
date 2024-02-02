@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "0",
+        "4"
+    ],
+    "expected_goals": [
+        "1.1",
+        "4.3"
+    ],
+    "home_team": [
+        "St\u00e9phane Ruffier",
+        "Yann M'Vila",
+        "Mahdi Camara",
+        "Gabriel Silva",
+        "Miguel Trauco",
+        "Jean-Eudes Aholou",
+        "Arnaud Nordin",
+        "Denis Bouanga",
+        "Lo\u00efc Perrin",
+        "Mathieu Debuchy",
+        "Wesley Fofana",
+        "Lois Diony",
+        "Jessy Moulin",
+        "Harold Moukoudi",
+        "Ryad Boudebouz",
+        "Sergi Palencia",
+        "Zaydou Youssouf",
+        "Edmilson Correia"
+    ],
+    "away_team": [
+        "Keylor Navas",
+        "Thiago Silva",
+        "Marquinhos",
+        "Kylian Mbapp\u00e9",
+        "Leandro Paredes",
+        "Neymar",
+        "\u00c1ngel Di Mar\u00eda",
+        "Thomas Meunier",
+        "Juan Bernat",
+        "Mauro Icardi",
+        "Abdou Diallo",
+        "Sergio Rico",
+        "Thilo Kehrer",
+        "Marco Verratti",
+        "Pablo Sarabia",
+        "Layvin Kurzawa",
+        "Colin Dagba",
+        "Tanguy Nianzou"
+    ],
+    "fouls": [
+        4,
+        9
+    ],
+    "corners": [
+        5,
+        2
+    ],
+    "crosses": [
+        16,
+        16
+    ],
+    "touches": [
+        487,
+        809
+    ],
+    "tackles": [
+        24,
+        23
+    ],
+    "interceptions": [
+        15,
+        7
+    ],
+    "aerials_won": [
+        10,
+        13
+    ],
+    "clearances": [
+        18,
+        11
+    ],
+    "offsides": [
+        1,
+        6
+    ],
+    "goal_kicks": [
+        7,
+        8
+    ],
+    "throw_ins": [
+        27,
+        18
+    ],
+    "long_balls": [
+        63,
+        55
+    ]
+}

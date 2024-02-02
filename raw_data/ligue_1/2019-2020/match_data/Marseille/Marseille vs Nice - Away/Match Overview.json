@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "1",
+        "2"
+    ],
+    "expected_goals": [
+        "1.7",
+        "1.7"
+    ],
+    "home_team": [
+        "Walter Ben\u00edtez",
+        "Dante",
+        "Adrien Tameze",
+        "Pierre Lees-Melou",
+        "Ignatius Ganago",
+        "Patrick Burner",
+        "Ihsan Sacko",
+        "Arnaud Lusamba",
+        "Andy Pelmard",
+        "Wylan Cyprien",
+        "Christophe H\u00e9relle",
+        "Yannis Clementia",
+        "Micka\u00ebl Le Bihan",
+        "Bassem Srarfi",
+        "Kh\u00e9phren Thuram",
+        "Youcef Atal",
+        "Eddy Sylvestre",
+        "Ibrahim Ciss\u00e9"
+    ],
+    "away_team": [
+        "Steve Mandanda",
+        "Hiroki Sakai",
+        "\u00c1lvaro Gonz\u00e1lez",
+        "Boubacar Kamara",
+        "Morgan Sanson",
+        "Dar\u00edo Benedetto",
+        "Dimitri Payet",
+        "Kevin Strootman",
+        "Bouna Sarr",
+        "Jordan Amavi",
+        "Maxime Lopez",
+        "Yohann Pel\u00e9",
+        "Nemanja Radonji\u0107",
+        "Duje \u0106aleta-Car",
+        "Luiz Gustavo",
+        "Sa\u00eef-Eddine Khaoui",
+        "Val\u00e8re Germain",
+        "Isaac Lihadji"
+    ],
+    "fouls": [
+        7,
+        13
+    ],
+    "corners": [
+        4,
+        3
+    ],
+    "crosses": [
+        14,
+        12
+    ],
+    "touches": [
+        710,
+        483
+    ],
+    "tackles": [
+        22,
+        22
+    ],
+    "interceptions": [
+        11,
+        8
+    ],
+    "aerials_won": [
+        10,
+        17
+    ],
+    "clearances": [
+        11,
+        19
+    ],
+    "offsides": [
+        1,
+        0
+    ],
+    "goal_kicks": [
+        6,
+        4
+    ],
+    "throw_ins": [
+        34,
+        25
+    ],
+    "long_balls": [
+        63,
+        55
+    ]
+}

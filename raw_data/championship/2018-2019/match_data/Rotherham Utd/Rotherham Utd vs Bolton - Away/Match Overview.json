@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "2",
+        "1"
+    ],
+    "expected_goals": [
+        "1.1",
+        "1.3"
+    ],
+    "home_team": [
+        "Ben Alnwick",
+        "Andrew Taylor",
+        "Jason Lowe",
+        "Mark Beevers",
+        "Clayton Donaldson",
+        "Christian Doidge",
+        "Sammy Ameobi",
+        "Marc Wilson",
+        "Gary O'Neil",
+        "Joe Williams",
+        "David Wheater",
+        "Remi Matthews",
+        "Josh Vela",
+        "Will Buckley",
+        "Craig Noone",
+        "Jack Hobbs",
+        "Pawe\u0142 Olkowski",
+        "Josh Magennis"
+    ],
+    "away_team": [
+        "Marek Rod\u00e1k",
+        "Zak Vyner",
+        "Joe Mattock",
+        "Will Vaulks",
+        "Semi Ajayi",
+        "Anthony Forde",
+        "Jamie Proctor",
+        "Richie Towell",
+        "Clark Robertson",
+        "Joe Newell",
+        "Michael Smith",
+        "Lewis Price",
+        "Richard Wood",
+        "Jon Taylor",
+        "Ryan Manning",
+        "Ryan Williams",
+        "Ben Wiles",
+        "Sean Raggett"
+    ],
+    "fouls": [
+        8,
+        12
+    ],
+    "corners": [
+        2,
+        4
+    ],
+    "crosses": [
+        21,
+        19
+    ],
+    "touches": [
+        512,
+        527
+    ],
+    "tackles": [
+        14,
+        17
+    ],
+    "interceptions": [
+        19,
+        16
+    ],
+    "aerials_won": [
+        39,
+        57
+    ],
+    "clearances": [
+        40,
+        35
+    ],
+    "offsides": [
+        1,
+        2
+    ],
+    "goal_kicks": [
+        9,
+        10
+    ],
+    "throw_ins": [
+        28,
+        35
+    ],
+    "long_balls": [
+        113,
+        128
+    ]
+}

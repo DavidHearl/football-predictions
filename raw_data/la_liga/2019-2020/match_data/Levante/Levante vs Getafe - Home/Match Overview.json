@@ -1,0 +1,105 @@
+{
+    "goals": [
+        "1",
+        "0"
+    ],
+    "expected_goals": [
+        "2.4",
+        "1.4"
+    ],
+    "home_team": [
+        "Koke Vegas",
+        "To\u00f1o",
+        "Nemanja Radoja",
+        "\u00d3scar Duarte",
+        "Sergio Le\u00f3n",
+        "Hern\u00e2ni Fortes",
+        "Roger Mart\u00ed",
+        "Jos\u00e9 Luis Morales",
+        "Sergio Postigo",
+        "Gonzalo Melero",
+        "Coke",
+        "Aitor Fern\u00e1ndez",
+        "C\u00e1rdenas",
+        "Rober",
+        "R\u00faben Vezo",
+        "Rub\u00e9n Rochina",
+        "Carlos Clerc",
+        "Borja Mayoral",
+        "Jos\u00e9 Campa\u00f1a",
+        "Joan Monterde",
+        "Rub\u00e9n Garc\u00eda",
+        "Alejandro Blesa",
+        "Giorgi Kochorashvili"
+    ],
+    "away_team": [
+        "David Soria",
+        "Djen\u00e9",
+        "Jaime Mata",
+        "\u00c1ngel Rodr\u00edguez",
+        "Marc Cucurella",
+        "Math\u00edas Olivera",
+        "Mauro Arambarri",
+        "Nemanja Maksimovi\u0107",
+        "Dami\u00e1n Su\u00e1rez",
+        "Jason",
+        "David Timor",
+        "Leandro Chichizola",
+        "Erick Cabaco",
+        "Chema",
+        "Francisco Portillo",
+        "Amath",
+        "Jorge Molina",
+        "Fay\u00e7al Fajr",
+        "Hugo Duro",
+        "Florent Poulolo"
+    ],
+    "fouls": [
+        10,
+        11
+    ],
+    "corners": [
+        6,
+        8
+    ],
+    "crosses": [
+        19,
+        31
+    ],
+    "touches": [
+        585,
+        472
+    ],
+    "tackles": [
+        10,
+        19
+    ],
+    "interceptions": [
+        12,
+        10
+    ],
+    "aerials_won": [
+        21,
+        21
+    ],
+    "clearances": [
+        30,
+        17
+    ],
+    "offsides": [
+        4,
+        3
+    ],
+    "goal_kicks": [
+        12,
+        13
+    ],
+    "throw_ins": [
+        11,
+        34
+    ],
+    "long_balls": [
+        69,
+        87
+    ]
+}

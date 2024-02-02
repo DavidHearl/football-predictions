@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "1",
+        "1"
+    ],
+    "expected_goals": [
+        "2.3",
+        "1.3"
+    ],
+    "home_team": [
+        "Jan Oblak",
+        "Diego God\u00edn",
+        "Filipe Lu\u00eds",
+        "Koke",
+        "Antoine Griezmann",
+        "Sa\u00fal \u00d1\u00edguez",
+        "Thomas Lemar",
+        "Rodri",
+        "Diego Costa",
+        "Juanfran",
+        "Jos\u00e9 Mar\u00eda Gim\u00e9nez",
+        "Antonio Ad\u00e1n",
+        "Thomas Partey",
+        "\u00c1ngel Correa",
+        "Gelson Martins",
+        "Borja Garc\u00e9s",
+        "Andr\u00e9s Solano",
+        "Francisco Montero"
+    ],
+    "away_team": [
+        "Marko Dmitrovi\u0107",
+        "Sergio \u00c1lvarez",
+        "Papakouli Diop",
+        "Rub\u00e9n Pe\u00f1a",
+        "Paulo Oliveira",
+        "Jos\u00e9 \u00c1ngel",
+        "Pablo de Blasis",
+        "Charles",
+        "Pere Milla",
+        "Anaitz Arbilla",
+        "Joan Jord\u00e1n",
+        "Asier Riesgo",
+        "Iv\u00e1n Ramis",
+        "Gonzalo Escalante",
+        "Marc Cardona",
+        "Sergi Enrich",
+        "Pablo Herv\u00edas",
+        "Marc Cucurella"
+    ],
+    "fouls": [
+        5,
+        21
+    ],
+    "corners": [
+        14,
+        3
+    ],
+    "crosses": [
+        38,
+        16
+    ],
+    "touches": [
+        697,
+        590
+    ],
+    "tackles": [
+        10,
+        26
+    ],
+    "interceptions": [
+        16,
+        13
+    ],
+    "aerials_won": [
+        30,
+        22
+    ],
+    "clearances": [
+        18,
+        53
+    ],
+    "offsides": [
+        3,
+        1
+    ],
+    "goal_kicks": [
+        8,
+        7
+    ],
+    "throw_ins": [
+        38,
+        14
+    ],
+    "long_balls": [
+        82,
+        96
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "goals": [
+        "2",
+        "1"
+    ],
+    "expected_goals": [
+        "1.2",
+        "0.3"
+    ],
+    "home_team": [
+        "Yahia Fofana",
+        "Batista Mendy",
+        "Halid \u0160abanovi\u0107",
+        "Ibrahima Niane",
+        "Himad Abdelli",
+        "Abdallah Sima",
+        "C\u00e9dric Hountondji",
+        "Adrien Hunou",
+        "Abdoulaye Bamba",
+        "Sada Thioub",
+        "Yan Valery",
+        "Paul Bernardoni",
+        "Lois Diony",
+        "Miha Bla\u017ei\u010d",
+        "Zin\u00e9dine Ould Khaled",
+        "Pierrick Capelle",
+        "Jean Matt\u00e9o Bahoya",
+        "Farid El Melali",
+        "Lilian Raolisoa",
+        "Yacine Gaya"
+    ],
+    "away_team": [
+        "Mateusz Lis",
+        "Jackson Porozo",
+        "Erik Palmer-Brown",
+        "Rominigue Kouam\u00e9",
+        "Ike Ugbo",
+        "Rony Lopes",
+        "Abdu Cont\u00e9",
+        "Thierno Balde",
+        "Xavier Chavalerin",
+        "Kyliane Dong",
+        "Yasser Larouci",
+        "Jessy Moulin",
+        "Mama Samba Bald\u00e9",
+        "Andreas Bruus",
+        "Papa Ndiaga Yade",
+        "Derek Mazou-Sacko",
+        "Jordan Dongmo",
+        "Rudy Kohon",
+        "Ryan Fage"
+    ],
+    "fouls": [
+        12,
+        7
+    ],
+    "corners": [
+        14,
+        3
+    ],
+    "crosses": [
+        25,
+        14
+    ],
+    "touches": [
+        623,
+        452
+    ],
+    "tackles": [
+        10,
+        18
+    ],
+    "interceptions": [
+        8,
+        10
+    ],
+    "aerials_won": [
+        15,
+        17
+    ],
+    "clearances": [
+        13,
+        22
+    ],
+    "offsides": [
+        2,
+        1
+    ],
+    "goal_kicks": [
+        5,
+        11
+    ],
+    "throw_ins": [
+        24,
+        18
+    ],
+    "long_balls": [
+        68,
+        51
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "goals": [
+        "2",
+        "1"
+    ],
+    "expected_goals": [
+        "0.5",
+        "1.0"
+    ],
+    "home_team": [
+        "Yassine Bounou",
+        "Gonzalo Montiel",
+        "Karim Rekik",
+        "Lucas Ocampos",
+        "Joan Jord\u00e1n",
+        "Ivan Rakiti\u0107",
+        "Thomas Delaney",
+        "Diego Carlos",
+        "Jules Kound\u00e9",
+        "Papu G\u00f3mez",
+        "Iv\u00e1n Romero",
+        "Marko Dmitrovi\u0107",
+        "Javier D\u00edaz",
+        "Ludwig Augustinsson",
+        "Nemanja Gudelj",
+        "Munir El Haddadi",
+        "Rafa Mir",
+        "\u00d3scar Rodr\u00edguez Arnaiz",
+        "Marcos Acu\u00f1a",
+        "Oussama Idrissi",
+        "Luismi",
+        "Juanlu S\u00e1nchez",
+        "Nacho Quintana"
+    ],
+    "away_team": [
+        "Jan Oblak",
+        "Geoffrey Kondogbia",
+        "Koke",
+        "Luis Su\u00e1rez",
+        "\u00c1ngel Correa",
+        "Thomas Lemar",
+        "Marcos Llorente",
+        "Felipe",
+        "Yannick Carrasco",
+        "Mario Hermoso",
+        "Kieran Trippier",
+        "Benjamin Lecomte",
+        "Rodrigo De Paul",
+        "Jo\u00e3o F\u00e9lix",
+        "Renan Lodi",
+        "H\u00e9ctor Herrera",
+        "Matheus Cunha",
+        "Javier Serrano",
+        "Carlos Mart\u00edn",
+        "Ibrahima Camara"
+    ],
+    "fouls": [
+        15,
+        14
+    ],
+    "corners": [
+        4,
+        7
+    ],
+    "crosses": [
+        15,
+        18
+    ],
+    "touches": [
+        655,
+        555
+    ],
+    "tackles": [
+        15,
+        23
+    ],
+    "interceptions": [
+        14,
+        13
+    ],
+    "aerials_won": [
+        14,
+        12
+    ],
+    "clearances": [
+        18,
+        11
+    ],
+    "offsides": [
+        0,
+        1
+    ],
+    "goal_kicks": [
+        8,
+        10
+    ],
+    "throw_ins": [
+        20,
+        24
+    ],
+    "long_balls": [
+        88,
+        80
+    ]
+}

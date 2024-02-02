@@ -1,0 +1,101 @@
+{
+    "goals": [
+        "2",
+        "1"
+    ],
+    "expected_goals": [
+        "1.2",
+        "0.4"
+    ],
+    "home_team": [
+        "Anthony Lopes",
+        "Emerson Palmieri",
+        "Castello Lukeba",
+        "Henrique",
+        "Leo Dubois",
+        "Malo Gusto",
+        "Rayan Cherki",
+        "Thiago Mendes",
+        "Maxence Caqueret",
+        "J\u00e9r\u00f4me Boateng",
+        "Xherdan Shaqiri",
+        "Julian Pollersbeck",
+        "Sinaly Diomande",
+        "Moussa Demb\u00e9l\u00e9",
+        "Habib Keita",
+        "Bradley Barcola",
+        "Irvyn Lomami",
+        "Madyan Sounni",
+        "Noam Bonnet"
+    ],
+    "away_team": [
+        "Pau L\u00f3pez",
+        "William Saliba",
+        "Boubacar Kamara",
+        "Matt\u00e9o Guendouzi",
+        "Dimitri Payet",
+        "Luis Henrique",
+        "Luan Peres Petroni",
+        "Duje \u0106aleta-Car",
+        "Cengiz \u00dcnder",
+        "Valentin Rongier",
+        "Pol Lirola",
+        "Simon Ngapandouetnbu",
+        "Steve Mandanda",
+        "\u00c1lvaro Gonz\u00e1lez",
+        "Amine Harit",
+        "Arkadiusz Milik",
+        "Oussama Targhalline",
+        "Ugo Bertelli",
+        "Salim Ben Seghir",
+        "Aylan Benyahia"
+    ],
+    "fouls": [
+        8,
+        8
+    ],
+    "corners": [
+        4,
+        6
+    ],
+    "crosses": [
+        13,
+        11
+    ],
+    "touches": [
+        756,
+        641
+    ],
+    "tackles": [
+        21,
+        19
+    ],
+    "interceptions": [
+        7,
+        9
+    ],
+    "aerials_won": [
+        9,
+        5
+    ],
+    "clearances": [
+        13,
+        14
+    ],
+    "offsides": [
+        3,
+        2
+    ],
+    "goal_kicks": [
+        5,
+        8
+    ],
+    "throw_ins": [
+        19,
+        13
+    ],
+    "long_balls": [
+        52,
+        60
+    ]
+}

@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "1",
+        "2"
+    ],
+    "expected_goals": [
+        "1.0",
+        "3.0"
+    ],
+    "home_team": [
+        "Brice Samba",
+        "Paul Baysse",
+        "Isma\u00ebl Diomand\u00e9",
+        "Prince Oniangu\u00e9",
+        "Fay\u00e7al Fajr",
+        "Claudio Beauvue",
+        "Jonathan Gradit",
+        "Frederic Guilbert",
+        "Adama Mbengue",
+        "Alexander Djiku",
+        "Enzo Crivelli",
+        "Erwin Zelazny",
+        "Yo\u00ebl Armougom",
+        "Baissama Sankoh",
+        "Sa\u00eef-Eddine Khaoui",
+        "Evens Joseph",
+        "Yacine Bammou",
+        "Malik Tchokount\u00e9"
+    ],
+    "away_team": [
+        "Paul Bernardoni",
+        "Jordan Ferri",
+        "Rachid Alioui",
+        "Denis Bouanga",
+        "T\u00e9ji Savanier",
+        "Antonin Bobichon",
+        "Ga\u00ebtan Paquiez",
+        "Umut Bozok",
+        "F\u00e9thi Harek",
+        "Anthony Brian\u00e7on",
+        "Sofiane Alakouch",
+        "Baptiste Valette",
+        "Lo\u00efck Landre",
+        "Faitout Maouassa",
+        "Theo Valls",
+        "Renaud Ripart",
+        "Sada Thioub",
+        "Baptiste Guillaume"
+    ],
+    "fouls": [
+        19,
+        14
+    ],
+    "corners": [
+        0,
+        6
+    ],
+    "crosses": [
+        16,
+        17
+    ],
+    "touches": [
+        521,
+        598
+    ],
+    "tackles": [
+        17,
+        13
+    ],
+    "interceptions": [
+        7,
+        15
+    ],
+    "aerials_won": [
+        20,
+        18
+    ],
+    "clearances": [
+        32,
+        18
+    ],
+    "offsides": [
+        0,
+        2
+    ],
+    "goal_kicks": [
+        18,
+        6
+    ],
+    "throw_ins": [
+        28,
+        30
+    ],
+    "long_balls": [
+        86,
+        94
+    ]
+}

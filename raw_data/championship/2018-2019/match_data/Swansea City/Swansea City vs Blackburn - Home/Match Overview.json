@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "3",
+        "1"
+    ],
+    "expected_goals": [
+        "1.3",
+        "1.2"
+    ],
+    "home_team": [
+        "Kristoffer Nordfeldt",
+        "Martin Olsson",
+        "Mike van der Hoorn",
+        "Oliver McBurnie",
+        "Bersant Celina",
+        "Tom Carroll",
+        "Cameron Carter-Vickers",
+        "Daniel James",
+        "Matt Grimes",
+        "Connor Roberts",
+        "Kyle Naughton",
+        "Erwin Mulder",
+        "Leroy Fer",
+        "Joel Asoro",
+        "Barrie McKay",
+        "Joe Rodon",
+        "Jay Fulton",
+        "Courtney Baker-Richardson"
+    ],
+    "away_team": [
+        "David Raya",
+        "Harrison Reed",
+        "Richard Smallwood",
+        "Adam Armstrong",
+        "Danny Graham",
+        "Charlie Mulgrew",
+        "Amari'i Bell",
+        "Bradley Dack",
+        "Darragh Lenihan",
+        "Corry Evans",
+        "Elliott Bennett",
+        "Jayson Leutwiler",
+        "Derrick Williams",
+        "Jack Rodwell",
+        "Joe Rothwell",
+        "Ben Brereton",
+        "Craig Conway",
+        "Kasey Palmer"
+    ],
+    "fouls": [
+        11,
+        13
+    ],
+    "corners": [
+        5,
+        4
+    ],
+    "crosses": [
+        13,
+        14
+    ],
+    "touches": [
+        647,
+        538
+    ],
+    "tackles": [
+        17,
+        10
+    ],
+    "interceptions": [
+        7,
+        16
+    ],
+    "aerials_won": [
+        15,
+        14
+    ],
+    "clearances": [
+        19,
+        10
+    ],
+    "offsides": [
+        1,
+        1
+    ],
+    "goal_kicks": [
+        8,
+        9
+    ],
+    "throw_ins": [
+        23,
+        24
+    ],
+    "long_balls": [
+        75,
+        93
+    ]
+}

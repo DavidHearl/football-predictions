@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "1",
+        "2"
+    ],
+    "expected_goals": [
+        "1.2",
+        "1.5"
+    ],
+    "home_team": [
+        "David Soria",
+        "Djen\u00e9",
+        "Vitorino Antunes",
+        "Leandro Cabrera",
+        "Jaime Mata",
+        "Francisco Portillo",
+        "\u00c1ngel Rodr\u00edguez",
+        "Mauro Arambarri",
+        "Nemanja Maksimovi\u0107",
+        "Dami\u00e1n Su\u00e1rez",
+        "Dimitri Foulquier",
+        "Leandro Chichizola",
+        "Bruno Gonz\u00e1lez",
+        "Samuel S\u00e1iz",
+        "Sebasti\u00e1n Crist\u00f3foro",
+        "Mathieu Flamini",
+        "Robert Ib\u00e1\u00f1ez",
+        "Jorge Molina"
+    ],
+    "away_team": [
+        "Marc-Andr\u00e9 ter Stegen",
+        "Gerard Piqu\u00e9",
+        "Ivan Rakiti\u0107",
+        "Arthur Melo",
+        "Luis Su\u00e1rez",
+        "Lionel Messi",
+        "Ousmane Demb\u00e9l\u00e9",
+        "Cl\u00e9ment Lenglet",
+        "Jordi Alba",
+        "Sergi Roberto",
+        "Arturo Vidal",
+        "Jasper Cillessen",
+        "N\u00e9lson Semedo",
+        "Sergio Busquets",
+        "Philippe Coutinho",
+        "Malcom",
+        "Jeison Murillo",
+        "Carles Ale\u00f1\u00e1"
+    ],
+    "fouls": [
+        23,
+        12
+    ],
+    "corners": [
+        4,
+        3
+    ],
+    "crosses": [
+        16,
+        6
+    ],
+    "touches": [
+        344,
+        853
+    ],
+    "tackles": [
+        16,
+        12
+    ],
+    "interceptions": [
+        8,
+        2
+    ],
+    "aerials_won": [
+        6,
+        15
+    ],
+    "clearances": [
+        17,
+        11
+    ],
+    "offsides": [
+        3,
+        2
+    ],
+    "goal_kicks": [
+        4,
+        6
+    ],
+    "throw_ins": [
+        11,
+        11
+    ],
+    "long_balls": [
+        63,
+        80
+    ]
+}

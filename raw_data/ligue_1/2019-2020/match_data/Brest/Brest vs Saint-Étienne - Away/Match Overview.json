@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "1",
+        "1"
+    ],
+    "expected_goals": [
+        "2.3",
+        "0.5"
+    ],
+    "home_team": [
+        "St\u00e9phane Ruffier",
+        "Harold Moukoudi",
+        "Yann M'Vila",
+        "Ryad Boudebouz",
+        "Wahbi Khazri",
+        "Miguel Trauco",
+        "Jean-Eudes Aholou",
+        "Denis Bouanga",
+        "Romain Hamouma",
+        "Lo\u00efc Perrin",
+        "Mathieu Debuchy",
+        "Lois Diony",
+        "Jessy Moulin",
+        "Arnaud Nordin",
+        "Sergi Palencia",
+        "Robert Beri\u0107",
+        "Zaydou Youssouf",
+        "Mickael Nade"
+    ],
+    "away_team": [
+        "Gautier Larsonneur",
+        "Ibrahima Diallo",
+        "Haris Belkebla",
+        "Yoann Court",
+        "Ga\u00ebtan Charbonnier",
+        "D\u00e9nys Bain",
+        "Romain Perraud",
+        "Jean-Charles Castelletto",
+        "Julien Faussurier",
+        "Mathias Autret",
+        "Samuel Grandsir",
+        "Donovan L\u00e9on",
+        "Brendan Chardonnet",
+        "K\u00e9vin Mayi",
+        "Cristian Battocchio",
+        "Paul Lasne",
+        "Ferris N'Goma",
+        "Ludovic Baal"
+    ],
+    "fouls": [
+        16,
+        8
+    ],
+    "corners": [
+        4,
+        2
+    ],
+    "crosses": [
+        19,
+        7
+    ],
+    "touches": [
+        615,
+        514
+    ],
+    "tackles": [
+        24,
+        20
+    ],
+    "interceptions": [
+        12,
+        15
+    ],
+    "aerials_won": [
+        24,
+        9
+    ],
+    "clearances": [
+        7,
+        14
+    ],
+    "offsides": [
+        3,
+        2
+    ],
+    "goal_kicks": [
+        4,
+        10
+    ],
+    "throw_ins": [
+        24,
+        27
+    ],
+    "long_balls": [
+        59,
+        76
+    ]
+}

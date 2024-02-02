@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "5",
+        "2"
+    ],
+    "expected_goals": [
+        "2.4",
+        "1.2"
+    ],
+    "home_team": [
+        "Juan Soriano",
+        "Sergi G\u00f3mez",
+        "Daniel Carri\u00e7o",
+        "Roque Mesa",
+        "Wissam Ben Yedder",
+        "\u00c9ver Banega",
+        "Jes\u00fas Navas",
+        "Pablo Sarabia",
+        "Munir El Haddadi",
+        "Quincy Promes",
+        "Gabriel Mercado",
+        "Luis Alberto Garc\u00eda Pacheco",
+        "Andr\u00e9 Silva",
+        "Maxime Gonalons",
+        "Marko Rog",
+        "Franco V\u00e1zquez",
+        "Joris Gnagnon",
+        "Bryan Gil"
+    ],
+    "away_team": [
+        "Ger\u00f3nimo Rulli",
+        "Joseba Zald\u00faa",
+        "Igor Zubeldia",
+        "H\u00e9ctor Moreno",
+        "Juanmi",
+        "Mikel Merino",
+        "Mikel Oyarzabal",
+        "Rub\u00e9n Pardo",
+        "Theo Hern\u00e1ndez",
+        "Ra\u00fal Navas",
+        "Sandro Ram\u00edrez",
+        "Miguel \u00c1ngel Moy\u00e1",
+        "Adnan Januzaj",
+        "Aritz Elustondo",
+        "David Zurutuza",
+        "Jon Bautista",
+        "Luca Sangalli",
+        "Aihen Mu\u00f1oz"
+    ],
+    "fouls": [
+        12,
+        13
+    ],
+    "corners": [
+        7,
+        2
+    ],
+    "crosses": [
+        21,
+        10
+    ],
+    "touches": [
+        565,
+        581
+    ],
+    "tackles": [
+        10,
+        14
+    ],
+    "interceptions": [
+        11,
+        11
+    ],
+    "aerials_won": [
+        11,
+        19
+    ],
+    "clearances": [
+        18,
+        23
+    ],
+    "offsides": [
+        5,
+        2
+    ],
+    "goal_kicks": [
+        6,
+        5
+    ],
+    "throw_ins": [
+        20,
+        25
+    ],
+    "long_balls": [
+        75,
+        61
+    ]
+}

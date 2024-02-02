@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "3",
+        "2"
+    ],
+    "expected_goals": [
+        "2.0",
+        "1.0"
+    ],
+    "home_team": [
+        "Joel Robles",
+        "Zouhair Feddal",
+        "Marc Bartra",
+        "Sergio Canales",
+        "\u00c1lex Moreno",
+        "Loren Mor\u00f3n",
+        "Joaqu\u00edn",
+        "Andr\u00e9s Guardado",
+        "Diego Lainez",
+        "Emerson",
+        "\u00c9dgar Gonz\u00e1lez",
+        "Daniel Mart\u00edn",
+        "Javi Garc\u00eda",
+        "Borja Iglesias",
+        "Cristian Tello",
+        "Antonio Barrag\u00e1n",
+        "Wilfrid Kaptoum",
+        "Ismael"
+    ],
+    "away_team": [
+        "Unai Sim\u00f3n",
+        "I\u00f1igo Mart\u00ednez",
+        "Yeray \u00c1lvarez",
+        "Unai L\u00f3pez",
+        "I\u00f1aki Williams",
+        "I\u00f1igo C\u00f3rdoba",
+        "Dani Garc\u00eda",
+        "Yuri Berchiche",
+        "Ander Capa",
+        "Kenan Kodro",
+        "Oihan Sancet",
+        "Iago Herrer\u00edn",
+        "Unai N\u00fa\u00f1ez",
+        "Mikel San Jos\u00e9",
+        "Larra",
+        "I\u00f1igo Lekue",
+        "Ibai G\u00f3mez",
+        "Asier Villalibre"
+    ],
+    "fouls": [
+        12,
+        15
+    ],
+    "corners": [
+        3,
+        3
+    ],
+    "crosses": [
+        6,
+        22
+    ],
+    "touches": [
+        535,
+        533
+    ],
+    "tackles": [
+        16,
+        20
+    ],
+    "interceptions": [
+        10,
+        9
+    ],
+    "aerials_won": [
+        11,
+        19
+    ],
+    "clearances": [
+        20,
+        7
+    ],
+    "offsides": [
+        1,
+        0
+    ],
+    "goal_kicks": [
+        13,
+        5
+    ],
+    "throw_ins": [
+        20,
+        32
+    ],
+    "long_balls": [
+        64,
+        86
+    ]
+}

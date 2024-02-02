@@ -1,0 +1,62 @@
+[
+    {
+        "('Unnamed: 0_level_0', 'Minute')": 8,
+        "('Unnamed: 1_level_0', 'Player')": "Angelo Fulgini",
+        "('Unnamed: 2_level_0', 'Squad')": "Angers",
+        "('Unnamed: 3_level_0', 'xG')": 0.03,
+        "('Unnamed: 4_level_0', 'PSxG')": 0.75,
+        "('Unnamed: 5_level_0', 'Outcome')": "Goal",
+        "('Unnamed: 6_level_0', 'Distance')": 10,
+        "('Unnamed: 7_level_0', 'Body Part')": "Right Foot",
+        "('Unnamed: 8_level_0', 'Notes')": "Volley",
+        "('SCA 1', 'Player')": "Angelo Fulgini",
+        "('SCA 1', 'Event')": "Tackle",
+        "('SCA 2', 'Player')": null,
+        "('SCA 2', 'Event')": null
+    },
+    {
+        "('Unnamed: 0_level_0', 'Minute')": 11,
+        "('Unnamed: 1_level_0', 'Player')": "Nabil Bentaleb",
+        "('Unnamed: 2_level_0', 'Squad')": "Angers",
+        "('Unnamed: 3_level_0', 'xG')": 0.04,
+        "('Unnamed: 4_level_0', 'PSxG')": 0.52,
+        "('Unnamed: 5_level_0', 'Outcome')": "Goal",
+        "('Unnamed: 6_level_0', 'Distance')": 21,
+        "('Unnamed: 7_level_0', 'Body Part')": "Left Foot",
+        "('Unnamed: 8_level_0', 'Notes')": "Deflected",
+        "('SCA 1', 'Player')": "Angelo Fulgini",
+        "('SCA 1', 'Event')": "Pass (Live)",
+        "('SCA 2', 'Player')": "Sofiane Boufal",
+        "('SCA 2', 'Event')": "Pass (Live)"
+    },
+    {
+        "('Unnamed: 0_level_0', 'Minute')": 41,
+        "('Unnamed: 1_level_0', 'Player')": "Azzedine Ounahi",
+        "('Unnamed: 2_level_0', 'Squad')": "Angers",
+        "('Unnamed: 3_level_0', 'xG')": 0.02,
+        "('Unnamed: 4_level_0', 'PSxG')": null,
+        "('Unnamed: 5_level_0', 'Outcome')": "Blocked",
+        "('Unnamed: 6_level_0', 'Distance')": 25,
+        "('Unnamed: 7_level_0', 'Body Part')": "Right Foot",
+        "('Unnamed: 8_level_0', 'Notes')": null,
+        "('SCA 1', 'Player')": "Sofiane Boufal",
+        "('SCA 1', 'Event')": "Pass (Live)",
+        "('SCA 2', 'Player')": "Angelo Fulgini",
+        "('SCA 2', 'Event')": "Pass (Live)"
+    },
+    {
+        "('Unnamed: 0_level_0', 'Minute')": 44,
+        "('Unnamed: 1_level_0', 'Player')": "Azzedine Ounahi",
+        "('Unnamed: 2_level_0', 'Squad')": "Angers",
+        "('Unnamed: 3_level_0', 'xG')": 0.3,
+        "('Unnamed: 4_level_0', 'PSxG')": null,
+        "('Unnamed: 5_level_0', 'Outcome')": "Off Target",
+        "('Unnamed: 6_level_0', 'Distance')": 19,
+        "('Unnamed: 7_level_0', 'Body Part')": "Right Foot",
+        "('Unnamed: 8_level_0', 'Notes')": null,
+        "('SCA 1', 'Player')": "Sofiane Boufal",
+        "('SCA 1', 'Event')": "Pass (Live)",
+        "('SCA 2', 'Player')": "Isma\u00ebl Traor\u00e9",
+        "('SCA 2', 'Event')": "Pass (Live)"
+    }
+]

@@ -1,0 +1,102 @@
+{
+    "goals": [
+        "1",
+        "2"
+    ],
+    "expected_goals": [
+        "0.9",
+        "0.7"
+    ],
+    "home_team": [
+        "Ouparine Djoco",
+        "C\u00e9dric Hountondji",
+        "Jason Berthomier",
+        "Lucas Da Cunha",
+        "Vital N'Simba",
+        "Elba Rashani",
+        "Salis Abdul Samed",
+        "Akim Zedadka",
+        "Johan Gastien",
+        "Mohamed Lamine Bayo",
+        "Alidu Seidu",
+        "Arthur Desmas",
+        "Sa\u00eef-Eddine Khaoui",
+        "Yohann Magnin",
+        "Grejohn Kyei",
+        "Jim Allevinah",
+        "Arial Mendy",
+        "Florent Ogier",
+        "Jodel Dossou",
+        "Pierre-Yves Hamel"
+    ],
+    "away_team": [
+        "Paul Bernardoni",
+        "Mickael Nade",
+        "Timoth\u00e9e Kolodziejczak",
+        "Lucas Gourna-Douath",
+        "Ryad Boudebouz",
+        "Mahdi Camara",
+        "Sada Thioub",
+        "Wahbi Khazri",
+        "Falaye Sacko",
+        "Arnaud Nordin",
+        "Eliaquim Mangala",
+        "Etienne Green",
+        "Saidou Sow",
+        "Gabriel Silva",
+        "Adil Aouchiche",
+        "Denis Bouanga",
+        "Romain Hamouma",
+        "Assane Diouss\u00e9",
+        "Yvann Macon",
+        "Zaydou Youssouf"
+    ],
+    "fouls": [
+        16,
+        10
+    ],
+    "corners": [
+        6,
+        3
+    ],
+    "crosses": [
+        16,
+        12
+    ],
+    "touches": [
+        581,
+        646
+    ],
+    "tackles": [
+        14,
+        21
+    ],
+    "interceptions": [
+        16,
+        17
+    ],
+    "aerials_won": [
+        15,
+        10
+    ],
+    "clearances": [
+        9,
+        10
+    ],
+    "offsides": [
+        1,
+        1
+    ],
+    "goal_kicks": [
+        9,
+        12
+    ],
+    "throw_ins": [
+        29,
+        26
+    ],
+    "long_balls": [
+        71,
+        75
+    ]
+}

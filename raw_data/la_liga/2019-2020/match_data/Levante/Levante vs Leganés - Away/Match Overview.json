@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "1",
+        "2"
+    ],
+    "expected_goals": [
+        "2.8",
+        "1.2"
+    ],
+    "home_team": [
+        "Juan Soriano",
+        "Unai Bustinza",
+        "Jonathan Silva",
+        "Roque Mesa",
+        "Recio",
+        "Chidozie Awaziem",
+        "Guido Carrillo",
+        "Aitor Ruibal",
+        "Dimitris Siovas",
+        "Youssef En-Nesyri",
+        "\u00d3scar Rodr\u00edguez Arnaiz",
+        "Andr\u00e9 Grandi",
+        "Marc Navarro",
+        "Martin Braithwaite",
+        "Jos\u00e9 Arnaiz",
+        "Cristian Rivera",
+        "Javier Eraso",
+        "K\u00e9vin Rodrigues"
+    ],
+    "away_team": [
+        "Aitor Fern\u00e1ndez",
+        "Nemanja Radoja",
+        "Sergio Le\u00f3n",
+        "Roger Mart\u00ed",
+        "Jos\u00e9 Luis Morales",
+        "R\u00faben Vezo",
+        "Nikola Vuk\u010devi\u0107",
+        "Erick Cabaco",
+        "Carlos Clerc",
+        "Jorge Miram\u00f3n",
+        "Jos\u00e9 Campa\u00f1a",
+        "Oier Olaz\u00e1bal",
+        "To\u00f1o",
+        "\u00d3scar Duarte",
+        "Rub\u00e9n Rochina",
+        "Borja Mayoral",
+        "Gonzalo Melero",
+        "Coke"
+    ],
+    "fouls": [
+        10,
+        7
+    ],
+    "corners": [
+        9,
+        4
+    ],
+    "crosses": [
+        35,
+        9
+    ],
+    "touches": [
+        618,
+        484
+    ],
+    "tackles": [
+        10,
+        12
+    ],
+    "interceptions": [
+        12,
+        9
+    ],
+    "aerials_won": [
+        13,
+        17
+    ],
+    "clearances": [
+        9,
+        33
+    ],
+    "offsides": [
+        3,
+        0
+    ],
+    "goal_kicks": [
+        6,
+        14
+    ],
+    "throw_ins": [
+        19,
+        15
+    ],
+    "long_balls": [
+        92,
+        96
+    ]
+}

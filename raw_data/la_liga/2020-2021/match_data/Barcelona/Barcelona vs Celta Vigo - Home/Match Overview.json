@@ -1,0 +1,99 @@
+{
+    "goals": [
+        "1",
+        "2"
+    ],
+    "expected_goals": [
+        "2.5",
+        "0.7"
+    ],
+    "home_team": [
+        "Marc-Andr\u00e9 ter Stegen",
+        "Gerard Piqu\u00e9",
+        "Ronald Ara\u00fajo",
+        "Sergio Busquets",
+        "Antoine Griezmann",
+        "Lionel Messi",
+        "Ousmane Demb\u00e9l\u00e9",
+        "Cl\u00e9ment Lenglet",
+        "Pedri",
+        "Jordi Alba",
+        "Ilaix Moriba",
+        "Neto",
+        "Arnau Tenas",
+        "Sergi\u00f1o Dest",
+        "Miralem Pjani\u0107",
+        "Martin Braithwaite",
+        "Riqui Puig",
+        "Francisco Trinc\u00e3o",
+        "Matheus Fernandes",
+        "Samuel Umtiti",
+        "Junior Firpo"
+    ],
+    "away_team": [
+        "Iv\u00e1n Villar",
+        "N\u00e9stor Araujo",
+        "Denis Su\u00e1rez",
+        "Fran Beltr\u00e1n",
+        "Nolito",
+        "Iago Aspas",
+        "Aar\u00f3n Mart\u00edn",
+        "Kevin V\u00e1zquez",
+        "Santi Mina",
+        "Brais M\u00e9ndez",
+        "Carlos Dominguez",
+        "Patrick Sequeira",
+        "David Junc\u00e0",
+        "Augusto Solari",
+        "Miguel Baeza",
+        "Hugo Sotelo"
+    ],
+    "fouls": [
+        9,
+        14
+    ],
+    "corners": [
+        7,
+        1
+    ],
+    "crosses": [
+        17,
+        5
+    ],
+    "touches": [
+        871,
+        562
+    ],
+    "tackles": [
+        15,
+        25
+    ],
+    "interceptions": [
+        9,
+        15
+    ],
+    "aerials_won": [
+        9,
+        9
+    ],
+    "clearances": [
+        3,
+        22
+    ],
+    "offsides": [
+        0,
+        1
+    ],
+    "goal_kicks": [
+        0,
+        16
+    ],
+    "throw_ins": [
+        25,
+        17
+    ],
+    "long_balls": [
+        60,
+        55
+    ]
+}

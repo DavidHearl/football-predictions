@@ -1,0 +1,103 @@
+{
+    "goals": [
+        "1",
+        "2"
+    ],
+    "expected_goals": [
+        "1.2",
+        "1.5"
+    ],
+    "home_team": [
+        "Jordi Masip",
+        "Kenan Kodro",
+        "Javi S\u00e1nchez",
+        "Bruno Gonz\u00e1lez",
+        "Sergi Guardiola",
+        "Fabi\u00e1n Orellana",
+        "Rub\u00e9n Alcaraz",
+        "Roque Mesa",
+        "Saidy Janko",
+        "Toni Villa",
+        "Lucas Olaza",
+        "Roberto",
+        "Luis P\u00e9rez",
+        "Shon Weissman",
+        "Pablo Herv\u00edas",
+        "Marcos Andr\u00e9",
+        "Nacho",
+        "Waldo Rubio",
+        "Oriol Rey",
+        "Miguel \u00c1ngel Rubio"
+    ],
+    "away_team": [
+        "Rui Silva",
+        "Dimitri Foulquier",
+        "Maxime Gonalons",
+        "Germ\u00e1n S\u00e1nchez",
+        "Yan Brice Eteki",
+        "Antonio Puertas",
+        "Darwin Mach\u00eds",
+        "Fede Vico",
+        "Quini",
+        "Jes\u00fas Vallejo",
+        "Jorge Molina",
+        "Aar\u00f3n Escandell",
+        "Arnau F\u00e0brega",
+        "Nehu\u00e9n P\u00e9rez",
+        "Luis Javier Su\u00e1rez",
+        "Domingos Quina",
+        "Carlos Neva",
+        "V\u00edctor D\u00edaz",
+        "Adri\u00e1n Mar\u00edn",
+        "\u00c1ngel Montoro",
+        "Yangel Herrera"
+    ],
+    "fouls": [
+        14,
+        15
+    ],
+    "corners": [
+        2,
+        4
+    ],
+    "crosses": [
+        17,
+        14
+    ],
+    "touches": [
+        590,
+        497
+    ],
+    "tackles": [
+        17,
+        15
+    ],
+    "interceptions": [
+        6,
+        11
+    ],
+    "aerials_won": [
+        22,
+        23
+    ],
+    "clearances": [
+        22,
+        14
+    ],
+    "offsides": [
+        0,
+        3
+    ],
+    "goal_kicks": [
+        11,
+        9
+    ],
+    "throw_ins": [
+        19,
+        21
+    ],
+    "long_balls": [
+        86,
+        73
+    ]
+}

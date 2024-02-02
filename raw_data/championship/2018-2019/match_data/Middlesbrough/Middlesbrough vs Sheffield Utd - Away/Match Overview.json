@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "1",
+        "0"
+    ],
+    "expected_goals": [
+        "1.9",
+        "0.4"
+    ],
+    "home_team": [
+        "Dean Henderson",
+        "George Baldock",
+        "Enda Stevens",
+        "John Fleck",
+        "Kieran Dowell",
+        "Billy Sharp",
+        "John Egan",
+        "Oliver Norwood",
+        "David McGoldrick",
+        "Mark Duffy",
+        "Martin Cranie",
+        "Simon Moore",
+        "John Lundstram",
+        "Scott Hogan",
+        "Gary Madine",
+        "Paul Coutts",
+        "Richard Stearman",
+        "Kean Bryan"
+    ],
+    "away_team": [
+        "Darren Randolph",
+        "John Obi Mikel",
+        "George Friend",
+        "Daniel Ayala",
+        "Ryan Shotton",
+        "Jordan Hugill",
+        "Jonny Howson",
+        "Dael Fry",
+        "George Saville",
+        "Aden Flint",
+        "Lewis Wing",
+        "Dimitrios Konstantopoulos",
+        "Adam Clayton",
+        "Britt Assombalonga",
+        "Ashley Fletcher",
+        "Stewart Downing",
+        "Rajiv van La Parra",
+        "Muhamed Be\u0161i\u0107"
+    ],
+    "fouls": [
+        6,
+        14
+    ],
+    "corners": [
+        4,
+        4
+    ],
+    "crosses": [
+        15,
+        19
+    ],
+    "touches": [
+        566,
+        470
+    ],
+    "tackles": [
+        11,
+        8
+    ],
+    "interceptions": [
+        11,
+        14
+    ],
+    "aerials_won": [
+        36,
+        33
+    ],
+    "clearances": [
+        27,
+        21
+    ],
+    "offsides": [
+        1,
+        1
+    ],
+    "goal_kicks": [
+        7,
+        13
+    ],
+    "throw_ins": [
+        28,
+        25
+    ],
+    "long_balls": [
+        104,
+        108
+    ]
+}

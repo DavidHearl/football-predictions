@@ -1,0 +1,108 @@
+{
+    "goals": [
+        "1",
+        "2"
+    ],
+    "expected_goals": [
+        "0.9",
+        "1.7"
+    ],
+    "home_team": [
+        "Unai Sim\u00f3n",
+        "Unai N\u00fa\u00f1ez",
+        "I\u00f1igo Mart\u00ednez",
+        "I\u00f1aki Williams",
+        "Iker Muniain",
+        "I\u00f1igo C\u00f3rdoba",
+        "Dani Garc\u00eda",
+        "Mikel Vesga",
+        "Yuri Berchiche",
+        "Ander Capa",
+        "Oihan Sancet",
+        "Iago Herrer\u00edn",
+        "Mikel San Jos\u00e9",
+        "Be\u00f1at Etxebarria",
+        "Unai L\u00f3pez",
+        "Larra",
+        "I\u00f1igo Lekue",
+        "\u00d3scar de Marcos",
+        "Ibai G\u00f3mez",
+        "Kenan Kodro",
+        "Mikel Balenziaga",
+        "Asier Villalibre",
+        "Daniel Vivian"
+    ],
+    "away_team": [
+        "Yassine Bounou",
+        "Lucas Ocampos",
+        "\u00c9ver Banega",
+        "Jules Kound\u00e9",
+        "Suso",
+        "Youssef En-Nesyri",
+        "Jes\u00fas Navas",
+        "Nemanja Gudelj",
+        "Diego Carlos",
+        "Sergio Reguil\u00f3n",
+        "Joan Jord\u00e1n",
+        "Javier D\u00edaz",
+        "Alfonso Pastor",
+        "Sergi G\u00f3mez",
+        "Rony Lopes",
+        "Munir El Haddadi",
+        "Sergio Escudero",
+        "Luuk de Jong",
+        "\u00d3liver Torres",
+        "Franco V\u00e1zquez",
+        "Fernando",
+        "Jos\u00e9 Mena Rodr\u00edguez",
+        "Genaro Rodr\u00edguez Serrano"
+    ],
+    "fouls": [
+        18,
+        9
+    ],
+    "corners": [
+        4,
+        7
+    ],
+    "crosses": [
+        14,
+        21
+    ],
+    "touches": [
+        416,
+        700
+    ],
+    "tackles": [
+        5,
+        8
+    ],
+    "interceptions": [
+        9,
+        2
+    ],
+    "aerials_won": [
+        21,
+        24
+    ],
+    "clearances": [
+        17,
+        13
+    ],
+    "offsides": [
+        1,
+        0
+    ],
+    "goal_kicks": [
+        12,
+        8
+    ],
+    "throw_ins": [
+        22,
+        31
+    ],
+    "long_balls": [
+        71,
+        85
+    ]
+}

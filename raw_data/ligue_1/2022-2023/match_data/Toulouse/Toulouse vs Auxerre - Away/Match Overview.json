@@ -1,0 +1,102 @@
+{
+    "goals": [
+        "0",
+        "5"
+    ],
+    "expected_goals": [
+        "1.1",
+        "2.2"
+    ],
+    "home_team": [
+        "Beno\u00eet Costil",
+        "Jubal",
+        "M'Baye Niang",
+        "Birama Tour\u00e9",
+        "Akim Zedadka",
+        "Gideon Mensah",
+        "Lassine Sinayoko",
+        "Matthis Abline",
+        "Hamza Sakhi",
+        "Julian Jeanvier",
+        "Rayan Raveloson",
+        "Donovan L\u00e9on",
+        "Youssouf M'Changama",
+        "Gauthier Hein",
+        "Nuno da Costa",
+        "Ga\u00ebtan Perrin",
+        "R\u00e9my Dugimont",
+        "Mathias Autret",
+        "K\u00e9vin Danois",
+        "Souleymane Tour\u00e9"
+    ],
+    "away_team": [
+        "Maxime Dup\u00e9",
+        "Rasmus Nicolaisen",
+        "Anthony Rouault",
+        "Ado Onaiwu",
+        "Branco van den Boomen",
+        "Brecht Dejaegere",
+        "Issiaga Sylla",
+        "Stijn Spierings",
+        "Rafael Rat\u00e3o",
+        "Moussa Diarra",
+        "Fares Cha\u00efbi",
+        "Kjetil Haug",
+        "Zakaria Aboukhlal",
+        "Yanis Begraoui",
+        "Logan Costa",
+        "Veljko Birman\u010devi\u0107",
+        "Naatan Skytt\u00e4",
+        "Waren Kamanzi",
+        "Thijs Dallinga",
+        "Christian Mawissa"
+    ],
+    "fouls": [
+        22,
+        13
+    ],
+    "corners": [
+        7,
+        4
+    ],
+    "crosses": [
+        29,
+        13
+    ],
+    "touches": [
+        480,
+        517
+    ],
+    "tackles": [
+        20,
+        16
+    ],
+    "interceptions": [
+        6,
+        10
+    ],
+    "aerials_won": [
+        16,
+        19
+    ],
+    "clearances": [
+        11,
+        27
+    ],
+    "offsides": [
+        0,
+        1
+    ],
+    "goal_kicks": [
+        5,
+        8
+    ],
+    "throw_ins": [
+        16,
+        12
+    ],
+    "long_balls": [
+        53,
+        65
+    ]
+}

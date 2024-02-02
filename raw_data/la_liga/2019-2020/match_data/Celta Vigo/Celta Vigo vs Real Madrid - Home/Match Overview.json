@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "1",
+        "3"
+    ],
+    "expected_goals": [
+        "1.6",
+        "2.1"
+    ],
+    "home_team": [
+        "Rub\u00e9n Blanco",
+        "David Costas",
+        "N\u00e9stor Araujo",
+        "Denis Su\u00e1rez",
+        "Fran Beltr\u00e1n",
+        "Iago Aspas",
+        "Stanislav Lobotka",
+        "Lucas Olaza",
+        "Gabriel Fern\u00e1ndez",
+        "Kevin V\u00e1zquez",
+        "Brais M\u00e9ndez",
+        "Iv\u00e1n Villar",
+        "Pione Sisto",
+        "Jorge S\u00e1enz",
+        "Joseph Aidoo",
+        "Pape Cheikh Diop",
+        "Sergio Bermejo",
+        "Losada"
+    ],
+    "away_team": [
+        "Thibaut Courtois",
+        "Sergio Ramos",
+        "Rapha\u00ebl Varane",
+        "Toni Kroos",
+        "Karim Benzema",
+        "Luka Modri\u0107",
+        "Gareth Bale",
+        "Marcelo",
+        "Casemiro",
+        "\u00c1lvaro Odriozola",
+        "Vinicius J\u00fanior",
+        "Keylor Navas",
+        "\u00c9der Milit\u00e3o",
+        "Nacho",
+        "James Rodr\u00edguez",
+        "Lucas V\u00e1zquez",
+        "Luka Jovi\u0107",
+        "Isco"
+    ],
+    "fouls": [
+        17,
+        12
+    ],
+    "corners": [
+        6,
+        4
+    ],
+    "crosses": [
+        27,
+        11
+    ],
+    "touches": [
+        651,
+        548
+    ],
+    "tackles": [
+        14,
+        13
+    ],
+    "interceptions": [
+        7,
+        7
+    ],
+    "aerials_won": [
+        5,
+        12
+    ],
+    "clearances": [
+        5,
+        20
+    ],
+    "offsides": [
+        5,
+        1
+    ],
+    "goal_kicks": [
+        9,
+        5
+    ],
+    "throw_ins": [
+        16,
+        19
+    ],
+    "long_balls": [
+        48,
+        76
+    ]
+}

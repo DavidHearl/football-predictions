@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "1",
+        "2"
+    ],
+    "expected_goals": [
+        "1.4",
+        "1.4"
+    ],
+    "home_team": [
+        "Ger\u00f3nimo Rulli",
+        "Joseba Zald\u00faa",
+        "Asier Illarramendi",
+        "Igor Zubeldia",
+        "H\u00e9ctor Moreno",
+        "Juanmi",
+        "Mikel Oyarzabal",
+        "Rub\u00e9n Pardo",
+        "Aritz Elustondo",
+        "David Zurutuza",
+        "Theo Hern\u00e1ndez",
+        "Miguel \u00c1ngel Moy\u00e1",
+        "Mikel Merino",
+        "Andoni Gorosabel",
+        "K\u00e9vin Rodrigues",
+        "Jon Bautista",
+        "Ra\u00fal Navas",
+        "Luca Sangalli"
+    ],
+    "away_team": [
+        "Marc-Andr\u00e9 ter Stegen",
+        "N\u00e9lson Semedo",
+        "Gerard Piqu\u00e9",
+        "Ivan Rakiti\u0107",
+        "Luis Su\u00e1rez",
+        "Lionel Messi",
+        "Ousmane Demb\u00e9l\u00e9",
+        "Rafinha",
+        "Jordi Alba",
+        "Sergi Roberto",
+        "Samuel Umtiti",
+        "Jasper Cillessen",
+        "Sergio Busquets",
+        "Philippe Coutinho",
+        "Cl\u00e9ment Lenglet",
+        "Munir El Haddadi",
+        "Arturo Vidal",
+        "Thomas Vermaelen"
+    ],
+    "fouls": [
+        18,
+        8
+    ],
+    "corners": [
+        1,
+        6
+    ],
+    "crosses": [
+        6,
+        10
+    ],
+    "touches": [
+        461,
+        871
+    ],
+    "tackles": [
+        22,
+        17
+    ],
+    "interceptions": [
+        25,
+        14
+    ],
+    "aerials_won": [
+        9,
+        14
+    ],
+    "clearances": [
+        17,
+        7
+    ],
+    "offsides": [
+        2,
+        0
+    ],
+    "goal_kicks": [
+        10,
+        5
+    ],
+    "throw_ins": [
+        18,
+        15
+    ],
+    "long_balls": [
+        50,
+        68
+    ]
+}

@@ -1,0 +1,101 @@
+{
+    "goals": [
+        "0",
+        "2"
+    ],
+    "expected_goals": [
+        "0.3",
+        "2.6"
+    ],
+    "home_team": [
+        "Marc-Aur\u00e8le Caillard",
+        "Jemerson",
+        "Ibrahima Niane",
+        "Boubacar Traor\u00e9",
+        "Nicolas de Pr\u00e9ville",
+        "Warren Tchimbemb\u00e9",
+        "Vincent Pajot",
+        "Thomas Delaine",
+        "William Mikelbrencis",
+        "Jean-Armel Kana-Biyik",
+        "Amadou Mbengue",
+        "Ousmane Ba",
+        "Sikou Niakat\u00e9",
+        "Opa Nguette",
+        "Cheikh Tidiane Sabaly",
+        "Lamine Gueye",
+        "Amine Bassi",
+        "Papa Ndiaga Yade",
+        "Lenny Lacroix",
+        "Noah Zilliox"
+    ],
+    "away_team": [
+        "Eiji Kawashima",
+        "Frederic Guilbert",
+        "Lucas Perrin",
+        "K\u00e9vin Gameiro",
+        "Adrien Thomasson",
+        "Dimitri Li\u00e9nard",
+        "Sanjin Prci\u0107",
+        "Jean-Ricner Bellegarde",
+        "Gerzino Nyamsi",
+        "Ludovic Ajorque",
+        "Ibrahima Sissoko",
+        "Alaa Bellaarouch",
+        "Karol Fila",
+        "Jean-Eudes Aholou",
+        "Abdul Majeed Waris",
+        "Dion Moise Sahi",
+        "Anthony Caci",
+        "Marvin Elimbi",
+        "Nordine Kandil"
+    ],
+    "fouls": [
+        11,
+        6
+    ],
+    "corners": [
+        4,
+        3
+    ],
+    "crosses": [
+        17,
+        22
+    ],
+    "touches": [
+        538,
+        720
+    ],
+    "tackles": [
+        11,
+        11
+    ],
+    "interceptions": [
+        11,
+        8
+    ],
+    "aerials_won": [
+        14,
+        17
+    ],
+    "clearances": [
+        19,
+        16
+    ],
+    "offsides": [
+        3,
+        1
+    ],
+    "goal_kicks": [
+        14,
+        7
+    ],
+    "throw_ins": [
+        24,
+        21
+    ],
+    "long_balls": [
+        81,
+        74
+    ]
+}

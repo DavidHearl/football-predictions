@@ -1,0 +1,107 @@
+{
+    "goals": [
+        "2",
+        "1"
+    ],
+    "expected_goals": [
+        "2.0",
+        "0.9"
+    ],
+    "home_team": [
+        "Thibaut Courtois",
+        "\u00c9der Milit\u00e3o",
+        "David Alaba",
+        "Toni Kroos",
+        "Luka Modri\u0107",
+        "Federico Valverde",
+        "Lucas V\u00e1zquez",
+        "Aur\u00e9lien Tchouam\u00e9ni",
+        "Vinicius J\u00fanior",
+        "Rodrygo",
+        "Ferland Mendy",
+        "Andriy Lunin",
+        "Luis L\u00f3pez",
+        "Dani Carvajal",
+        "Jes\u00fas Vallejo",
+        "Nacho",
+        "Eden Hazard",
+        "Marco Asensio",
+        "Eduardo Camavinga",
+        "\u00c1lvaro Odriozola",
+        "Dani Ceballos",
+        "Mariano"
+    ],
+    "away_team": [
+        "Jerem\u00edas Ledesma",
+        "Fali",
+        "Rub\u00e9n Alcaraz",
+        "Rub\u00e9n Sobrino",
+        "\u00c1lex Fern\u00e1ndez",
+        "Anthony Lozano",
+        "Iv\u00e1n Alejo",
+        "Cala",
+        "Isaac Carcelen",
+        "Alfonso Espino",
+        "Fede San Emeterio",
+        "David Gil",
+        "Jos\u00e9 Mari",
+        "Theo Bongonda",
+        "Tom\u00e1s Alarc\u00f3n",
+        "Brian Ocampo",
+        "Lucas P\u00e9rez",
+        "Awer Mabil",
+        "\u00c1lvaro Negredo",
+        "\u00c1lvaro Gim\u00e9nez",
+        "Santiago Arzamendia",
+        "Blanco",
+        "Lautaro Spatz"
+    ],
+    "fouls": [
+        12,
+        16
+    ],
+    "corners": [
+        7,
+        1
+    ],
+    "crosses": [
+        19,
+        9
+    ],
+    "touches": [
+        810,
+        458
+    ],
+    "tackles": [
+        20,
+        10
+    ],
+    "interceptions": [
+        4,
+        6
+    ],
+    "aerials_won": [
+        14,
+        5
+    ],
+    "clearances": [
+        13,
+        17
+    ],
+    "offsides": [
+        3,
+        0
+    ],
+    "goal_kicks": [
+        5,
+        12
+    ],
+    "throw_ins": [
+        17,
+        17
+    ],
+    "long_balls": [
+        58,
+        69
+    ]
+}

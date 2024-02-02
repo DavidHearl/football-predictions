@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "1",
+        "0"
+    ],
+    "expected_goals": [
+        "0.4",
+        "1.4"
+    ],
+    "home_team": [
+        "Matz Sels",
+        "Mohamed Simakan",
+        "Abdallah N'dour",
+        "Lamine Kon\u00e9",
+        "Dimitri Li\u00e9nard",
+        "Jean-Ricner Bellegarde",
+        "Ibrahima Sissoko",
+        "Alexander Djiku",
+        "Ludovic Ajorque",
+        "Kenny Lala",
+        "Nuno da Costa",
+        "Bingourou Kamara",
+        "Benjamin Corgnet",
+        "Lebo Mothiba",
+        "Stefan Mitrovi\u0107",
+        "Sanjin Prci\u0107",
+        "Lionel Carole",
+        "Adrien Thomasson"
+    ],
+    "away_team": [
+        "Ger\u00f3nimo Rulli",
+        "Daniel Congr\u00e9",
+        "Vitorino Hilton",
+        "Pedro Mendes",
+        "Andy Delort",
+        "Joris Chotard",
+        "Damien Le Tallec",
+        "Keagan Dolly",
+        "Math\u00edas Su\u00e1rez",
+        "Mihailo Risti\u0107",
+        "Petar \u0160kuleti\u0107",
+        "Dimitry Bertaud",
+        "Arnaud Souquet",
+        "Ambroise Oyongo",
+        "Ga\u00ebtan Laborde",
+        "Souleymane Camara",
+        "Florent Mollet",
+        "Nicolas Cozza"
+    ],
+    "fouls": [
+        18,
+        13
+    ],
+    "corners": [
+        1,
+        6
+    ],
+    "crosses": [
+        15,
+        19
+    ],
+    "touches": [
+        520,
+        579
+    ],
+    "tackles": [
+        7,
+        19
+    ],
+    "interceptions": [
+        12,
+        11
+    ],
+    "aerials_won": [
+        23,
+        23
+    ],
+    "clearances": [
+        11,
+        8
+    ],
+    "offsides": [
+        1,
+        2
+    ],
+    "goal_kicks": [
+        12,
+        7
+    ],
+    "throw_ins": [
+        22,
+        28
+    ],
+    "long_balls": [
+        88,
+        79
+    ]
+}

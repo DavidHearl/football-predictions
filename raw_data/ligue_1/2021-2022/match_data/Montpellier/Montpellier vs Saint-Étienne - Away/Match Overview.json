@@ -1,0 +1,101 @@
+{
+    "goals": [
+        "3",
+        "1"
+    ],
+    "expected_goals": [
+        "2.0",
+        "0.6"
+    ],
+    "home_team": [
+        "Paul Bernardoni",
+        "Mickael Nade",
+        "Timoth\u00e9e Kolodziejczak",
+        "Lucas Gourna-Douath",
+        "Ryad Boudebouz",
+        "Wahbi Khazri",
+        "Falaye Sacko",
+        "Denis Bouanga",
+        "Eliaquim Mangala",
+        "Yvann Macon",
+        "Zaydou Youssouf",
+        "Etienne Green",
+        "Saidou Sow",
+        "Sada Thioub",
+        "Adil Aouchiche",
+        "Arnaud Nordin",
+        "Romain Hamouma",
+        "Assane Diouss\u00e9",
+        "Aimen Moueffek",
+        "Abdoulaye Bakayoko"
+    ],
+    "away_team": [
+        "Jonas Omlin",
+        "Arnaud Souquet",
+        "Mamadou Sakho",
+        "Mihailo Risti\u0107",
+        "Val\u00e8re Germain",
+        "Jordan Ferri",
+        "Joris Chotard",
+        "Elye Wahi",
+        "Nicholas Gioacchini",
+        "Florent Mollet",
+        "Nicolas Cozza",
+        "Dimitry Bertaud",
+        "Gabriel Bares",
+        "L\u00e9o Leroy",
+        "Yanis Guermouche",
+        "Thuler",
+        "B\u00e9ni Makouana",
+        "Sacha Delaye",
+        "Enzo Tchato"
+    ],
+    "fouls": [
+        11,
+        4
+    ],
+    "corners": [
+        11,
+        0
+    ],
+    "crosses": [
+        44,
+        2
+    ],
+    "touches": [
+        730,
+        544
+    ],
+    "tackles": [
+        11,
+        14
+    ],
+    "interceptions": [
+        6,
+        6
+    ],
+    "aerials_won": [
+        13,
+        12
+    ],
+    "clearances": [
+        7,
+        40
+    ],
+    "offsides": [
+        1,
+        1
+    ],
+    "goal_kicks": [
+        2,
+        17
+    ],
+    "throw_ins": [
+        23,
+        17
+    ],
+    "long_balls": [
+        54,
+        60
+    ]
+}

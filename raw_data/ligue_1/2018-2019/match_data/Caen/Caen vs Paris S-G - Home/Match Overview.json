@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "1",
+        "2"
+    ],
+    "expected_goals": [
+        "0.5",
+        "4.1"
+    ],
+    "home_team": [
+        "Brice Samba",
+        "Yo\u00ebl Armougom",
+        "Isma\u00ebl Diomand\u00e9",
+        "Prince Oniangu\u00e9",
+        "Sa\u00eef-Eddine Khaoui",
+        "Fay\u00e7al Fajr",
+        "Casimir Ninga",
+        "Jonathan Gradit",
+        "Frederic Guilbert",
+        "Enzo Crivelli",
+        "Younn Zahary",
+        "Erwin Zelazny",
+        "Claudio Beauvue",
+        "Evens Joseph",
+        "Jessy Deminguet",
+        "Yacine Bammou",
+        "Malik Tchokount\u00e9",
+        "Adama Mbengue"
+    ],
+    "away_team": [
+        "Alphonse Areola",
+        "Thilo Kehrer",
+        "Marquinhos",
+        "Kylian Mbapp\u00e9",
+        "Leandro Paredes",
+        "\u00c1ngel Di Mar\u00eda",
+        "Thomas Meunier",
+        "Dani Alves",
+        "Layvin Kurzawa",
+        "Christopher Nkunku",
+        "Moussa Diaby",
+        "Gianluigi Buffon",
+        "Presnel Kimpembe",
+        "Marco Verratti",
+        "Juan Bernat",
+        "Eric Maxim Choupo-Moting",
+        "Julian Draxler",
+        "Colin Dagba"
+    ],
+    "fouls": [
+        13,
+        13
+    ],
+    "corners": [
+        2,
+        8
+    ],
+    "crosses": [
+        12,
+        29
+    ],
+    "touches": [
+        374,
+        750
+    ],
+    "tackles": [
+        17,
+        18
+    ],
+    "interceptions": [
+        14,
+        5
+    ],
+    "aerials_won": [
+        10,
+        15
+    ],
+    "clearances": [
+        31,
+        12
+    ],
+    "offsides": [
+        0,
+        4
+    ],
+    "goal_kicks": [
+        19,
+        4
+    ],
+    "throw_ins": [
+        14,
+        21
+    ],
+    "long_balls": [
+        76,
+        50
+    ]
+}

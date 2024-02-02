@@ -1,0 +1,107 @@
+{
+    "goals": [
+        "1",
+        "2"
+    ],
+    "expected_goals": [
+        "1.6",
+        "2.1"
+    ],
+    "home_team": [
+        "Sergio Herrera",
+        "Nacho Vidal",
+        "Juan Cruz Armada",
+        "Unai Garc\u00eda",
+        "Lucas Torr\u00f3",
+        "Jon Moncayola",
+        "Abdessamad Ezzalzouli",
+        "Moi G\u00f3mez",
+        "Kik\u00e9",
+        "Aimar Oroz",
+        "Aridane Hern\u00e1ndez",
+        "Juan P\u00e9rez",
+        "Aitor Fern\u00e1ndez",
+        "Darko Bra\u0161anac",
+        "Ezequiel \u00c1vila",
+        "Roberto Torres",
+        "Kike Barja",
+        "Rub\u00e9n Garc\u00eda",
+        "Rub\u00e9n Pe\u00f1a",
+        "Ante Budimir",
+        "Pablo Ib\u00e1\u00f1ez",
+        "Manu S\u00e1nchez",
+        "Jorge Herrando"
+    ],
+    "away_team": [
+        "Giorgi Mamardashvili",
+        "Thierry Correia",
+        "Hugo Guillam\u00f3n",
+        "Edinson Cavani",
+        "Ilaix Moriba",
+        "Justin Kluivert",
+        "Mouctar Diakhaby",
+        "Jos\u00e9 Luis Gay\u00e0",
+        "Samuel Lino",
+        "Domingos Andr\u00e9 Ribeiro Almeida",
+        "Eray C\u00f6mert",
+        "Iago Herrer\u00edn",
+        "Cristian",
+        "Toni Lato",
+        "Yunus Musah",
+        "Gabriel Paulista",
+        "Cenk \u00d6zkacar",
+        "Hugo Duro",
+        "Dimitri Foulquier",
+        "Jesus Vazquez",
+        "Francisco Perez",
+        "Cristhian Mosquera"
+    ],
+    "fouls": [
+        11,
+        19
+    ],
+    "corners": [
+        7,
+        5
+    ],
+    "crosses": [
+        14,
+        18
+    ],
+    "touches": [
+        485,
+        530
+    ],
+    "tackles": [
+        14,
+        16
+    ],
+    "interceptions": [
+        14,
+        7
+    ],
+    "aerials_won": [
+        14,
+        18
+    ],
+    "clearances": [
+        17,
+        16
+    ],
+    "offsides": [
+        1,
+        2
+    ],
+    "goal_kicks": [
+        9,
+        7
+    ],
+    "throw_ins": [
+        24,
+        34
+    ],
+    "long_balls": [
+        93,
+        77
+    ]
+}

@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "0",
+        "1"
+    ],
+    "expected_goals": [
+        "1.0",
+        "0.9"
+    ],
+    "home_team": [
+        "Beno\u00eet Costil",
+        "Fran\u00e7ois Kamano",
+        "Pablo",
+        "Mexer",
+        "Ot\u00e1vio",
+        "Laurent Koscielny",
+        "Jimmy Briand",
+        "Samuel Kalu",
+        "Youssef A\u00eft Bennasser",
+        "Yacine Adli",
+        "Loris Benito",
+        "Ga\u00ebtan Poussin",
+        "Raoul Bellanova",
+        "Aur\u00e9lien Tchouam\u00e9ni",
+        "Josh Maja",
+        "Vuka\u0161in Jovanovi\u0107",
+        "Hwang Ui-jo",
+        "Enock Kwateng"
+    ],
+    "away_team": [
+        "St\u00e9phane Ruffier",
+        "William Saliba",
+        "Yann M'Vila",
+        "Ryad Boudebouz",
+        "Wahbi Khazri",
+        "Denis Bouanga",
+        "Sergi Palencia",
+        "Lo\u00efc Perrin",
+        "Zaydou Youssouf",
+        "Charles Abi",
+        "Wesley Fofana",
+        "Jessy Moulin",
+        "Timoth\u00e9e Kolodziejczak",
+        "Arnaud Nordin",
+        "Romain Hamouma",
+        "Mathieu Debuchy",
+        "Robert Beri\u0107",
+        "Yohan Cabaye"
+    ],
+    "fouls": [
+        7,
+        18
+    ],
+    "corners": [
+        8,
+        5
+    ],
+    "crosses": [
+        17,
+        10
+    ],
+    "touches": [
+        760,
+        508
+    ],
+    "tackles": [
+        21,
+        21
+    ],
+    "interceptions": [
+        16,
+        12
+    ],
+    "aerials_won": [
+        28,
+        25
+    ],
+    "clearances": [
+        6,
+        22
+    ],
+    "offsides": [
+        3,
+        1
+    ],
+    "goal_kicks": [
+        5,
+        5
+    ],
+    "throw_ins": [
+        23,
+        21
+    ],
+    "long_balls": [
+        70,
+        76
+    ]
+}

@@ -1,0 +1,102 @@
+{
+    "goals": [
+        "0",
+        "1"
+    ],
+    "expected_goals": [
+        "1.0",
+        "1.5"
+    ],
+    "home_team": [
+        "Marcin Bu\u0142ka",
+        "Dante",
+        "Flavius Daniliuc",
+        "Andy Delort",
+        "Amine Gouiri",
+        "Mario Lemina",
+        "Kh\u00e9phren Thuram",
+        "Youcef Atal",
+        "Justin Kluivert",
+        "Melvin Bard",
+        "Hicham Boudaoui",
+        "Teddy Boulhendi",
+        "Morgan Schneiderlin",
+        "Alexis Claude-Maurice",
+        "Bilal Brahimi",
+        "Calvin Stengs",
+        "Jordan Lotomba",
+        "Evann Guessand",
+        "Jean-Clair Todibo",
+        "Justin Smith"
+    ],
+    "away_team": [
+        "Ouparine Djoco",
+        "C\u00e9dric Hountondji",
+        "Yohann Magnin",
+        "Vital N'Simba",
+        "Elba Rashani",
+        "Salis Abdul Samed",
+        "Akim Zedadka",
+        "Jodel Dossou",
+        "Johan Gastien",
+        "Mohamed Lamine Bayo",
+        "Alidu Seidu",
+        "Arthur Desmas",
+        "Jason Berthomier",
+        "Grejohn Kyei",
+        "Jim Allevinah",
+        "Arial Mendy",
+        "Florent Ogier",
+        "Oriol Busquets",
+        "J\u00e9r\u00f4me Phojo",
+        "Pierre-Yves Hamel"
+    ],
+    "fouls": [
+        10,
+        9
+    ],
+    "corners": [
+        5,
+        3
+    ],
+    "crosses": [
+        21,
+        21
+    ],
+    "touches": [
+        670,
+        600
+    ],
+    "tackles": [
+        20,
+        16
+    ],
+    "interceptions": [
+        15,
+        14
+    ],
+    "aerials_won": [
+        20,
+        15
+    ],
+    "clearances": [
+        11,
+        23
+    ],
+    "offsides": [
+        2,
+        1
+    ],
+    "goal_kicks": [
+        7,
+        8
+    ],
+    "throw_ins": [
+        26,
+        25
+    ],
+    "long_balls": [
+        55,
+        63
+    ]
+}

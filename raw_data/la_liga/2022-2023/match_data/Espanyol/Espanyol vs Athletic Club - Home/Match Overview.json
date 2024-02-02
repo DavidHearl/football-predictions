@@ -1,0 +1,107 @@
+{
+    "goals": [
+        "1",
+        "2"
+    ],
+    "expected_goals": [
+        "0.9",
+        "2.3"
+    ],
+    "home_team": [
+        "Fernando Pacheco",
+        "\u00d3scar Gil",
+        "Leandro Cabrera",
+        "Javi Puado",
+        "Joselu",
+        "Sergi Darder",
+        "Jos\u00e9 Gragera",
+        "Martin Braithwaite",
+        "Edu Exp\u00f3sito",
+        "C\u00e9sar Montes",
+        "Rub\u00e9n",
+        "Joan Garc\u00eda",
+        "\u00c1lvaro Fern\u00e1ndez",
+        "Fernando Calero",
+        "Denis Su\u00e1rez",
+        "Keidi Bare",
+        "Vinicius Souza",
+        "Jos\u00e9 Carlos Lazo",
+        "Rona\u00ebl Pierre-Gabriel",
+        "Dani G\u00f3mez",
+        "Nico Ribaudo",
+        "Aleix Vidal"
+    ],
+    "away_team": [
+        "Unai Sim\u00f3n",
+        "Daniel Vivian",
+        "I\u00f1igo Mart\u00ednez",
+        "Mikel Vesga",
+        "\u00c1lex Berenguer",
+        "Oihan Sancet",
+        "I\u00f1aki Williams",
+        "Gorka Guruzeta",
+        "Dani Garc\u00eda",
+        "Yuri Berchiche",
+        "\u00d3scar de Marcos",
+        "Julen Agirrezabala",
+        "Yeray \u00c1lvarez",
+        "Iker Muniain",
+        "Nico Williams",
+        "Unai Vencedor Paris",
+        "Oier Zarraga",
+        "Ander Capa",
+        "Ra\u00fal Garc\u00eda",
+        "Ander Herrera",
+        "Mikel Balenziaga",
+        "Adu Ares",
+        "Aitor Paredes"
+    ],
+    "fouls": [
+        14,
+        18
+    ],
+    "corners": [
+        8,
+        7
+    ],
+    "crosses": [
+        19,
+        14
+    ],
+    "touches": [
+        580,
+        604
+    ],
+    "tackles": [
+        18,
+        10
+    ],
+    "interceptions": [
+        9,
+        6
+    ],
+    "aerials_won": [
+        15,
+        8
+    ],
+    "clearances": [
+        20,
+        22
+    ],
+    "offsides": [
+        4,
+        2
+    ],
+    "goal_kicks": [
+        9,
+        8
+    ],
+    "throw_ins": [
+        14,
+        13
+    ],
+    "long_balls": [
+        57,
+        72
+    ]
+}

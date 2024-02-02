@@ -1,0 +1,102 @@
+{
+    "goals": [
+        "1",
+        "1"
+    ],
+    "expected_goals": [
+        "1.0",
+        "0.8"
+    ],
+    "home_team": [
+        "Alfred Gomis",
+        "Damien Da Silva",
+        "Nayef Aguerd",
+        "Martin Terrier",
+        "Cl\u00e9ment Grenier",
+        "Eduardo Camavinga",
+        "Benjamin Bourigeaud",
+        "Steven Nzonzi",
+        "Faitout Maouassa",
+        "Jeremy Doku",
+        "Hamari Traor\u00e9",
+        "Romain Salin",
+        "Gerzino Nyamsi",
+        "Dalbert Henrique",
+        "Serhou Guirassy",
+        "Romain Del Castillo",
+        "Adrien Hunou",
+        "Jonas Martin",
+        "Adrien Truffert",
+        "Brandon Soppy"
+    ],
+    "away_team": [
+        "Matthieu Dreyer",
+        "Andrew Gravillon",
+        "Trevoh Chalobah",
+        "Enzo Le F\u00e9e",
+        "Terem Moffi",
+        "J\u00e9r\u00f4me Hergault",
+        "Julien Laporte",
+        "Fabien Lemoine",
+        "Yoane Wissa",
+        "J\u00e9r\u00e9my Morel",
+        "Jonathan Delaplace",
+        "Teddy Bartouche-Selbonne",
+        "Tiago Ilori",
+        "Laurent Abergel",
+        "Quentin Boisgard",
+        "Houboulang Mendes",
+        "Adrian Grbi\u0107",
+        "Armand Lauriente",
+        "Pierre-Yves Hamel",
+        "Yoann Etienne"
+    ],
+    "fouls": [
+        17,
+        6
+    ],
+    "corners": [
+        5,
+        3
+    ],
+    "crosses": [
+        18,
+        14
+    ],
+    "touches": [
+        774,
+        578
+    ],
+    "tackles": [
+        13,
+        11
+    ],
+    "interceptions": [
+        12,
+        21
+    ],
+    "aerials_won": [
+        11,
+        18
+    ],
+    "clearances": [
+        19,
+        16
+    ],
+    "offsides": [
+        0,
+        2
+    ],
+    "goal_kicks": [
+        8,
+        4
+    ],
+    "throw_ins": [
+        19,
+        22
+    ],
+    "long_balls": [
+        72,
+        61
+    ]
+}

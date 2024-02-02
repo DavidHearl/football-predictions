@@ -1,0 +1,102 @@
+{
+    "goals": [
+        "1",
+        "1"
+    ],
+    "expected_goals": [
+        "1.6",
+        "2.5"
+    ],
+    "home_team": [
+        "Gianluigi Donnarumma",
+        "Achraf Hakimi",
+        "Sergio Ramos",
+        "Marquinhos",
+        "Kylian Mbapp\u00e9",
+        "Fabi\u00e1n Ruiz Pe\u00f1a",
+        "Neymar",
+        "Juan Bernat",
+        "Vitinha",
+        "Carlos Soler",
+        "Lionel Messi",
+        "Keylor Navas",
+        "Marco Verratti",
+        "Danilo Pereira",
+        "Renato Sanches",
+        "Timothee Pembele",
+        "El Chadaille Bitshiabu",
+        "Warren Zaire-Emery",
+        "Isma\u00ebl Gharbi",
+        "Hugo Ekitike"
+    ],
+    "away_team": [
+        "Yehvann Diouf",
+        "Yunis Abdelhamid",
+        "Jens Cajuste",
+        "Marshall Munetsi",
+        "Azor Matusiwa",
+        "Emmanuel Agbadou",
+        "Thibault De Smet",
+        "Folarin Balogun",
+        "Thomas Foket",
+        "Junya Ito",
+        "Alexis Flips",
+        "Nicolas Penneteau",
+        "Kamory Doumbia",
+        "Maxime Busi",
+        "Andrew Gravillon",
+        "Arber Zeneli",
+        "Dion Lopy",
+        "Martin Adeline",
+        "Mitchell van Bergen",
+        "Rafik Guitane"
+    ],
+    "fouls": [
+        5,
+        10
+    ],
+    "corners": [
+        3,
+        3
+    ],
+    "crosses": [
+        5,
+        24
+    ],
+    "touches": [
+        837,
+        622
+    ],
+    "tackles": [
+        10,
+        31
+    ],
+    "interceptions": [
+        8,
+        15
+    ],
+    "aerials_won": [
+        6,
+        2
+    ],
+    "clearances": [
+        16,
+        9
+    ],
+    "offsides": [
+        1,
+        4
+    ],
+    "goal_kicks": [
+        12,
+        4
+    ],
+    "throw_ins": [
+        12,
+        9
+    ],
+    "long_balls": [
+        55,
+        43
+    ]
+}

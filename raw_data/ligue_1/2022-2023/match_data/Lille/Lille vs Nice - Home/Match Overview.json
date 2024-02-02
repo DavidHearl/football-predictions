@@ -1,0 +1,102 @@
+{
+    "goals": [
+        "1",
+        "2"
+    ],
+    "expected_goals": [
+        "0.9",
+        "1.6"
+    ],
+    "home_team": [
+        "L\u00e9o Jardim",
+        "Tiago Djal\u00f3",
+        "Jos\u00e9 Fonte",
+        "Jonathan Bamba",
+        "Jonathan David",
+        "Yusuf Yaz\u0131c\u0131",
+        "Bafod\u00e9 Diakit\u00e9",
+        "Angel Gomes",
+        "Benjamin Andr\u00e9",
+        "Edon Zhegrova",
+        "Ismaily",
+        "Lucas Chevalier",
+        "Alexsandro Ribeiro",
+        "Gabriel Gudmundsson",
+        "Jonas Martin",
+        "Akim Zedadka",
+        "Leny Yoro",
+        "Alan Virginius",
+        "Mohamed Lamine Bayo",
+        "Carlos Baleba"
+    ],
+    "away_team": [
+        "Kasper Schmeichel",
+        "Dante",
+        "Andy Delort",
+        "Pablo Rosario",
+        "Aaron Ramsey",
+        "Kh\u00e9phren Thuram",
+        "Youcef Atal",
+        "Jean-Clair Todibo",
+        "Melvin Bard",
+        "Nicolas P\u00e9p\u00e9",
+        "Mattia Viti",
+        "Marcin Bu\u0142ka",
+        "Bilal Brahimi",
+        "Rare\u015f Ilie",
+        "Alexis Beka Beka",
+        "Jordan Lotomba",
+        "Antoine Mendy",
+        "Yannis Nahounou",
+        "Badredine Bouanani",
+        "Reda Belahyane"
+    ],
+    "fouls": [
+        15,
+        21
+    ],
+    "corners": [
+        6,
+        3
+    ],
+    "crosses": [
+        33,
+        14
+    ],
+    "touches": [
+        702,
+        467
+    ],
+    "tackles": [
+        13,
+        20
+    ],
+    "interceptions": [
+        6,
+        10
+    ],
+    "aerials_won": [
+        8,
+        19
+    ],
+    "clearances": [
+        12,
+        27
+    ],
+    "offsides": [
+        1,
+        0
+    ],
+    "goal_kicks": [
+        1,
+        12
+    ],
+    "throw_ins": [
+        16,
+        14
+    ],
+    "long_balls": [
+        59,
+        65
+    ]
+}

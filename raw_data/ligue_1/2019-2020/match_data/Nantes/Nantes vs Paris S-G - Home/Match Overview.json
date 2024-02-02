@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "1",
+        "2"
+    ],
+    "expected_goals": [
+        "2.7",
+        "3.6"
+    ],
+    "home_team": [
+        "Denis Petri\u0107",
+        "Mehdi Abeid",
+        "Molla Wagu\u00e9",
+        "Charles Traore",
+        "Ludovic Blas",
+        "Abdoulaye Tour\u00e9",
+        "Andrei Girotto",
+        "Imran Louza",
+        "Moses Simon",
+        "Abdoul Kader Bamba",
+        "Percy Prado",
+        "Alexandre Olliero",
+        "Cristian Benavente",
+        "Samuel Moutoussamy",
+        "Rene Krhin",
+        "Thomas Basila",
+        "Josu\u00e9 Homawoo",
+        "Renaud Emond"
+    ],
+    "away_team": [
+        "Keylor Navas",
+        "Presnel Kimpembe",
+        "Thilo Kehrer",
+        "Marco Verratti",
+        "Kylian Mbapp\u00e9",
+        "\u00c1ngel Di Mar\u00eda",
+        "Thomas Meunier",
+        "Mauro Icardi",
+        "Pablo Sarabia",
+        "Layvin Kurzawa",
+        "Idrissa Gana Gueye",
+        "Sergio Rico",
+        "Leandro Paredes",
+        "Edinson Cavani",
+        "Eric Maxim Choupo-Moting",
+        "Julian Draxler",
+        "Mitchel Bakker",
+        "Tanguy Nianzou"
+    ],
+    "fouls": [
+        9,
+        21
+    ],
+    "corners": [
+        4,
+        7
+    ],
+    "crosses": [
+        13,
+        18
+    ],
+    "touches": [
+        486,
+        824
+    ],
+    "tackles": [
+        19,
+        22
+    ],
+    "interceptions": [
+        9,
+        6
+    ],
+    "aerials_won": [
+        7,
+        10
+    ],
+    "clearances": [
+        18,
+        8
+    ],
+    "offsides": [
+        2,
+        1
+    ],
+    "goal_kicks": [
+        11,
+        7
+    ],
+    "throw_ins": [
+        18,
+        11
+    ],
+    "long_balls": [
+        59,
+        53
+    ]
+}

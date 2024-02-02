@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "0",
+        "2"
+    ],
+    "expected_goals": [
+        "0.5",
+        "1.2"
+    ],
+    "home_team": [
+        "St\u00e9phane Ruffier",
+        "Harold Moukoudi",
+        "Ryad Boudebouz",
+        "Mahdi Camara",
+        "Wahbi Khazri",
+        "Miguel Trauco",
+        "Franck Honorat",
+        "Arnaud Nordin",
+        "Sergi Palencia",
+        "Lo\u00efc Perrin",
+        "Yohan Cabaye",
+        "Jessy Moulin",
+        "Timoth\u00e9e Kolodziejczak",
+        "Jean-Eudes Aholou",
+        "Mathieu Debuchy",
+        "Charles Abi",
+        "Edmilson Correia",
+        "Maxence Rivera"
+    ],
+    "away_team": [
+        "Alban Lafont",
+        "Mehdi Abeid",
+        "Dennis Appiah",
+        "Molla Wagu\u00e9",
+        "Charles Traore",
+        "Ludovic Blas",
+        "Abdoulaye Tour\u00e9",
+        "Andrei Girotto",
+        "Imran Louza",
+        "Moses Simon",
+        "Abdoul Kader Bamba",
+        "Denis Petri\u0107",
+        "Cristian Benavente",
+        "Samuel Moutoussamy",
+        "Rene Krhin",
+        "Bridge Ndilu",
+        "Thomas Basila",
+        "Renaud Emond"
+    ],
+    "fouls": [
+        14,
+        10
+    ],
+    "corners": [
+        2,
+        1
+    ],
+    "crosses": [
+        24,
+        4
+    ],
+    "touches": [
+        764,
+        560
+    ],
+    "tackles": [
+        20,
+        16
+    ],
+    "interceptions": [
+        16,
+        15
+    ],
+    "aerials_won": [
+        19,
+        17
+    ],
+    "clearances": [
+        2,
+        27
+    ],
+    "offsides": [
+        1,
+        1
+    ],
+    "goal_kicks": [
+        5,
+        15
+    ],
+    "throw_ins": [
+        36,
+        19
+    ],
+    "long_balls": [
+        52,
+        72
+    ]
+}

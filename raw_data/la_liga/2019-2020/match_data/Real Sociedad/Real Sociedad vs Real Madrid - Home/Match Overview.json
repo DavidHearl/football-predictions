@@ -1,0 +1,108 @@
+{
+    "goals": [
+        "1",
+        "2"
+    ],
+    "expected_goals": [
+        "0.4",
+        "1.3"
+    ],
+    "home_team": [
+        "\u00c1lex Remiro",
+        "Diego Llorente",
+        "Igor Zubeldia",
+        "Portu",
+        "Mikel Merino",
+        "Mikel Oyarzabal",
+        "Andoni Gorosabel",
+        "Alexander Isak",
+        "Nacho Monreal",
+        "Martin \u00d8degaard",
+        "Robin Le Normand",
+        "Miguel \u00c1ngel Moy\u00e1",
+        "Andoni Zubiaurre",
+        "Aritz Elustondo",
+        "Willian Jos\u00e9",
+        "Adnan Januzaj",
+        "Aihen Mu\u00f1oz",
+        "David Zurutuza",
+        "Jon Pacheco",
+        "Roberto L\u00f3pez",
+        "Na\u00efs Djouahra",
+        "Julen Lobete",
+        "Mart\u00edn Zubimendi"
+    ],
+    "away_team": [
+        "Thibaut Courtois",
+        "Dani Carvajal",
+        "Sergio Ramos",
+        "Rapha\u00ebl Varane",
+        "Toni Kroos",
+        "Karim Benzema",
+        "Marcelo",
+        "Casemiro",
+        "Federico Valverde",
+        "James Rodr\u00edguez",
+        "Vinicius J\u00fanior",
+        "Alphonse Areola",
+        "Altube",
+        "\u00c9der Milit\u00e3o",
+        "Eden Hazard",
+        "Luka Modri\u0107",
+        "Gareth Bale",
+        "Marco Asensio",
+        "Brahim D\u00edaz",
+        "Ferland Mendy",
+        "Mariano",
+        "Rodrygo",
+        "Javi Hern\u00e1ndez "
+    ],
+    "fouls": [
+        16,
+        15
+    ],
+    "corners": [
+        4,
+        1
+    ],
+    "crosses": [
+        10,
+        10
+    ],
+    "touches": [
+        688,
+        663
+    ],
+    "tackles": [
+        13,
+        19
+    ],
+    "interceptions": [
+        8,
+        6
+    ],
+    "aerials_won": [
+        9,
+        8
+    ],
+    "clearances": [
+        16,
+        16
+    ],
+    "offsides": [
+        2,
+        3
+    ],
+    "goal_kicks": [
+        4,
+        6
+    ],
+    "throw_ins": [
+        19,
+        20
+    ],
+    "long_balls": [
+        40,
+        64
+    ]
+}

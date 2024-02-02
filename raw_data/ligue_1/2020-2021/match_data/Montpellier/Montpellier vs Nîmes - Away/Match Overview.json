@@ -1,0 +1,102 @@
+{
+    "goals": [
+        "1",
+        "1"
+    ],
+    "expected_goals": [
+        "1.6",
+        "1.0"
+    ],
+    "home_team": [
+        "Baptiste Reynet",
+        "Lo\u00efck Landre",
+        "Zinedine Ferhat",
+        "Lamine Fomba",
+        "Andr\u00e9s Cubas",
+        "Renaud Ripart",
+        "Yassine Benrahou",
+        "Florian Miguel",
+        "Naomichi Ueda",
+        "Moussa Kon\u00e9",
+        "Sofiane Alakouch",
+        "Lucas Dias",
+        "Kelyan Guessoum",
+        "Niclas Eliasson",
+        "Lucas Deaux",
+        "Matteo Ahlinvi",
+        "Ga\u00ebtan Paquiez",
+        "Haris Duljevi\u0107",
+        "Patrick Burner",
+        "Nolan Roux"
+    ],
+    "away_team": [
+        "Jonas Omlin",
+        "Daniel Congr\u00e9",
+        "Vitorino Hilton",
+        "Junior Sambia",
+        "Mihailo Risti\u0107",
+        "Andy Delort",
+        "Ga\u00ebtan Laborde",
+        "T\u00e9ji Savanier",
+        "Jordan Ferri",
+        "Stephy Mavididi",
+        "Florent Mollet",
+        "Matis Carvalho",
+        "Arnaud Souquet",
+        "Pedro Mendes",
+        "Joris Chotard",
+        "Damien Le Tallec",
+        "Keagan Dolly",
+        "Elye Wahi",
+        "Nicolas Cozza",
+        "Petar \u0160kuleti\u0107"
+    ],
+    "fouls": [
+        11,
+        19
+    ],
+    "corners": [
+        5,
+        7
+    ],
+    "crosses": [
+        14,
+        42
+    ],
+    "touches": [
+        450,
+        601
+    ],
+    "tackles": [
+        22,
+        13
+    ],
+    "interceptions": [
+        10,
+        14
+    ],
+    "aerials_won": [
+        14,
+        29
+    ],
+    "clearances": [
+        37,
+        21
+    ],
+    "offsides": [
+        1,
+        5
+    ],
+    "goal_kicks": [
+        10,
+        2
+    ],
+    "throw_ins": [
+        24,
+        39
+    ],
+    "long_balls": [
+        73,
+        100
+    ]
+}

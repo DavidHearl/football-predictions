@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "2",
+        "1"
+    ],
+    "expected_goals": [
+        "1.8",
+        "2.3"
+    ],
+    "home_team": [
+        "Dean Henderson",
+        "Enda Stevens",
+        "John Fleck",
+        "Jack O'Connell",
+        "Chris Basham",
+        "Leon Clarke",
+        "Billy Sharp",
+        "Ben Woodburn",
+        "John Egan",
+        "Oliver Norwood",
+        "Kieron Freeman",
+        "Simon Moore",
+        "John Lundstram",
+        "Ryan Leonard",
+        "David McGoldrick",
+        "Richard Stearman",
+        "Daniel Lafferty",
+        "Caolan Lavery"
+    ],
+    "away_team": [
+        "Tim Krul",
+        "Ben Marshall",
+        "Moritz Leitner",
+        "Jordan Rhodes",
+        "Jamal Lewis",
+        "Timm Klose",
+        "Tom Trybull",
+        "Teemu Pukki",
+        "Onel Hern\u00e1ndez",
+        "Alexander Tettey",
+        "Grant Hanley",
+        "Michael McGovern",
+        "Ben Godfrey",
+        "Christoph Zimmermann",
+        "Marco Stiepermann",
+        "Dennis Srbeny",
+        "Louis Thompson",
+        "Max Aarons"
+    ],
+    "fouls": [
+        15,
+        7
+    ],
+    "corners": [
+        9,
+        4
+    ],
+    "crosses": [
+        32,
+        12
+    ],
+    "touches": [
+        644,
+        609
+    ],
+    "tackles": [
+        20,
+        11
+    ],
+    "interceptions": [
+        9,
+        12
+    ],
+    "aerials_won": [
+        29,
+        21
+    ],
+    "clearances": [
+        20,
+        35
+    ],
+    "offsides": [
+        2,
+        0
+    ],
+    "goal_kicks": [
+        6,
+        8
+    ],
+    "throw_ins": [
+        37,
+        23
+    ],
+    "long_balls": [
+        103,
+        83
+    ]
+}

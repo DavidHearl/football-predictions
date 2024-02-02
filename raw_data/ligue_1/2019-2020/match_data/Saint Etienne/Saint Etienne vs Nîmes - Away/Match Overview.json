@@ -1,0 +1,98 @@
+{
+    "goals": [
+        "0",
+        "1"
+    ],
+    "expected_goals": [
+        "1.8",
+        "0.7"
+    ],
+    "home_team": [
+        "Paul Bernardoni",
+        "Pablo Martinez",
+        "Romain Philippoteaux",
+        "Lucas Deaux",
+        "Zinedine Ferhat",
+        "Lamine Fomba",
+        "Theo Valls",
+        "Renaud Ripart",
+        "Anthony Brian\u00e7on",
+        "Florian Miguel",
+        "Sofiane Alakouch",
+        "Lucas Dias",
+        "Lo\u00efck Landre",
+        "Sidy Sarr",
+        "Vlatko Stojanovski",
+        "Ga\u00ebtan Paquiez",
+        "Sami Ben Amar",
+        "Kevin Denkey"
+    ],
+    "away_team": [
+        "Jessy Moulin",
+        "Harold Moukoudi",
+        "Timoth\u00e9e Kolodziejczak",
+        "Yann M'Vila",
+        "Wahbi Khazri",
+        "Arnaud Nordin",
+        "Denis Bouanga",
+        "Romain Hamouma",
+        "Lo\u00efc Perrin",
+        "Mathieu Debuchy",
+        "Yohan Cabaye",
+        "Stefan Bajic",
+        "William Saliba",
+        "Ryad Boudebouz",
+        "Miguel Trauco",
+        "Robert Beri\u0107",
+        "Zaydou Youssouf",
+        "Charles Abi"
+    ],
+    "fouls": [
+        12,
+        15
+    ],
+    "corners": [
+        13,
+        5
+    ],
+    "crosses": [
+        36,
+        12
+    ],
+    "touches": [
+        651,
+        435
+    ],
+    "tackles": [
+        21,
+        12
+    ],
+    "interceptions": [
+        11,
+        19
+    ],
+    "aerials_won": [
+        28,
+        31
+    ],
+    "clearances": [
+        13,
+        40
+    ],
+    "offsides": [
+        0,
+        1
+    ],
+    "goal_kicks": [
+        3,
+        10
+    ],
+    "throw_ins": [
+        35,
+        23
+    ],
+    "long_balls": [
+        94,
+        79
+    ]
+}
