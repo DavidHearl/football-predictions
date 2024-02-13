@@ -1,0 +1,102 @@
+{
+    "goals": [
+        "1",
+        "2"
+    ],
+    "expected_goals": [
+        "1.1",
+        "1.4"
+    ],
+    "home_team": [
+        "Alexandre Oukidja",
+        "Maxime Colin",
+        "Matthieu Udol",
+        "Fali Cand\u00e9",
+        "K\u00e9vin N'Doram",
+        "Isma\u00ebl Traor\u00e9",
+        "Georges Mikautadze",
+        "Didier Lamkel Z\u00e9",
+        "Lamine Camara",
+        "K\u00e9vin Van Den Kerkhof",
+        "Danley Jean-Jacques",
+        "Guillaume Dietsch",
+        "Cheikh Tidiane Sabaly",
+        "Abou L\u00f4",
+        "Benjamin Tetteh",
+        "Jean Frederic N'Guessan",
+        "Arthur Atta",
+        "Joseph Nduquidi",
+        "Sadibou San\u00e9",
+        "Joel Asoro"
+    ],
+    "away_team": [
+        "Yvon Mvogo",
+        "Montassar Talbi",
+        "Imran Louza",
+        "Panos Katseris",
+        "Muhamad Bamba",
+        "Laurent Abergel",
+        "Julien Ponceau",
+        "Nathaniel Adjei",
+        "Th\u00e9o Le Bris",
+        "Ayman Kari",
+        "Souleymane Tour\u00e9",
+        "Alfred Gomis",
+        "Badredine Bouanani",
+        "Bamba Dieng",
+        "Formose Mendy",
+        "Tiemou\u00e9 Bakayoko",
+        "Julien Laporte",
+        "Jean-Victor Makengo",
+        "Eli Junior Kroupi",
+        "Gino Caoki"
+    ],
+    "fouls": [
+        12,
+        13
+    ],
+    "corners": [
+        4,
+        3
+    ],
+    "crosses": [
+        33,
+        14
+    ],
+    "touches": [
+        547,
+        693
+    ],
+    "tackles": [
+        15,
+        23
+    ],
+    "interceptions": [
+        14,
+        13
+    ],
+    "aerials_won": [
+        12,
+        15
+    ],
+    "clearances": [
+        14,
+        40
+    ],
+    "offsides": [
+        2,
+        2
+    ],
+    "goal_kicks": [
+        7,
+        7
+    ],
+    "throw_ins": [
+        24,
+        15
+    ],
+    "long_balls": [
+        72,
+        57
+    ]
+}

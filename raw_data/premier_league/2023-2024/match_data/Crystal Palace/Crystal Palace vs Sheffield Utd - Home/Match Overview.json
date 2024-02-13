@@ -1,0 +1,102 @@
+{
+    "goals": [
+        "3",
+        "2"
+    ],
+    "expected_goals": [
+        "1.1",
+        "0.8"
+    ],
+    "home_team": [
+        "Dean Henderson",
+        "Tyrick Mitchell",
+        "Marc Gu\u00e9hi",
+        "Michael Olise",
+        "Jefferson Lerma",
+        "Jordan Ayew",
+        "Eberechi Eze",
+        "Jean-Philippe Mateta",
+        "Joachim Andersen",
+        "Will Hughes",
+        "Chris Richards",
+        "Sam Johnstone",
+        "James Tomkins",
+        "Matheus Fran\u00e7a",
+        "Jeffrey Schlupp",
+        "Nathaniel Clyne",
+        "Odsonne \u00c9douard",
+        "Naouirou Ahamada",
+        "Ja\u00efro Riedewald",
+        "David Ozoh"
+    ],
+    "away_team": [
+        "Ivo Grbi\u0107",
+        "Auston Trusty",
+        "Gustavo Hamer",
+        "Oliver McBurnie",
+        "Ben Brereton",
+        "Anel Ahmedhod\u017ei\u0107",
+        "Jack Robinson",
+        "Jayden Bogle",
+        "Vinicius Souza",
+        "Anis Ben Slimane",
+        "James Mcatee",
+        "Wes Foderingham",
+        "Cameron Archer",
+        "Oliver Norwood",
+        "Ben Osborn",
+        "Yasser Larouci",
+        "William Osula",
+        "Rhys Norrington-Davies",
+        "Andre Brooks",
+        "Femi Seriki"
+    ],
+    "fouls": [
+        8,
+        18
+    ],
+    "corners": [
+        11,
+        1
+    ],
+    "crosses": [
+        28,
+        7
+    ],
+    "touches": [
+        664,
+        613
+    ],
+    "tackles": [
+        30,
+        35
+    ],
+    "interceptions": [
+        8,
+        15
+    ],
+    "aerials_won": [
+        13,
+        26
+    ],
+    "clearances": [
+        20,
+        36
+    ],
+    "offsides": [
+        2,
+        1
+    ],
+    "goal_kicks": [
+        1,
+        10
+    ],
+    "throw_ins": [
+        26,
+        32
+    ],
+    "long_balls": [
+        68,
+        84
+    ]
+}

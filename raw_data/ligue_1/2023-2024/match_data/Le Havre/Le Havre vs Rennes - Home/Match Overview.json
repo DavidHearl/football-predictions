@@ -1,0 +1,102 @@
+{
+    "goals": [
+        "0",
+        "1"
+    ],
+    "expected_goals": [
+        "1.1",
+        "0.9"
+    ],
+    "home_team": [
+        "Arthur Desmas",
+        "Gautier Lloris",
+        "Etienne Youte Kinkoue",
+        "Lo\u00efc Nego",
+        "Yassine Kechta",
+        "Mohamed Lamine Bayo",
+        "Emmanuel Sabbi",
+        "Josu\u00e9 Casimir",
+        "Christopher Operi",
+        "Arouna Sangante",
+        "Abdoulaye Tour\u00e9",
+        "Mathieu Gorgelin",
+        "Steve Ngoura",
+        "Oualid El Hajjam",
+        "Rassoul Ndiaye",
+        "Antoine Joujou",
+        "Yoann Salmier",
+        "Alois Confais",
+        "Andr\u00e9 Ayew",
+        "Samuel Grandsir"
+    ],
+    "away_team": [
+        "Steve Mandanda",
+        "Adrien Truffert",
+        "Arthur Theate",
+        "Azor Matusiwa",
+        "Martin Terrier",
+        "Baptiste Santamaria",
+        "Arnaud Kalimuendo",
+        "Benjamin Bourigeaud",
+        "Guela Dou\u00e9",
+        "Warmed Omari",
+        "D\u00e9sir\u00e9 Dou\u00e9",
+        "Gauthier Gallon",
+        "Christopher Wooh",
+        "Amine Gouiri",
+        "Ludovic Blas",
+        "Jean\u00f6el Belocian",
+        "Ibrahim Salah",
+        "Alidu Seidu",
+        "Mahamadou Nagida",
+        "Bertu\u011f \u00d6zg\u00fcr Y\u0131ld\u0131r\u0131m"
+    ],
+    "fouls": [
+        14,
+        7
+    ],
+    "corners": [
+        5,
+        1
+    ],
+    "crosses": [
+        29,
+        8
+    ],
+    "touches": [
+        627,
+        647
+    ],
+    "tackles": [
+        15,
+        22
+    ],
+    "interceptions": [
+        9,
+        9
+    ],
+    "aerials_won": [
+        18,
+        12
+    ],
+    "clearances": [
+        20,
+        23
+    ],
+    "offsides": [
+        2,
+        2
+    ],
+    "goal_kicks": [
+        11,
+        7
+    ],
+    "throw_ins": [
+        21,
+        12
+    ],
+    "long_balls": [
+        67,
+        66
+    ]
+}

@@ -173,6 +173,10 @@ class MatchHistory:
 
 
 	def create_match_folders(self):
+		print("-------------------------------------------")
+		print("---------- Creating match folders ---------")
+		print("-------------------------------------------\n")
+
 		base_url = 'https://fbref.com'
 
 		# Open the keys.json file and load the data
@@ -184,6 +188,27 @@ class MatchHistory:
 
 		# Assign the club_urls to a variable
 		club_urls = data['club_urls']
+
+		# Add a match counter
+		match_count = 0
+
+		# Create a counter to track progress
+		folder_count = {}
+
+		# ---------------------------------------------------------------------
+		# ---------------------------------------------------------------------
+		# ---------------------------------------------------------------------
+		# ---------------------------------------------------------------------
+		# ---------------------------------------------------------------------
+		# ---------------------------------------------------------------------
+		# ----------------------- Resume at this block ------------------------
+		# ---------------------------------------------------------------------
+		# ---------------------------------------------------------------------
+		# ---------------------------------------------------------------------
+		# ---------------------------------------------------------------------
+		# ---------------------------------------------------------------------
+		# ---------------------------------------------------------------------
+		# ---------------------------------------------------------------------
 
 		for league in club_urls:
 			location = f"raw_data/{league}/{self.season}/match_data"
@@ -279,22 +304,19 @@ class MatchHistory:
 							if not div.has_attr('class') and div.text.isdigit():
 								numeric_values.append(int(div.text))
 
-						try:
-							fouls = [numeric_values[0], numeric_values[1]]
-							corners = [numeric_values[2], numeric_values[3]]
-							crosses = [numeric_values[4], numeric_values[5]]
-							touches = [numeric_values[6], numeric_values[7]]
-							tackles = [numeric_values[8], numeric_values[9]]
-							interceptions = [numeric_values[10], numeric_values[11]]
-							aerials_won = [numeric_values[12], numeric_values[13]]
-							clearances = [numeric_values[14], numeric_values[15]]
-							offsides = [numeric_values[16], numeric_values[17]]
-							goal_kicks = [numeric_values[18], numeric_values[19]]
-							throw_ins = [numeric_values[20], numeric_values[21]]
-							long_balls = [numeric_values[22], numeric_values[23]]
-						except IndexError:
-							time.sleep(15)  # Wait 15 seconds before skipping
-							continue				
+						# Create a dictionary for the match overview data
+						fouls = [numeric_values[0], numeric_values[1]]
+						corners = [numeric_values[2], numeric_values[3]]
+						crosses = [numeric_values[4], numeric_values[5]]
+						touches = [numeric_values[6], numeric_values[7]]
+						tackles = [numeric_values[8], numeric_values[9]]
+						interceptions = [numeric_values[10], numeric_values[11]]
+						aerials_won = [numeric_values[12], numeric_values[13]]
+						clearances = [numeric_values[14], numeric_values[15]]
+						offsides = [numeric_values[16], numeric_values[17]]
+						goal_kicks = [numeric_values[18], numeric_values[19]]
+						throw_ins = [numeric_values[20], numeric_values[21]]
+						long_balls = [numeric_values[22], numeric_values[23]]			
 
 						# Find all 'div' tags with class 'score'
 						goals = soup_match_report.find_all('div', {'class': 'score'})

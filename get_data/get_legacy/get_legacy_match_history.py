@@ -342,7 +342,6 @@ class LegacyMatchHistory:
 								goal_kicks = [numeric_values[18], numeric_values[19]]
 								throw_ins = [numeric_values[20], numeric_values[21]]
 								long_balls = [numeric_values[22], numeric_values[23]]
-						
 
 								# Find all 'div' tags with class 'score'
 								goals = soup_match_report.find_all('div', {'class': 'score'})

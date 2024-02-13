@@ -1,0 +1,102 @@
+{
+    "goals": [
+        "1",
+        "2"
+    ],
+    "expected_goals": [
+        "1.8",
+        "1.4"
+    ],
+    "home_team": [
+        "Tom Glover",
+        "Rav van den Berg",
+        "Daniel Barlaser",
+        "Dael Fry",
+        "Hayden Hackney",
+        "Luke Ayling",
+        "Finn Azaz",
+        "Marcus Forss",
+        "Lukas Engel",
+        "Lewis O'Brien",
+        "Sam Greenwood",
+        "Seny Dieng",
+        "Matthew Clarke",
+        "Riley McGree",
+        "Alexander Gilbert",
+        "Anfernee Dijksteel",
+        "Jonny Howson",
+        "Paddy McNair",
+        "Sam Silvera",
+        "Luke Thomas"
+    ],
+    "away_team": [
+        "Max O'Leary",
+        "Cameron Pring",
+        "Matty James",
+        "Harry Cornick",
+        "Jason Knight",
+        "Robert Dickie",
+        "George Tanner",
+        "Sam Bell",
+        "Nahki Wells",
+        "Taylor Gardner-Hickman",
+        "Zak Vyner",
+        "Ross McCrorie",
+        "Stefan Bajic",
+        "Joe Williams",
+        "Andy King",
+        "Anis Mehmeti",
+        "Tommy Conway",
+        "Haydon Roberts",
+        "Jamie Knight-Lebel",
+        "Dire Mebude"
+    ],
+    "fouls": [
+        11,
+        11
+    ],
+    "corners": [
+        7,
+        1
+    ],
+    "crosses": [
+        27,
+        6
+    ],
+    "touches": [
+        899,
+        478
+    ],
+    "tackles": [
+        9,
+        9
+    ],
+    "interceptions": [
+        5,
+        13
+    ],
+    "aerials_won": [
+        12,
+        8
+    ],
+    "clearances": [
+        10,
+        35
+    ],
+    "offsides": [
+        5,
+        2
+    ],
+    "goal_kicks": [
+        8,
+        9
+    ],
+    "throw_ins": [
+        24,
+        17
+    ],
+    "long_balls": [
+        56,
+        72
+    ]
+}

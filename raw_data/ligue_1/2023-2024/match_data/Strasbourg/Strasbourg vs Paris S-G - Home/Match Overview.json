@@ -1,0 +1,102 @@
+{
+    "goals": [
+        "1",
+        "2"
+    ],
+    "expected_goals": [
+        "2.7",
+        "2.0"
+    ],
+    "home_team": [
+        "Alaa Bellaarouch",
+        "Frederic Guilbert",
+        "Lucas Perrin",
+        "Dion Moise Sahi",
+        "Junior Mwanga",
+        "Mouhamadou Diarra",
+        "\u00c2ngelo Borges",
+        "Abakar Sylla",
+        "Dilane Bakwa",
+        "Ibrahima Sissoko",
+        "Marvin Senaya",
+        "Alexandre Pierre",
+        "Thomas Delaine",
+        "Jessy Deminguet",
+        "Emanuel Emegha",
+        "Steven Baseya",
+        "Samir El Mourabet",
+        "Mohamed Bechikh",
+        "Elies Eraar Fernandez",
+        "Rabby Nzingoula"
+    ],
+    "away_team": [
+        "Gianluigi Donnarumma",
+        "Manuel Ugarte Ribeiro",
+        "Marquinhos",
+        "Kylian Mbapp\u00e9",
+        "Fabi\u00e1n Ruiz Pe\u00f1a",
+        "Marco Asensio",
+        "Lucas Hern\u00e1ndez",
+        "Randal Kolo Muani",
+        "Carlos Soler",
+        "Warren Zaire-Emery",
+        "Lucas Beraldo",
+        "Keylor Navas",
+        "Arnau Tenas",
+        "Gon\u00e7alo Ramos",
+        "Danilo Pereira",
+        "Vitinha",
+        "Nordi Mukiele",
+        "Ethan Mbapp\u00e9",
+        "Senny Mayulu",
+        "Yoram Zague"
+    ],
+    "fouls": [
+        12,
+        13
+    ],
+    "corners": [
+        3,
+        4
+    ],
+    "crosses": [
+        18,
+        9
+    ],
+    "touches": [
+        508,
+        736
+    ],
+    "tackles": [
+        20,
+        13
+    ],
+    "interceptions": [
+        9,
+        13
+    ],
+    "aerials_won": [
+        11,
+        14
+    ],
+    "clearances": [
+        22,
+        20
+    ],
+    "offsides": [
+        1,
+        2
+    ],
+    "goal_kicks": [
+        2,
+        8
+    ],
+    "throw_ins": [
+        15,
+        16
+    ],
+    "long_balls": [
+        47,
+        64
+    ]
+}

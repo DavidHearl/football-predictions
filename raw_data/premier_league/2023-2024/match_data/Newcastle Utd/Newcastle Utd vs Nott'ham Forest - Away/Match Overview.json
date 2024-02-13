@@ -1,0 +1,102 @@
+{
+    "goals": [
+        "2",
+        "3"
+    ],
+    "expected_goals": [
+        "1.5",
+        "0.5"
+    ],
+    "home_team": [
+        "Matz Sels",
+        "Nuno Tavares",
+        "Neco Williams",
+        "Taiwo Awoniyi",
+        "Morgan Gibbs-White",
+        "Callum Hudson-Odoi",
+        "Nicol\u00e1s Dom\u00ednguez",
+        "Moussa Niakhate",
+        "Anthony Elanga",
+        "Ryan Yates",
+        "Murillo",
+        "Matt Turner",
+        "Cheikhou Kouyat\u00e9",
+        "Harry Toffolo",
+        "Felipe",
+        "Gio Reyna",
+        "Divock Origi",
+        "Danilo",
+        "Andrew Omobamidele",
+        "Rodrigo Ribeiro"
+    ],
+    "away_team": [
+        "Martin D\u00fabravka",
+        "Kieran Trippier",
+        "Sven Botman",
+        "Fabian Sch\u00e4r",
+        "Callum Wilson",
+        "Anthony Gordon",
+        "Miguel Almir\u00f3n",
+        "Dan Burn",
+        "Sean Longstaff",
+        "Bruno Guimar\u00e3es",
+        "Lewis Miley",
+        "Loris Karius",
+        "Paul Dummett",
+        "Jamaal Lascelles",
+        "Matt Ritchie",
+        "Harvey Barnes",
+        "Emil Krafth",
+        "Lewis Hall",
+        "Valentino Livramento",
+        "Jacob Murphy"
+    ],
+    "fouls": [
+        9,
+        6
+    ],
+    "corners": [
+        4,
+        4
+    ],
+    "crosses": [
+        19,
+        12
+    ],
+    "touches": [
+        521,
+        780
+    ],
+    "tackles": [
+        20,
+        14
+    ],
+    "interceptions": [
+        2,
+        5
+    ],
+    "aerials_won": [
+        11,
+        16
+    ],
+    "clearances": [
+        18,
+        35
+    ],
+    "offsides": [
+        3,
+        0
+    ],
+    "goal_kicks": [
+        5,
+        12
+    ],
+    "throw_ins": [
+        21,
+        15
+    ],
+    "long_balls": [
+        62,
+        67
+    ]
+}
