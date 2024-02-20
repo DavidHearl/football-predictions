@@ -1,0 +1,102 @@
+{
+    "goals": [
+        "1",
+        "2"
+    ],
+    "expected_goals": [
+        "2.1",
+        "1.0"
+    ],
+    "home_team": [
+        "Mads Hermansen",
+        "James Justin",
+        "Wout Faes",
+        "Harry Winks",
+        "Stephy Mavididi",
+        "Abdul Fatawu Issahaku",
+        "Patson Daka",
+        "Ricardo Pereira",
+        "Kiernan Dewsbury-Hall",
+        "Jannik Vestergaard",
+        "Dennis Praet",
+        "Jakub Stolarczyk",
+        "Conor Coady",
+        "Callum Doyle",
+        "Jamie Vardy",
+        "Marc Albrighton",
+        "Hamza Choudhury",
+        "Thomas Cannon",
+        "Yunus Akg\u00fcn",
+        "Kasey McAteer"
+    ],
+    "away_team": [
+        "Tom Glover",
+        "Rav van den Berg",
+        "Daniel Barlaser",
+        "Matthew Clarke",
+        "Riley McGree",
+        "Luke Ayling",
+        "Paddy McNair",
+        "Sam Silvera",
+        "Finn Azaz",
+        "Lukas Engel",
+        "Lewis O'Brien",
+        "Seny Dieng",
+        "Matthew Hoppe",
+        "Alexander Gilbert",
+        "Anfernee Dijksteel",
+        "Marcus Forss",
+        "Sam Greenwood",
+        "Daniel Nkrumah",
+        "Law McCabe",
+        "Luke Woolston"
+    ],
+    "fouls": [
+        10,
+        8
+    ],
+    "corners": [
+        12,
+        4
+    ],
+    "crosses": [
+        45,
+        7
+    ],
+    "touches": [
+        882,
+        445
+    ],
+    "tackles": [
+        12,
+        13
+    ],
+    "interceptions": [
+        11,
+        9
+    ],
+    "aerials_won": [
+        13,
+        18
+    ],
+    "clearances": [
+        7,
+        41
+    ],
+    "offsides": [
+        2,
+        4
+    ],
+    "goal_kicks": [
+        5,
+        17
+    ],
+    "throw_ins": [
+        28,
+        15
+    ],
+    "long_balls": [
+        68,
+        62
+    ]
+}

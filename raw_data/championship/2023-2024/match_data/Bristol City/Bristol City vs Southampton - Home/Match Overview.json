@@ -1,0 +1,102 @@
+{
+    "goals": [
+        "3",
+        "1"
+    ],
+    "expected_goals": [
+        "1.2",
+        "1.8"
+    ],
+    "home_team": [
+        "Max O'Leary",
+        "Matty James",
+        "Joe Williams",
+        "Anis Mehmeti",
+        "Jason Knight",
+        "Tommy Conway",
+        "Robert Dickie",
+        "George Tanner",
+        "Sam Bell",
+        "Haydon Roberts",
+        "Zak Vyner",
+        "Ross McCrorie",
+        "Stefan Bajic",
+        "Harry Cornick",
+        "Andy King",
+        "Mark Sykes",
+        "Nahki Wells",
+        "Taylor Gardner-Hickman",
+        "Jamie Knight-Lebel",
+        "Dire Mebude"
+    ],
+    "away_team": [
+        "Gavin Bazunu",
+        "Kyle Walker-Peters",
+        "Ryan Manning",
+        "Adam Armstrong",
+        "William Smallbone",
+        "Joe Rothwell",
+        "Taylor Harwood-Bellis",
+        "Samuel Edozie",
+        "Shea Charles",
+        "Jan Bednarek",
+        "David Brooks",
+        "Joe Lumley",
+        "Jack Stephens",
+        "Stuart Armstrong",
+        "Sekou Mara",
+        "Kamaldeen Sulemana",
+        "Ryan Fraser",
+        "Samuel Amo-Ameyaw",
+        "Jayden Meghoma",
+        "Tyler Dibling"
+    ],
+    "fouls": [
+        8,
+        13
+    ],
+    "corners": [
+        6,
+        5
+    ],
+    "crosses": [
+        18,
+        12
+    ],
+    "touches": [
+        471,
+        840
+    ],
+    "tackles": [
+        14,
+        12
+    ],
+    "interceptions": [
+        16,
+        10
+    ],
+    "aerials_won": [
+        12,
+        15
+    ],
+    "clearances": [
+        11,
+        11
+    ],
+    "offsides": [
+        1,
+        1
+    ],
+    "goal_kicks": [
+        7,
+        6
+    ],
+    "throw_ins": [
+        17,
+        15
+    ],
+    "long_balls": [
+        62,
+        32
+    ]
+}

@@ -13,7 +13,7 @@
         "('Performance', 'Fld')": 2,
         "('Performance', 'Off')": 1,
         "('Performance', 'Crs')": 1,
-        "('Performance', 'Int')": 1,
+        "('Performance', 'Int')": 0,
         "('Performance', 'TklW')": 0,
         "('Performance', 'PKwon')": 0,
         "('Performance', 'PKcon')": 0,
@@ -133,7 +133,7 @@
         "('Performance', 'Fld')": 6,
         "('Performance', 'Off')": 0,
         "('Performance', 'Crs')": 2,
-        "('Performance', 'Int')": 2,
+        "('Performance', 'Int')": 3,
         "('Performance', 'TklW')": 1,
         "('Performance', 'PKwon')": 0,
         "('Performance', 'PKcon')": 0,
@@ -277,13 +277,13 @@
         "('Performance', 'Fld')": 1,
         "('Performance', 'Off')": 0,
         "('Performance', 'Crs')": 0,
-        "('Performance', 'Int')": 1,
+        "('Performance', 'Int')": 2,
         "('Performance', 'TklW')": 0,
         "('Performance', 'PKwon')": 0,
         "('Performance', 'PKcon')": 0,
         "('Performance', 'OG')": 0,
         "('Performance', 'Recov')": 0,
-        "('Aerial Duels', 'Won')": 4,
+        "('Aerial Duels', 'Won')": 3,
         "('Aerial Duels', 'Lost')": 0,
         "('Aerial Duels', 'Won%')": 100.0
     },
@@ -308,7 +308,7 @@
         "('Performance', 'OG')": 0,
         "('Performance', 'Recov')": 3,
         "('Aerial Duels', 'Won')": 0,
-        "('Aerial Duels', 'Lost')": 2,
+        "('Aerial Duels', 'Lost')": 3,
         "('Aerial Duels', 'Won%')": 0.0
     },
     {
@@ -325,7 +325,7 @@
         "('Performance', 'Fld')": 1,
         "('Performance', 'Off')": 0,
         "('Performance', 'Crs')": 5,
-        "('Performance', 'Int')": 2,
+        "('Performance', 'Int')": 1,
         "('Performance', 'TklW')": 1,
         "('Performance', 'PKwon')": 0,
         "('Performance', 'PKcon')": 0,
@@ -379,8 +379,8 @@
         "('Performance', 'PKcon')": 0,
         "('Performance', 'OG')": 0,
         "('Performance', 'Recov')": 45,
-        "('Aerial Duels', 'Won')": 14,
-        "('Aerial Duels', 'Lost')": 23,
-        "('Aerial Duels', 'Won%')": 37.8
+        "('Aerial Duels', 'Won')": 13,
+        "('Aerial Duels', 'Lost')": 24,
+        "('Aerial Duels', 'Won%')": 35.1
     }
 ]

@@ -1,0 +1,102 @@
+{
+    "goals": [
+        "0",
+        "1"
+    ],
+    "expected_goals": [
+        "0.7",
+        "1.3"
+    ],
+    "home_team": [
+        "Jack Bonham",
+        "Lynden Gooch",
+        "Ben Pearson",
+        "Michael Rose",
+        "Lewis Baker",
+        "Jordan Thompson",
+        "Ben Wilmot",
+        "Ki-Jana Hoever",
+        "Luke Cundle",
+        "Josh Laurent",
+        "Nathan Lowe",
+        "Frank Fielding",
+        "Wouter Burger",
+        "Niall Ennis",
+        "Wesley Moraes",
+        "Bae Junho",
+        "Junior Tchamadeu",
+        "Ciaran Clark",
+        "Mehdi L\u00e9ris",
+        "Million Manhoef"
+    ],
+    "away_team": [
+        "Ben Wilson",
+        "Luis Binks",
+        "Jay Dasilva",
+        "Bobby Thomas",
+        "Ellis Simms",
+        "Callum O'Hare",
+        "Haji Wright",
+        "Jo\u00ebl Latibeaudi\u00e8re",
+        "Josh Eccles",
+        "Victor Torp",
+        "Fabio Tavares",
+        "Bradley Collins",
+        "Liam Kelly",
+        "Liam Kitching",
+        "Jake Bidwell",
+        "Matthew Godden",
+        "Milan van Ewijk",
+        "Dermi Lusala",
+        "Kasey Palmer",
+        "Kai Andrews"
+    ],
+    "fouls": [
+        13,
+        10
+    ],
+    "corners": [
+        5,
+        4
+    ],
+    "crosses": [
+        25,
+        10
+    ],
+    "touches": [
+        652,
+        694
+    ],
+    "tackles": [
+        18,
+        27
+    ],
+    "interceptions": [
+        9,
+        14
+    ],
+    "aerials_won": [
+        10,
+        11
+    ],
+    "clearances": [
+        15,
+        27
+    ],
+    "offsides": [
+        1,
+        0
+    ],
+    "goal_kicks": [
+        7,
+        8
+    ],
+    "throw_ins": [
+        37,
+        25
+    ],
+    "long_balls": [
+        65,
+        55
+    ]
+}

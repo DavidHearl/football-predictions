@@ -33,7 +33,7 @@
         "('Performance', 'CrdY')": 1,
         "('Performance', 'CrdR')": 0,
         "('Performance', '2CrdY')": 0,
-        "('Performance', 'Fls')": 1,
+        "('Performance', 'Fls')": 0,
         "('Performance', 'Fld')": 1,
         "('Performance', 'Off')": 2,
         "('Performance', 'Crs')": 0,
@@ -153,7 +153,7 @@
         "('Performance', 'CrdY')": 0,
         "('Performance', 'CrdR')": 0,
         "('Performance', '2CrdY')": 0,
-        "('Performance', 'Fls')": 1,
+        "('Performance', 'Fls')": 2,
         "('Performance', 'Fld')": 1,
         "('Performance', 'Off')": 0,
         "('Performance', 'Crs')": 3,
@@ -163,9 +163,9 @@
         "('Performance', 'PKcon')": 0,
         "('Performance', 'OG')": 0,
         "('Performance', 'Recov')": 7,
-        "('Aerial Duels', 'Won')": 1,
+        "('Aerial Duels', 'Won')": 2,
         "('Aerial Duels', 'Lost')": 1,
-        "('Aerial Duels', 'Won%')": 50.0
+        "('Aerial Duels', 'Won%')": 66.7
     },
     {
         "('Unnamed: 0_level_0', 'Player')": "Mois\u00e9s Caicedo",
@@ -186,7 +186,7 @@
         "('Performance', 'PKwon')": 0,
         "('Performance', 'PKcon')": 0,
         "('Performance', 'OG')": 0,
-        "('Performance', 'Recov')": 8,
+        "('Performance', 'Recov')": 9,
         "('Aerial Duels', 'Won')": 0,
         "('Aerial Duels', 'Lost')": 3,
         "('Aerial Duels', 'Won%')": 0.0
@@ -234,7 +234,7 @@
         "('Performance', 'PKwon')": 0,
         "('Performance', 'PKcon')": 0,
         "('Performance', 'OG')": 0,
-        "('Performance', 'Recov')": 3,
+        "('Performance', 'Recov')": 2,
         "('Aerial Duels', 'Won')": 0,
         "('Aerial Duels', 'Lost')": 0,
         "('Aerial Duels', 'Won%')": null
@@ -298,7 +298,7 @@
         "('Performance', 'CrdR')": 0,
         "('Performance', '2CrdY')": 0,
         "('Performance', 'Fls')": 0,
-        "('Performance', 'Fld')": 1,
+        "('Performance', 'Fld')": 2,
         "('Performance', 'Off')": 2,
         "('Performance', 'Crs')": 11,
         "('Performance', 'Int')": 1,
@@ -308,8 +308,8 @@
         "('Performance', 'OG')": 0,
         "('Performance', 'Recov')": 7,
         "('Aerial Duels', 'Won')": 1,
-        "('Aerial Duels', 'Lost')": 0,
-        "('Aerial Duels', 'Won%')": 100.0
+        "('Aerial Duels', 'Lost')": 1,
+        "('Aerial Duels', 'Won%')": 50.0
     },
     {
         "('Unnamed: 0_level_0', 'Player')": "Alfie Gilchrist",
@@ -354,7 +354,7 @@
         "('Performance', 'PKwon')": 0,
         "('Performance', 'PKcon')": 0,
         "('Performance', 'OG')": 0,
-        "('Performance', 'Recov')": 2,
+        "('Performance', 'Recov')": 1,
         "('Aerial Duels', 'Won')": 0,
         "('Aerial Duels', 'Lost')": 0,
         "('Aerial Duels', 'Won%')": null
@@ -370,7 +370,7 @@
         "('Performance', 'CrdR')": 0,
         "('Performance', '2CrdY')": 0,
         "('Performance', 'Fls')": 7,
-        "('Performance', 'Fld')": 13,
+        "('Performance', 'Fld')": 14,
         "('Performance', 'Off')": 4,
         "('Performance', 'Crs')": 29,
         "('Performance', 'Int')": 6,
@@ -378,9 +378,9 @@
         "('Performance', 'PKwon')": 0,
         "('Performance', 'PKcon')": 0,
         "('Performance', 'OG')": 0,
-        "('Performance', 'Recov')": 56,
-        "('Aerial Duels', 'Won')": 11,
-        "('Aerial Duels', 'Lost')": 14,
-        "('Aerial Duels', 'Won%')": 44.0
+        "('Performance', 'Recov')": 55,
+        "('Aerial Duels', 'Won')": 12,
+        "('Aerial Duels', 'Lost')": 15,
+        "('Aerial Duels', 'Won%')": 44.4
     }
 ]

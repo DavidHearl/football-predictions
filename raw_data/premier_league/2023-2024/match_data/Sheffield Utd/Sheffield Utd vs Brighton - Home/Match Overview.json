@@ -1,0 +1,102 @@
+{
+    "goals": [
+        "0",
+        "5"
+    ],
+    "expected_goals": [
+        "0.6",
+        "2.9"
+    ],
+    "home_team": [
+        "Wes Foderingham",
+        "Gustavo Hamer",
+        "Anel Ahmedhod\u017ei\u0107",
+        "Jack Robinson",
+        "Jayden Bogle",
+        "Vinicius Souza",
+        "Ben Osborn",
+        "Yasser Larouci",
+        "James Mcatee",
+        "Mason Holgate",
+        "William Osula",
+        "Ivo Grbi\u0107",
+        "Auston Trusty",
+        "Rhian Brewster",
+        "Oliver McBurnie",
+        "Oliver Norwood",
+        "Tom Davies",
+        "Oliver Arblaster",
+        "Andre Brooks",
+        "Billy Blacker"
+    ],
+    "away_team": [
+        "Bart Verbruggen",
+        "Tariq Lamptey",
+        "Adam Webster",
+        "Lewis Dunk",
+        "Billy Gilmour",
+        "Pascal Gro\u00df",
+        "Danny Welbeck",
+        "Kaoru Mitoma",
+        "Simon Adingra",
+        "Jan Paul van Hecke",
+        "Facundo Buonanotte",
+        "Jason Steele",
+        "Igor",
+        "Jakub Moder",
+        "Carlos Baleba",
+        "Evan Ferguson",
+        "Pervis Estupi\u00f1\u00e1n",
+        "Ansu Fati",
+        "Jo\u00ebl Veltman",
+        "Benicio Boaitey"
+    ],
+    "fouls": [
+        3,
+        5
+    ],
+    "corners": [
+        5,
+        10
+    ],
+    "crosses": [
+        10,
+        40
+    ],
+    "touches": [
+        355,
+        1024
+    ],
+    "tackles": [
+        8,
+        15
+    ],
+    "interceptions": [
+        4,
+        4
+    ],
+    "aerials_won": [
+        7,
+        17
+    ],
+    "clearances": [
+        39,
+        13
+    ],
+    "offsides": [
+        2,
+        2
+    ],
+    "goal_kicks": [
+        11,
+        7
+    ],
+    "throw_ins": [
+        15,
+        13
+    ],
+    "long_balls": [
+        67,
+        38
+    ]
+}

@@ -218,23 +218,29 @@ class LegacyMatchHistory:
 					# Create the directory if it doesn't exist
 					file_path = os.path.join(folder_path, 'Completed Matches.json')
 
+					# Read the JSON data from the file
 					with open(file_path, 'r') as file:
 						data = json.load(file)
 
+					# Selects each match in the JSON file
 					for match in data:
+						# Increment the counter
 						current_count += 1
 
+						# Creates variables for each colum in the JSON file
 						opponent = match.get('Opponent', '')
 						home_away = match.get('Venue', '')
 						url = match.get('Match Report', '')
 						suspended = match.get('Notes', '')
 
+						# Create the match folder name and path
 						match_folder_name = f"{folder} vs {opponent} - {home_away}"
 						match_folder_path = os.path.join(folder_path, match_folder_name)
 
 						# Create the directory if it doesn't exist
 						os.makedirs(match_folder_path, exist_ok=True)
 
+						# Create the URL for each match
 						match_url = urljoin(base_url, url)
 						
 						# Print the current count and the total number of matches
@@ -250,6 +256,7 @@ class LegacyMatchHistory:
 							print(f"Folder Path: {match_folder_path}")
 							time.sleep(random_number)
 
+							# Add a delay to try again if the request fails
 							while True:
 								try:
 									# Download the page and convert to HTML
@@ -319,6 +326,7 @@ class LegacyMatchHistory:
 									if b_tag is not None:
 										away_team.append(b_tag.text)
 
+								# Create a dictionary for the match overview data
 								team_stats_div = soup_match_report.find('div', {'id': 'team_stats_extra'})
 
 								# Find all 'div' tags within the selected div
@@ -429,4 +437,5 @@ class LegacyMatchHistory:
 						else:
 							print(f"Match Suspended, data skipped.")
 						
+						# Add some spacing between each match
 						print()

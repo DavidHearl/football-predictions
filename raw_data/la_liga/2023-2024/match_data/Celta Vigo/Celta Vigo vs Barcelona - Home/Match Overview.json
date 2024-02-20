@@ -1,0 +1,106 @@
+{
+    "goals": [
+        "1",
+        "2"
+    ],
+    "expected_goals": [
+        "0.8",
+        "1.5"
+    ],
+    "home_team": [
+        "Vicente Guaita",
+        "Carl Starfelt",
+        "\u00d3scar Mingueza",
+        "Renato Tapia",
+        "Fran Beltr\u00e1n",
+        "Tadeo Allende",
+        "Iago Aspas",
+        "Luca de la Torre",
+        "J\u00f8rgen Strand Larsen",
+        "Mihailo Risti\u0107",
+        "Carlos Dominguez",
+        "Iv\u00e1n Villar",
+        "Coke Carrillo",
+        "Unai N\u00fa\u00f1ez",
+        "Carles P\u00e9rez",
+        "Franco Cervi",
+        "Anastasios Douvikas",
+        "Jailson Siqueira",
+        "Williot Swedberg",
+        "Kevin V\u00e1zquez",
+        "Manu S\u00e1nchez",
+        "Miguel Rodr\u00edguez",
+        "Hugo Sotelo"
+    ],
+    "away_team": [
+        "Marc-Andr\u00e9 ter Stegen",
+        "Jo\u00e3o Cancelo",
+        "Ronald Ara\u00fajo",
+        "Pedri",
+        "Robert Lewandowski",
+        "Andreas Christensen",
+        "Vitor Roque",
+        "Frenkie de Jong",
+        "Jules Kound\u00e9",
+        "Lamine Yamal",
+        "Pau Cubars\u00ed",
+        "I\u00f1aki Pe\u00f1a ",
+        "Diego Kochen",
+        "I\u00f1igo Mart\u00ednez",
+        "Raphinha",
+        "Fermin L\u00f3pez",
+        "Oriol Romeu",
+        "\u0130lkay G\u00fcndo\u011fan",
+        "Marc Casado",
+        "Marc Guiu",
+        "H\u00e9ctor Fort"
+    ],
+    "fouls": [
+        11,
+        13
+    ],
+    "corners": [
+        2,
+        5
+    ],
+    "crosses": [
+        14,
+        16
+    ],
+    "touches": [
+        504,
+        837
+    ],
+    "tackles": [
+        19,
+        14
+    ],
+    "interceptions": [
+        14,
+        7
+    ],
+    "aerials_won": [
+        14,
+        13
+    ],
+    "clearances": [
+        25,
+        21
+    ],
+    "offsides": [
+        4,
+        1
+    ],
+    "goal_kicks": [
+        7,
+        9
+    ],
+    "throw_ins": [
+        17,
+        20
+    ],
+    "long_balls": [
+        61,
+        56
+    ]
+}

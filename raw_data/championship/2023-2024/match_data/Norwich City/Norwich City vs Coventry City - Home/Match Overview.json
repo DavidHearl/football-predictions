@@ -1,0 +1,102 @@
+{
+    "goals": [
+        "2",
+        "1"
+    ],
+    "expected_goals": [
+        "1.5",
+        "1.0"
+    ],
+    "home_team": [
+        "Angus Gunn",
+        "Jack Stacey",
+        "Ben Gibson",
+        "Borja Sainz",
+        "Josh Sargent",
+        "Christian Fassnacht",
+        "Gabriel",
+        "Kenny McLean",
+        "Shane Duffy",
+        "Marcelino N\u00fa\u00f1ez",
+        "Dimitris Giannoulis",
+        "George Long",
+        "Grant Hanley",
+        "Liam Gibbs",
+        "Ashley Barnes",
+        "Sydney van Hooijdonk",
+        "Sam McCallum",
+        "Jakob S\u00f8rensen",
+        "Onel Hern\u00e1ndez",
+        "Kellen Fisher"
+    ],
+    "away_team": [
+        "Bradley Collins",
+        "Bobby Thomas",
+        "Tatsuhiro Sakamoto",
+        "Jamie Allen",
+        "Ellis Simms",
+        "Callum O'Hare",
+        "Haji Wright",
+        "Liam Kitching",
+        "Jake Bidwell",
+        "Milan van Ewijk",
+        "Victor Torp",
+        "Ben Wilson",
+        "Luis Binks",
+        "Jay Dasilva",
+        "Liam Kelly",
+        "Jo\u00ebl Latibeaudi\u00e8re",
+        "Matthew Godden",
+        "Josh Eccles",
+        "Fabio Tavares",
+        "Kasey Palmer"
+    ],
+    "fouls": [
+        11,
+        9
+    ],
+    "corners": [
+        5,
+        2
+    ],
+    "crosses": [
+        22,
+        13
+    ],
+    "touches": [
+        758,
+        550
+    ],
+    "tackles": [
+        20,
+        8
+    ],
+    "interceptions": [
+        9,
+        10
+    ],
+    "aerials_won": [
+        15,
+        11
+    ],
+    "clearances": [
+        9,
+        31
+    ],
+    "offsides": [
+        3,
+        3
+    ],
+    "goal_kicks": [
+        4,
+        13
+    ],
+    "throw_ins": [
+        22,
+        19
+    ],
+    "long_balls": [
+        54,
+        66
+    ]
+}
