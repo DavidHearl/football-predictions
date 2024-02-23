@@ -762,18 +762,18 @@
         "Round": "Round of 16",
         "Day": "Tue",
         "Venue": "Away",
-        "Result": null,
-        "GF": null,
-        "GA": null,
+        "Result": "L",
+        "GF": 0.0,
+        "GA": 1.0,
         "Opponent": "it Inter",
-        "xG": null,
-        "xGA": null,
-        "Poss": null,
-        "Attendance": null,
-        "Captain": null,
-        "Formation": null,
-        "Referee": null,
-        "Match Report": "Head-to-Head",
+        "xG": 0.6,
+        "xGA": 2.3,
+        "Poss": 44.0,
+        "Attendance": 73709.0,
+        "Captain": "Koke",
+        "Formation": "3-5-2",
+        "Referee": "Istv\u00e1n Kov\u00e1cs",
+        "Match Report": "Match Report",
         "Notes": "Leg 1 of 2"
     },
     {
@@ -879,7 +879,7 @@
         "Formation": null,
         "Referee": null,
         "Match Report": "Head-to-Head",
-        "Notes": "Leg 2 of 2"
+        "Notes": "Leg 2 of 2; Inter 1:0 Atl\u00e9tico Madrid"
     },
     {
         "Date": "2024-03-17",
