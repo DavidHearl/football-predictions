@@ -2,7 +2,6 @@ import os
 import json
 import pandas as pd
 import ast
-from key_corrections import club_corrections, player_corrections
 import shutil
 from tqdm import tqdm
 from unidecode import unidecode
@@ -14,8 +13,9 @@ class DataCorrection:
         self.clean_data = 'clean_data'
 
     def copy_data(self):
+        ''' Copy the raw data to the clean_data directory'''
+        # add a counter to count the number of json files processed
         json_counter = 0
-
         print("Copying data...")
 
         # Delete the 'clean_data' directory if it already exists
@@ -35,6 +35,7 @@ class DataCorrection:
         print(f"Number of .json files: {json_counter}")
 
     def correct_unicode_data():
+        ''' correct the special characters in the data '''
         destination = 'clean_data'
 
         # Get the total number of files for the progress bar
@@ -124,4 +125,3 @@ class DataCorrection:
                     pbar.update()
 
         print("Key values corrected successfully!")
-

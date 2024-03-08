@@ -16,12 +16,3 @@ class Run:
 		home_team = odds_json[0]['home_team']
 
 		print(home_team)  # Prints: Arsenal
-
-		
-
-
-
-
-
-
-
